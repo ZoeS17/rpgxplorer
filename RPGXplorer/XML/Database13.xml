@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Book of Infinite Spells</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-c7b7e03f-bf7c-4e22-8090-2134633c047f</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Book of Infinite Spells.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast a spell from the book up to 4/day.</Description>
+    <Weight>3 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Deck of Many Things</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-3c793bd0-351d-4749-bb9d-e5fef9f87dfa</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Deck of Many Things.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Magic deck of cards that bestows blessings and curses.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hammer of Thunderbolts</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-e3670f9d-cf50-4418-8f19-791cb89f86fc</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Hammer of Thunderbolts.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+3 Large returning warhammer that can stun opponents.</Description>
+    <Weight>15 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Philosopher’s Stone</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-2eb952dc-2061-473a-9670-a339ec6bbedd</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Philosopher's Stone.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Talisman whos liquid heart can turn lead into gold.</Description>
+    <Weight>3 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sphere of Annihilation</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-4cfaeb6a-980a-4b06-ab5e-b734acbe68ec</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Sphere of Annihilation.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>2-foot diameter sphere that destroys anything in its path.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of the Magi</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-32872ed3-de05-41c3-8002-a39a0ade82f9</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Staff of the Magi.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Gain Spell Resistance 23; can absorb arcane magic.</Description>
+    <Weight>5 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talisman of Pure Good</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-3969dd23-bb41-43b3-9bb4-d096a547d09d</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Talisman of Pure Good.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cause the earth to swallow up any evil spellcaster.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talisman of the Sphere</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-d8071a5b-576e-4670-b451-e8b964f0e3a3</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Talisman of the Sphere.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Increase the user's chance of controlling a sphere of annihilation.</Description>
+    <Weight>1 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talisman of Reluctant Wishes</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-f512b52d-bd53-4104-8d58-792153d21c3a</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Talisman of Reluctant Wishes.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Talisman that can either harm the wearer or potentially grant wishes.</Description>
+    <Weight>1 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talisman of Ultimate Evil</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-469a0611-7869-4013-b8a3-8ee8a0681afc</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\Talisman of Ultimate Evil.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cause the earth to swallow up any good spellcaster.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>The Moaning Diamond</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-3cfc925e-023f-43ec-87eb-cd9acee9b6c6</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\The Moaning Diamond.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Use stone shape 3/day to affect 5,000 cubic ft of material. Can summon elder earth elemental.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>The Orbs of Dragonkind</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-be54a69b-3671-4777-a46b-8aca40ffb0f1</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\The Orbs of Dragonkind.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can dominate dragons of the orbs kind; immune to dragons' breath weapons.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>The Saint’s Mace</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-515be64c-dda6-4177-b36c-08acb8e3c8f0</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\The Saint's Mace.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+5 holy lawful heavy mace of disruption.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>The Shadowstaff</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-2c2611dc-d46a-4038-8988-0a260a62a493</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\The Shadowstaff.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Gain +4 bonus to AC and Reflex save; -2 on attack rolls, saves, and checks in bright light.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Armor Class</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>013-623950fa-d78f-4b04-83d2-667eddb42d16</ObjectGUID>
+    <ParentGUID>013-2c2611dc-d46a-4038-8988-0a260a62a493</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Reflex Saving Throw</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>013-62dbf761-f4d1-4fe1-bed1-b1246c0df17f</ObjectGUID>
+    <ParentGUID>013-2c2611dc-d46a-4038-8988-0a260a62a493</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-2e0574c1-78d9-4eeb-8a41-43791399b44b" reference="Name">Reflex Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>The Shield of the Sun</Name>
+    <Type>Artifact Definition</Type>
+    <ObjectGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ObjectGUID>
+    <ParentGUID>001-55560167-993b-427f-b101-145473e49031</ParentGUID>
+    <HTML>Artifacts\The Shield of the Sun.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+5 large shield; gain Spell Resistance 15, energy resistance 10.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>013-a2aa4a04-52e7-48b9-a39d-eebb8fec9877</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>013-1075916e-a121-463e-ba72-0b666459d90e</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>013-c25d7ee1-034f-43b9-a564-86e604f79e4c</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>013-d7bf20e1-c633-4c1a-ad7e-7a6a415ba209</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>013-8e64dfad-0207-4869-beec-f5af6aed8c69</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>013-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 15</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>013-843687bc-47c3-4f87-ae33-e6c7e7e77fd7</ObjectGUID>
+    <ParentGUID>013-9e8b36a9-3ea9-471b-bfbf-04416b8cc597</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>15</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 23</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>013-a4cf42d1-6045-4f7d-8fd1-7e0915951402</ObjectGUID>
+    <ParentGUID>013-32872ed3-de05-41c3-8002-a39a0ade82f9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>23</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sutra of Tranquil Thought</Name>
+    <Type>Psionic Artifact Definition</Type>
+    <ObjectGUID>013-a251298c-4d46-4fce-a439-57c34976ed9b</ObjectGUID>
+    <ParentGUID>001-c5858d18-e693-4bfc-8b1a-08574fdb47f9</ParentGUID>
+    <HTML>Psionic Artifacts\Sutra of Tranquil Thought.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>This monastic tome describes ancient techniques of mental focus and is highly prized by psionic practitioners.</Description>
+    <Weight>3 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicArtifact.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Annulus</Name>
+    <Type>Psionic Artifact Definition</Type>
+    <ObjectGUID>013-a0e39550-4de2-4a73-be7f-c4d5a488bf70</ObjectGUID>
+    <ParentGUID>001-c5858d18-e693-4bfc-8b1a-08574fdb47f9</ParentGUID>
+    <HTML>Psionic Artifacts\Annulus.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>This artifact is the ultimate psionic nullifier. Forged to keep enemies of vast psionic power at bay, the Annulus is an artifact that any psionic being should fear.</Description>
+    <Weight>-</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicArtifact.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psicrown of the Crystal Mind</Name>
+    <Type>Psionic Artifact Definition</Type>
+    <ObjectGUID>013-6f8f5e0e-e56f-4275-a3ff-457c2390aa76</ObjectGUID>
+    <ParentGUID>001-c5858d18-e693-4bfc-8b1a-08574fdb47f9</ParentGUID>
+    <HTML>Psionic Artifacts\Psicrown of the Crystal Mind.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>An elaborate crystalline psicrown etched with strange designs, this exceptional psicrown is so invested with power that it is considered an artifact.</Description>
+    <Weight>1 lb.</Weight>
+    <IsContainer />
+    <NonDimensionalContainer />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicArtifact.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

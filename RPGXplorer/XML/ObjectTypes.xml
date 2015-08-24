@@ -1,0 +1,3712 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RPGXplorerConfig>
+	<ObjectType>
+		<Type>Ability Point Gained</Type> 
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Ability Point Gained</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings> 
+	</ObjectType>
+	<ObjectType> 
+		<Type>Ammunition Definition</Type>
+		<ShowInTree>True</ShowInTree> 
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Ammunition</SelectLabel>
+		<Friendly>Ammunition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Armor Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>ArmorDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Armor</SelectLabel>
+		<Friendly>Armor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Armor Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Armor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Armor Magic Ability Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Armor Magic Ability Definition</SelectLabel>
+		<Friendly>Armor Magic Ability Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Armor Magic Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Armor Magic Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Artifact Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsArtifacts.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Artifact</SelectLabel>
+		<Friendly>Artifact</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Artifact Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Artifacts</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Assets Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Assets</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Automatic Language</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Language</SelectLabel>
+		<Friendly>Automatic Language</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Class Skill</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Class Skill</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Class Skill Choice or Specific</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Class Skill</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Domain</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Domain</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Domain Choice or Specific</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Domain</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Feat</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Language</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Language</SelectLabel>
+		<Friendly>Bonus Language</Friendly>
+		<ShowInListView>False</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Psionic Specialization</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Psionic Specialization</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Psionic Specialization Choice or Specific</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Psionic Specialization</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Bonus Spell Slots</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bonus Spell Slots</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Cannot Use</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Cannot Use</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>CharacterHumanFemale.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Character</SelectLabel>
+		<Friendly>Character</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character Choice Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choices</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character Component</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Characteristic</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Characteristic</SelectLabel>
+		<Friendly>Characteristic</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Characteristic Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Characteristics</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Characteristic Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Characteristic</SelectLabel>
+		<Friendly>Characteristic</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Characteristic Definition Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Characteristics</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Characters</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character Level</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel>Level</SelectLabel>
+		<Friendly>Character Level</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Character Levels Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Levels</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Bonus Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choose Bonus Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Bonus Feat Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choose Bonus Feat</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Bonus Feat Type</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choose Bonus Feat of Type</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Bonus Feat Type Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choose Bonus Feat of Type</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Feature</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Choose Feature</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Feature Member</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feature</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Choose Bonus Language</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Language</SelectLabel>
+		<Friendly>Bonus Language</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Class</SelectLabel>
+		<Friendly>Class</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Classes</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Levels Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Levels</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Powers Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Powers</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Power Settings Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Settings</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Level</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Class Level</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Skill</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Class Skill</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Spells Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Class Spell Modifiers</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Mods</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Class Spell Settings Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Settings</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Column Layout</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Combat Style</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Combat Style</SelectLabel>
+		<Friendly>Combat Style</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Combat Style Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Combat Style</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Combat Style Improved Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Combat Style Continuation</SelectLabel>
+		<Friendly>Combat Style Continuation</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Combat Style Mastery Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Combat Style Continuation</SelectLabel>
+		<Friendly>Combat Style Continuation</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Combat Style Starter Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Combat Style Starter</SelectLabel>
+		<Friendly>Combat Style Starter</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Condition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Condition</SelectLabel>
+		<Friendly>Condition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>C</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Condition Member</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Condition</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Cross-class Skill</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Curse</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Curse</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Curse Member</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Curse Member</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Damage Addition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Extra Damage</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Damage Reduction</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Damage Reduction</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Damage Resistance</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Damage Resistance</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Damage Vulnerability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Damage Vulnerability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Deity Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Deity Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Deity Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Deities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Deity Domain</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Deity Domain</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Deity Psionic Specialization</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Deity Psionic Specialization</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Domain</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Domain</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Domain Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Domains</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Domain Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Domain</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Domain Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Domains</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Duration</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Duration</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Enhancement Bonus</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Enhancement Bonus</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Existing Spellcaster Level</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prestige Caster Progression</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Existing Manifester Level</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prestige Manifester Progression</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Expiry Condition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Expiry Condition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Extra Class Skill</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Extra Class Skill</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Familiar</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Encounter.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Familiar</SelectLabel>
+		<Friendly>Familiar</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Favored Enemy Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Favored Enemy</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Favored Enemy Single Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Favored Enemy (Single)</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Favorite Rule Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>books.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Favorite Rule</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>book_blue.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Feat.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Feat</SelectLabel>
+		<Friendly>Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feat Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Feat.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Feat</SelectLabel>
+		<Friendly>Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feat Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feats</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feat Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feats</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feat Taken</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Feat.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Feat</SelectLabel>
+		<Friendly>Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feature</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feature</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feature Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Feature</SelectLabel>
+		<Friendly>Feature</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feature Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Features</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feature Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Features</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Feature Gained</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feature Gained</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Feature Superceded</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Feature Superceded</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Fighter Bonus Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Fighter Bonus Feat</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Filter</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename></ImageFilename>
+		<SortType></SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Filter Term</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename></ImageFilename>
+		<SortType></SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Flurry of Blows</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Flurry of Blows</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Granted Power</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Granted Power</Friendly>
+		<ShowInListView>True</ShowInListView>	
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>HTML Document</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Document</SelectLabel>
+		<Friendly>Document</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Improved Unarmed Damage</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Improved Unarmed Damage</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Inventory Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Inventory</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Intelligence</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Intelligence</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Intelligence Member</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Intelligence Member</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Item</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>EquipmentDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Item</SelectLabel>
+		<Friendly>Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Item Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>EquipmentDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Item</SelectLabel>
+		<Friendly>Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Item Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Items</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Language Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Languages</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Language Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Language</SelectLabel>
+		<Friendly>Language</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Language Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Languages</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Language Known</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Language Known</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Location</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Location</SelectLabel>
+		<Friendly>Location</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Locations Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Locations</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Ammo</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Ammunition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Ammo Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Ammunition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Weapon Ability Conditional</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Weapon Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Weapons</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Magic Weapon Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Magic Weapon</SelectLabel>
+		<Friendly>Magic Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Memorized Spells Folder</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>True</Fixed>
+    <ImageFilename>Folder.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Memorized Spells</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Memorized Spell</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Memorized Spell</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+		<Type>Modifier</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Modifier</SelectLabel>
+		<Friendly>Modifier</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Modifier 2</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Modifier</SelectLabel>
+		<Friendly>Modifier</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Modifier Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Modifiers</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Modifier Info</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Modifier</SelectLabel>
+		<Friendly>Modifier</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Modifier Limiter</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Limiter</SelectLabel>
+		<Friendly>Modifier Limiter</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Modifier Limiter Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Modifier Limiters</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Modifier Reference</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Modifier</SelectLabel>
+		<Friendly>Modifier</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Money</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>EquipmentMoney.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Money</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Monster</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>CharacterHumanFemale.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel>Monster</SelectLabel>
+    <Friendly>Monster</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+	<ObjectType>
+		<Type>Monster Class</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Class</SelectLabel>
+		<Friendly>Monster Class</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Monster Class Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Monster Classes</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Monster Class Levels Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Monster Levels</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Monster Class Level</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Monster Class Level</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>B</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Monster Folder</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>True</Fixed>
+    <ImageFilename>Folder.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Monsters</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+	<ObjectType>
+		<Type>Monster Race Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Monster Race</SelectLabel>
+		<Friendly>Monster Race</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Monster Race Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Monster Races</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Monster Type</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Monster Type</SelectLabel>
+		<Friendly>Monster Type</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Monster Type Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Monster Types</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Natural Weapon</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon</SelectLabel>
+		<Friendly>Weapon</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Natural Weapon Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon</SelectLabel>
+		<Friendly>Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Natural Weapon Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Weapons</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Potion Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsPotion.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Potion</SelectLabel>
+		<Friendly>Potion</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Potion Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Potions and Oils</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Prerequisite</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prerequisite</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Prerequisite Child</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prerequisite</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Power.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Powers</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Progression</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>MagicItemsAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power Details</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Power Progression Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power Details</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Learned</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell</SelectLabel>
+		<Friendly>Power</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Level</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power Level</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Power List Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Power List</SelectLabel>
+		<Friendly>Power List Folder</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Power List Item</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Power Item</SelectLabel>
+		<Friendly>Power Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Psi Like Ability</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Psi Like Ability</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Psi Like Ability Folder</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>True</Fixed>
+    <ImageFilename>Folder.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Psi Like Abilities</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Psi Like Ability Taken</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Psi Like Ability Taken</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+		<Type>Psionic Artifact Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PsionicArtifact.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Artifact</SelectLabel>
+		<Friendly>Psionic Artifact</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Artifact Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Artifacts</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Ammo Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Ammo</SelectLabel>
+		<Friendly>Psionic Ammo</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Armor Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Armor Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Armor Ability Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PsionicAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Armor Ability</SelectLabel>
+		<Friendly>Psionic Armor Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Armor Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Armor Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Armor Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>ArmorDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Armor</SelectLabel>
+		<Friendly>Psionic Armor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Armor Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Armor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Discipline</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Power.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Discipline</SelectLabel>
+		<Friendly>Psionic Discipline</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Subdiscipline</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Power.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Subdiscipline</SelectLabel>
+		<Friendly>Psionic Subdiscipline</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Disciplines Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Disciplines</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Dorje Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Dorje.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Dorje</SelectLabel>
+		<Friendly>Dorje</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Dorje Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Dorjes</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Power Stone Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PowerStone.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Power Stone</SelectLabel>
+		<Friendly>Power Stone</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Power Stone Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power Stones</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Power Stone Spell</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Power.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Power Stone Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Psicrown Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Psicrown.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psicrown</SelectLabel>
+		<Friendly>Psicrown</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Psicrown Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psicrowns</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psicrown Spell</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psicrown Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Specialization</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Specialization</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Specializations Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Specializations</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Specialization Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Specialization</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Specialization Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Specializations</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Tattoo Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Tattoo.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Tattoo</SelectLabel>
+		<Friendly>Tattoo</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Tattoo Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Tattoos</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionics Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>PsionicAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Ability Conditional</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PsionicAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Ability Double</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PsionicAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Ability Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>PsionicAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Weapon Ability</SelectLabel>
+		<Friendly>Psionic Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Weapon Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapon Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Psionic Weapon</SelectLabel>
+		<Friendly>Psionic Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Psionic Weapons Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Psionic Weapons</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Race</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Race</SelectLabel>
+		<Friendly>Race</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Races Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Races</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Racial Abilities Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Racial Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Racial Weapon</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Racial Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Regeneration</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Regeneration</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Replace Known Spell</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Replace Known Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Ring Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsRings.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Ring</SelectLabel>
+		<Friendly>Ring</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Ring Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Rings</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rod Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsRods.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Rod</SelectLabel>
+		<Friendly>Rod</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rod Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Rods</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>RPGXplorer Configuration</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rule Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rule Folder Page</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>books.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rule Page</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>book_blue.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rules Root Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rules Tab Info</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>rule_table.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Rule Table</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>rule_table.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Scroll Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsScrolls.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Scroll</SelectLabel>
+		<Friendly>Scroll</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Scroll Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Scrolls</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Scroll Spell</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Scroll</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Secondary Effect</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Secondary Effect</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Set Value</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Set Value</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Set Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Set Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Shield Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>ShieldsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Shield</SelectLabel>
+		<Friendly>Shield</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Shopping Cart</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Skill</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Skill.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Skill</SelectLabel>
+		<Friendly>Skill</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Skill Ability Exchange</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Skill Ability Exchange</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Skill Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Skill.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Skill</SelectLabel>
+		<Friendly>Skill</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Skill Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Skills</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Skill Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Skills</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Skill Group</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Skill.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Skill Group</SelectLabel>
+		<Friendly>Skill Group</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Skill Points Spent</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Skill.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Skill Points Spent</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Skill Synergy</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Skill.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Skill Synergy</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Special Material Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Special Material</SelectLabel>
+		<Friendly>Special Material</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Special Material Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Special Materials</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Armor Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Armor Magic Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Armor Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>ArmorDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Armor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Armor Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Specific Armor Definitions</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Bonus Feat</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Specific Bonus Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Bonus Feat Choose Focus</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Specific Bonus Feat</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Weapon Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Weapon Magic Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Weapon</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Weapon Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Magic Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Weapon Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Specific Weapons Definitions</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Specific Weapon Double Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Double Weapon Magic Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spellcaster Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prestige Caster Progression</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Category Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell Category</SelectLabel>
+		<Friendly>Spell Category</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spell Category Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell Category</SelectLabel>
+		<Friendly>Spell Category Folder</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spell Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Descriptor</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Descriptor</SelectLabel>
+		<Friendly>Spell Descriptor</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Descriptor Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Descriptor</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Descriptor Definition Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Descriptor Folder</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Domain Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Domain</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spell Failure</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Failure</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Learned</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell</SelectLabel>
+		<Friendly>Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Level</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Level</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Spell Like Ability</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Spell Like Ability</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Spell Like Ability Folder</Type>
+    <ShowInTree>True</ShowInTree>
+    <Fixed>True</Fixed>
+    <ImageFilename>Folder.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Spell Like Abilities</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+  <ObjectType>
+    <Type>Spell Like Ability Taken</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>False</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel></SelectLabel>
+    <Friendly>Spell Like Ability Taken</Friendly>
+    <ShowInListView>True</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>    
+	<ObjectType>
+		<Type>Spell List Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell List</SelectLabel>
+		<Friendly>Spell List Folder</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spell List Item</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Spell Item</SelectLabel>
+		<Friendly>Spell Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+  <ObjectType>
+    <Type>Spell or Power Source</Type>
+    <ShowInTree>False</ShowInTree>
+    <Fixed>True</Fixed>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SortType>Alphabetic</SortType>
+    <SelectLabel>Spell or Power Source</SelectLabel>
+    <Friendly>Spell or Power Source</Friendly>
+    <ShowInListView>False</ShowInListView>
+    <AllowFocus>False</AllowFocus>
+    <ViewSettings>A</ViewSettings>
+  </ObjectType>
+	<ObjectType>
+		<Type>Spell Resistance</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Resistance</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell School</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>School</SelectLabel>
+		<Friendly>Spell School</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell School Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spell Schools</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell School Sacrificed</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>School Sacrificed</SelectLabel>
+		<Friendly>Spell School Sacrificed</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell School Specialist Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Specialist School</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spell School Prohibited Choice</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Prohibited School</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spells Known</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>MagicItemsAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells Known</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spells Known Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells Known</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spells Per Day</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>MagicItemsAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells Per Day</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>Spells Per Day Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>NumericSuffix</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Spells per Day</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Spell Subschool</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Subschool</SelectLabel>
+		<Friendly>Spell Subschool</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Staff Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsStaffs.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Staff</SelectLabel>
+		<Friendly>Staff</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+		<ObjectType>
+		<Type>Staff Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Staffs</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Staff Spell</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Spell.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Staff Spell</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Subtype</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Subtype</Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Subtype Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Subtype</SelectLabel>
+		<Friendly>Subtype</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Subtype Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Subtypes</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>	
+	<ObjectType>
+		<Type>System Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Ability</SelectLabel>
+		<Friendly>System Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Ability Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Ability Definition</SelectLabel>
+		<Friendly>System Ability Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Alignment</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Alignmnet</SelectLabel>
+		<Friendly>System Alignment</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+		</ObjectType>
+	<ObjectType>
+		<Type>System Alignment Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Alignment Definition</SelectLabel>
+		<Friendly>System Alignment Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+		</ObjectType>
+	<ObjectType>
+		<Type>System Alignments Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Alignments</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Condition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Condition</SelectLabel>
+		<Friendly>System Condition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Conditions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Conditions</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Element</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Element</SelectLabel>
+		<Friendly>System Element</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Elements Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Elements</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Precondition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Precondition</SelectLabel>
+		<Friendly>System Precondition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Precondition Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Precondition Definition</SelectLabel>
+		<Friendly>System Precondition Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Precondition Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Preconditions</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System References Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System References</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Reference</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Reference</SelectLabel>
+		<Friendly>System Reference</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Restriction</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Restriction</SelectLabel>
+		<Friendly>System Restriction</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Restriction Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Restriction Definition</SelectLabel>
+		<Friendly>System Restriction Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Restriction Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Restrictions</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Weapon Ability</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Weapon Ability</SelectLabel>
+		<Friendly>System Weapon Ability</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Weapon Ability Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObjectSystem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>System Weapon Ability Definition</SelectLabel>
+		<Friendly>System Weapon Ability Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>System Weapon Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>System Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Universal Item Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>UniversalItem.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Universal Item</SelectLabel>
+		<Friendly>Universal Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>B</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Universal Item Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Universal Items</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>User List Item</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename></ImageFilename>
+		<SortType></SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>False</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>User Document</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>UserDoc.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Document</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>User Map</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>UserDocMap.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Map</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>User Rules</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Rule Page</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>User Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly></Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Config</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon Config</SelectLabel>
+		<Friendly>Weapon Config</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Configs Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Weapons</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Wand Definition</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsWands.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Wand</SelectLabel>
+		<Friendly>Wand</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Wand Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Wands</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>WeaponsDefault.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon</SelectLabel>
+		<Friendly>Weapon</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>True</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Weapons</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Emulation</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon Emulation</SelectLabel>
+		<Friendly>Weapon Emulation</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Magic Ability Bane</Type>
+		<ShowInTree>False</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>RuleObject2.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Bane</Friendly>
+		<ShowInListView>True</ShowInListView>		
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Magic Ability Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsAbility.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Weapon Magic Ability Definition</SelectLabel>
+		<Friendly>Weapon Magic Ability Definition</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Weapon Magic Ability Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Weapon Magic Abilities</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Wondrous Definition</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>False</Fixed>
+		<ImageFilename>MagicItemsWondrous.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel>Wondrous Item</SelectLabel>
+		<Friendly>Wondrous Item</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>
+	<ObjectType>
+		<Type>Wondrous Definitions Folder</Type>
+		<ShowInTree>True</ShowInTree>
+		<Fixed>True</Fixed>
+		<ImageFilename>Folder.png</ImageFilename>
+		<SortType>Alphabetic</SortType>
+		<SelectLabel></SelectLabel>
+		<Friendly>Wondrous Items</Friendly>
+		<ShowInListView>True</ShowInListView>
+		<AllowFocus>False</AllowFocus>
+		<ViewSettings>A</ViewSettings>
+	</ObjectType>		
+</RPGXplorerConfig>
+	

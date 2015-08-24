@@ -1,0 +1,3126 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Backpack</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-72790fba-af66-4487-910b-7ddbb06cfe8a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Backpack.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentBackpack.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barrel</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d4740aeb-dc0d-48ff-b35b-30dfa3338173</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Barrel.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>30 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBarrel.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Basket</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-cf2a5673-560d-41f2-aed0-afe374d4a49e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Basket.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>4 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBasket.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bedroll</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-51ef0de0-4b4d-46bb-a248-03f9ec213bf0</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bedroll.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentBedroll.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bell</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-19af75f4-8fb7-4d48-9365-7ccc865891fb</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bell.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBell.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Blanket, Winter</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-260d2319-cc3a-4bdd-b11e-43786fa2fdbb</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Blanket, Winter.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>3 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentBlanket.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Block and Tackle</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c23d7e85-98cc-446f-9bfe-118ce372b0f2</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Block and Tackle.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBlockAndTackle.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bottle, Wine, Glass</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7e90d8db-fd03-45a7-adc1-de703dc31e1b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bottle, Wine, Glass.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBottleWine.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bucket</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-3ddfec5d-4d28-4030-93db-9385ec294e72</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bucket.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBucket.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caltrops</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-b2ec8cd4-93da-49c5-a98e-6b1a85a20111</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Caltrops.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentCaltrops.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Canvas (sq. yd)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-a2d91fbe-3ec9-4873-89ea-5474fd45ae07</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Canvas (sq. yd).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentCanvas.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Case, Map or Scroll</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d32b2cdb-560b-40c1-990d-03cf82da8974</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Case, Map or Scroll.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentCaseMapOrScroll.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chain (10ft.)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-30240ec9-985a-4085-b09a-9e37bbeb72e2</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Chain (10ft.).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentChain.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chalk, 1 Piece</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e9a7b9de-1592-4da5-b24b-e7567839ed65</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Chalk, 1 Piece.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentAdventuringGearSmallItems.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chest</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4054101c-e6b5-4edc-810c-4184975f1cf6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Chest.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>25 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentChest.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crowbar</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f6379402-285a-4dd3-a61d-fcca5469af86</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Crowbar.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentCrowbar.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Firewood</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-856fde1c-170b-4341-b362-a1c4372f5a4b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Firewood.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>20 lb.</Weight>
+    <Cost>1 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFirewood.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fishhook</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-efad7ebc-8bf5-4820-8ae3-5102d9cb65de</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Fishhook.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFishingEquipmentHookNet.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fishing Net, 25 sq. ft.</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d9caa4ca-fad5-43b2-a78f-a39bf9f7c694</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Fishing Net, 25 sq. ft..htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>25 lb.</Weight>
+    <Cost>4 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFishingEquipmentHookNet.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flask</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4c4a2076-e3a6-4319-ae2a-db9852e91dce</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Flask.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1.5 lb.</Weight>
+    <Cost>3 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFlaskFlaskOfOil.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Candle</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f7efc2bb-bc18-4d07-a577-8ca6289a24ec</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Candle.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentCandle.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Grappling Hook</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-53a81f4b-189d-4077-839a-a9e073db8897</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Grappling Hook.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>4 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentGrapplingHook.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hammer</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0f3d68ea-626f-42ce-b1c2-9d7f5d636dac</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Hammer.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentHammer.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ink (1 oz. Vial)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0ae9c9e5-58ec-4070-ad4e-4af25266fbd1</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ink (1 oz. Vial).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>8 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentStationery.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flint and Steel</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-2241f290-7e62-4860-8335-ceed7b5c7e10</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Flint and Steel.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFlintAndSteel.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inkpen</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-3ad672ad-cafb-4d42-b295-2d865d71e7f9</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Inkpen.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentStationery.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Jug, Clay</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ae3970fd-5a7b-43f4-a288-8a2e7a5b6aaa</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Jug, Clay.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>9 lb.</Weight>
+    <Cost>3 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPitcher.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ladder, 10 ft.</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-908bbb71-451f-47d9-a364-93c25856912e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ladder, 10 ft..htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>20 lb.</Weight>
+    <Cost>5 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentLadder.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lamp, Common</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e42cb309-11e8-49e1-9c7e-197c803ab2f8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lamp, Common.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentLantern.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lantern, Bullseye</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-1c93cdae-20f0-4eb6-8e7a-55bdcfb42c1a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lantern, Bullseye.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>3 lb.</Weight>
+    <Cost>12 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentLantern.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lantern, Hooded</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-b8d06614-2f98-4c5b-97e5-a52759798a13</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lantern, Hooded.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>7 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentLantern.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lock, Simple</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-054b5142-74a1-486f-9fb8-650ac47b0745</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lock, Simple.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentLock.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lock, Average</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-59465664-9b62-45da-85af-03cc822c274c</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lock, Average.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>40 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentLock.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lock, Good</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-a3d4136e-8113-445c-a0fc-65c2ebf2fee4</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lock, Good.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>80 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentLock.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lock, Superior</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c142f2d6-6c9e-4e30-afaf-000c732a9dc8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Lock, Superior.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>150 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentLock.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Manacles</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-9a201590-7ec1-499b-a2a4-d3b995e0f52a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Manacles.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentManacles.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Manacles, Masterwork</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-965ba9c4-3178-479d-8d8d-391248a80cba</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Manacles, Masterwork.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentManacles.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mirror, Small Steel</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0a5f7fef-a681-4d87-b8fd-f85a656d9659</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Mirror, Small Steel.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>10 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentMirror.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mug, Clay</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e9cac24f-d3fd-4001-9308-2a0ba8d8ea67</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Mug, Clay.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTankardMug.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tankard, Clay</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d4d55971-ba55-40d4-8b3a-d68c75794b56</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Tankard, Clay.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTankardMug.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil, 1 pt. Flask</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6d58f298-f9eb-4915-afd6-23dca3e16223</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Oil, 1 pt. Flask.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFlaskFlaskOfOil.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Paper (Sheet)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-61ed08fe-6a9a-466a-a4a5-0a2ece9c4941</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Paper (Sheet).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>4 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentStationery.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Parchment (Sheet)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6b9ec674-fab9-472e-a14b-6307727ec954</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Parchment (Sheet).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>2 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentStationery.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pick, Miner's</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7effd5bd-a370-441d-b749-398cfd881be9</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pick, Miner's.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>3 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMinersPick.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pitcher, Clay</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c1186805-a3db-4827-8e58-59aa7b7915d3</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pitcher, Clay.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>2 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPitcher.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Piton</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ed7f40b9-c621-46f1-94d0-adbe7267525a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Piton.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPiton.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pole, 10 ft.</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-44e8d0aa-91d2-4285-af81-eeca860999e8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pole, 10 ft..htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>2 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPole.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pot, Iron</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-286a8830-bc4d-4357-845c-400873e33942</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pot, Iron.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPot.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pouch, Belt</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d08c6bdb-d3d8-4fc2-8e4b-763298a2d8f3</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pouch, Belt.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentPouchBelt.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ram, Portable</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ba037754-0a23-4ca8-9b83-e7381b6ee3ea</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ram, Portable.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>20 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPortableRam.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rations, Trail, 1 day</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-321a1258-dc5c-4d81-a199-e20a743171b6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Rations, Trail, 1 day.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentRations.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rope, Hempen (50 ft.)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7babb6ed-bd1d-44c7-8e7b-5e3433ef59ac</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Rope, Hempen (50 ft.).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentRope.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rope, Silk (50 ft.)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7259defd-11cf-4682-9eb7-bd9556d051bd</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Rope, Silk (50 ft.).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentRope.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sack</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c49a69a9-f360-4063-9f1c-ccf152a5d986</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sack.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSack.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sealing Wax</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f80087e9-8fad-4485-9250-360539e9f1a5</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sealing Wax.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentAdventuringGearSmallItems.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sewing Needle</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-8c21faef-6cb9-45f1-9c59-15a43b1cea39</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sewing Needle.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentAdventuringGearSmallItems.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Signal Whistle</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-3348fc48-0cc1-4e46-b07c-f878428dfde1</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Signal Whistle.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>8 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentAdventuringGearSmallItems.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Signet Ring</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-dca94a93-a929-4db8-8e4d-b58f7cdb9b49</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Signet Ring.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSignetRing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sledge</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-83c25418-19a8-476d-8746-ffa76d9e10d0</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sledge.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSledSledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Soap (per lb.)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-524095df-1c47-454a-91b9-0a444be1ba7d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Soap (per lb.).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentAdventuringGearSmallItems.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spade</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-77116e48-88a5-4f03-9923-71a60bacaad2</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spade.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentSpadeShovel.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shovel</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e801967f-2bd2-4873-8f56-7f7f6b9f09bd</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Shovel.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentSpadeShovel.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spyglass</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c120291c-f720-4609-9b19-75abc38bd5b2</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spyglass.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSpyglassTelescope.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tent</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0116682e-c5c0-4c0c-a0be-c6c6eae1c0bc</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Tent.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>20 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentTent.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Torch</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7556a51a-4b0c-4d95-bb92-5b57ca35c89c</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Torch.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>1 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTorch.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vial, Ink or Potion</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e7940557-4c8a-4bf3-bd18-940cc56db5f0</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Vial, Ink or Potion.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>0.1 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFlaskHolywaterAcidAntitoxin.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Waterskin</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4d3739ca-813f-4b90-96f9-a889ddf8553b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Waterskin.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>4 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentWaterskin.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Whetstone</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-2d874bed-153e-4198-9c19-11e622caa1fc</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Whetstone.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Adventuring Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentWhetstone.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Acid, Flask</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-b586f06d-ffb6-4f43-bb71-e225fbc9a984</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Acid, Flask.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize />
+    <DefaultUses />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+    <PageNoRef />
+    <ImageFilename>EquipmentFlaskHolywaterAcidAntitoxin.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alchemist's Fire, Flask</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-82266fc3-1501-4fc6-b2ac-fe5e0d165f0b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Alchemist's Fire, Flask.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFlaskHolywaterAcidAntitoxin.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Antitoxin, Vial</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-1cc220e3-2242-4c62-aa65-2e042bb4beef</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Antitoxin, Vial.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>-</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize />
+    <DefaultUses />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+    <PageNoRef />
+    <ImageFilename>EquipmentFlaskHolywaterAcidAntitoxin.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Everburning Torch</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6f7fcd89-20a0-4200-9122-193ac1aa2f8e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Everburning Torch.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>110 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTorch.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Water, Flask</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-476d7c54-b368-4ebf-bb6d-658849494ac9</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Holy Water, Flask.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <AdjustForSize />
+    <DefaultUses />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+    <PageNoRef />
+    <ImageFilename>EquipmentFlaskHolywaterAcidAntitoxin.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Smokestick</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-39801b1f-8a08-496a-a621-5b1177811ff8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Smokestick.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSmokestick.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sunrod</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-76a65a97-1393-4254-9fda-1156c0e94bda</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sunrod.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSunrod.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tanglefoot Bag</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-935c3e49-120d-493a-bc71-868b3510f05b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Tanglefoot Bag.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>4 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSack.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Thunderstone</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-93ec3d5f-bbb5-477c-a392-a848f0f85e51</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Thunderstone.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentThunderstone.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tindertwig</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0821bf18-e75b-4efe-a7c0-3a5382277f0b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Tindertwig.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Special Substances and Items</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTindertwig.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alchemist's Lab</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ad040168-730f-4376-9219-064cc8e66c31</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Alchemist's Lab.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>40 lb.</Weight>
+    <Cost>500 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentAlchemyLab.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Artisan's Tools</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-efe47b75-d69c-406b-bcc2-6d5ab9e32c84</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Artisan's Tools.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentToolsHealerArtisanEtc.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Artisan's Tools, Masterwork</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-3827bad3-7d4b-4c1b-9f79-04169e4d3574</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Artisan's Tools, Masterwork.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>55 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentToolsHealerArtisanEtc.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Climber's Kit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7c8f7e1f-9aa8-45f8-8fef-e09f7889f5dd</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Climber's Kit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>80 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentToolsHealerArtisanEtc.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise Kit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e8db57eb-fed7-40fe-9d5b-bcf7b2d398c9</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Disguise Kit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <DefaultUses>10</DefaultUses>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>EquipmentToolsHealerArtisanEtc.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Healer's Kit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d75c9602-65b8-43a9-bd9a-80279e771914</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Healer's Kit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize />
+    <DefaultUses>10</DefaultUses>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>EquipmentToolsHealerArtisanEtc.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holly and Mistletoe</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4c6e2ab7-be4f-4d16-9201-a867008c71c5</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Holly and Mistletoe.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentHerbsPlantsEtc.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Symbol, Wooden</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-33d3ff37-d6a4-45ba-bacc-bb4936eb1236</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Holy Symbol, Wooden.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentHolySymbolWooden.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Symbol, Silver</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-3f3216e2-89d9-4d0a-9716-5ef5f839a766</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Holy Symbol, Silver.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentHolySymbolSilver.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hourglass</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-19b0d9cf-29e5-42d5-add6-da6867db5957</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Hourglass.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentHourglass.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magnifying Glass</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6b848577-8949-4366-a0f4-df002ac8a7b5</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Magnifying Glass.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>-</Weight>
+    <Cost>100 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMagnifyingGlass.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Musical Instrument, Common</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ff932523-3343-416d-8a62-77e7b2c86619</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Musical Instrument, Common.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>3 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentMusicalInstrument.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Musical Instrument, Masterwork</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e4566057-0123-47c3-8296-f744f9bfd93e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Musical Instrument, Masterwork.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>3 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentMusicalInstrument.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scale, Merchant's</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c4fcb9be-2cb7-4e8b-8425-7243cb7fc8d8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Scale, Merchant's.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentScales.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Component Pouch</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-e0cb999a-903d-456b-8394-a6c58ff946a3</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell Component Pouch.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPouchBelt.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spellbook</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-61b028d9-2f57-4c0e-a54e-1ebea496482d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spellbook.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>3 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSpellbook.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Thieves' Tools</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7336b992-0b38-4e8d-a7b5-44e92f7f131a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Thieves' Tools.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentThievesTools.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Thieves' Tools, Masterwork</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7df6111d-1aa4-4ba3-9863-6103f5868625</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Thieves' Tools, Masterwork.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentThievesTools.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tool, Masterwork</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-34b94de1-7ae6-4a6f-b283-8513b5195721</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Tool, Masterwork.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentHammer.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Water Clock</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d9e12181-6b40-4c68-9e60-73b58005ff40</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Water Clock.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Tools and Skill Kits</ItemType>
+    <Weight>200 lb.</Weight>
+    <Cost>1000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentWaterClock.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Artisan's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f30bbb8f-57ac-4397-8bfa-416ae496ec06</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Artisan's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>4 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cleric's Vestments</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-da1a37c0-538c-4948-8f18-6eddf7b0597e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Cleric's Vestments.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>6 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold Weather Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6009138b-fd6b-49c7-af35-bf8b5fa747c6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Cold Weather Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>7 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Courtier's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-96f6f375-4293-40e9-88c9-9c8a739d4e65</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Courtier's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>6 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Entertainer's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d7539dde-e5ba-4590-93b5-22f5fc481e94</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Entertainer's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>4 lb.</Weight>
+    <Cost>3 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Explorer's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-11578817-f0da-418b-98fc-0e1631489c64</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Explorer's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monk's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-a1cd13b0-1773-40a9-9a38-c4bc2801519f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Monk's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Noble's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-69f3c70d-bb51-4296-b216-f3d437a89400</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Noble's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>75 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Peasant's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4f7a411d-c056-4cb3-ac1c-9cf88cc5b1c4</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Peasant's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>2 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Royal Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7ce1349c-81a7-4091-9e64-26493e462b82</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Royal Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>15 lb.</Weight>
+    <Cost>200 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scholar's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-aff026b2-5c16-4c09-9c73-7a3be12391c1</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Scholar's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>6 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Traveler's Outfit</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-40a68655-34d1-4415-98ad-42e81d684c5f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Traveler's Outfit.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Clothing</ItemType>
+    <Weight>5 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <AdjustForSize>Yes</AdjustForSize>
+    <ImageFilename>EquipmentClothing.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ale, Gallon</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-29d5b88e-38df-4ba1-a7c1-d675dd8ac8ac</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ale, Gallon.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>2 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentPitcher.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ale, Mug</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-313ee9ed-b5d7-4005-9f73-43d7638d5a82</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ale, Mug.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>4 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentTankardMug.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Banquet (Per Person)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-572f312e-24bf-4e73-b757-1830d5f53128</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Banquet (Per Person).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bread, Loaf</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-673ad989-50a2-45e4-bbf9-aeb859ecf52f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bread, Loaf.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>2 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentLoafOfBread.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cheese, 1/2 lb.</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-b231117c-34d3-4f36-8da3-3126734cef5a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Cheese, 12 lb..htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentCheese.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inn, Good (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-aad6a090-186f-4332-83b3-14df39cf9525</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Inn, Good (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>2 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inn, Common (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-154361ef-a1b7-4389-9998-b2a889f56be3</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Inn, Common (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inn, Poor (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6e7cc657-ddb5-4804-b2b6-ed2bbf4ca76b</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Inn, Poor (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>2 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Meals, Good (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-8f1ff95d-8bf8-4e98-85c5-3a98a3fb07c6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Meals, Good (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Meals, Common (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-526cb1aa-b1e5-455f-abfa-c0072a11757d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Meals, Common (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>3 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Meals, Poor (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-604358e9-93d7-4127-b1f2-c567635843a0</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Meals, Poor (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Meat, 1/2 lb.</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-01b146d6-9d46-4bea-a309-6ca68a2b7ed1</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Meat, 12 lb..htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>0.5 lb.</Weight>
+    <Cost>3 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentFoodDrinkLodgings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wine, Common (Pitcher)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-dd183ed2-3af5-4a87-b973-8d0e17d8993f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Wine, Common (Pitcher).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>6 lb.</Weight>
+    <Cost>2 sp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBottleWine.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wine, Fine (Bottle)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-237c39d2-c047-43a6-9268-b3c91cdb92ed</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Wine, Fine (Bottle).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Food, Drink and Lodging</ItemType>
+    <Weight>1.5 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBottleWine.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bit and Bridle</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6d886237-cd05-4086-8cf4-932bc105027a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Bit and Bridle.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dog, Guard</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-aabbd2b0-d372-448b-9e3a-39eaebf3f6e4</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Dog, Guard.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>25 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentDog.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dog, Riding</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-22a4c114-0788-4930-97fe-bb2c51a744f8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Dog, Riding.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>150 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentDog.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Donkey</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d458512f-65fb-4628-a790-e7bc8276367e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Donkey.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>8 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mule</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ca751600-3253-4157-9804-6772e0161716</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Mule.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>8 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Feed, Animal (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-86b600d4-d846-4552-a320-6d28a001c508</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Feed, Animal (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>5 cp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSack.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Horse, Heavy</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-aa74b7db-0269-4145-a7ab-2718bc4967ea</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Horse, Heavy.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>200 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Horse, Light</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-790c107c-8200-45b0-9031-68ac133b5df7</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Horse, Light.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>75 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pony</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-93e20206-8003-4acd-a3b8-778dd50eec09</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Pony.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>30 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Warhorse, Heavy</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0cf32b3b-16e0-43d6-9dda-4b0a2b5bf05f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Warhorse, Heavy.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>400 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Warhorse, Light</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-1a0f69d0-6dc6-43b3-8d2f-4887c691b50c</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Warhorse, Light.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>150 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Warpony</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-1d69cf83-6b5c-42b0-b371-b048b2431205</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Warpony.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>100 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Military</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-29cb5e8c-2756-4cb3-984c-0e9de62b4344</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Military.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>30 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Pack</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-6b631bc3-f2e7-4373-bb52-3ad6bf0fbf09</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Pack.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>15 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Riding</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-a6f7724f-fb74-483b-be5f-2beece0334f5</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Riding.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>25 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Exotic, Military</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-aa73899c-0b8f-4013-83ab-2aa6e0568b91</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Exotic, Military.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>40 lb.</Weight>
+    <Cost>60 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Exotic, Pack</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-91340028-ea18-47ae-9f91-9723efcb1a8d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Exotic, Pack.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>20 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddle, Exotic, Riding</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-26f1ad22-d152-4683-8ceb-9725b1da869e</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddle, Exotic, Riding.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>30 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saddlebags</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-63f7d228-ce7b-49f3-9e01-69cb29bfa339</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Saddlebags.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>8 lb.</Weight>
+    <Cost>4 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Stabling (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-9c192482-3191-4a8f-b480-22b6cddff29a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Stabling (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Mounts and Related Gear</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentMounts.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Carriage</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-a0684869-af9b-49d8-9e8a-fe81b4d64452</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Carriage.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>600 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentTransport.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cart</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-9a388bd2-2472-49f2-b18c-edc356cb3e8d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Cart.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>200 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentTransport.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Galley</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-c833a9e4-6ed3-45c1-9323-b93b0c9412c8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Galley.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>-</Weight>
+    <Cost>30000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Keelboat</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4d78d885-aaba-4b2c-8a36-e083930ee949</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Keelboat.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>-</Weight>
+    <Cost>3000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longship</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d4dc707c-6c03-4e15-abf6-55c9e08be8e4</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Longship.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>-</Weight>
+    <Cost>10000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rowboat</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-1d8fa23d-78fb-407b-8464-8f88d256a7eb</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Rowboat.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>100 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oar</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f8e37022-d082-4eb9-bb06-ccd6dda6d29a</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Oar.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer />
+    <ItemType>Transport</ItemType>
+    <Weight>10 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sailing Ship</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-db207944-9675-42bc-b5a5-b0f100e70a86</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sailing Ship.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>-</Weight>
+    <Cost>10000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sled</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-772c7ea0-15a7-452a-b1f7-70443b92bb18</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Sled.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>300 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentSledSledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wagon</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0845db48-a08a-4b87-9e88-7e09c8ae64e9</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Wagon.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>400 lb.</Weight>
+    <Cost>35 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentTransport.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Warship</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-823fef9d-ae60-485a-b4a3-57031b0939f5</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Warship.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description />
+    <IsContainer>Yes</IsContainer>
+    <ItemType>Transport</ItemType>
+    <Weight>-</Weight>
+    <Cost>25000 gp</Cost>
+    <AdjustForSize />
+    <ImageFilename>EquipmentBoat.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Coach Cab (per Mile)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-4efb7b88-7cd9-4ffb-9540-c7b703495a55</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Coach Cab (per Mile).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>3 cp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hireling, Trained (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-bf2a6ec8-542f-478c-a12e-cbfd7950a7a2</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Hireling, Trained (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>3 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hireling, Untrained (per Day)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-8a44d4fd-2abc-4c57-82ab-9d063a8aaea8</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Hireling, Untrained (per Day).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Messenger (per Mile)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-5557dd5d-a166-4cb1-a66f-b2f5fa144e95</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Messenger (per Mile).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>2 cp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Road or Gate Toll</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d4d9c75a-824f-4eee-8c78-f688e802838f</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Road or Gate Toll.htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 cp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ship's Passage (per Mile)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-0d4b9406-6d7f-43b1-a4b8-cdb3d013ea00</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Ship's Passage (per Mile).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>1 sp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 0th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-eeb09e9c-b27a-4696-84b2-4708d5b459b0</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 0th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>5 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 1st Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-ee3338fc-f120-4972-bc11-f966e49f3fcb</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 1st Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>10 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 2nd Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7dedf6d9-0bd4-4b77-af64-8f88766d5a0d</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 2nd Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>20 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 3rd Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-2c7e64d1-46a4-4372-a8b8-39f8ebe97e78</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 3rd Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>30 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 4th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-da219991-4415-495a-9b58-a57958552c54</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 4th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>40 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 5th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-2f721c8b-c8bd-4786-b558-6f4897a00d36</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 5th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>50 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 6th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-7fe36ef0-aa56-436e-8deb-c076d5594027</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 6th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>60 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 7th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-f0b32b1d-bdc5-44e3-8f6a-2f5cb8581393</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 7th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>70 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 8th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-d6635556-e63c-4e44-8043-5476aa2827f6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 8th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>80 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell, 9th Level (per Caster Level)</Name>
+    <Type>Item Definition</Type>
+    <ObjectGUID>010-48517c24-f09a-4951-af09-9ce10470e3f6</ObjectGUID>
+    <ParentGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ParentGUID>
+    <HTML>Items\Spell, 9th Level (per Caster Level).htm</HTML>
+    <HTMLGUID>010-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <IsContainer />
+    <ItemType>Spellcasting and Services</ItemType>
+    <Weight>-</Weight>
+    <Cost>90 gp</Cost>
+    <Description />
+    <ImageFilename>EquipmentServices.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Strength Check [Circumstance] [levering open doors, chests and snapping chains]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-e73e93c2-f0a6-43a4-bc0a-ae9363988f1a</ObjectGUID>
+    <ParentGUID>010-f6379402-285a-4dd3-a61d-fcca5469af86</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-6fcc6ee2-a88c-4d65-ba1f-bded640b9d63" reference="Name">Strength Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-33245900-573c-43f8-8297-8c0e2c5f460d" reference="Name">levering open doors, chests and snapping chains</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Strength Check [Circumstance] [breaking down doors]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-f62e25e3-603c-4d62-931d-60d09cf7935b</ObjectGUID>
+    <ParentGUID>010-ba037754-0a23-4ca8-9b83-e7381b6ee3ea</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-6fcc6ee2-a88c-4d65-ba1f-bded640b9d63" reference="Name">Strength Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-23587dfb-47af-4b4f-a9fb-fec4c32bf465" reference="Name">breaking down doors</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Use Rope) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-211fa759-c65c-4597-acd6-e0b81adc2169</ObjectGUID>
+    <ParentGUID>010-7259defd-11cf-4682-9eb7-bd9556d051bd</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-2efc0ec2-0805-47f8-a43e-51d1b40186c3" reference="Name">Use Rope</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Fortitude Saving Throw [Alchemical] [vs. poison]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-388b939a-1d94-48d6-9f13-f96e054f2798</ObjectGUID>
+    <ParentGUID>010-1cc220e3-2242-4c62-aa65-2e042bb4beef</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e7da11c6-b470-47b9-985c-b29c28f3b587" reference="Name">Fortitude Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Alchemical</ModifierType>
+    <Limiter FK="024-5b4fc5d7-6003-4fda-adda-50cd0d555c30" reference="Name">vs. poison</Limiter>
+    <Notes>for 1 hour after consumption.</Notes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Craft (Alchemy)) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-5fabdc9a-7412-406a-b873-242433daae35</ObjectGUID>
+    <ParentGUID>010-ad040168-730f-4376-9219-064cc8e66c31</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-3f37c8ed-e815-4067-ba20-5e622c20c6e5" reference="Name">Craft (Alchemy)</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill Group (Craft) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-dfb1f648-8f80-4628-9f9c-5c578a02c635</ObjectGUID>
+    <ParentGUID>010-3827bad3-7d4b-4c1b-9f79-04169e4d3574</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-248749e6-8c64-41fa-859f-c6d2b13cb132" reference="Name">Skill Group</SystemElement>
+    <FocusObject FK="027-909ac18f-1a0c-4029-a1f5-3abba18bc18a" reference="Name">Craft</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Climb) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-445bf99e-8b89-4544-83d0-54e21b5fc995</ObjectGUID>
+    <ParentGUID>010-7c8f7e1f-9aa8-45f8-8fef-e09f7889f5dd</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Disguise) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-6baae776-53bd-4837-a235-e8bc0a881d3a</ObjectGUID>
+    <ParentGUID>010-e8db57eb-fed7-40fe-9d5b-bcf7b2d398c9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b04b509c-7424-48de-b039-97433b940c88" reference="Name">Disguise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Heal) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-9dee54e9-c5b9-4d22-82de-9ec741b01721</ObjectGUID>
+    <ParentGUID>010-d75c9602-65b8-43a9-bd9a-80279e771914</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-1458cd80-768a-4cab-8081-3b75c6927775" reference="Name">Heal</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Appraise) [Circumstance] [small or highly detailed items]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-b08a6792-f133-48b6-bb5e-07405f32fd9a</ObjectGUID>
+    <ParentGUID>010-6b848577-8949-4366-a0f4-df002ac8a7b5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-ede2e873-3e06-48aa-ade1-63c17d072f4d" reference="Name">small or highly detailed items</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill Group (Perform) [Circumstance] [using the instrument]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-6fc7d393-5f4d-428d-87b7-1188b99346b1</ObjectGUID>
+    <ParentGUID>010-e4566057-0123-47c3-8296-f744f9bfd93e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-248749e6-8c64-41fa-859f-c6d2b13cb132" reference="Name">Skill Group</SystemElement>
+    <FocusObject FK="027-2fe3602e-6c03-4084-a187-54205908314b" reference="Name">Perform</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-a9fb4a72-0963-4e9a-94ea-279214ebf16d" reference="Name">using the instrument</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Appraise) [Circumstance] [items valued by weight]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-8490ffb7-3fb4-4ba7-9096-7f007e79fe99</ObjectGUID>
+    <ParentGUID>010-c4fcb9be-2cb7-4e8b-8425-7243cb7fc8d8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-567173e6-ba51-44d9-b9a0-775ef1acf437" reference="Name">items valued by weight</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Disable Device) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-ab60cf99-18a2-4630-b4d2-95a487c52b0b</ObjectGUID>
+    <ParentGUID>010-7df6111d-1aa4-4ba3-9863-6103f5868625</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-87814aac-9109-4711-bcb1-928cf4d7c4a8" reference="Name">Disable Device</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Open Lock) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-ffb187a3-f7d0-4b40-92f5-8f8b64c29ef5</ObjectGUID>
+    <ParentGUID>010-7df6111d-1aa4-4ba3-9863-6103f5868625</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-dc471c09-c450-4421-8bd1-0d070055adc7" reference="Name">Open Lock</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Fortitude Saving Throw [Circumstance] [against exposure to cold weather]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-b4cad107-d7b0-4648-98e7-0e09c851a1cc</ObjectGUID>
+    <ParentGUID>010-6009138b-fd6b-49c7-af35-bf8b5fa747c6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e7da11c6-b470-47b9-985c-b29c28f3b587" reference="Name">Fortitude Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-df989519-c475-4705-a192-84c416224a0a" reference="Name">against exposure to cold weather</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Ride) [Circumstance] [related to staying in the saddle]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>010-6df228a3-d6b7-4f93-82c8-7425fcd0b3c1</ObjectGUID>
+    <ParentGUID>010-29cb5e8c-2756-4cb3-984c-0e9de62b4344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-e623c225-824d-4837-bba7-67f24aca0716" reference="Name">Ride</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter FK="024-8f38cff1-cb77-41ff-b42a-19964e6fbe9c" reference="Name">related to staying in the saddle</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

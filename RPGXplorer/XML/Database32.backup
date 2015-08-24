@@ -1,0 +1,3211 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Armor Class</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-5724c899-e723-48e1-bb0e-80ef9fa33f47</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speed</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-647013c9-f47e-4c65-96bf-a00763cb046e</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reflex Saving Throw</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-2e0574c1-78d9-4eeb-8a41-43791399b44b</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell DC for Specific School</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-db2fa72f-a13a-4b32-b3a5-2a0c9a4cc1ab</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell School</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Attack Roll vs. Monster Type</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-1577b968-942a-4fd5-b70d-741085679408</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Monster Type</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Turn Attempts per Day</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-f267e372-3148-4b45-9f0b-7360ff669e0c</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speed (Base)</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-78ad77a9-2a77-496c-970f-1216262656c9</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Strength</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-55cdc8b8-2d62-4fd6-b949-4836ec73caee</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Constitution</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-45085f13-86fc-438a-9779-7413e8dab273</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hit Points (Base)</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-0a06aae9-c02b-468c-84d6-53a248c210ca</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Attacks of Opportunity</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-27381656-bb9e-4dd8-9b52-87752c675809</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Class (inc. Touch/Flatfooted)</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-18d43e0e-bc13-477d-972e-7c128d2e3e02</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caster Level for Descriptor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-cc3b4164-8ade-4bfd-9ecf-fb39041e1f5b</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Descriptor Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caster Level for School</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-f164fe58-1b22-497a-b0ca-1b04450b8506</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell School</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caster Level for Subschool</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-84b2794e-82d1-408e-9871-7cb73ea8ef24</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Subschool</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caster Level Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-03464cd5-1005-4bb1-bccd-f8c0a154ed97</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bull Rush Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-6a610129-d105-4799-a9cd-87741287e886</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disarm Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-54affb89-56a2-4467-aec1-6a6f3e55cce7</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Grapple Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-276d5dd8-1912-4a5d-adb1-c8d6a7d298f1</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Overrun Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-edbd08c0-9ab2-4d60-804e-62bf9a74384e</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Trip Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-98d44b8c-a583-4827-9d86-28075700459c</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Initiative Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-8f7b9da5-4f42-49c2-8fe9-d0dcf01b8a59</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Turn Level</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-152f7e7a-75b4-4e08-9b1d-f5052c1e01d0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Roll Specific Weapon</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-b0b5b1d4-99f1-4189-8bd9-a271b79a0f7e</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons />
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility />
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Weapon Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charisma Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-dc7b09e1-d35d-4e14-966c-cee6b3473da2</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Leadership Score</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-ff2df6cc-e24a-40b2-ad93-bd3b3456af71</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cleave Attempts</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-e2a1013f-05c1-45dc-b940-12e99bd1f749</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intelligence</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-9786289a-a006-4f2e-b073-5edadd1ff2e0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wisdom</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-7a057767-19fa-4df0-bdae-535e43362c70</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charisma</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-faed75ff-568e-4f7a-8c3c-86eb78fedff1</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dexterity</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-df47f919-9b8b-4631-90be-dfabb8992d46</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Strength Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-6fcc6ee2-a88c-4d65-ba1f-bded640b9d63</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dexterity Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-ca8be67f-0cad-4856-a556-486f96d2e91b</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wisdom Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-36cc7e1a-e17c-42ff-aba0-ccc018d06290</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intelligence Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-408a4469-355b-40fd-934d-1b5c58159a28</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Constitution Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-d7038b88-7a83-4c33-88ac-937c2df904c8</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Grappling Damage</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-9a63484f-965f-4efb-9fb1-64c7d6533763</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Class vs. Monster Type</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-aa0d3d9c-d794-4f84-a603-8e19df3f636a</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Monster Type</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wild Empathy Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-7a415d4c-03c3-426d-8dc1-aec1b5af8153</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unencumbered</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-efab5896-5e64-4749-8493-801ecee6a633</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unarmored</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-075e0b4c-05e4-4fb0-8b26-ec88c595fda4</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wearing medium armor or less</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-ba12e3c3-52be-4273-8750-60dce710890f</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Not carrying a heavy load</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-13b485c2-b3c6-4b5f-838d-cfca044cae83</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Proficiency (Light)</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-6b8ecb20-2655-438b-8c87-62221a64bf69</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at wearing all light armors.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Proficiency (Medium)</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-3277e061-7fb1-4f04-ad40-2cf4e8e642f4</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at wearing medium armors.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Proficiency (Heavy)</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-730bba93-3758-4cfb-b97b-e46dae88ee2a</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at wearing all heavy armors.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shields Proficiency</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-917ab70c-4bff-40bf-bddd-7ca350e4fc2b</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at using all shields except tower shields.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tower Shield Proficiency</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-85437354-d541-44e5-bad2-6b4108bc9124</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at using tower shields.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapons Proficiency</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-88496622-5b08-45f7-b062-2f6b5e381c3d</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at using all simple weapons.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Martial Weapons Proficiency</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-0abf3c27-b3b2-440a-8133-374eaf8b3dc6</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Description>Proficient at using all martial weapons.</Description>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illiteracy</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-c1f7b830-7841-4db8-ab44-3da928178ed8</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cannot read or write. May spend 2 skill points to overcome.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Diamond Soul</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-d79ba7fa-fee1-41e8-bf5e-44ba9bc0f35a</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants spell resistance equal to granting class level + 10.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Favored Enemy</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-bee51b8d-96c4-4642-b1d0-deddddb0701b</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Select a favored enemy as a Ranger does.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Greater Two-Weapon Fighting</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-d97a5ee4-d88e-44f4-84ea-984962af43ab</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants third attack with off-hand weapon at -10.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Improved Two-Weapon Fighting</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-be3c9d07-66e0-4a60-88f4-87fe190e2141</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants second attack with off-hand weapon at -5.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Run</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-fe9c40a0-1164-4bb8-9eb9-4f195911215e</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Run speed improved.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Two-Weapon Fighting</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-a3a30d44-d0d2-4f8d-af33-8821182302e2</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Penalty for fighting with two weapons is reduced to -2/-6.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Weapon Finesse</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-7f2083e5-9b6d-4cee-b296-9172e372afa3</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Use DEX modifier on attack rolls instead of STR with certain weapons</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>War Deity Favored Weapon</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-e6633eff-f16c-46df-ac82-1936d9cdc4e1</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants Weapon Focus in deity's favored weapon (if they have one).</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ignore Encumberance</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-fa3fe735-b1e7-47a2-9be7-7e7540b30d3e</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Speed not affected by encumberance.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speed Weapon</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-e0c89a27-0b67-4c4b-996f-1ddd07de6ef3</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wielder gets one additional attack at BAB.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nonlethal Weapon</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-82b38b01-9d76-48bb-933f-36f85657457a</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>All damage dealt by the weapon inc. bonus damage becomes non-lethal.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Keen</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-3c950c7b-939d-48d5-8c3a-1269eac6e9ea</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Threat range of weapon is doubled.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Throwing</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-64a10077-0259-42b2-b84b-0b5a03e56bd5</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Melee weapon gains range increment of 10ft.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vicious</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-b67dba05-1495-480c-960a-52adb3e0e927</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Weapon deals 1d6 damage to wielder.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Increased to x4</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-97c3e0c5-c3bb-4f63-925c-e368e40eaee8</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Damage on critical is increased to x4.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alignment Penalty 1</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-6dd9efee-43a2-4748-883b-ef49a6db11e9</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Bestows 1 negative level on wielder of opposed alignment.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alignment Penalty 2</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-66a2c486-ebaa-4445-83c8-2a748245a69d</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Bestows 2 negative levels on wielder of opposed alignment.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ki Weapon</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-36c385c6-5802-4890-be2d-9234a019a3eb</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Weapon serves as channel for wielder's ki.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Avenger Spell Resistance</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-0ab26685-895e-4f7a-9288-692a7f9fd072</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Weapon provides spell resistance equal to Paladin level + 5.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Destroys</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-0930b715-25e2-4c6e-9098-3896d3a9814f</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Critical hits destroys target.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Double Damage</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-c9151534-45ca-45d3-8a15-ca204d64d23c</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Weapon damage is doubled.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Increased to x3</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-d7b7c041-3dd0-46bc-a1e5-1ca16dc6b4c2</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Damage on critical is increased to x3.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cleave</Name>
+    <Type>System Weapon Ability Definition</Type>
+    <ObjectGUID>032-627f002f-aba0-4ffc-bac7-2a5609bb8173</ObjectGUID>
+    <ParentGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants wielder use of Cleave feat with this weapon.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Uncanny Dodge</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-5b138b73-6af5-4dc2-94af-81d4b2450fbc</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Retain DEX modfiier to AC when flat-footed and similar.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Martial Weapon Proficiency</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-69b2240b-6419-423d-a569-b41fddebb93b</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Feat Definition</ObjectType>
+    <Link FK="008-766fd441-a44c-4003-a2f9-2f0fbce885b1" reference="Name">Martial Weapon Proficiency</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-af4d8f9c-400d-4085-8f33-7047b1a1d461</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Feat Definition</ObjectType>
+    <Link FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Exotic Weapon Proficiency</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-38d6c80e-ebbd-47a7-b731-d8efe8adaf0b</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Feat Definition</ObjectType>
+    <Link FK="008-697be1a4-3541-4928-9585-20cb07703c07" reference="Name">Exotic Weapon Proficiency</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Paladin</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-a04f0e26-0d1b-4e1b-b404-8399f140e93b</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Class</ObjectType>
+    <Link FK="005-ae8353ff-32d2-444d-8d14-c4e406094a07" reference="Name">Paladin</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Not wearing a shield</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-dd608277-6c24-4b1c-b952-14a99863d27a</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Turning Damage</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-60020c51-c8e0-4078-8831-ef0ec249eedd</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Roll vs. Monster Type</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-3a2ebd2e-2140-4cd8-9dd4-df1c919869dd</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Monster Type</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Attack Roll Thrown Weapons</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-a1e5fd73-925a-4551-b5f8-b3ced2bcbc1d</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons />
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility />
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Swim</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-6970b0e4-b288-4a6e-9cfc-da88ff9b46e1</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Skill Definition</ObjectType>
+    <Link FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Weapon Focus</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-12239836-35ee-42e5-8e15-3a1c4c6713b4</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Feat Definition</ObjectType>
+    <Link FK="008-3dfc93f3-3a68-402b-956e-ab808bc9a391" reference="Name">Weapon Focus</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unarmed Strike</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-b6cf9994-5666-4a1a-ac6b-ffe963fecca6</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Weapon Definition</ObjectType>
+    <Link FK="031-5838bb54-5867-4869-aac7-2406899dde34" reference="Name">Unarmed Strike</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Improved Critical</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-62c20010-7600-4c9b-8c29-db2b59c98e11</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Feat Definition</ObjectType>
+    <Link FK="008-7a1d8589-5766-4aee-98e5-c0744bdb5adf" reference="Name">Improved Critical </Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell DC for Subschool</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-1a5f1d69-328c-4c8f-a961-ea80f38c0603</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Subschool</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell DC for Descriptor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-9e902711-43ee-488f-a8a4-15a3a6fd61f0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Descriptor Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-1cfc211b-e580-40c9-8f99-296d9e14cb7e</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>Yes</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fortitude Saving Throw</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-e7da11c6-b470-47b9-985c-b29c28f3b587</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Attack Roll Specific Weapon</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-1d853ce6-1d13-438f-ad6e-5bff07fe8f3a</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons />
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility />
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Weapon Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Skill Group</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-248749e6-8c64-41fa-859f-c6d2b13cb132</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Skill Group</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Saving Throw</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-779109fe-7ff4-4245-8369-f5e5e40bad81</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Skill</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-e1da9a22-a032-4814-b6cf-6964148694a1</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Skill Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bardic Knowledge Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-5adf3f9e-a0e3-4f04-8e29-2c8303aaed4c</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Turn or Rebuke Undead Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-e866b2a7-56c1-4a33-ac37-5fb7b62b3356</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Will Saving Throw</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-bcf92ac7-2d64-495a-9363-28d423239bfa</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wearing light armor or less</Name>
+    <Type>System Precondition Definition</Type>
+    <ObjectGUID>032-356907f4-1862-4105-90cc-bf8bda521952</ObjectGUID>
+    <ParentGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Attack Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-75ec881b-7a16-4933-859f-3f3508d53203</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>No</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-5bd6fb42-f05c-4c65-9379-40b13ad71582</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>No</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility />
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields />
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility />
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Missile Weapons Range Increment (Projectile)</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-40d90381-f93a-493e-8b9c-ab9792f97eed</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>No</AllowModifiers>
+    <AllowAbilityModifiers>No</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>No</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>No</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Missile Weapons Range Increment (Thrown)</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-86e03356-a06d-4da4-b0b4-7baf06ba4398</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>No</AllowModifiers>
+    <AllowAbilityModifiers>No</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>No</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>Yes</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>No</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Points</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-3c5760c5-8ed2-488e-962e-df161816266a</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies />
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-b286be44-5ac4-4caf-b8f6-48bbfc6fcd0d</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>Yes</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elude Touch</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-24d5b91d-a8b3-4a09-ac06-e29dfea0b473</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Charisma bonus to touch attacks.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Body</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-6ee5cab7-94cc-4e31-a2b4-dd318d3289a8</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Gain 2 hit points for each psionic feat you have.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Talent</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-1f8e13ee-c7a8-49b1-9d6d-0c48dde1a20f</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You gain additional power points to supplement those you already had.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fast Movement Progression</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-d34b73cf-5e1e-4a84-bceb-91298967a9e9</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>When granted by a class, the levels from that class count towards calculating the Monk fast-movment modifier.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>AC Bonus Progression</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-f7303411-5d92-4f17-84d2-8d38ca835dc2</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>When granted by a class, the levels from that class count towards calculating the Monk AC bonus modifier.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Improved Unarmed Damage</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-a1d1524e-d167-4b07-a440-e172cefe773a</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>When granted by a class, the levels from that class count towards calculating the Monk improved unarmed damage modifier.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Belt, Monk's</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-daaac96f-1eee-4791-93bb-7f432700483b</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Wondrous Definition</ObjectType>
+    <Link FK="023-1e3489e6-0f7f-49f5-bdcd-c52463a23d32" reference="Name">Belt, Monk's</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Favored Enemy (Single)</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-fe40df19-bb21-4b12-bc63-b4b521a9e6d5</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Select a single favoured enemy.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power DC for Specific Discipline</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-64c37421-f64f-4ee1-b00b-3a13ab2cdfe0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Psionic Discipline</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power DC for Descriptor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-7e90acf5-80c8-47a4-9cfd-c3e69cede15f</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Descriptor Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power DC for Subdiscipline</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-c61ddd6f-e640-43fd-b7a1-e51cd54c0eab</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Psionic Subdiscipline</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Manifester Level Check</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-c3e6d24d-1eb0-489c-a12b-34d1d5bfe27e</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons />
+    <Items />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wisdom Ranged Attack</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-98ad71b8-668d-483f-b898-4080e48e35e6</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Wisdom modifier for ranged attacks.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Strength Thrown Attack</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-fdc8fe07-8ffa-4f86-a136-61f603f05144</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Strength modifier for thrown attacks.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charisma Will Save</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-a54a2aee-bc15-4d5f-9e19-fbdb36ec6ee7</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Charisma modifier for will saves.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intelligence Reflex Save</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-4b26f9cc-1142-4ae6-8b43-a07a79a6b182</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Intelligence modifier for reflex saves.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Off-hand One-Handed Weapon Two-Weapon Fighting</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-2f0b4fa1-c9ac-475e-bf10-df1d8232f52f</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use a one-handed weapon as if it were a light weapon whilst two-weapon fighting.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wield Larger Melee Weapon</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-5773b071-702e-4cc6-a695-d9e2bd153f74</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Allows you to wield a weapon one size category larger without any extra effort.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reduce Two-Weapon Fighting Penalty by 1</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-11c32ada-5de6-4723-bb02-5a5e557d6fe6</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Reduces the attack penalty for fighting with two-weapons by 1.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reduce Two-Weapon Fighting Penalty by 2</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-9b6f5f4e-6fd7-4580-8247-0146de96e42e</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Reduces the attack penalty for fighting with two-weapons by 2.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Maximum Dexterity Allowed by Armor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-d2506e9e-14f6-412c-b779-5fbee7440432</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Check Penalty From Armor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-a89d5039-d113-4db6-bb06-e3fd50a085b0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Constitution Armor Class</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-23f6990f-ed59-4047-9ac0-e68a4e238f9d</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can Use Constitution instead of Dexterity when calculating AC.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sunder Opposed Roll</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-76adbf69-993d-4078-bed4-ed4d1717f195</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowSet>No</AllowSet>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>Yes</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>Yes</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>Yes</AllowDiceRange>
+    <AllowComplex>Yes</AllowComplex>
+    <Armor>Yes</Armor>
+    <Shields>Yes</Shields>
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies>Yes</Synergies>
+    <Weapons>Yes</Weapons>
+    <Items>Yes</Items>
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo>Yes</MagicAmmo>
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields>Yes</MagicShields>
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility>Yes</ShieldMagicAbility>
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>No</HasFocus>
+    <FocusType />
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Multiattack</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-072a1225-a2db-4e45-87e3-5ccf25ae9ed7</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Reduces the attack penalty to -2 for secondary natural weapons.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Constitution Nonability</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-74fd1f22-c48f-46fe-af64-9085b45252df</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creature does not have a Constitution score.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dexterity Nonability</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-afca1f3b-fc0d-4ec6-ac90-a20063939ac8</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creature does not have a Dexterity score.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intelligence Nonability</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-5ee70222-f23f-4320-9ee6-abcf9b5f3d4b</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creature does not have a Intelligence score.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Strength Nonability</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-78de32b8-4529-46c3-9a03-4fd6c35cdbd5</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creature has no Strength score.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unlink BAB</Name>
+    <Type>System Ability Definition</Type>
+    <ObjectGUID>032-c11f9a6c-b274-48d4-853c-105823572be6</ObjectGUID>
+    <ParentGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Unlinks a psicrystals BAB form its creator's.</Description>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mount</Name>
+    <Type>System Reference</Type>
+    <ObjectGUID>032-fa15727b-2a1a-4b6a-82fe-1462f0a35634</ObjectGUID>
+    <ParentGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ObjectType>Monster Class</ObjectType>
+    <Link FK="037-a4186614-2c8a-4377-bbce-c6b8aa35cbc7" reference="Name">Mount</Link>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

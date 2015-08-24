@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Ring of Protection +1</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-57aa5f5a-668a-4eba-a1d9-efc26c4f6001</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Protection.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deflection bonus of +1 to AC.</Description>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>2000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-87f23a34-ebdc-4777-a082-c581b5e3e32f</ObjectGUID>
+    <ParentGUID>017-57aa5f5a-668a-4eba-a1d9-efc26c4f6001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Animal Friendship</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-59abc836-5bfd-4244-b1be-482dea267e5b</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Animal Friendship.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>On command, this ring affects an animal as per Charm Animal.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>10800 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Blinking</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-1beab3be-861c-45b2-a4a0-b8c0f5f5e53a</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Blinking.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>On command, makes the wearer Blink as per the spell.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>27000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Chameleon Power</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-1a1ff886-c3ad-4890-9dc0-4bce5429fff6</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Chameleon Power.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Magically blend into surroundings as free action. +10 competence bonus on Hide.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12700 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Climbing</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-857061e0-86d4-4e20-8088-85b54247e725</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Climbing.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+5 competence bonus on Climb checks.</Description>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>2500 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Climb) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-05b0e198-327d-4d39-9f59-f93e232fbaf0</ObjectGUID>
+    <ParentGUID>017-857061e0-86d4-4e20-8088-85b54247e725</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Climbing, Improved</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-67ac0c99-d5f7-41c3-b944-077494d1c11f</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Climbing, Improved.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+10 competence bonus on wearer's Climb checks.</Description>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>10000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Climb) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-05ea70a3-81c8-4e37-ba4d-77b0f795e9b4</ObjectGUID>
+    <ParentGUID>017-67ac0c99-d5f7-41c3-b944-077494d1c11f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Counterspells</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f88b15c4-0499-4039-8bc3-929fca12d1ce</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Counterspells.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Counterspell the single 1st to 6th level spell imbued. Must be replenished with a new spell each time. </Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>4000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Djinni Calling</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-4fab4cb8-05d8-43a4-a4d6-6f17b1a3ee69</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Djinni Calling.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Summon a Djinni for one hour per day. </Description>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>125000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Elemental Command (Air)</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-e9fb8022-d106-4507-8980-93401535e69e</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Elemental Command.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants the wearer benefits against air elementals.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>200000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Elemental Command (Earth)</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-8aeecc51-0262-403d-9356-889763944677</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Elemental Command.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants the wearer benefits against earth elementals.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>200000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Elemental Command (Fire)</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-b93e75df-423c-41e6-b55c-e28aa89e2c77</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Elemental Command.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants the wearer benefits against fire elementals.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>200000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Elemental Command (Water)</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-88b723fe-121c-4a1e-a58c-777459904c1f</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Elemental Command.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants the wearer benefits against water elementals.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>200000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Acid 10</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-1da60b67-55be-47bf-baa7-8206606fa217</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>10 resistance to acid damage.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-177778b6-a47b-4b61-9502-51a5d4e59202</ObjectGUID>
+    <ParentGUID>017-1da60b67-55be-47bf-baa7-8206606fa217</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Cold 10</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-1c39740b-791b-4112-94ff-fe1c06c8e170</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>10 resistance to cold damage.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-1fcd80ab-dd28-4007-a6b6-5cdfedf2d3d5</ObjectGUID>
+    <ParentGUID>017-1c39740b-791b-4112-94ff-fe1c06c8e170</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Electricity 10</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-6b40f479-8326-4aba-a57c-7dad0249900c</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>10 resistance to electricity damage.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-49735ee7-38f9-4c97-a48e-db65fdd34441</ObjectGUID>
+    <ParentGUID>017-6b40f479-8326-4aba-a57c-7dad0249900c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Fire 10</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f87bf1ba-aac4-49ab-b04f-cec88964a867</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>10 resistance to fire damage.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-ee61c256-2b99-4cca-873f-cf032367ce89</ObjectGUID>
+    <ParentGUID>017-f87bf1ba-aac4-49ab-b04f-cec88964a867</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Sonic 10</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-02a3d25c-c5f4-499d-a36d-5fb5e5254efe</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>10 resistance to sonic damage.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-418b80ba-4e52-4a5a-8480-2a2b0d6147c6</ObjectGUID>
+    <ParentGUID>017-02a3d25c-c5f4-499d-a36d-5fb5e5254efe</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Cold 20</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-df2d34db-32d6-464c-8e79-738db968bdda</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>20 resistance to cold damage.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>28000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-21174014-9cfd-469a-9e7e-5dd40feeaeb8</ObjectGUID>
+    <ParentGUID>017-df2d34db-32d6-464c-8e79-738db968bdda</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Acid 20</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f15e299b-fa8a-4c39-824e-ac4919787f42</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>20 resistance to acid damage.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>28000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-2a85f253-cfaa-4fd5-b4e7-8315132e93ca</ObjectGUID>
+    <ParentGUID>017-f15e299b-fa8a-4c39-824e-ac4919787f42</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Electricity 20</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-b8c336dd-537e-4df4-b4ad-6addf68e3e15</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>20 resistance to electricity damage.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>28000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-006b4b72-72ea-48af-ae0d-96dbdffafb22</ObjectGUID>
+    <ParentGUID>017-b8c336dd-537e-4df4-b4ad-6addf68e3e15</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Fire 20</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f1ace757-09f2-4b6d-966e-f078c996a980</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>20 resistance to fire damage.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>28000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-77fa1f6b-9360-4bf2-8c5a-ec2807b26153</ObjectGUID>
+    <ParentGUID>017-f1ace757-09f2-4b6d-966e-f078c996a980</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Sonic 20</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-349d4f3b-1d97-4146-98a4-d42cda85c5d3</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>20 resistance to sonic damage.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>28000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-fd0b1da8-f7f0-4b47-bb11-7677930099ec</ObjectGUID>
+    <ParentGUID>017-349d4f3b-1d97-4146-98a4-d42cda85c5d3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Cold 30</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-49414c56-25ea-494d-a3f5-7ed7ca886c23</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>30 resistance to cold damage.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>44000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-ca068b2d-8562-4b5b-8014-a23d9e3a3d9d</ObjectGUID>
+    <ParentGUID>017-49414c56-25ea-494d-a3f5-7ed7ca886c23</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Acid 30</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-6f641e86-d614-40f8-860c-2fc95e505275</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>30 resistance to acid damage.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>44000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-45887f03-434f-4155-8436-f0da5d9875a0</ObjectGUID>
+    <ParentGUID>017-6f641e86-d614-40f8-860c-2fc95e505275</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Electricity 30</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-67ebbf37-c289-43f7-8878-7cff7c967f7a</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>30 resistance to electricity damage.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>44000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-9f8c69f0-9ff2-451b-a5b9-fbf51e608b13</ObjectGUID>
+    <ParentGUID>017-67ebbf37-c289-43f7-8878-7cff7c967f7a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Fire 30</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-a804bb55-a32d-454f-9fa6-699f11d0817d</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>30 resistance to fire damage.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>44000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-b2bf2a62-804a-461c-8405-29f53ff37493</ObjectGUID>
+    <ParentGUID>017-a804bb55-a32d-454f-9fa6-699f11d0817d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Energy Resistance, Sonic 30</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-2179e1cf-8890-49a8-9837-65502fc6df19</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Energy Resistance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>30 resistance to sonic damage.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>44000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>017-903ec56f-262b-4e44-b036-b746db5c0cb1</ObjectGUID>
+    <ParentGUID>017-2179e1cf-8890-49a8-9837-65502fc6df19</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Evasion</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-66c923ee-0b7b-4f76-b279-7a401d212311</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Evasion.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants the wearer Evasion.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>25000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Feather Falling</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-db8c5b87-c4e7-490c-b766-c1671457725e</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Feather Falling.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Feather Fall activated if wearer falls more than 5ft.</Description>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>2200 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Force Shield</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-1f1dfd0c-87da-4a25-8128-e8d06caaa657</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Force Shield.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer can summon a heavy shield of force (AC +2) at will.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>8500 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Freedom of Movement</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-fbc31f93-8430-4722-a703-0ed9c6f448e7</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Freedom of Movement.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer is constantly under the effect of Freedom of Movement.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>40000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Friend Shield (Pair)</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-3f02a266-6e01-4ad7-8532-d444249b0c9c</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Friend Shield.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer can cast Shield Other on the wearer of the paired ring.</Description>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Invisibility </Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-ebcdb6cd-8660-4640-8fb7-0044b95c015b</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Invisibility.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Use Invisibility at will.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>20000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Jumping</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-722bfc3c-1421-427b-be1c-be8cbf63aef2</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Jumping.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+5 competence bonus on Jump checks.</Description>
+    <CasterLevel>2</CasterLevel>
+    <MarketPrice>2500 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Jump) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-a8813018-34e1-4448-9e90-ecc1bfc8c589</ObjectGUID>
+    <ParentGUID>017-722bfc3c-1421-427b-be1c-be8cbf63aef2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-e1f6c664-9233-4eb2-9543-c10cbf3416e6" reference="Name">Jump</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Jumping, Improved</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-b40d9254-f249-4135-b2c9-acc0357a9c80</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Jumping, Improved.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+10 competence bonus on Jump checks.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>10000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Jump) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-0522b139-3ba5-4dfa-aff5-aeb467919e95</ObjectGUID>
+    <ParentGUID>017-b40d9254-f249-4135-b2c9-acc0357a9c80</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-e1f6c664-9233-4eb2-9543-c10cbf3416e6" reference="Name">Jump</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Mind Shielding</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f87d9328-a2f9-4755-a2f3-543a0a0ff00f</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Mind Shielding.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer is immune to Detect Thoughts, Discern Lies and magical determination of alignment.</Description>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>8000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Protection +2</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-03ea9604-f54c-4fdd-b39c-5f3c053607e5</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Protection.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deflection bonus of +2 to AC.</Description>
+    <CasterLevel>6</CasterLevel>
+    <MarketPrice>8000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-8d16c6cb-c5db-4fea-8396-33e159562595</ObjectGUID>
+    <ParentGUID>017-03ea9604-f54c-4fdd-b39c-5f3c053607e5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Source>Ring of Protection +2</Source>
+    <Valid>True</Valid>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Protection +3</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-29707a12-0413-4037-b04c-dcd71bab2e85</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Protection.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deflection bonus of +3 to AC.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>18000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-0aa1d320-488e-4aeb-b707-f1bbdfad81fd</ObjectGUID>
+    <ParentGUID>017-29707a12-0413-4037-b04c-dcd71bab2e85</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+3</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Protection +4</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-4bc0c85f-9f88-460c-85db-ad94e2a714df</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Protection.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deflection bonus of +4 to AC.</Description>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>32000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-c5f631cf-1bd2-4a0f-8aeb-b3f9f29f651c</ObjectGUID>
+    <ParentGUID>017-4bc0c85f-9f88-460c-85db-ad94e2a714df</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Protection +5</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-cb0a46ae-7589-45f3-a6a6-b40b8784a6f0</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Protection.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deflection bonus of +5 to AC.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-41270698-396c-4b76-986a-3bf00b850669</ObjectGUID>
+    <ParentGUID>017-cb0a46ae-7589-45f3-a6a6-b40b8784a6f0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of the Ram</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-9d8be548-5b9f-4f1e-ac6e-6da8550a0d3c</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Ram.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>50 charges. Charges can be expended on force attack and opening doors.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>8600 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Regeneration</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-29462e9c-9bc0-440f-a095-fa53ad3cda47</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Regeneration.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Regenerates damage at 1 HP per hour and non-lethal at 1 HP per 5 minutes. Regenerates lost limbs etc.</Description>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>90000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Shooting Stars</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-cafdf37c-ea93-4f59-822e-5365bbc26a2d</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Shooting Stars.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast a number of different spells depending on whether it is dark or light.</Description>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Spell Storing, Minor</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-e66c528a-7444-436c-add7-3d4a16710bbb</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Spell Storing, Minor.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Holds up to 3 levels of spells which are cast normally but without armor check or material components.</Description>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>18000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Spell Storing</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-a0b0ca24-cd6a-4ebd-900b-8d37217505c9</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Spell Storing.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Holds up to 5 levels of spells which are cast normally but without armor check or material components.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Spell Storing, Major</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-24c12592-bb92-4bb5-888a-1d34cdf44068</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Spell Storing, Major.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Holds up to 10 levels of spells which are cast normally but without armor check or material components.</Description>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>200000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Spell Turning</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-af4d2306-4bc3-444e-8272-0312e002d960</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Spell Turning.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Reflecs the next 9 levels of spells cast against wearer. Can be used 3 times per day.</Description>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>98280 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Sustenance</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-dbb1ef37-3993-49b5-a295-f116ed1b5878</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Sustenance.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Continually provides wearer with nourishment. Only 2 hrs sleep a night required.</Description>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>2500 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Swimming</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-fc33a29d-3350-408c-9765-8a282d56acd7</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Swimming.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+5 competence bonus on Swim checks.</Description>
+    <CasterLevel>2</CasterLevel>
+    <MarketPrice>2500 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Swim) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-b473be93-10cc-4090-89e9-502116cb7966</ObjectGUID>
+    <ParentGUID>017-fc33a29d-3350-408c-9765-8a282d56acd7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Swimming, Improved</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-3c2c108b-6c09-474c-a9e8-96f2a72d4e64</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Swimming, Improved.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+10 competence bonus on Swim checks.</Description>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>10000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Swim) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>017-84c53005-4822-47ed-b361-6a13ad90a15c</ObjectGUID>
+    <ParentGUID>017-3c2c108b-6c09-474c-a9e8-96f2a72d4e64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Telekinesis</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-92f212ab-66b4-4678-a68c-77d71c775503</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Telekinesis.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Telekinesis on command.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>75000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Three Wishes</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-6c592a6b-2625-4912-b40a-75b4cc34d40e</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Three Wishes.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Contains 3 Wish spells.</Description>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>97950 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Water Walking</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-052206bd-996a-4627-88c8-c8827a1fe922</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Water Walking.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer can use Water Walk continuously.</Description>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>15000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Wizardry I</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-87dcfcab-20de-4562-b882-e5581cc39619</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Wizardry.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Doubles 1st level spell slots.</Description>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>20000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Wizardry II</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-0df4bb72-6074-4923-9d7e-8bfd130e8058</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Wizardry.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Doubles 2nd level spell slots.</Description>
+    <CasterLevel>14</CasterLevel>
+    <MarketPrice>40000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Wizardry III</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-f7018da2-fa9b-4414-a268-de062fa9acc9</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Wizardry.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Doubles 3rd level spell slots.</Description>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>70000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of Wizardry IV</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-0b4b191a-1e17-4d5c-8c28-8b6996e50f42</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\Wizardry.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Doubles 4th level spell slots.</Description>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>100000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ring of X-Ray Vision</Name>
+    <Type>Ring Definition</Type>
+    <ObjectGUID>017-24a4bac6-a4f4-4382-ac7c-e69255a2dc43</ObjectGUID>
+    <ParentGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ParentGUID>
+    <HTML>Rings\X-Ray Vision.htm</HTML>
+    <HTMLGUID>017-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Possessor can see into and through solid matter. Causes CON damage to wearer after 10 mins.</Description>
+    <CasterLevel>6</CasterLevel>
+    <MarketPrice>25000 gp</MarketPrice>
+    <ImageFilename>MagicItemsRings.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

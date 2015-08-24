@@ -1,0 +1,1321 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Wand of Detect Magic</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-23c21d70-b9ba-4473-af81-ab311c1866a9</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-3cd6f5c9-ce2f-498d-84a2-b38e08c45421</HTMLGUID>
+    <MarketPrice>375 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-3cd6f5c9-ce2f-498d-84a2-b38e08c45421" reference="Name">Detect Magic</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Light</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-098055f8-2824-4a84-ac12-89adfd6738ee</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-dec311ad-9f46-4d85-a837-b4aac62bc115</HTMLGUID>
+    <MarketPrice>375 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-dec311ad-9f46-4d85-a837-b4aac62bc115" reference="Name">Light</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Burning Hands</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-86e8f812-22da-463d-892a-812a27b3c561</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-3996a2f1-3cc1-4b9e-a960-56f082801fec</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-3996a2f1-3cc1-4b9e-a960-56f082801fec" reference="Name">Burning Hands</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Charm Animal</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-9beaec58-2901-42e8-baa9-9b15561c0792</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-dec6fdcb-aa54-43f0-8253-39ac696f6654</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-dec6fdcb-aa54-43f0-8253-39ac696f6654" reference="Name">Charm Animal</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Charm Person</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e18a6fbc-ab43-46c4-a655-cc251d5301e8</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62" reference="Name">Charm Person</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Color Spray</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-07283385-137c-4d40-8be9-8420d55fcd35</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6d59381a-aa4a-44a2-8027-39f56952f094</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-6d59381a-aa4a-44a2-8027-39f56952f094" reference="Name">Color Spray</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Cure Light Wounds</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-f430cd4f-d857-491c-9655-9decdf651956</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d7a7eef6-9b99-4a29-ae80-2cf1c5ca1829</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-d7a7eef6-9b99-4a29-ae80-2cf1c5ca1829" reference="Name">Cure Light Wounds</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Detect Secret Doors</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-449382b1-cccb-414f-8557-99290f7258ae</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-7d4bdbbd-4847-49fb-8cb6-7949e37bb097</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-7d4bdbbd-4847-49fb-8cb6-7949e37bb097" reference="Name">Detect Secret Doors</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Enlarge Person</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-97107106-1a7a-4060-9e81-1c64d4e5d17d</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6b911c45-164b-4454-99ef-aa43e963821d</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-6b911c45-164b-4454-99ef-aa43e963821d" reference="Name">Enlarge Person</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Magic Missile</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-86ade740-1fc4-4589-8437-139e621f028c</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Shocking Grasp</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-4ad848de-0a54-4035-b979-98c283449795</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c0790f53-f28b-4198-b4d1-f16962f41a77</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-c0790f53-f28b-4198-b4d1-f16962f41a77" reference="Name">Shocking Grasp</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Summon Monster I</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-a9685e67-2cf1-4c6d-a57a-89f66b804a43</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a7cea86f-58e3-4cd9-b324-a6a526c9d50f</HTMLGUID>
+    <MarketPrice>750 gp</MarketPrice>
+    <CasterLevel>1</CasterLevel>
+    <Spell FK="030-a7cea86f-58e3-4cd9-b324-a6a526c9d50f" reference="Name">Summon Monster I</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Magic Missile (3rd)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-2d31c6e6-d8ad-4da5-bc69-1690a188c9a1</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <MarketPrice>2250 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Magic Missile (5th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-268f4ab0-f5b1-454f-9ad0-6fec0563f88b</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <MarketPrice>3750 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Bear's Endurance</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-f23be053-eaf8-451a-b40c-b5f15794e679</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-9dab6d40-f14a-4d1a-9565-bf4caea43cd9</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-9dab6d40-f14a-4d1a-9565-bf4caea43cd9" reference="Name">Bear's Endurance</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Bull's Strength</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e28eee34-5018-4161-a0e3-dca8867a3981</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-126a40b9-a49d-4f91-b3e4-a0a1d4daf62f</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-126a40b9-a49d-4f91-b3e4-a0a1d4daf62f" reference="Name">Bull's Strength</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Cat's Grace</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-49afec3d-8ba5-41c2-a4e2-f677d605ec72</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-1a6da579-e4f5-409e-9832-d0a9343ec364</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-1a6da579-e4f5-409e-9832-d0a9343ec364" reference="Name">Cat's Grace</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Cure Moderate Wounds</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-2a8e6749-09e4-424a-b0f0-914518ac4e69</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-7aa11dbb-885a-4bb8-b5f2-51d87c575bb2</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-7aa11dbb-885a-4bb8-b5f2-51d87c575bb2" reference="Name">Cure Moderate Wounds</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Darkness</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-5e97e6e5-edfe-4362-8766-40f300999a0a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-5b294c6a-6dfb-4571-b2cd-23dece7605f7</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-5b294c6a-6dfb-4571-b2cd-23dece7605f7" reference="Name">Darkness</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Daylight</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-471996e3-3d11-4b5b-9221-6cddd72cae0d</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a7f4fe90-a4d4-4479-8dc8-84ad41941342</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-a7f4fe90-a4d4-4479-8dc8-84ad41941342" reference="Name">Daylight</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Delay Poison</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e4ff48bb-0fa5-4673-a453-e5ba39ad1727</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-98922d47-baa8-48b6-ae0a-9adb3c5258f1</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-98922d47-baa8-48b6-ae0a-9adb3c5258f1" reference="Name">Delay Poison</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Eagle's Splendor</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-847a86d5-dd9a-4280-8ade-a6e46bee0b99</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-bc056501-69c2-43e0-99ab-5194d2822cbc</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-bc056501-69c2-43e0-99ab-5194d2822cbc" reference="Name">Eagle's Splendor</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of False Life</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-b2cdcb3f-62cb-47ea-b123-c7d88d51e0c4</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d5e79545-c694-4cd0-bc65-497c6ac74c77</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-d5e79545-c694-4cd0-bc65-497c6ac74c77" reference="Name">False Life</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fox's Cunning</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6e497deb-18bd-42ee-8e54-f0cbdeac9759</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f46da990-af3f-464b-b8ab-dc8e2761c805</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-f46da990-af3f-464b-b8ab-dc8e2761c805" reference="Name">Fox's Cunning</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Ghoul Touch</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-98e1e33d-de4f-4ec5-8c07-e6440f8d7c66</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c04ebb3d-ed61-444e-858a-98723c7b0b4c</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-c04ebb3d-ed61-444e-858a-98723c7b0b4c" reference="Name">Ghoul Touch</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Hold Person</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-b630315c-deb6-463f-9390-d938ff097137</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4fc324d8-62a3-47ed-b914-a9ecbb639404</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-4fc324d8-62a3-47ed-b914-a9ecbb639404" reference="Name">Hold Person</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Invisibility</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-3c7da3d5-7630-44e5-a76e-f5e585090185</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e" reference="Name">Invisibility</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Knock</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-231558ec-86c5-4cf6-8e32-27b096ec46fc</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-baef60a5-5a60-4c0b-9369-b7dec78f79f3</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-baef60a5-5a60-4c0b-9369-b7dec78f79f3" reference="Name">Knock</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Levitate</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-192362b9-69be-45f2-a1f0-598c671de79b</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3" reference="Name">Levitate</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Acid Arrow</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-a71ef03a-cf3f-4052-bbff-15caa7cc3261</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c16853aa-6890-40df-a430-6251904a288f</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-c16853aa-6890-40df-a430-6251904a288f" reference="Name">Acid Arrow</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Mirror Image</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-74621e8b-c372-4817-b4a8-c6f19346b4ac</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ec5d34ed-7de2-457f-8996-76b941168325</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-ec5d34ed-7de2-457f-8996-76b941168325" reference="Name">Mirror Image</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Owl's Wisdom</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-1da47878-d402-4586-a795-8ca70925b513</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d522f87-d663-4139-9550-ec9ed90eb5c6</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-2d522f87-d663-4139-9550-ec9ed90eb5c6" reference="Name">Owl's Wisdom</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Shatter</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-96aa307e-faa2-4d5c-87b9-acb9519e396f</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-3c2ff241-6f82-491d-80d9-16a21004becc</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-3c2ff241-6f82-491d-80d9-16a21004becc" reference="Name">Shatter</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Silence</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-4b0f7e23-6b6e-48ae-97a9-4d6d13dd175a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-98959102-9862-4ced-a30e-69f9ae1f8009</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-98959102-9862-4ced-a30e-69f9ae1f8009" reference="Name">Silence</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Summon Monster II</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6853abd6-c2b9-4b42-ac5a-88b3509c442c</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-833d11fa-fd35-4cc6-b0de-c3400e513190</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-833d11fa-fd35-4cc6-b0de-c3400e513190" reference="Name">Summon Monster II</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Web</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-37b5daf2-49cd-4cc1-8782-49f3ca87cf7a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-24755cea-6242-4773-86bf-9852a923b00f</HTMLGUID>
+    <MarketPrice>4500 gp</MarketPrice>
+    <CasterLevel>3</CasterLevel>
+    <Spell FK="030-24755cea-6242-4773-86bf-9852a923b00f" reference="Name">Web</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Magic Missile (7th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-9a3f8ca0-fcf3-4709-af2f-8031bb3a1be4</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <MarketPrice>5250 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Magic Missile (9th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-391a2ad9-eb61-48d7-924f-0858927a744a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <MarketPrice>6750 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Call Lightning</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-5dd8feed-a772-4b49-ac85-4c0c4637d46f</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a8a3e2d0-9afb-42e8-a6ba-7e3cfa31356c</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-a8a3e2d0-9afb-42e8-a6ba-7e3cfa31356c" reference="Name">Call Lightning</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Charm Person (Heightened to 3rd Level)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-b2d5a43e-f63a-4ba7-8290-3c6bc25c0d17</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62" reference="Name">Charm Person</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Contagion</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-7fedeedd-98ca-4706-a4b2-9102ae0607f5</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6c4861a4-0eab-49cb-abf3-8b33f10b0a95</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-6c4861a4-0eab-49cb-abf3-8b33f10b0a95" reference="Name">Contagion</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Cure Serious Wounds</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-38128a10-c850-43dd-87d0-3d7dbafaf7f1</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df" reference="Name">Cure Serious Wounds</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Dispel Magic</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-2f59ad09-bae1-466c-9ef8-db5e4d21aa18</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-415954c1-b0f2-4194-a20c-c86af4c28077</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-415954c1-b0f2-4194-a20c-c86af4c28077" reference="Name">Dispel Magic</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fireball</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-29b8b8ba-551a-4c41-9bf0-d774bd89ad3b</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Keen Edge</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6abc822c-296e-49b0-977a-fb2fef6c1f6e</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4e0bb517-54e2-442e-86db-f97ed7d42dec</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-4e0bb517-54e2-442e-86db-f97ed7d42dec" reference="Name">Keen Edge</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Lightning Bolt</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e683c4c4-0547-4f7f-880b-6625a0e8f227</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-644a5260-f3cd-4e8c-9287-3133fe35acd0</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-644a5260-f3cd-4e8c-9287-3133fe35acd0" reference="Name">Lightning Bolt</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Major Image</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-44b2f8a6-90a1-4ba4-be10-842c464ee7ff</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-99e304fe-6817-45da-a11b-689e6b48faa2</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-99e304fe-6817-45da-a11b-689e6b48faa2" reference="Name">Major Image</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Slow</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-7c7bcd90-6ed3-438e-a7ac-abcac2fb97d9</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-8a5955c6-23f8-44b3-bf6c-17f36d8179aa</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-8a5955c6-23f8-44b3-bf6c-17f36d8179aa" reference="Name">Slow</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Suggestion</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6e522932-aa36-46fc-84ab-cbbaebad54c6</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-33bfbfa7-c1e0-4524-b952-776a8c2effd9</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-33bfbfa7-c1e0-4524-b952-776a8c2effd9" reference="Name">Suggestion</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Summon Monster III</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-01d90060-f7b9-47ab-9749-5080cec27821</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-872e2859-f0cd-43e5-8153-72f6ea805b73</HTMLGUID>
+    <MarketPrice>11250 gp</MarketPrice>
+    <CasterLevel>5</CasterLevel>
+    <Spell FK="030-872e2859-f0cd-43e5-8153-72f6ea805b73" reference="Name">Summon Monster III</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fireball (6th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e2f62963-b9da-4ee4-988f-0427e1169ef6</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <MarketPrice>13500 gp</MarketPrice>
+    <CasterLevel>6</CasterLevel>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Lightning Bolt (6th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-94670cd2-d0fa-4015-abab-bde952f93256</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-644a5260-f3cd-4e8c-9287-3133fe35acd0</HTMLGUID>
+    <MarketPrice>13500 gp</MarketPrice>
+    <CasterLevel>6</CasterLevel>
+    <Spell FK="030-644a5260-f3cd-4e8c-9287-3133fe35acd0" reference="Name">Lightning Bolt</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Searing Light (6th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6aa549ec-2f8f-43a3-9576-230f9992dd3b</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4a52d21f-5b64-4faf-8ed7-9c736d04bfb5</HTMLGUID>
+    <MarketPrice>13500 gp</MarketPrice>
+    <CasterLevel>6</CasterLevel>
+    <Spell FK="030-4a52d21f-5b64-4faf-8ed7-9c736d04bfb5" reference="Name">Searing Light</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Call Lightning (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-aa76b64b-7605-4023-b5f2-392874a2c192</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a8a3e2d0-9afb-42e8-a6ba-7e3cfa31356c</HTMLGUID>
+    <MarketPrice>18000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-a8a3e2d0-9afb-42e8-a6ba-7e3cfa31356c" reference="Name">Call Lightning</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fireball (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-ae396237-74e3-4f4b-a8ce-62a3e1964093</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <MarketPrice>18000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Lightning Bolt (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-58e01491-a703-4e32-8db5-79c459717316</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-644a5260-f3cd-4e8c-9287-3133fe35acd0</HTMLGUID>
+    <MarketPrice>18000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-644a5260-f3cd-4e8c-9287-3133fe35acd0" reference="Name">Lightning Bolt</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Charm Monster</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-62c497a0-40ae-40a0-8375-d83832320092</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f84bc9de-be38-45c6-bf31-d85a1e2ffd2b</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-f84bc9de-be38-45c6-bf31-d85a1e2ffd2b" reference="Name">Charm Monster</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Cure Critical Wounds</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-f9536507-a5fb-4197-8947-34c5af37bb60</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c357cb83-e834-47d4-85d4-e8e105954e42</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-c357cb83-e834-47d4-85d4-e8e105954e42" reference="Name">Cure Critical Wounds</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Dimensional Anchor</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-a3fd308e-f74c-44b1-9206-9d1b0e6d6c9f</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4867fc4e-5526-4422-8d10-89fbab168702</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-4867fc4e-5526-4422-8d10-89fbab168702" reference="Name">Dimensional Anchor</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fear</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-158d2fd0-6da1-4292-980c-a42fb7a91a03</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-3bcb8b8a-1f3e-4388-9647-3464cffa4fea</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-3bcb8b8a-1f3e-4388-9647-3464cffa4fea" reference="Name">Fear</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Invisibility, Greater</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-30c7aa7b-21d7-4c10-bc84-3198a859fef4</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-e56f4b36-5ffd-461c-b308-e45affa0ebd3</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-e56f4b36-5ffd-461c-b308-e45affa0ebd3" reference="Name">Invisibility, Greater</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Hold Person (Heightened to 4th Level)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-1306e751-6ba8-4a18-8e12-39e988aa907d</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4fc324d8-62a3-47ed-b914-a9ecbb639404</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-4fc324d8-62a3-47ed-b914-a9ecbb639404" reference="Name">Hold Person</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Ice Storm</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-c6cef115-2dad-4b7f-bd6e-22af1314bf60</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-0aa909c8-5529-4029-bb4f-b660cf76273d</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-0aa909c8-5529-4029-bb4f-b660cf76273d" reference="Name">Ice Storm</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Inflict Critical Wounds</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e72702c2-217e-4a3b-8035-2689437a3aed</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-deea19c8-5042-4615-a63a-4fb35137f781</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-deea19c8-5042-4615-a63a-4fb35137f781" reference="Name">Inflict Critical Wounds</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Neutralize Poison</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-9be8333d-83d5-41ef-a6ee-2a9438faa1ad</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-aa3f3d0e-a7bc-4d4a-808e-ae0e36713ff7</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-aa3f3d0e-a7bc-4d4a-808e-ae0e36713ff7" reference="Name">Neutralize Poison</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Poison</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-7ce552c0-5eed-43b6-b03f-7785b65d2fd6</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f8bd1b62-a508-4c70-9657-1cc11eb076ad</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-f8bd1b62-a508-4c70-9657-1cc11eb076ad" reference="Name">Poison</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Polymorph</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-70456dc2-2c23-4344-a5e6-7192846f8bad</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34f4de82-c675-4ebd-a71a-ee94926b541e</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>9</CasterLevel>
+    <Spell FK="030-34f4de82-c675-4ebd-a71a-ee94926b541e" reference="Name">Polymorph</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Ray of Enfeeblement (Heightened to 4th Level)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-4db97e9e-0d22-47e0-9699-107c508aab5a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-16de206e-69c1-4ad0-9d18-baf2d143b289</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-16de206e-69c1-4ad0-9d18-baf2d143b289" reference="Name">Ray of Enfeeblement</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Suggestion (Heightened to 4th Level)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6446568e-dd94-40a4-853c-9e49aa243597</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-33bfbfa7-c1e0-4524-b952-776a8c2effd9</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-33bfbfa7-c1e0-4524-b952-776a8c2effd9" reference="Name">Suggestion</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Summon Monster IV</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-430148bd-b1e9-4816-a61e-10bbc0f26da4</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2a56b5fa-58ac-40cb-b423-98c9e9aa84ea</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-2a56b5fa-58ac-40cb-b423-98c9e9aa84ea" reference="Name">Summon Monster IV</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Wall of Fire</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-028cb71d-78de-4f4c-b344-3d3a47437cd2</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-0f5dc2ea-92e2-4acb-a810-97c20ea076aa</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-0f5dc2ea-92e2-4acb-a810-97c20ea076aa" reference="Name">Wall of Fire</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Wall of Ice</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-fc2ad96b-3e26-4ac8-a3b9-71aaa3dca744</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-3cdd733b-de36-4915-b61a-85d6e3dc94b0</HTMLGUID>
+    <MarketPrice>21000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-3cdd733b-de36-4915-b61a-85d6e3dc94b0" reference="Name">Wall of Ice</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Dispel Magic (10th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-32069045-edfd-4972-b15d-8066d61a8928</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-415954c1-b0f2-4194-a20c-c86af4c28077</HTMLGUID>
+    <MarketPrice>22500 gp</MarketPrice>
+    <CasterLevel>10</CasterLevel>
+    <Spell FK="030-415954c1-b0f2-4194-a20c-c86af4c28077" reference="Name">Dispel Magic</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Fireball (10th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-9c31e75d-a765-45f6-ba37-4d6a07146494</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <MarketPrice>22500 gp</MarketPrice>
+    <CasterLevel>10</CasterLevel>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Lightning Bolt (10th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-2025bfbb-0df2-4358-bc8d-ac9a34457c24</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-644a5260-f3cd-4e8c-9287-3133fe35acd0</HTMLGUID>
+    <MarketPrice>22500 gp</MarketPrice>
+    <CasterLevel>10</CasterLevel>
+    <Spell FK="030-644a5260-f3cd-4e8c-9287-3133fe35acd0" reference="Name">Lightning Bolt</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Chaos Hammer (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-82dfa333-6da6-4b05-8002-71dcacaf2259</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-24ef6918-2662-484b-9edf-78996aedd4b4</HTMLGUID>
+    <MarketPrice>24000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-24ef6918-2662-484b-9edf-78996aedd4b4" reference="Name">Chaos Hammer</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Holy Smite (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6b8c6a0d-85be-474b-93fc-68a965204637</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-5e69f6d5-d9de-4231-97f2-07f9f87ece05</HTMLGUID>
+    <MarketPrice>24000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-5e69f6d5-d9de-4231-97f2-07f9f87ece05" reference="Name">Holy Smite</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Order's Wrath (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-8e559a41-44bb-4a6f-9cb5-4e64ca5c9468</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-aac49997-51dc-47ce-b498-0171f7227945</HTMLGUID>
+    <MarketPrice>24000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-aac49997-51dc-47ce-b498-0171f7227945" reference="Name">Order's Wrath</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Unholy Blight (8th)</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-6f645b6b-c647-4d6a-b2fc-7673f7a4a6a2</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-88e60a08-93c9-4085-b10f-fc407ca9334c</HTMLGUID>
+    <MarketPrice>24000 gp</MarketPrice>
+    <CasterLevel>8</CasterLevel>
+    <Spell FK="030-88e60a08-93c9-4085-b10f-fc407ca9334c" reference="Name">Unholy Blight</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Restoration</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-7b8caafd-fa59-40de-8042-05594f52296a</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-907c9ea3-2fcf-495f-a602-788eace9df46</HTMLGUID>
+    <MarketPrice>26000 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-907c9ea3-2fcf-495f-a602-788eace9df46" reference="Name">Restoration</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wand of Stoneskin</Name>
+    <Type>Wand Definition</Type>
+    <ObjectGUID>021-e21115ff-64dc-4a68-bac4-07c3f824daf3</ObjectGUID>
+    <ParentGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-9f81d8f4-8a46-4444-8a9b-cfe74014c76e</HTMLGUID>
+    <MarketPrice>33500 gp</MarketPrice>
+    <CasterLevel>7</CasterLevel>
+    <Spell FK="030-9f81d8f4-8a46-4444-8a9b-cfe74014c76e" reference="Name">Stoneskin</Spell>
+    <Description />
+    <ImageFilename>MagicItemsWands.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dorje of Adapt Body</Name>
+    <Type>Psionic Dorje Definition</Type>
+    <ObjectGUID>021-fa622a5f-24fe-4f3e-80f2-8d35fd07d9be</ObjectGUID>
+    <ParentGUID>001-79227ee3-0db2-4324-ba40-c4f237dc4554</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125</HTMLGUID>
+    <MarketPrice>1 gp</MarketPrice>
+    <ManifesterLevel>1</ManifesterLevel>
+    <Power FK="034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125" reference="Name">Adapt Body</Power>
+    <Description>test</Description>
+    <License>
+    </License>
+    <Sourcebook>
+    </Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Dorje.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

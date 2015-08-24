@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<ActionType>Free</ActionType>
+	<ActionType>Move</ActionType>
+	<ActionType>Standard</ActionType>
+	<ActionType>Full Attack</ActionType>
+	<ActionType>Special</ActionType>
+</RPGXplorerConfig>

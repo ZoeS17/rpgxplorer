@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Acid</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-36bcc5b7-1d16-43b1-bfcb-460f08612f10</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-370a61c4-130e-4056-b4be-347d2d318105</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-dce4d9f0-2a14-4062-a016-4a3971712974</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkness</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-1b3b6cf6-3edf-479d-92e2-f703018baacb</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Death</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-08a31532-fc2a-497c-852f-e5b7b3b0e675</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Earth</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-428d0d47-3c58-400f-96e8-5ce65e58cbe2</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Electricity</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-0510568d-1aa7-4a15-b6e7-0fde32b2b1d5</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evil</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-5d87f95a-64cc-4446-a162-7e64fb57d2a8</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fear</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-f9c103cf-9126-4e89-ab93-44e290fb2d7a</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-2d9a5925-b267-4d79-ad69-1fdbbd913ce2</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Force</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-a25116b8-9faa-4e6d-8ac4-1dcc601cebc6</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Good</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-50e3983f-ad04-47a6-bcff-302215a5d1cc</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Language-Dependant</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-faf22907-f976-48cc-bb9b-ce96c56a4326</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-9972658f-5fa7-4ce3-b506-5c9709f7f249</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Light</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-b17724d3-0df8-4941-8997-5b8106b954d3</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mind-Affecting</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-f4e3ad76-c5c7-4f08-875d-7106bfa7a1de</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sonic</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-29358181-24b1-4494-a0f8-f7feeacc275c</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Water</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-ebcc183f-c497-4c6a-9073-c4fb19daf9aa</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Air</Name>
+    <Type>Spell Descriptor Definition</Type>
+    <ObjectGUID>028-ca7164b1-7568-4734-b8e5-2b4b78cb2024</ObjectGUID>
+    <ParentGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ParentGUID>
+    <HTML>Rules\SpellDescriptors.htm</HTML>
+    <HTMLGUID>028-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

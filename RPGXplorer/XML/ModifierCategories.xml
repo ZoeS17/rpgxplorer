@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<ModifierCategory>Normal Modifier</ModifierCategory>
+	<ModifierCategory>Use Ability Modifier</ModifierCategory>
+	<ModifierCategory>Use Ability Modifier (positive only)</ModifierCategory>
+  <ModifierCategory>Use Ability Modifier (+1 minimum)</ModifierCategory>
+	<ModifierCategory>Percentage Modifier</ModifierCategory>
+	<ModifierCategory>Dice Range Modifier</ModifierCategory>
+	<ModifierCategory>Complex Modifier</ModifierCategory>
+</RPGXplorerConfig>

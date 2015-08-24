@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RPGXplorerConfig>
+	<CarryingLoad>
+		<Load>Medium</Load>
+		<MaxDex>3</MaxDex>
+		<CheckPenalty>-3</CheckPenalty>
+		<Speed20ft>15</Speed20ft>
+		<Speed30ft>20</Speed30ft>
+		<Speed40ft>30</Speed40ft>
+		<Speed50ft>35</Speed50ft>
+		<Run>4</Run>
+	</CarryingLoad>
+	<CarryingLoad>
+		<Load>Heavy</Load>
+		<MaxDex>1</MaxDex>
+		<CheckPenalty>-6</CheckPenalty>
+		<Speed20ft>15</Speed20ft>
+		<Speed30ft>20</Speed30ft>
+		<Speed40ft>30</Speed40ft>
+		<Speed50ft>35</Speed50ft>
+		<Run>3</Run>
+	</CarryingLoad>
+	<CarryingLoad>
+		<Load>Too Heavy</Load>
+		<MaxDex>0</MaxDex>
+		<CheckPenalty>0</CheckPenalty>
+		<Speed20ft>0</Speed20ft>
+		<Speed30ft>0</Speed30ft>
+		<Speed40ft>0</Speed40ft>
+		<Speed50ft>0</Speed50ft>
+		<Run>3</Run>
+	</CarryingLoad>
+</RPGXplorerConfig>
+

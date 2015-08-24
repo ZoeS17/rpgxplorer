@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RPGXplorerConfig>
+	<AgeRollType>Type 1 - Barbarian, Rogue, Sorceror</AgeRollType>
+	<AgeRollType>Type 2 - Bard, Fighter, Paladin, Ranger</AgeRollType>
+	<AgeRollType>Type 3 - Cleric, Druid, Monk, Wizard</AgeRollType>
+</RPGXplorerConfig>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+	<RPGXplorerConfig>
+	<Size>Fine</Size>
+	<Size>Diminutive</Size>
+	<Size>Tiny</Size>
+	<Size>Small</Size>
+	<Size>Medium</Size>
+	<Size>Large</Size>
+	<Size>Huge</Size>
+	<Size>Gargantuan</Size>
+	<Size>Colossal</Size>			
+</RPGXplorerConfig>

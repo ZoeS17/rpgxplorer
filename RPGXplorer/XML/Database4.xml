@@ -1,0 +1,1457 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Padded</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-2c3ad52e-860f-4c71-bcd4-004d51c39cf3</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Padded.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>0</ArmorCheck>
+    <MaxDexBonus>+8</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>5</DonHastilyTime>
+    <DonHastilyType>Round(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <ImageFilename>ArmorPadded.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Leather</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-e735373f-d4bc-4b45-911d-a190170452d3</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Leather.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>15 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>0</ArmorCheck>
+    <MaxDexBonus>+6</MaxDexBonus>
+    <SpellFailure>10%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>5</DonHastilyTime>
+    <DonHastilyType>Round(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <ImageFilename>ArmorLeather.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Studded Leather</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-3718fac1-e411-4896-9167-8b1eb46f6a84</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Studded Leather.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>20 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+3</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>+5</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>5</DonHastilyTime>
+    <DonHastilyType>Round(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <ImageFilename>ArmorStuddedLeather.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chain Shirt</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-8f2f9f0c-396f-429c-adc6-4047b1d89f67</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Chain Shirt.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>25 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+4</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>+4</MaxDexBonus>
+    <SpellFailure>20%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>5</DonHastilyTime>
+    <DonHastilyType>Round(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>A chain shirt comes with a steel cap.</Description>
+    <ImageFilename>ArmorChainShirt.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hide</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-0c634efe-04d7-42c0-91d7-63225c694bfa</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Hide.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>25 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+3</ArmorBonus>
+    <ArmorCheck>-3</ArmorCheck>
+    <MaxDexBonus>+4</MaxDexBonus>
+    <SpellFailure>20%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>5</DonHastilyTime>
+    <DonHastilyType>Round(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <ImageFilename>ArmorHide.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scale Mail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-fa1d0304-214d-4cfc-bbe9-b6243c5d8e80</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Scale Mail.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>30 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+4</ArmorBonus>
+    <ArmorCheck>-4</ArmorCheck>
+    <MaxDexBonus>+3</MaxDexBonus>
+    <SpellFailure>25%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets.</Description>
+    <ImageFilename>ArmorScaleMail.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chainmail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-42189de2-6018-428d-9185-d7d876894929</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Chainmail.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>40 lb.</Weight>
+    <Cost>150 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+5</ArmorBonus>
+    <ArmorCheck>-5</ArmorCheck>
+    <MaxDexBonus>+2</MaxDexBonus>
+    <SpellFailure>30%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets.</Description>
+    <ImageFilename>ArmorChainmail.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Breastplate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-8af1f804-74da-487b-832e-aad3d5aff897</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Breastplate.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>30 lb.</Weight>
+    <Cost>200 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+5</ArmorBonus>
+    <ArmorCheck>-4</ArmorCheck>
+    <MaxDexBonus>+3</MaxDexBonus>
+    <SpellFailure>25%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>It comes with a helmet and greaves.</Description>
+    <ImageFilename>ArmorBreastplate.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Splint Mail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-46c0519c-1d1c-4215-98b1-7f774267aa77</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Splint Mail.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>45 lb.</Weight>
+    <Cost>200 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+6</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>0</MaxDexBonus>
+    <SpellFailure>40%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <ImageFilename>ArmorSplintMail.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Banded Mail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-7ea10eee-76ae-41a4-9243-9f9885c992f7</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Banded Mail.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>35 lb.</Weight>
+    <Cost>250 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+6</ArmorBonus>
+    <ArmorCheck>-6</ArmorCheck>
+    <MaxDexBonus>+1</MaxDexBonus>
+    <SpellFailure>35%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets.</Description>
+    <ImageFilename>ArmorBanded.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Half-Plate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-cbd90fe0-bbbd-4b26-8905-6d023cefe485</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Half-Plate.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>50 lb.</Weight>
+    <Cost>600 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+7</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>0</MaxDexBonus>
+    <SpellFailure>40%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>4</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp>Yes</DonHastilyHelp>
+    <RemoveTime>1d4+1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp>Yes</RequiresHelp>
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets.</Description>
+    <ImageFilename>ArmorHalfPlate.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Full Plate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-34dcd005-c9ce-4766-b512-0e01a75b88ba</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Full Plate.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>50 lb.</Weight>
+    <Cost>1500 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+8</ArmorBonus>
+    <ArmorCheck>-6</ArmorCheck>
+    <MaxDexBonus>+1</MaxDexBonus>
+    <SpellFailure>35%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>4</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp>Yes</DonHastilyHelp>
+    <RemoveTime>1d4+1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp>Yes</RequiresHelp>
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets, heavy leather boots, a visored helmet and a thick layer of padding that is worn underneath the armor. </Description>
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarven Plate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-ef83f799-600f-43e8-a15d-ba6b14502950</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Dwarven Plate.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>50 lb.</Weight>
+    <Cost>16500 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+8</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>+1</MaxDexBonus>
+    <SpellFailure>35%</SpellFailure>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime>4</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp>Yes</DonHastilyHelp>
+    <RemoveTime>1d4+1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp>Yes</RequiresHelp>
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>Full Plate armor made from adamantine. Grants wearer DR 3/-.</Description>
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>DR 3/-</Name>
+    <Type>Damage Reduction</Type>
+    <ObjectGUID>004-cbe8dfa4-c199-4bdd-9202-ecb1853304fa</ObjectGUID>
+    <ParentGUID>004-ef83f799-600f-43e8-a15d-ba6b14502950</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Reduction>3</Reduction>
+    <DROvercomeByType>-</DROvercomeByType>
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elven Chain</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-0b7e9ca5-6a33-4bf3-bfbe-3f90125eecbf</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Elven Chain.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>20 lb.</Weight>
+    <Cost>4150 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+5</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>+4</MaxDexBonus>
+    <SpellFailure>20%</SpellFailure>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>4</DonTime>
+    <DonType>Minute(s)</DonType>
+    <DonHelp>Yes</DonHelp>
+    <DonHastilyTime>1</DonHastilyTime>
+    <DonHastilyType>Minute(s)</DonHastilyType>
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Minute(s)</RemoveType>
+    <RemoveHelp>Yes</RemoveHelp>
+    <RequiresHelp />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>Extremely light chainmail made from fine mithral links.</Description>
+    <ImageFilename>ArmorChainmail.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Celestial Armor (Base)</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-eabedbbf-18b2-43a9-ab04-0a104c223664</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Celestial Armor.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>20 lb.</Weight>
+    <Cost />
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+5</ArmorBonus>
+    <ArmorCheck>-3</ArmorCheck>
+    <MaxDexBonus>+8</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem>Yes</BaseItem>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorChainmail.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rhino Hide (Base)</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-59cbff8c-7ae1-4289-afa1-27bc37439721</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Rhino Hide.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>25 lb.</Weight>
+    <Cost />
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+3</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>+4</MaxDexBonus>
+    <SpellFailure>20%</SpellFailure>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem>Yes</BaseItem>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorHide.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Full Plate with Spikes</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-9666975d-4e33-4306-b362-8d795932b6e3</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Full Plate with Spikes.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>60 lb.</Weight>
+    <Cost>1550 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+8</ArmorBonus>
+    <ArmorCheck>-6</ArmorCheck>
+    <MaxDexBonus>+1</MaxDexBonus>
+    <SpellFailure>35%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets, heavy leather boots, a visored helmet and a thick layer of padding that is worn underneath the armor. </Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Half-Plate with Spikes</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-7764b8bf-f8e8-49b2-b46a-e29f120df5f0</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Half-Plate with Spikes.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>60 lb.</Weight>
+    <Cost>650 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+7</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>0</MaxDexBonus>
+    <SpellFailure>40%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>2d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>The suit includes gauntlets.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorHalfPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Buckler</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-621edcd3-2a81-4313-a034-dc67ddee5175</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Buckler.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem>Yes</HoldItem>
+    <WieldWeapon>Yes</WieldWeapon>
+    <Description>This small metal shield is worn strapped to your forearm. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsBuckler.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield, Light Wooden</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-fb450c80-b9e0-410d-aad2-576eafa81b2a</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Shield, Light Wooden.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>3 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <DamageType>Bludgeoning</DamageType>
+    <Encumberance>Light</Encumberance>
+    <TowerShield />
+    <HoldItem>Yes</HoldItem>
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsWoodenSmall.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield, Light Steel</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-5468bf8e-ec27-4397-b730-080904b4c29d</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Shield, Light Steel.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>9 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <DamageType>Bludgeoning</DamageType>
+    <Encumberance>Light</Encumberance>
+    <TowerShield />
+    <HoldItem>Yes</HoldItem>
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsSteelSmall.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield, Heavy Steel</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-bdf111dc-ed27-44c9-a91c-7c63d503945f</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Shield, Heavy Steel.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>15 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <DamageType>Bludgeoning</DamageType>
+    <Encumberance>One-Handed</Encumberance>
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsSteelLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield, Heavy Wooden</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-529fb560-8dbb-49e1-8bbd-091518903616</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Shield, Heavy Wooden.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>7 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <DamageType>Bludgeoning</DamageType>
+    <Encumberance>One-Handed</Encumberance>
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsWoodenLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield, Tower</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-9140be6c-1aec-40fa-a76c-6c19715b7560</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Shield, Tower.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>45 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+4</ArmorBonus>
+    <ArmorCheck>-10</ArmorCheck>
+    <MaxDexBonus>+2</MaxDexBonus>
+    <SpellFailure>50%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageType />
+    <Encumberance />
+    <DonTime>1</DonTime>
+    <DonType>Move Action(s)</DonType>
+    <DonHelp />
+    <DonHastilyTime />
+    <DonHastilyType />
+    <DonHastilyHelp />
+    <RemoveTime>1</RemoveTime>
+    <RemoveType>Move Action(s)</RemoveType>
+    <RemoveHelp />
+    <RequiresHelp />
+    <TowerShield>Yes</TowerShield>
+    <HoldItem />
+    <WieldWeapon />
+    <Description>In most situation, it provides the indicated shield bonus to your AC. However, you can instead use it as total cover.</Description>
+    <ImageFilename>ShieldsTower.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>-2 Attack Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>004-0fc926dd-e756-4d43-9b4c-d6a4297271b8</ObjectGUID>
+    <ParentGUID>004-9140be6c-1aec-40fa-a76c-6c19715b7560</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-75ec881b-7a16-4933-859f-3f3508d53203" reference="Name">Attack Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>-2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spiked Shield, Heavy Steel</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-d6e63f66-eb35-4e6e-a4fa-10565ba0932a</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Spiked Shield, Heavy Steel.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>20 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance>One-Handed</Encumberance>
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsSteelLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spiked Shield, Heavy Wooden</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-90850617-eec9-4c98-8bd6-e047deffb44f</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Spiked Shield, Heavy Wooden.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>15 lb.</Weight>
+    <Cost>17 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>-2</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance>One-Handed</Encumberance>
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsWoodenLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spiked Shield, Light Steel</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-cdb17138-2619-4c7c-872a-9234fda39a81</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Spiked Shield, Light Steel.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>11 lb.</Weight>
+    <Cost>19 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance>Light</Encumberance>
+    <TowerShield />
+    <HoldItem>Yes</HoldItem>
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsSteelSmall.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spiked Shield, Light Wooden</Name>
+    <Type>Shield Definition</Type>
+    <ObjectGUID>004-05ce809f-bb67-456b-a315-f90006d36820</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Spiked Shield, Light Wooden.htm</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>13 gp</Cost>
+    <Training>Shield</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>-</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <DamageType>Piercing</DamageType>
+    <Encumberance>Light</Encumberance>
+    <TowerShield />
+    <HoldItem>Yes</HoldItem>
+    <WieldWeapon />
+    <Description>You strap a shield to your forearm and grip it with your hand. See Rule Page.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ShieldsWoodenSmall.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Chainmail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-278c2395-220f-47f4-8942-48f4f46bb49c</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>40 lb.</Weight>
+    <Cost>150 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+5</ArmorBonus>
+    <ArmorCheck>-5</ArmorCheck>
+    <MaxDexBonus>+2</MaxDexBonus>
+    <SpellFailure>30%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorChainmail.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Plate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-b39d030e-4032-4916-b2a9-87363f704ad8</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>50 lb.</Weight>
+    <Cost>1500 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+8</ArmorBonus>
+    <ArmorCheck>-6</ArmorCheck>
+    <MaxDexBonus>+1</MaxDexBonus>
+    <SpellFailure>35%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Half-Plate</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-71761e8d-a888-46de-a3e3-162769fa707b</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>50 lb.</Weight>
+    <Cost>600 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+7</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>0</MaxDexBonus>
+    <SpellFailure>40%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorHalfPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Hide</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-cdad2020-7c59-449c-a6b2-44b314590584</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>25 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+3</ArmorBonus>
+    <ArmorCheck>-3</ArmorCheck>
+    <MaxDexBonus>+4</MaxDexBonus>
+    <SpellFailure>20%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorHide.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Leather</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-9dd3a75c-7baa-4d44-9683-3dcdec87777d</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>15 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+2</ArmorBonus>
+    <ArmorCheck>0</ArmorCheck>
+    <MaxDexBonus>+6</MaxDexBonus>
+    <SpellFailure>10%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorLeather.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Padded</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-f6cb0779-9404-4c50-8dca-549f2de90d10</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+1</ArmorBonus>
+    <ArmorCheck>0</ArmorCheck>
+    <MaxDexBonus>+8</MaxDexBonus>
+    <SpellFailure>5%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorPadded.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Scale Mail </Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-9940b390-a654-4134-aa83-80d91e9cce09</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>30 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Training>Medium</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+4</ArmorBonus>
+    <ArmorCheck>-4</ArmorCheck>
+    <MaxDexBonus>+3</MaxDexBonus>
+    <SpellFailure>25%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorScaleMail.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Splint Mail</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-d9415d96-afbc-4de1-82bd-d98ee79e0979</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>45 lb.</Weight>
+    <Cost>200 gp</Cost>
+    <Training>Heavy</Training>
+    <ReduceSpeed>Yes</ReduceSpeed>
+    <ArmorBonus>+6</ArmorBonus>
+    <ArmorCheck>-7</ArmorCheck>
+    <MaxDexBonus>0</MaxDexBonus>
+    <SpellFailure>40%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorSplintMail.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barding, Studded Leather</Name>
+    <Type>Armor Definition</Type>
+    <ObjectGUID>004-2b4f6524-67fe-4aab-95af-cffc4300f69b</ObjectGUID>
+    <ParentGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Armor And Shields\Barding.html</HTML>
+    <HTMLGUID>004-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>20 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <Training>Light</Training>
+    <RecuceSpeed />
+    <ArmorBonus>+3</ArmorBonus>
+    <ArmorCheck>-1</ArmorCheck>
+    <MaxDexBonus>+5</MaxDexBonus>
+    <SpellFailure>15%</SpellFailure>
+    <Masterwork />
+    <BaseItem />
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall />
+    <DamageMedium />
+    <DamageLarge />
+    <DamageHuge />
+    <DamageGargantuan />
+    <DamageColossal />
+    <DamageType />
+    <Encumberance />
+    <TowerShield />
+    <HoldItem />
+    <WieldWeapon />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorStuddedLeather.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

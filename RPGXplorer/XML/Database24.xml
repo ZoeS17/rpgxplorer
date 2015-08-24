@@ -1,0 +1,1074 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>vs. traps/attack by traps</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-12401c40-9fff-46dd-a1a8-a0b70328a8a0</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when using spells or spell-like abilities in combat</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-40cf74ff-4f34-4f82-88e0-c9d3e6ac5527</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to find secret doors or hidden compartments</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-ce313301-2442-404d-931a-46c25ec35b94</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. enchantment spells or effects</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-326cd6c2-7e76-463e-affd-5956eb9fa077</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. spell like abilities of fey</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-15d6beed-d904-45ec-9093-2378f057abe4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. opponents denied DEX bonus to AC</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-edd69ccf-8924-475c-99c2-fde74013fc65</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. charm/fear effects while under effect of Inspire Courage</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-4a4e6da4-d1d7-40b8-8577-7207ee8389cf</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. evil creature (single attack)</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-67f1f778-6a49-497e-8bb4-983bf594e336</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to cast a spell or use a spell-like ability while on the defensive or grappling or pinned</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-89e27d49-88c4-45f8-9c96-39de4f719c2c</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to resist non-lethal damage</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-38db23e8-eb9a-464b-97ea-6d8ebcd9cf85</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to continue running</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-35683b91-ac5c-446f-9a5f-9b4bcf630dd1</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to avoid non-lethal damage from a forced march</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-874f3cdf-1156-40fc-8347-2ea4a673ef0c</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to hold your breath</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-cf7f8e1a-398a-41e6-bc1c-d8ca8ed61506</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to avoid non-lethal damage from starvation or thirst</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-7a9258a3-6d0b-477e-aedd-580637269412</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to avoid non-lethal damage from hot or cold environments</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-5e91b0a0-24f4-4a93-8cda-e1e0f14faa57</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to resist damage from suffocation</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-5aec8585-b2a9-4256-9b0f-3d3978e7dc6c</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to overcome a creature's spell resistance</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-c974747b-e81b-4f4f-b7a6-4e5edfa86381</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. object held or carried by another</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-12d22364-39f6-4561-96f5-fddef5bb6265</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. attacks of opportunity when moving into or out of threatened spaces</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-cb0138e5-ae31-4b30-917f-8625d9d9f7ae</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>with ranged weapon up to range of 30ft.</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-543eea98-fc9b-460c-ab47-2ac2c16e3af4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>with a running start</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-0362043f-619e-4d78-893a-82e2cc91d7e3</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when wielding double or two weapons</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d9405657-f660-4703-b85a-af1ef45c8ee4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when wielding double or two weapons - fighting defensively/total defense</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-dbdcebd0-a5f0-4ee2-b487-7b5356896c1e</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to conceal a dagger on your body</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-f7d4712f-ee2b-477f-ad16-71c3ddfff9ea</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to avoid being disarmed</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-cfbe7838-c825-4012-9514-1bd693d546d8</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>related to stone or metal items</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-3a5b63cf-c584-4eff-b313-fd38fffc3bd5</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. poison</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-5b4fc5d7-6003-4fda-adda-50cd0d555c30</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. spells and spell-like effects</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-cdf1f224-7c0e-42dc-bc83-b3fee36cdd95</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. illusions</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-b5c639d7-76ce-4ac7-ae03-bbe0afa82df4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Kobolds</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-aeaee943-099f-4f6d-be0a-588aebc131dc</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. fear</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d3bf1e49-82cd-497e-9340-56617d85f200</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>items made with this craft skill</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-2919493d-232e-4eff-aeeb-5cd6e28df131</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>climb rope, knotted rope and similar</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-cf5f53ad-bd22-405d-8eef-2076019716d4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>scrolls</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-8bcdf971-55a5-449d-b4c8-402f09610c3e</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to bind someone</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-6f96ac98-ac9b-4114-9447-99d62795f776</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to keep from getting lost or to avoid natural hazards</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-302cd760-20f4-4668-a733-763a81642b86</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in above ground natural environments</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-37063b3d-5b2f-4a07-931b-7b7c74b8a3bc</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>on planes other than material</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-bb5619b5-6040-431a-8e08-1381e178f328</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>while underground</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-5afa06b4-7e0d-42ec-9d43-2615a457037d</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to find or follow tracks</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-917a7400-cf2b-47f9-983f-1331c41d9982</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to decipher scrolls</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-c6cbdc7e-52ad-43ef-abec-2e31341a3c16</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when escaping from rope bonds</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-96b72648-186a-48ed-8e48-ffff382fa865</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>sneak attack only</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d4be3c3e-3547-4616-aa90-8ea5196d55df</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>charge attack only</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-c70027bc-a765-4a4b-85b8-aad081f9b61e</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>against attacks from designated opponent</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d7ddf4af-574f-4c31-a443-c99f2d1d8607</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when standing on the ground</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-9b3f50af-1109-4a48-9c6f-abfe822ceaa7</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to understand messages written in incomplete, archaic, or exotic forms</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-04fae1e7-2a29-4be5-b6a1-759641ed5632</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when tracking</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-2ec11e81-bbb8-47bd-8f8d-ac6ec0ec1dc7</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>unarmed or natural attacks only</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-48c9f0f2-a955-4ea6-9d20-35be48ea558c</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. spider poison</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-8030b9b5-588c-4530-9180-d81ce2f88a0f</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>with light or one-handed piercing weapons - no shield/no two-weapon fighting</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-359d43cf-829b-4b9f-a50f-34b62f8e1e89</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>while fighting defensively/using total defense</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-82c0eaaa-f6f9-4efe-9800-effc25dc988e</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. undead</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-25350e12-e276-4c77-b8f6-15f554bf9bf8</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. aquatic creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-195eaf51-1624-458d-a48d-1289797fcfd3</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. desert creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-418dab78-624c-4529-9f5e-28b08990cf7a</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. forest creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-6cbbd7fc-73d0-45b7-a843-bfb1ad554859</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. hills creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-21127c47-b3b9-4c11-8650-110da0862a8f</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. marsh creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-77a1980a-6449-4944-b077-c0d9203091bb</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. mountain creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-411c5549-ab2c-4d02-89fa-df239350578f</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. plains creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-ffe20952-d3f6-4df2-9b5e-83ceae262480</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. underground creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-884843e2-84b3-4ed1-af42-bd1f09dcf6c8</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. astral plane creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d31b0fc6-241e-4119-8ee5-263245ef3081</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. elemental plane of air creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-30bc0717-7e21-4dc5-8007-90a519c088db</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. ethereal plane creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d670811b-4200-4e2e-8e90-51818b44eb8b</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. outsiders/elementals native to a shifting plane</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-ce34318b-8b2f-4b5b-93f1-b73b4e6962b2</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>thrown only</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-762b1df0-332c-4dc3-b742-e40a27a7f301</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to notice unusual stonework, stonework traps</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-7cc081c5-5256-4d2a-a40b-797c3f1428de</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. all creatures</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-be7df03a-d7c6-4dd2-9d70-0262720382fb</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in wooded area</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-411b8271-8d4f-494c-acbc-e35deb217101</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>levering open doors, chests and snapping chains</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-33245900-573c-43f8-8297-8c0e2c5f460d</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>breaking down doors</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-23587dfb-47af-4b4f-a9fb-fec4c32bf465</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>small or highly detailed items</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-ede2e873-3e06-48aa-ade1-63c17d072f4d</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>using the instrument</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-a9fb4a72-0963-4e9a-94ea-279214ebf16d</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>items valued by weight</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-567173e6-ba51-44d9-b9a0-775ef1acf437</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>against exposure to cold weather</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-df989519-c475-4705-a192-84c416224a0a</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>related to staying in the saddle</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-8f38cff1-cb77-41ff-b42a-19964e6fbe9c</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. powers, spells and spell-like effects</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-aeb76312-11ba-4c90-9a8b-23640ebaf472</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>involving power stones</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-c93407fe-b864-425c-91ec-4f212e569ccc</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>against fire and heat spells and effects</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-eff54a62-6df7-44d8-a928-146900979d86</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to overcome a psionic creature’s power resistance</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-a9caedcb-c697-493f-97f3-558adef93c6f</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to resist psionic powers and psi-like abilities</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-454fbfaf-ded6-4057-b5ca-dc04c3dd05f7</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to manifest a power or use a psi-like ability while on the defensive or grappling or pinned</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-725b77c1-dfba-4d91-a3f6-74ec0abc8aa9</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to become psionically focused</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-ecdf6fa5-8584-42e9-9fcf-251a2ec3ffcd</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>against charge attacks</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-8e765914-504b-488d-a38e-96d137cae6ed</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>against gaze attacks</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-1cd271ce-b197-4a1a-82f2-5b5e610e5cee</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. psionic powers</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d09fd860-02ac-47a8-be69-6776841b5936</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. mind-affecting and/or compulsion powers</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-54a83e3a-3468-4f1b-9821-179c8f1b3c59</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in areas of tall grass or heavy undergrowth</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d40c7a55-8294-4cbd-aa1f-3395a264766b</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>regarding an animal companion</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-47f60e7c-4db3-4a53-a228-9c340dcaf516</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>while in canine form</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-135721d6-38dc-4d63-89b8-34cd31768b29</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in stone areas</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-508a0403-4632-4df8-8ee3-3a3f0f7aa9a5</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when tracking by scent</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-fe3ca761-c95c-4b14-bcbb-e5a05b8a9984</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in snowy areas</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-70651672-7c75-4c11-9860-691b684ba889</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in water</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-26af29f9-ae2a-4f73-9bc9-f513de5f336d</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>while submerged</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-11d28f75-a42f-489e-a0d1-eb32383792df</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in forested or overgrown areas</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-a32c39d6-ab41-4756-9f6c-084a460d32c9</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>to avoid slipping or falling</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-6e4782e9-1ace-42f3-8eb3-d76ec68914bb</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in areas of shadowy illumination</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-488eb475-ca58-487b-9d41-27e8404e0de0</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in rocky or underground surroundings</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-49fa4fe8-af3c-48bb-870d-954dfb8c60ff</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>in bright light</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-d2819a10-b9e6-4220-9d3c-edb037936f15</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when using change shape ability</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-4a270105-118d-4e4f-9d72-7027ad20a841</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when reading target's mind</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-a82ed07e-2cff-49d9-b7a5-f2c1d8cf8cf1</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>when in a swapy or forested area</Name>
+    <Type>Modifier Limiter</Type>
+    <ObjectGUID>024-381d2997-5d4e-47ea-9f21-358ee8dab8f4</ObjectGUID>
+    <ParentGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License>
+    </License>
+    <Sourcebook>
+    </Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

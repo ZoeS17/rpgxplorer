@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<FeatureType>Extraordinary</FeatureType>
+	<FeatureType>Supernatural</FeatureType>
+	<FeatureType>Spell-Like</FeatureType>
+	<FeatureType>Natural</FeatureType>
+	<FeatureType>Psi-Like</FeatureType>
+</RPGXplorerConfig>

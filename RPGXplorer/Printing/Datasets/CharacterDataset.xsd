@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="CharacterDataset" targetNamespace="http://tempuri.org/CharacterDataset.xsd"
+	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/CharacterDataset.xsd"
+	xmlns:mstns="http://tempuri.org/CharacterDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="CharacterDataset" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Character">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CharacterName" type="xs:string" minOccurs="0" />
+							<xs:element name="Level" type="xs:string" minOccurs="0" />
+							<xs:element name="Race" type="xs:string" minOccurs="0" />
+							<xs:element name="Alignment" type="xs:string" minOccurs="0" />
+							<xs:element name="Classes" type="xs:string" minOccurs="0" />
+							<xs:element name="XP" type="xs:string" minOccurs="0" />
+							<xs:element name="NextLevel" type="xs:string" minOccurs="0" />
+							<xs:element name="STR" type="xs:string" minOccurs="0" />
+							<xs:element name="STRMod" type="xs:string" minOccurs="0" />
+							<xs:element name="DEX" type="xs:string" minOccurs="0" />
+							<xs:element name="DEXMod" type="xs:string" minOccurs="0" />
+							<xs:element name="CON" type="xs:string" minOccurs="0" />
+							<xs:element name="CONMod" type="xs:string" minOccurs="0" />
+							<xs:element name="INT" type="xs:string" minOccurs="0" />
+							<xs:element name="INTMod" type="xs:string" minOccurs="0" />
+							<xs:element name="WIS" type="xs:string" minOccurs="0" />
+							<xs:element name="WISMod" type="xs:string" minOccurs="0" />
+							<xs:element name="CHA" type="xs:string" minOccurs="0" />
+							<xs:element name="CHAMod" type="xs:string" minOccurs="0" />
+							<xs:element name="Fortitude" type="xs:string" minOccurs="0" />
+							<xs:element name="Reflex" type="xs:string" minOccurs="0" />
+							<xs:element name="Will" type="xs:string" minOccurs="0" />
+							<xs:element name="Speed" type="xs:string" minOccurs="0" />
+							<xs:element name="Initiative" type="xs:string" minOccurs="0" />
+							<xs:element name="Ranged" type="xs:string" minOccurs="0" />
+							<xs:element name="Grapple" type="xs:string" minOccurs="0" />
+							<xs:element name="Armor" type="xs:string" minOccurs="0" />
+							<xs:element name="Shield" type="xs:string" minOccurs="0" />
+							<xs:element name="ACHelpless" type="xs:string" minOccurs="0" />
+							<xs:element name="AC" type="xs:string" minOccurs="0" />
+							<xs:element name="ACTouch" type="xs:string" minOccurs="0" />
+							<xs:element name="ACFlatfooted" type="xs:string" minOccurs="0" />
+							<xs:element name="DR" type="xs:string" minOccurs="0" />
+							<xs:element name="ModifiersAC" type="xs:string" minOccurs="0" />
+							<xs:element name="HP" type="xs:string" minOccurs="0" />
+							<xs:element name="Resistances" type="xs:string" minOccurs="0" />
+							<xs:element name="Modifiers" type="xs:string" minOccurs="0" />
+							<xs:element name="Size" type="xs:string" minOccurs="0" />
+							<xs:element name="Space" type="xs:string" minOccurs="0" />
+							<xs:element name="Reach" type="xs:string" minOccurs="0" />
+							<xs:element name="Melee" type="xs:string" minOccurs="0" />
+							<xs:element name="SR" type="xs:string" minOccurs="0" />
+							<xs:element name="ModifiersCombat" type="xs:string" minOccurs="0" />
+							<xs:element name="Run" type="xs:string" minOccurs="0" />
+							<xs:element name="Portrait" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB1" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB2" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB3" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB4" type="xs:string" minOccurs="0" />
+							<xs:element name="ModifiersSkills" type="xs:string" minOccurs="0" />
+							<xs:element name="ArmorCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="Weight" type="xs:string" minOccurs="0" />
+							<xs:element name="Money" type="xs:string" minOccurs="0" />
+							<xs:element name="LoadInfo" type="xs:string" minOccurs="0" />
+							<xs:element name="Languages" type="xs:string" minOccurs="0" />
+							<xs:element name="Assets" type="xs:string" minOccurs="0" />
+							<xs:element name="CurrentHP" type="xs:string" minOccurs="0" />
+							<xs:element name="Notes" type="xs:string" minOccurs="0" />
+							<xs:element name="Background" type="xs:string" minOccurs="0" />
+							<xs:element name="ModifiersMagic" type="xs:string" minOccurs="0" />
+							<xs:element name="SpellFailureShield" type="xs:string" minOccurs="0" />
+							<xs:element name="SpellFailureArmor" type="xs:string" minOccurs="0" />
+							<xs:element name="Deity" type="xs:string" minOccurs="0" />
+							<xs:element name="Description" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadSpeed" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadRun" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadSpeed" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadRun" type="xs:string" minOccurs="0" />
+							<xs:element name="CurrentLoad" type="xs:string" minOccurs="0" />
+							<xs:element name="BaseSpeedRun" type="xs:string" minOccurs="0" />
+							<xs:element name="ArmorMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="CoinWeight" type="xs:string" minOccurs="0" />
+							<xs:element name="PR" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

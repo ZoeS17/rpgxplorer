@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<FeatType>General</FeatType>
+	<FeatType>Item Creation</FeatType>
+	<FeatType>Item Creation, Psionic</FeatType>
+	<FeatType>Metamagic</FeatType>
+	<FeatType>Metapsionic</FeatType>
+	<FeatType>Psionic</FeatType>
+	<FeatType>Special</FeatType>
+</RPGXplorerConfig>

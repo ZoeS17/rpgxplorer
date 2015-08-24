@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+    <DamageType>Acid</DamageType>
+	<DamageType>Cold</DamageType>
+	<DamageType>CHA</DamageType>
+	<DamageType>CON</DamageType>
+	<DamageType>DEX</DamageType>
+	<DamageType>Electricity</DamageType>
+	<DamageType>Fire</DamageType>
+	<DamageType>INT</DamageType>
+	<DamageType>Sonic</DamageType>
+	<DamageType>STR</DamageType>
+	<DamageType>WIS</DamageType>
+</RPGXplorerConfig>

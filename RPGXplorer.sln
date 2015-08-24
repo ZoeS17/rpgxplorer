@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RPGXplorer", "RPGXplorer\RPGXplorer.vbproj", "{948C22A8-966C-4919-B5E3-019C67FC0370}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		32 bit|Any CPU = 32 bit|Any CPU
+		32 bit|x86 = 32 bit|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+		Test|Any CPU = Test|Any CPU
+		Test|x86 = Test|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.32 bit|Any CPU.ActiveCfg = 32 bit|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.32 bit|Any CPU.Build.0 = 32 bit|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.32 bit|x86.ActiveCfg = 32 bit|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.32 bit|x86.Build.0 = 32 bit|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Debug|x86.ActiveCfg = Debug|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Debug|x86.Build.0 = Debug|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Release|x86.ActiveCfg = Release|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Release|x86.Build.0 = Release|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Test|Any CPU.ActiveCfg = Test|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Test|Any CPU.Build.0 = Test|Any CPU
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Test|x86.ActiveCfg = Test|x86
+		{948C22A8-966C-4919-B5E3-019C67FC0370}.Test|x86.Build.0 = Test|x86
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.32 bit|Any CPU.ActiveCfg = Release
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.32 bit|x86.ActiveCfg = Release
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Debug|Any CPU.ActiveCfg = Debug
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Debug|x86.ActiveCfg = Debug
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Release|Any CPU.ActiveCfg = Release
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Release|x86.ActiveCfg = Release
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Test|Any CPU.ActiveCfg = Release
+		{F1BB0432-ECF8-4445-BDA4-C024EB8C5934}.Test|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

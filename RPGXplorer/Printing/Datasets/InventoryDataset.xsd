@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="InventoryDataset" targetNamespace="http://tempuri.org/InventoryDataset.xsd"
+	elementFormDefault="qualified" attributeFormDefault="qualified" xmlns="http://tempuri.org/InventoryDataset.xsd"
+	xmlns:mstns="http://tempuri.org/InventoryDataset.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="InventoryDataset" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Inventory">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="ItemName" type="xs:string" minOccurs="0" />
+							<xs:element name="ItemWeight" type="xs:string" minOccurs="0" />
+							<xs:element name="ItemCost" type="xs:string" minOccurs="0" />
+							<xs:element name="ItemNotes" type="xs:string" minOccurs="0" />
+							<xs:element name="ItemCharges" type="xs:string" minOccurs="0" />
+							<xs:element name="ItemActive" type="xs:string" minOccurs="0" />
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<MonsterType>Aberration</MonsterType>
+	<MonsterType>Animal</MonsterType>
+	<MonsterType>Construct</MonsterType>
+	<MonsterType>Dragon</MonsterType>
+	<MonsterType>Elemental</MonsterType>
+	<MonsterType>Fey</MonsterType>
+	<MonsterType>Giant</MonsterType>
+	<MonsterType>Humanoid</MonsterType>
+	<MonsterType>Magical Beast</MonsterType>
+	<MonsterType>Monstrous Humanoid</MonsterType>
+	<MonsterType>Ooze</MonsterType>
+	<MonsterType>Outsider</MonsterType>
+	<MonsterType>Plant</MonsterType>
+	<MonsterType>Undead</MonsterType>
+	<MonsterType>Vermin</MonsterType>
+</RPGXplorerConfig>

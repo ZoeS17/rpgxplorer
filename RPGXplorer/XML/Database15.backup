@@ -1,0 +1,1512 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Assassin's Dagger</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-5e7b26e7-8001-4bb8-8de2-bde07c876b6e</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Assassin's Dagger.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weapon FK="031-2653fdc2-cc72-4bb9-8417-d6c6206f29a0" reference="Name">Dagger</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>18302 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsDagger.png</ImageFilename>
+    <Description>+1 on DC of Fortitude save forced by Death Attack of an Assassin.</Description>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dagger of Venom</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-e2d75644-71e0-41f8-b2d1-48524c1d8cb1</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Dagger of Venom.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weapon FK="031-2653fdc2-cc72-4bb9-8417-d6c6206f29a0" reference="Name">Dagger</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>8302 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsDagger.png</ImageFilename>
+    <Description>Once per day wielder can use Poison (as per Spell) on creature struck.</Description>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarven Thrower</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-8723e6de-bf1c-44cf-8adb-71d3dc923ee1</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Dwarven Thrower.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 warhammer that can be thrown. +3 and Returning for Dwarves. Deals extra damage when thrown.</Description>
+    <Weapon FK="031-65bb84b1-c64a-45be-84a9-4db3327da436" reference="Name">Dwarven Thrower (Base)</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>60312 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsHammer.png</ImageFilename>
+    <Filter />
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Giants</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-59c93598-d2b2-4fa7-8a6a-fd4b62e6ca5b</ObjectGUID>
+    <ParentGUID>015-8723e6de-bf1c-44cf-8adb-71d3dc923ee1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Giant</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-42fd6348-5b82-46a3-8f8e-b419fdb57247</ObjectGUID>
+    <ParentGUID>015-59c93598-d2b2-4fa7-8a6a-fd4b62e6ca5b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-4b6a18a8-a657-44a8-970d-1c1541a23459" reference="Name">Giant</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d8 Extra Damage When Thrown</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-cf6832ff-d79a-4df9-a0e0-f1c027d79aee</ObjectGUID>
+    <ParentGUID>015-59c93598-d2b2-4fa7-8a6a-fd4b62e6ca5b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d8</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown>Yes</WhenThrown>
+    <NoCriticalDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarves</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-b7bd9294-f21e-4d86-a01e-86874566d6a3</ObjectGUID>
+    <ParentGUID>015-8723e6de-bf1c-44cf-8adb-71d3dc923ee1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Race Condition (Any from list)</Condition>
+    <ConditionTarget>Race</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarf</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-a79ef651-1635-4c0c-b910-d254cb1e2568</ObjectGUID>
+    <ParentGUID>015-b7bd9294-f21e-4d86-a01e-86874566d6a3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Race FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Race>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-9042b5dc-4492-4058-9f46-841c4bd64a1a</ObjectGUID>
+    <ParentGUID>015-b7bd9294-f21e-4d86-a01e-86874566d6a3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+1</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Returning</Name>
+    <Type>Magic Weapon Ability Conditional</Type>
+    <ObjectGUID>015-b990155d-188f-49ce-a30c-898f7f0e01ab</ObjectGUID>
+    <ParentGUID>015-b7bd9294-f21e-4d86-a01e-86874566d6a3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>022-e1d3ab93-add6-4b7b-8c77-23bf43efd29e</HTMLGUID>
+    <WeaponMagicAbilityDefinition FK="022-e1d3ab93-add6-4b7b-8c77-23bf43efd29e" reference="Name">Returning</WeaponMagicAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d8 Extra Damage When Thrown</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-1a173406-be9b-458c-9f91-e5e978584c18</ObjectGUID>
+    <ParentGUID>015-8723e6de-bf1c-44cf-8adb-71d3dc923ee1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d8</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown>Yes</WhenThrown>
+    <NoCriticalDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flametongue</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-3aafb141-508f-4bda-b7f0-8e6f78eca82a</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Flametongue.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 flaming burst longsword. Once per day, wielder can use 30ft fire ray touch attack that deals 4d6 fire damage.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>20715 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flaming Burst</Name>
+    <Type>Specific Weapon Ability</Type>
+    <ObjectGUID>015-947f2efd-ba83-43a5-9c3a-f7019e333749</ObjectGUID>
+    <ParentGUID>015-3aafb141-508f-4bda-b7f0-8e6f78eca82a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponMagicAbility FK="022-6d5750a9-435f-4b4b-b73c-3591736cc07a" reference="Name">Flaming Burst</WeaponMagicAbility>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Frost Brand</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-df3b55fc-5def-4bea-936e-6c770deea250</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Frost Brand.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+3 frost greatsword that provides 10 resistance to Fire damage and other abilities.</Description>
+    <Weapon FK="031-0654b184-7ffc-41dc-88c7-009b10d56772" reference="Name">Greatsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>27375 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+2</DEnhancementBonus>
+    <EnhancementDisplay>+3</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Frost</Name>
+    <Type>Specific Weapon Ability</Type>
+    <ObjectGUID>015-4ff2bfb1-92e4-4b13-b18c-81a1456c3980</ObjectGUID>
+    <ParentGUID>015-df3b55fc-5def-4bea-936e-6c770deea250</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponMagicAbility FK="022-7682c8c4-3f7b-4a4d-9cf8-08c7cae64459" reference="Name">Frost</WeaponMagicAbility>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>015-3f9cdacc-2de8-4ea1-8681-acfd6a326275</ObjectGUID>
+    <ParentGUID>015-df3b55fc-5def-4bea-936e-6c770deea250</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Avenger</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-3688f133-856a-4fcf-b94f-b61f27232b2b</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Holy Avenger.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 cold iron longsword. Becomes +5 holy weapon for Paladin and other abilities.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>120630 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Material FK="035-fd3a2828-5487-42cc-b772-c623fb02b402" reference="Name">Cold Iron</Material>
+    <Alignment />
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Paladin</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-52ddcf42-a5a9-4b0b-bc40-3477b0611e73</ObjectGUID>
+    <ParentGUID>015-3688f133-856a-4fcf-b94f-b61f27232b2b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Class Condition (Any from list)</Condition>
+    <ConditionTarget>Class</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Paladin</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-7532d46b-a5dc-4380-b85f-1e9b3a1f734d</ObjectGUID>
+    <ParentGUID>015-52ddcf42-a5a9-4b0b-bc40-3477b0611e73</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-ae8353ff-32d2-444d-8d14-c4e406094a07" reference="Name">Paladin</Class>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-8aaade05-e5d6-4cca-bdf9-460892e5d008</ObjectGUID>
+    <ParentGUID>015-52ddcf42-a5a9-4b0b-bc40-3477b0611e73</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+3</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy Avenger Spell Resistance</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-604376e8-c9d7-4527-a90a-787d4652855b</ObjectGUID>
+    <ParentGUID>015-52ddcf42-a5a9-4b0b-bc40-3477b0611e73</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-0ab26685-895e-4f7a-9288-692a7f9fd072" reference="Name">Holy Avenger Spell Resistance</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy</Name>
+    <Type>Magic Weapon Ability Conditional</Type>
+    <ObjectGUID>015-160731f2-2dd7-437a-9186-05012a982a44</ObjectGUID>
+    <ParentGUID>015-52ddcf42-a5a9-4b0b-bc40-3477b0611e73</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>022-87244640-3180-42d6-8ab6-ef360b0b8a53</HTMLGUID>
+    <WeaponMagicAbilityDefinition FK="022-87244640-3180-42d6-8ab6-ef360b0b8a53" reference="Name">Holy</WeaponMagicAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Life-Drinker</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-a4db0835-5ef9-428f-adc0-f1ef73647920</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Life-Drinker.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 greataxe. Bestows 2 negative levels on target when damage is dealt and 1 on wielder unless undead or a construct.</Description>
+    <Weapon FK="031-fe9ffd69-6be4-41c6-9302-ce2d034491fc" reference="Name">Greataxe</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>40320 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Luck Blade</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-16f2ea9b-bba6-4067-a416-af1d225107b3</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Luck Blade.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 shortsword. +1 on all saving throws. Once per day can reroll any roll.</Description>
+    <Weapon FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>22060 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Luck Blade (1 Wish)</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-f97f5cd9-e501-4f21-9f43-d192eb81ad59</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Luck Blade.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 shortsword. +1 on all saving throws. Once per day can reroll any roll. Can use Wish once.</Description>
+    <Weapon FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>62360 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Luck Blade (2 Wishes)</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-5b0f81d8-5a71-4287-9cc9-3b63e9695666</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Luck Blade.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 shortsword. +1 on all saving throws. Once per day can reroll any roll. Can use Wish twice.</Description>
+    <Weapon FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>102660 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Luck Blade (3 Wishes)</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-6abd8686-3f0f-4a24-9632-a062466b3b74</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Luck Blade.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 shortsword. +1 on all saving throws. Once per day can reroll any roll. Can use Wish three times.</Description>
+    <Weapon FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>142960 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mace of Smiting</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-af556763-9d42-4fc6-8318-a112ed18502e</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Mace of Smiting.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+3 adamantine heavy mace. +5 vs. constructs and critical destroys. Critical deals x4 to outsiders.</Description>
+    <Weapon FK="031-ae3e888f-9859-4d8d-ba97-0e2f24b4f538" reference="Name">Mace, Heavy</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>75312 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+3</EnhancementDisplay>
+    <ImageFilename>WeaponsMace.png</ImageFilename>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Material FK="035-fd7a2828-5487-42cc-b772-c623fb02b402" reference="Name">Adamantine</Material>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Constructs</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-b10fa38f-7c40-4b9f-a82f-07c4847ef31d</ObjectGUID>
+    <ParentGUID>015-af556763-9d42-4fc6-8318-a112ed18502e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Construct</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-5f0636c8-dae2-4786-9748-c11c12081757</ObjectGUID>
+    <ParentGUID>015-b10fa38f-7c40-4b9f-a82f-07c4847ef31d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-3466a113-2dc4-4059-88d8-fcaf796de79b" reference="Name">Construct</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-a730685b-d88c-4873-9bfb-2caaae1593eb</ObjectGUID>
+    <ParentGUID>015-b10fa38f-7c40-4b9f-a82f-07c4847ef31d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Destroys</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-ac0feceb-ae14-4465-85e1-d765eeee464e</ObjectGUID>
+    <ParentGUID>015-b10fa38f-7c40-4b9f-a82f-07c4847ef31d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-0930b715-25e2-4c6e-9098-3896d3a9814f" reference="Name">Critical Destroys</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Outsiders</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ObjectGUID>
+    <ParentGUID>015-af556763-9d42-4fc6-8318-a112ed18502e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Air)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-bde5c977-50b9-4d87-b21c-7b947c258b4c</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-5c559fba-1864-46fe-b1ac-77b5f1c3e1de" reference="Name">Outsider (Air)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Chaotic)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-59b8bfb2-a151-4d67-9250-c2dc114d9588</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-b97aa7c2-afce-454f-a23c-b093ee2757af" reference="Name">Outsider (Chaotic)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Earth)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-8fa7a491-2205-4e0e-a0cd-c0b5b7749957</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-7b59cf4b-6c10-456f-9225-9d384357643d" reference="Name">Outsider (Earth)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Evil)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-1af24101-9d82-4724-b38b-37a2d1084a1b</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-ed02717a-78ab-4290-bff9-f81836b1b7e3" reference="Name">Outsider (Evil)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Fire)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-d508e187-4c3a-43be-966f-946167ec9f73</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-0f36b0cd-ab19-4db0-9bb0-390b30b6aaac" reference="Name">Outsider (Fire)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Good)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-05e77fad-59e0-4b98-8d62-fe14736b52c2</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-98cefe51-77b4-4a36-9443-7545ae31579b" reference="Name">Outsider (Good)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Lawful)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-586d55a5-08ca-4e2b-8446-9a487fabf87d</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-8bd81ba5-d4f3-4144-8efa-7f0e255fd8ba" reference="Name">Outsider (Lawful)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Native)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-324f6c98-d59b-4844-98b4-ac25344baa52</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-dde3a7f6-bbcf-42b9-9802-28ff9ee86dc5" reference="Name">Outsider (Native)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Water)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-8ee22d34-0228-40fd-99c0-64d37c2a009c</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-6c543129-aeed-4449-a158-7f7805650b5b" reference="Name">Outsider (Water)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Increased to x4</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-9ea2e5d3-ab97-4944-b213-6f5ed2c2129e</ObjectGUID>
+    <ParentGUID>015-99cf8c55-008e-469e-a4a2-f70194ad50b1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-97c3e0c5-c3bb-4f63-925c-e368e40eaee8" reference="Name">Critical Increased to x4</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mace of Terror</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-e7af204c-f9fa-4c6b-8b0b-ff0e3f9d35ef</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Mace of Terror.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 heavy mace. Upon command can transform wielder into illusion of darkest horror.</Description>
+    <Weapon FK="031-ae3e888f-9859-4d8d-ba97-0e2f24b4f538" reference="Name">Mace, Heavy</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>38552 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsMace.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nine Lives Stealer</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-26705c77-769f-4996-a48a-d8822628c63d</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Nine Lives Stealer.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 longsword. Has the power to draw life force from an opponent.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>23057 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oathbow</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-1424dd1f-300e-4451-860c-527c882bd908</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Oathbow.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 comp longbow (+2). +5 and deals extra 2d6 vs. sworn enemy. Additional rules.</Description>
+    <Weapon FK="031-c0935238-9c82-40a0-9613-afb7fd6559c1" reference="Name">Longbow, Composite (+2)</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>25600 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsBow.png</ImageFilename>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Sworn Enemy</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-5db75cf3-7cd7-4620-91e6-26a59031e018</ObjectGUID>
+    <ParentGUID>015-1424dd1f-300e-4451-860c-527c882bd908</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-0a6e964c-ab2d-4e85-b513-874d6bbf5e72</ObjectGUID>
+    <ParentGUID>015-5db75cf3-7cd7-4620-91e6-26a59031e018</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+3</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-ab505690-6046-47c5-a8d0-8715e8973754</ObjectGUID>
+    <ParentGUID>015-5db75cf3-7cd7-4620-91e6-26a59031e018</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <NoCriticalDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Increased to x4</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-0e2648b9-feb5-4c70-b50b-dc636c1feceb</ObjectGUID>
+    <ParentGUID>015-5db75cf3-7cd7-4620-91e6-26a59031e018</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-97c3e0c5-c3bb-4f63-925c-e368e40eaee8" reference="Name">Critical Increased to x4</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rapier of Puncturing</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-8997f4d7-e4ed-477b-b7ca-a34f7183545e</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Rapier of Puncturing.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 wounding rapier. Can make touch attack 3 times per day that deals 1d6 CON damage.</Description>
+    <Weapon FK="031-1ff03985-bc68-47c7-962d-660e908afbc8" reference="Name">Rapier</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>50320 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsRapier.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wounding</Name>
+    <Type>Specific Weapon Ability</Type>
+    <ObjectGUID>015-7da57aae-8615-4bfa-bc12-719c2ba8967b</ObjectGUID>
+    <ParentGUID>015-8997f4d7-e4ed-477b-b7ca-a34f7183545e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponMagicAbility FK="022-47b27ac0-afe7-411e-873a-8c951c2c98bb" reference="Name">Wounding</WeaponMagicAbility>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shatterspike</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-6dc5d839-5768-4eac-b5a8-652802ecffb8</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Shatterspike.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 longsword. Adds +4 to sunder opposed roll and 1d8+4 to sunder damage.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>4315 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Improved Sunder Feat</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-5e4295f2-cf02-41b1-9fff-411e56ccb2a9</ObjectGUID>
+    <ParentGUID>015-6dc5d839-5768-4eac-b5a8-652802ecffb8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Feat Condition (Any from list)</Condition>
+    <ConditionTarget>Feat</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Improved Sunder</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-07be1209-aadd-4181-bbdf-1c2faa1310bf</ObjectGUID>
+    <ParentGUID>015-5e4295f2-cf02-41b1-9fff-411e56ccb2a9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Feat FK="008-4646072e-8956-4121-93b0-f6a7baf92b56" reference="Name">Improved Sunder</Feat>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d8+4 Extra Damage vs. Weapon</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-1dcb116d-a854-4894-aab5-cb7a7c8bb9ac</ObjectGUID>
+    <ParentGUID>015-5e4295f2-cf02-41b1-9fff-411e56ccb2a9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d8+4</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <NoCriticalDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SunderDamage>Yes</SunderDamage>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shifter's Sorrow</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-07b5d1b0-bc6b-41a5-b959-72342136fbe3</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Shifter's Sorrow.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1/+1 silvered two-bladed sword. Extra 2d6 damage vs. shapechangers. </Description>
+    <Weapon FK="031-85154cfd-91d6-4470-8bc4-625224a900a2" reference="Name">Sword, Two-Bladed</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>4315 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <DSameEnhancement>Yes</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+1/+1</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Material FK="035-fd7a2828-5487-42cc-b172-c623fb02b402" reference="Name">Alchemical Silver</Material>
+    <DMaterial FK="035-fd7a2828-5487-42cc-b172-c623fb02b402" reference="Name">Alchemical Silver</DMaterial>
+    <Alignment />
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Shapechangers</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-430a6e9f-ab2c-4e95-9eb8-a7692140b6f7</ObjectGUID>
+    <ParentGUID>015-07b5d1b0-bc6b-41a5-b959-72342136fbe3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Subtype(s)</Condition>
+    <ConditionTarget>Subtype</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shapechanger</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-7a50102e-3095-4254-9fe7-b1a7d5a5ed25</ObjectGUID>
+    <ParentGUID>015-430a6e9f-ab2c-4e95-9eb8-a7692140b6f7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-9e3c4978-24af-4146-bad7-851c5067337e</ObjectGUID>
+    <ParentGUID>015-430a6e9f-ab2c-4e95-9eb8-a7692140b6f7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <NoCriticalDamage />
+    <SunderDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sunblade</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-981e4a14-c8da-41d0-9d92-4ccf7a098be0</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sunblade.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 sword. +4 vs. Evil. Deals double damage and crit x3 against negative plane creatures/undead. Sunlight power. </Description>
+    <Weapon FK="031-d61cf666-2a80-43c3-9ab7-c2af20f070c6" reference="Name">Sunblade (Base)</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>50335 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <Alignment>Good</Alignment>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Evil</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-9487c914-129a-4cf0-8220-0ef937198a55</ObjectGUID>
+    <ParentGUID>015-981e4a14-c8da-41d0-9d92-4ccf7a098be0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Alignment(s)</Condition>
+    <ConditionTarget>Alignment</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-809c8ac1-9b75-4a20-8a04-b4da1887cc84</ObjectGUID>
+    <ParentGUID>015-9487c914-129a-4cf0-8220-0ef937198a55</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Neutral Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-3adfdc15-c590-4ac8-81be-9454f80094ad</ObjectGUID>
+    <ParentGUID>015-9487c914-129a-4cf0-8220-0ef937198a55</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-7d5b9410-483e-4008-8d9c-0bec698fdb5b</ObjectGUID>
+    <ParentGUID>015-9487c914-129a-4cf0-8220-0ef937198a55</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-20b2605c-a6dc-45c2-b27b-2cd853ed0154</ObjectGUID>
+    <ParentGUID>015-9487c914-129a-4cf0-8220-0ef937198a55</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Undead/Negative Plane Creatures</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-98f2c802-ca4c-4a8b-a3d7-9f6d593dbccb</ObjectGUID>
+    <ParentGUID>015-981e4a14-c8da-41d0-9d92-4ccf7a098be0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Undead</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-5ec1195c-03f7-4187-afef-ddd7276a8f77</ObjectGUID>
+    <ParentGUID>015-98f2c802-ca4c-4a8b-a3d7-9f6d593dbccb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-98fb4294-715d-4408-b823-7ddf6701afe4" reference="Name">Undead</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Critical Increased to x3</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-68410b71-5521-4523-bde9-53d07c00d1f3</ObjectGUID>
+    <ParentGUID>015-98f2c802-ca4c-4a8b-a3d7-9f6d593dbccb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-d7b7c041-3dd0-46bc-a1e5-1ca16dc6b4c2" reference="Name">Critical Increased to x3</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Double Damage</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-37fefed5-5cd0-4322-bfe6-ca6af7c37069</ObjectGUID>
+    <ParentGUID>015-98f2c802-ca4c-4a8b-a3d7-9f6d593dbccb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-c9151534-45ca-45d3-8a15-ca204d64d23c" reference="Name">Double Damage</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword, Bastard</Name>
+    <Type>Weapon Emulation</Type>
+    <ObjectGUID>015-5615d8d7-68ab-416d-9f1f-4c39b2d3bcd8</ObjectGUID>
+    <ParentGUID>015-981e4a14-c8da-41d0-9d92-4ccf7a098be0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponDefinition FK="031-bfbc51f2-0cd6-4bd7-ae15-9591db298b6c" reference="Name">Sword, Bastard</WeaponDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword, Short</Name>
+    <Type>Weapon Emulation</Type>
+    <ObjectGUID>015-39ff97f8-1b7f-4683-81cc-9205180cebc7</ObjectGUID>
+    <ParentGUID>015-981e4a14-c8da-41d0-9d92-4ccf7a098be0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponDefinition FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</WeaponDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword of Life Stealing</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-b2a387cc-ab21-4992-9caf-3b4c3cc4393d</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sword of Life Stealing.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 black iron longsword bestows 1 negative level when it deals a critical hit. Wielder gains 1d6 temporary HP each time that last for 24 hrs.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>25715 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword of the Planes</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sword of the Planes.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 longsword on the Material Plane. Enhancement varies according to plane.</Description>
+    <Weapon FK="031-7811ae81-8b18-43db-bb17-29848f4dcbbe" reference="Name">Longsword</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>22315 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elemental Plane</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-62e6379a-b49d-4500-948a-71dc5ef6ea2e</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-3284fb1d-0488-4d7b-a100-d1ca2f606900</ObjectGUID>
+    <ParentGUID>015-62e6379a-b49d-4500-948a-71dc5ef6ea2e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+1</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Elementals</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-15f2e4e3-9d53-4ef1-9780-c64c830a4744</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elemental</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-9fe77072-81d9-43cd-ba8a-00a5deea38ca</ObjectGUID>
+    <ParentGUID>015-15f2e4e3-9d53-4ef1-9780-c64c830a4744</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-6042c142-1052-485e-b792-ac48c05c9a11" reference="Name">Elemental</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-48f1bac8-d4cb-45a7-99f0-dd200307ef1d</ObjectGUID>
+    <ParentGUID>015-15f2e4e3-9d53-4ef1-9780-c64c830a4744</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+1</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Astral Plane or Native</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-2aaa75d6-2511-48b0-9ea3-814c20f49612</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-b2af880e-3145-4937-889c-1b94a596ebb1</ObjectGUID>
+    <ParentGUID>015-2aaa75d6-2511-48b0-9ea3-814c20f49612</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ethereal Plane or Native</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-8bc6db3b-d4fd-4b1b-b370-c27ac4a37ad4</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-46a2f042-954c-4c18-b2cd-db66aeefddd6</ObjectGUID>
+    <ParentGUID>015-8bc6db3b-d4fd-4b1b-b370-c27ac4a37ad4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Any Other Plane</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-663d9906-e5fb-43a3-8a49-ac55cf6d153e</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-ee401d57-542d-4405-9509-e72833a1b590</ObjectGUID>
+    <ParentGUID>015-663d9906-e5fb-43a3-8a49-ac55cf6d153e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+3</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Outsiders</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ObjectGUID>
+    <ParentGUID>015-87efadf5-a0bd-4b4a-9ba5-cd244cbee48e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Monster Type(s)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Air)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-c2785a3a-0cc2-4293-b5b2-c81dd3d2c242</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-5c559fba-1864-46fe-b1ac-77b5f1c3e1de" reference="Name">Outsider (Air)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Chaotic)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-698ccb8c-9730-4f95-ac89-bc834845ebad</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-b97aa7c2-afce-454f-a23c-b093ee2757af" reference="Name">Outsider (Chaotic)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Earth)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-e4bb6b5d-cc6a-4341-8a43-4180e212ece7</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-7b59cf4b-6c10-456f-9225-9d384357643d" reference="Name">Outsider (Earth)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Evil)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-60683b9b-fd7e-4207-b693-35de10d8485e</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-ed02717a-78ab-4290-bff9-f81836b1b7e3" reference="Name">Outsider (Evil)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Fire)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-803e8232-9347-42df-bff3-38737fe1a7f5</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-0f36b0cd-ab19-4db0-9bb0-390b30b6aaac" reference="Name">Outsider (Fire)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Good)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-cc6a6a98-8dd4-4eff-adc4-14de7b95f527</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-98cefe51-77b4-4a36-9443-7545ae31579b" reference="Name">Outsider (Good)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Lawful)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-3344e125-ca28-476b-b0f8-e47030aa7ec3</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-8bd81ba5-d4f3-4144-8efa-7f0e255fd8ba" reference="Name">Outsider (Lawful)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Native)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-d5442f30-86e5-47bc-812f-b1a5b5b1c177</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-dde3a7f6-bbcf-42b9-9802-28ff9ee86dc5" reference="Name">Outsider (Native)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Water)</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>015-0f3a3f08-a222-4c27-9ee9-a376a5e03ac9</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType FK="025-6c543129-aeed-4449-a158-7f7805650b5b" reference="Name">Outsider (Water)</MonsterType>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>015-233f4ae2-d133-4cf6-929d-6580f147cec3</ObjectGUID>
+    <ParentGUID>015-0657cd35-5180-4840-a3f3-087661e08d48</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+3</Enhancement>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword of Subtlety</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-28c0e509-7dfa-4893-9bf9-bf5c56dbba5d</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sword of Subtlety.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 shortsword. +4 on attack and damage rolls when using Sneak Attack.</Description>
+    <Weapon FK="031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d" reference="Name">Sword, Short</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>22310 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Attack Roll [Enhancement] [sneak attack only]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-436b9a36-c8c1-4261-b345-32b9f269abad</ObjectGUID>
+    <ParentGUID>015-28c0e509-7dfa-4893-9bf9-bf5c56dbba5d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-75ec881b-7a16-4933-859f-3f3508d53203" reference="Name">Attack Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter FK="024-d4be3c3e-3547-4616-aa90-8ea5196d55df" reference="Name">sneak attack only</Limiter>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Damage Roll [Enhancement] [sneak attack only]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-222f8a15-d884-477f-8836-2507cada3df2</ObjectGUID>
+    <ParentGUID>015-28c0e509-7dfa-4893-9bf9-bf5c56dbba5d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5bd6fb42-f05c-4c65-9379-40b13ad71582" reference="Name">Damage Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter FK="024-d4be3c3e-3547-4616-aa90-8ea5196d55df" reference="Name">sneak attack only</Limiter>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sylvan Scimitar</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-38f3c2ca-320e-43e4-974e-4ae8db11e31d</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sylvan Scimitar.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+3 scimitar. When used outdoors in a temperate climate grants wielder Cleave and deals 1d6 extra damage.</Description>
+    <Weapon FK="031-ce0e2c3c-bbef-4326-93da-2feeadf047d2" reference="Name">Scimitar</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>23657 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+2</DEnhancementBonus>
+    <EnhancementDisplay>+3</EnhancementDisplay>
+    <ImageFilename>WeaponsScimitar.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outdoors/Temperate Climate</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-f6e41f49-f125-41b9-85a7-d59b42981241</ObjectGUID>
+    <ParentGUID>015-38f3c2ca-320e-43e4-974e-4ae8db11e31d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>015-dd91c1ba-0111-4a26-8322-f5cb633a92fd</ObjectGUID>
+    <ParentGUID>015-f6e41f49-f125-41b9-85a7-d59b42981241</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <NoCriticalDamage />
+    <SunderDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cleave</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-0b16680b-d4b9-40f0-92ef-4de2e15180f8</ObjectGUID>
+    <ParentGUID>015-f6e41f49-f125-41b9-85a7-d59b42981241</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-627f002f-aba0-4ffc-bac7-2a5609bb8173" reference="Name">Cleave</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Trident of Fish Command</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-f909b5f2-fe4d-450c-a718-7daa3f0e754f</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Trident of Fish Command.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+1 trident. Grants ability to charm up to 14HD of aquatic animals.</Description>
+    <Weapon FK="031-3261111d-48f1-45cf-8b04-d244d779eb2d" reference="Name">Trident</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>18650 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>0</DEnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponTrident.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Trident of Warning</Name>
+    <Type>Specific Weapon Definition</Type>
+    <ObjectGUID>015-a6a4a27f-1acd-4d89-b271-8ff81104963d</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Trident of Warning.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>+2 trident. Wielder can determine location of aquatic predators within 680ft.</Description>
+    <Weapon FK="031-3261111d-48f1-45cf-8b04-d244d779eb2d" reference="Name">Trident</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>10115 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <Alignment />
+    <DSameEnhancement>No</DSameEnhancement>
+    <DEnhancementBonus>+1</DEnhancementBonus>
+    <EnhancementDisplay>+2</EnhancementDisplay>
+    <ImageFilename>WeaponTrident.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slaying Arrow</Name>
+    <Type>Magic Ammo Definition</Type>
+    <ObjectGUID>015-2711247f-91bc-485e-88dd-13210edf4be3</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Slaying Arrow.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weapon FK="031-f010f9ae-5664-4630-86ab-0b5f640751a6" reference="Name">Arrow</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>2282 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsArrow.png</ImageFilename>
+    <Description>+1 arrow. If it strikes target creature of specified type then they must make DC20 Fortitude save or die.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slaying Arrow, Greater</Name>
+    <Type>Magic Ammo Definition</Type>
+    <ObjectGUID>015-9c34da80-8c03-47fd-9092-2f58d6365c39</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Slaying Arrow.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weapon FK="031-f010f9ae-5664-4630-86ab-0b5f640751a6" reference="Name">Arrow</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>4057 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsArrow.png</ImageFilename>
+    <Description>+1 arrow. If it strikes target creature of specified type then they must make DC23 Fortitude save or die.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sleep Arrow</Name>
+    <Type>Magic Ammo Definition</Type>
+    <ObjectGUID>015-f33b9f9e-5078-4c64-965a-45272de32071</ObjectGUID>
+    <ParentGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ParentGUID>
+    <HTML>Magic Weapons\Sleep Arrow.htm</HTML>
+    <HTMLGUID>015-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Converts damage to non-lethal. Target must make DC 11 Will save or fall asleep if struck.</Description>
+    <Weapon FK="031-f010f9ae-5664-4630-86ab-0b5f640751a6" reference="Name">Arrow</Weapon>
+    <Calculate>No</Calculate>
+    <MarketPrice>132 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <EnhancementDisplay>+1</EnhancementDisplay>
+    <ImageFilename>WeaponsArrow.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nonlethal Weapon</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>015-3fda05bd-7e38-476e-8672-8bcb1a05660e</ObjectGUID>
+    <ParentGUID>015-f33b9f9e-5078-4c64-965a-45272de32071</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-82b38b01-9d76-48bb-933f-36f85657457a" reference="Name">Nonlethal Weapon</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Bane</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-cd4716f9-80a2-4d5b-9e29-881908666380</ObjectGUID>
+    <ParentGUID>015-2711247f-91bc-485e-88dd-13210edf4be3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Bane (Select focus at purchase)</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Bane</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>015-b6c7d617-6611-4a87-a19c-3b814527c1c7</ObjectGUID>
+    <ParentGUID>015-9c34da80-8c03-47fd-9092-2f58d6365c39</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Bane (Select focus at purchase)</Condition>
+    <ConditionTarget />
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-2545028f-bde1-48ab-8675-d8b754631385</ObjectGUID>
+    <ParentGUID>015-f97f5cd9-e501-4f21-9f43-d192eb81ad59</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-61ec1657-7b8e-4360-9ce1-3d2371f42a07</ObjectGUID>
+    <ParentGUID>015-5b0f81d8-5a71-4287-9cc9-3b63e9695666</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-41bc9e87-2276-4e07-aa2a-ff50956b7761</ObjectGUID>
+    <ParentGUID>015-6abd8686-3f0f-4a24-9632-a062466b3b74</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>015-34c94db4-e0ce-4913-a51d-3e13c327c73e</ObjectGUID>
+    <ParentGUID>015-16f2ea9b-bba6-4067-a416-af1d225107b3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

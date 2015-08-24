@@ -1,0 +1,3072 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{948C22A8-966C-4919-B5E3-019C67FC0370}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>RPGXplorer.MainWindow</StartupObject>
+    <RootNamespace>RPGXplorer</RootNamespace>
+    <AssemblyName>RPGXplorer</AssemblyName>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>shield.ico</ApplicationIcon>
+    <OptionStrict>On</OptionStrict>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>http://localhost/RPGXplorer/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DefineConstants>compilemode = "Tools"</DefineConstants>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>None</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>false</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Test|AnyCPU' ">
+    <OutputPath>bin\Test\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>compilemode = "Tools"</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>false</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>None</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Test|x86' ">
+    <OutputPath>bin\x86\Test\</OutputPath>
+    <PlatformTarget>x86</PlatformTarget>
+    <DocumentationFile>
+    </DocumentationFile>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == '32 bit|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\32 bit\</OutputPath>
+    <DefineConstants>compilemode = "Tools"</DefineConstants>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisLogFile>bin\RPGXplorer.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == '32 bit|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\32 bit\</OutputPath>
+    <DefineConstants>compilemode = "Tools"</DefineConstants>
+    <NoWarn>42353,42354,42355</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
+    <CodeAnalysisLogFile>bin\RPGXplorer.exe.CodeAnalysisLog.xml</CodeAnalysisLogFile>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.vb</CodeAnalysisModuleSuppressionsFile>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSetDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\\Rule Sets</CodeAnalysisRuleSetDirectories>
+    <CodeAnalysisIgnoreBuiltInRuleSets>false</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisRuleDirectories>;C:\Program Files (x86)\Microsoft Visual Studio 10.0\Team Tools\Static Analysis Tools\FxCop\\Rules</CodeAnalysisRuleDirectories>
+    <CodeAnalysisIgnoreBuiltInRules>false</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>false</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v11.1.Core, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v11.1, Version=11.1.7.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CharacterEditForms\AddDomainOrSchoolForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterEditForms\MemorizedSpellsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterEditForms\CharacterFeatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterEditForms\CharacterFeatureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterEditForms\CharacterLanguageForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CharacterEditForms\CharacterSkillForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Caches.vb" />
+    <Compile Include="Classes\Character\AvailableFeats.vb" />
+    <Compile Include="Classes\Character\AvailableSpellcasters.vb" />
+    <Compile Include="Classes\Character\CasterLevel.vb" />
+    <Compile Include="Classes\Character\Character.vb" />
+    <Compile Include="Classes\Character\Components.vb" />
+    <Compile Include="Classes\Character\Domains.vb" />
+    <Compile Include="Classes\Character\ExtraClassSkills.vb" />
+    <Compile Include="Classes\Character\Features.vb" />
+    <Compile Include="Classes\DataTypes\CharacterClassCollection.vb" />
+    <Compile Include="Classes\DataTypes\StringKeyHashtable.vb" />
+    <Compile Include="Classes\DataTypes\FKLookupTable.vb" />
+    <Compile Include="Classes\DataTypes\ObjectHashtable.vb" />
+    <Compile Include="Classes\Templates\ITemplate.vb" />
+    <Compile Include="Classes\Character\Modifiers.vb" />
+    <Compile Include="Classes\Character\ModifiersDisplay.vb" />
+    <Compile Include="Classes\Character\MonkAbilities.vb" />
+    <Compile Include="Classes\Character\PowerPoints.vb" />
+    <Compile Include="Classes\Character\Powers.vb" />
+    <Compile Include="Classes\Character\Prerequisites.vb" />
+    <Compile Include="Classes\Character\Proficiency.vb" />
+    <Compile Include="Classes\Character\PsionicSpecializations.vb" />
+    <Compile Include="Classes\Character\Skills.vb" />
+    <Compile Include="Classes\Character\Spells.vb" />
+    <Compile Include="Classes\Character\SpellSlots.vb" />
+    <Compile Include="Classes\Character\SystemPreconditions.vb" />
+    <Compile Include="Classes\Common\Clipboard.vb" />
+    <Compile Include="Classes\Common\CommonHandlers.vb" />
+    <Compile Include="Classes\Common\CommonLogic.vb" />
+    <Compile Include="Classes\Common\Images.vb" />
+    <Compile Include="Classes\Common\PasteManager.vb" />
+    <Compile Include="Classes\Common\RulePageManager.vb" />
+    <Compile Include="Classes\Common\SaveLoad.vb" />
+    <Compile Include="Classes\Common\Sorter.vb" />
+    <Compile Include="Classes\Common\Sound.vb" />
+    <Compile Include="Classes\Common\UI.vb" />
+    <Compile Include="Classes\CoreRules\AbilityScores.vb" />
+    <Compile Include="Classes\CoreRules\CharacterClass.vb" />
+    <Compile Include="Classes\CoreRules\Conditions.vb" />
+    <Compile Include="Classes\CoreRules\Constants.vb" />
+    <Compile Include="Classes\CoreRules\DamageReduction.vb" />
+    <Compile Include="Classes\CoreRules\DamageResistance.vb" />
+    <Compile Include="Classes\CoreRules\Dice.vb" />
+    <Compile Include="Classes\CoreRules\ExperienceAndLevelling.vb" />
+    <Compile Include="Classes\CoreRules\Formatting.vb" />
+    <Compile Include="Classes\CoreRules\Lists.vb" />
+    <Compile Include="Classes\CoreRules\PowerList.vb" />
+    <Compile Include="Classes\CoreRules\Size.vb" />
+    <Compile Include="Classes\CoreRules\SpecialMaterial.vb" />
+    <Compile Include="Classes\CoreRules\SpellList.vb" />
+    <Compile Include="Classes\CoreRules\UserLists.vb" />
+    <Compile Include="Classes\DataIntegrity.vb" />
+    <Compile Include="Classes\DataTypes\ThreeKeyList.vb" />
+    <Compile Include="Classes\DataTypes\FilterTypes.vb" />
+    <Compile Include="Classes\DataTypes\FixedSizeStack.vb" />
+    <Compile Include="Classes\DataTypes\OneKeyList.vb" />
+    <Compile Include="Classes\DataTypes\Intersection.vb" />
+    <Compile Include="Classes\DataTypes\Library.vb" />
+    <Compile Include="Classes\DataTypes\RulePagePath.vb" />
+    <Compile Include="Classes\DataTypes\TwoKeyList.vb" />
+    <Compile Include="Classes\Exceptions.vb" />
+    <Compile Include="Classes\General.vb" />
+    <Compile Include="Classes\Index.vb" />
+    <Compile Include="Classes\Inventory\ArmorProperties.vb" />
+    <Compile Include="Classes\Inventory\ArmourClass.vb" />
+    <Compile Include="Classes\Inventory\Encumberance.vb" />
+    <Compile Include="Classes\Inventory\Inventory.vb" />
+    <Compile Include="Classes\Inventory\Items.vb" />
+    <Compile Include="Classes\Inventory\Money.vb" />
+    <Compile Include="Classes\Inventory\PowerStone.vb" />
+    <Compile Include="Classes\Inventory\Scroll.vb" />
+    <Compile Include="Classes\Inventory\ShoppingCart.vb" />
+    <Compile Include="Classes\ObjectQueries.vb" />
+    <Compile Include="Classes\Objects.vb" />
+    <Compile Include="Classes\Printing\CharacterSheetData.vb" />
+    <Compile Include="Classes\Printing\CharacterXMLData.vb" />
+    <Compile Include="Classes\References.vb" />
+    <Compile Include="Classes\Templates\Templates.vb" />
+    <Compile Include="Classes\UI\CharacterManager.vb" />
+    <Compile Include="Classes\UI\Commands.vb" />
+    <Compile Include="Classes\UI\Explorer.vb" />
+    <Compile Include="Classes\UI\ExplorerTreeNodeHashtable.vb" />
+    <Compile Include="Classes\UI\FilterManager.vb" />
+    <Compile Include="Classes\UI\ListViewManager.vb" />
+    <Compile Include="Classes\UI\ToolbarsAndMenus.vb" />
+    <Compile Include="Classes\UI\TreeManager.vb" />
+    <Compile Include="Classes\UI\Undo.vb" />
+    <Compile Include="Classes\UI\WindowManager.vb" />
+    <Compile Include="Classes\Weapons\Attacks.vb" />
+    <Compile Include="Classes\Weapons\MonsterWeapons.vb" />
+    <Compile Include="Classes\Weapons\WeaponProperties.vb" />
+    <Compile Include="Classes\Weapons\Weapons.vb" />
+    <Compile Include="ObjectForms\PsiLikeAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellLikeAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\XML.vb" />
+    <Compile Include="Classes\XPathQueries.vb" />
+    <Compile Include="DocumentViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ObjectForms\AmmoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ArmorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ArmorMagicAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ArtifactForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\CharacterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ChooseBonusFeatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ChooseBonusFeatOfTypeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ChooseFeatureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ClassForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ClassLevelForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\CombatStyleForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ConditionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MonsterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\CreateClassLevelsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\CustomItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DamageAdditionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DamageReductionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DamageResistanceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DeityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DomainForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\DorjeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\EnhancementForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\FamiliarForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\FeatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\FeatureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\FlurryOfBlowsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\GenericChooseBonusForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\GenericDescriptionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\HepPageForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ImprovedUnarmedDamageForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MagicAmmoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ModifierForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MoneyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MonsterClassForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MonsterRaceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\MonsterTypeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\NaturalWeaponForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PotionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerDisciplineForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerListSpecificForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerProgressionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PowerStoneFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PrerequisiteForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PropertiesForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PropertiesFormDV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsicrownForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicAmmoForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicArmorAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicArmorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicArtifactForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicDisciplineSpecializationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicTattooForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicWeaponAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\PsionicWeaponForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\RaceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\RegenerationForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\RingForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\RodForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\ScrollFrom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SetAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SetValueForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SimpleForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SimpleNumericalForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SimpleSelectorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SimpleTextForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SkillAbilityExchangeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SkillForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SkillSynergyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpecialMaterialForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpecificArmorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpecificBonusFeatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpecificWeaponForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellFailureForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellLevelsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellListForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellListSpecificForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SpellSchoolForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\StaffForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SubtypeForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SystemElementForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\SystemReferenceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\UniversalItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\WandForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\WeaponForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\WeaponMagicAbilityForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ObjectForms\WondrousItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\AboutForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\CentralDisplayForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\CharacterXMLForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ChooseWeaponDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\CompareForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ConstructListDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\CreateAttackDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\CustomCartItemForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\DatasetLoadResult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\DeleteFailuresForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\DeleteLevelsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ErrorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\FilterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\FiltersForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ListsDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\Marketplace.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\NewsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\NumericSelector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ObjectSelectorForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\OptionsForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\PasteFailuresForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\PrintPreview.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\ProgressBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\RollHitDiceForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\SaveOptionForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\SellItems.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OtherForms\SimpleSelectorDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Printing\Assets.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\AttacksSubreport.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\CasterLevelSpellSave.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\CharacterSheet.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\ConditionalModifiers.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Datasets\AssetsDataset1.Designer.vb">
+      <DependentUpon>AssetsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\AttacksDataset1.Designer.vb">
+      <DependentUpon>AttacksDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\CasterLevelDataset1.Designer.vb">
+      <DependentUpon>CasterLevelDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\CharacterDataset.Designer.vb">
+      <DependentUpon>CharacterDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\CharacterXMLDataset.Designer.vb">
+      <DependentUpon>CharacterXMLDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\ConditionalModifiersDataset1.Designer.vb">
+      <DependentUpon>ConditionalModifiersDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\DomainsSchoolsDataset1.Designer.vb">
+      <DependentUpon>DomainsSchoolsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\FeatsDataset1.Designer.vb">
+      <DependentUpon>FeatsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\FeaturesDataset1.Designer.vb">
+      <DependentUpon>FeaturesDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\InventoryDataset1.Designer.vb">
+      <DependentUpon>InventoryDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\ManifesterLevelDataset1.Designer.vb">
+      <DependentUpon>ManifesterLevelDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\ModifiersDataset1.Designer.vb">
+      <DependentUpon>ModifiersDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\PsionocSpecializationsDataset1.Designer.vb">
+      <DependentUpon>PsionocSpecializationsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SkillsDataset1.Designer.vb">
+      <DependentUpon>SkillsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellbookDataset1.Designer.vb">
+      <DependentUpon>SpellbookDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellModifiersDataset1.Designer.vb">
+      <DependentUpon>SpellModifiersDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellNotesDataset1.Designer.vb">
+      <DependentUpon>SpellNotesDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellPointsDataset1.Designer.vb">
+      <DependentUpon>SpellPointsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellsDataset1.Designer.vb">
+      <DependentUpon>SpellsDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellsKnownDataset1.Designer.vb">
+      <DependentUpon>SpellsKnownDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\Datasets\SpellsPerDayDataset1.Designer.vb">
+      <DependentUpon>SpellsPerDayDataset.xsd</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="Printing\DomainsSchools.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Feats.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Features.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Inventory.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\ManifesterLevelPowerSave.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Modifiers.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\PowerBook.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\PowerModifiers.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\PowerNotes.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\PsionicSpecializations.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\Skills.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\SpellBook.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\SpellModifiers.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\SpellNotes.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\SpellsPerDay.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\AttackBlock.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\AttributeScore.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\Circle.Designer.vb">
+      <DependentUpon>Circle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Printing\UserControls\Circle.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\AttributeCircle.Designer.vb">
+      <DependentUpon>AttributeCircle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Printing\UserControls\AttributeCircle.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\Picture.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Printing\UserControls\Subheading.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d10.Designer.vb">
+      <DependentUpon>d10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d10.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d12.Designer.vb">
+      <DependentUpon>d12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d12.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d20.Designer.vb">
+      <DependentUpon>d20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d20.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d4.Designer.vb">
+      <DependentUpon>d4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d4.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d6.Designer.vb">
+      <DependentUpon>d6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d6.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\d8.Designer.vb">
+      <DependentUpon>d8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\d8.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Dice.Designer.vb">
+      <DependentUpon>Dice.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Dice.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\AssetsPanel.Designer.vb">
+      <DependentUpon>AssetsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\AssetsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\BasicListViewPanel.Designer.vb">
+      <DependentUpon>BasicListViewPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\BasicListViewPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\CharacterPanel.Designer.vb">
+      <DependentUpon>CharacterPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\CharacterPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\MemorizedPanel.Designer.vb">
+      <DependentUpon>MemorizedPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\MemorizedPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\FeatPanel.Designer.vb">
+      <DependentUpon>FeatPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\FeatPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\FeaturesPanel.Designer.vb">
+      <DependentUpon>FeaturesPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\FeaturesPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\InventoryPanel.Designer.vb">
+      <DependentUpon>InventoryPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\InventoryPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\IPanel.vb" />
+    <Compile Include="UserControls\DisplayPanels\IWeaponConfig.vb" />
+    <Compile Include="UserControls\DisplayPanels\ManifesterPanel.Designer.vb">
+      <DependentUpon>ManifesterPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\ManifesterPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\ModifiersPanel.Designer.vb">
+      <DependentUpon>ModifiersPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\ModifiersPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\MonsterWeaponConfiguration.Designer.vb">
+      <DependentUpon>MonsterWeaponConfiguration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\MonsterWeaponConfiguration.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\PowerListPanel.Designer.vb">
+      <DependentUpon>PowerListPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\PowerListPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\ShoppingCartPanel2.Designer.vb">
+      <DependentUpon>ShoppingCartPanel2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\ShoppingCartPanel2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SkillsPanel.Designer.vb">
+      <DependentUpon>SkillsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SkillsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SpellcasterPanel2.Designer.vb">
+      <DependentUpon>SpellcasterPanel2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SpellcasterPanel2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SpellListPanel.Designer.vb">
+      <DependentUpon>SpellListPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\SpellListPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\WeaponConfiguration.Designer.vb">
+      <DependentUpon>WeaponConfiguration.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\WeaponConfiguration.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\WeaponsPanel.Designer.vb">
+      <DependentUpon>WeaponsPanel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DisplayPanels\WeaponsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\DocumentViewer\BrowserPane.Designer.vb">
+      <DependentUpon>BrowserPane.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\DocumentViewer\BrowserPane.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\FeetandInches.Designer.vb">
+      <DependentUpon>FeetandInches.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FeetandInches.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\FilterBar.Designer.vb">
+      <DependentUpon>FilterBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FilterBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\HeightSpin.Designer.vb">
+      <DependentUpon>HeightSpin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\HeightSpin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\HitPoints.Designer.vb">
+      <DependentUpon>HitPoints.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\HitPoints.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\IndentedLine.Designer.vb">
+      <DependentUpon>IndentedLine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\IndentedLine.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ListBox.Designer.vb">
+      <DependentUpon>ListBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ListBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Modifier.Designer.vb">
+      <DependentUpon>Modifier.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Modifier.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\MoneySpin.Designer.vb">
+      <DependentUpon>MoneySpin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MoneySpin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\MoneySpin2.Designer.vb">
+      <DependentUpon>MoneySpin2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\MoneySpin2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\NumericKeypad.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Pounds.Designer.vb">
+      <DependentUpon>Pounds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Pounds.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\PropertiesTab.Designer.vb">
+      <DependentUpon>PropertiesTab.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PropertiesTab.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\ReadOnlyTextBox.Designer.vb">
+      <DependentUpon>ReadOnlyTextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ReadOnlyTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\RPGXInheritedListView.Designer.vb">
+      <DependentUpon>RPGXInheritedListView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\RPGXInheritedListView.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UserControls\RPGXListView.Designer.vb">
+      <DependentUpon>RPGXListView.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\RPGXListView.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\SetValue.Designer.vb">
+      <DependentUpon>SetValue.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\SetValue.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Test.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\WizardFilterBar.Designer.vb">
+      <DependentUpon>WizardFilterBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\WizardFilterBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\IWizard.vb" />
+    <Compile Include="Wizards\LevellingUpWizard.vb" />
+    <Compile Include="Wizards\WizardManager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\AddPowersKnown.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\AddSpellsKnown.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\AssignAbilityPoints.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\AssignSkillPointsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\ExistingSpellcasterProgression.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\FavoredEnemyPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\FeatLegendPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\IWizardPanel.vb" />
+    <Compile Include="Wizards\WizardPanels\LevelUpFinishPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\PanelBase.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\PickLangaugesPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\RollHitDicePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectBonusClassSkillsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectBonusDomainsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectClassPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectDomainsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectFeatsPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectFeaturesPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectPsionicSpecializationPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SelectSchoolSpecialization.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\SpellLegendPanel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\TemplatePanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Wizards\WizardPanels\TestPanel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CharacterEditForms\AddDomainOrSchoolForm.resx">
+      <DependentUpon>AddDomainOrSchoolForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterEditForms\MemorizedSpellsForm.resx">
+      <DependentUpon>MemorizedSpellsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterEditForms\CharacterFeatForm.resx">
+      <DependentUpon>CharacterFeatForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterEditForms\CharacterFeatureForm.resx">
+      <DependentUpon>CharacterFeatureForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterEditForms\CharacterLanguageForm.resx">
+      <DependentUpon>CharacterLanguageForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CharacterEditForms\CharacterSkillForm.resx">
+      <DependentUpon>CharacterSkillForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DocumentViewer.resx">
+      <DependentUpon>DocumentViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainWindow.resx">
+      <DependentUpon>MainWindow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\AmmoForm.resx">
+      <DependentUpon>AmmoForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ArmorForm.resx">
+      <DependentUpon>ArmorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ArmorMagicAbilityForm.resx">
+      <DependentUpon>ArmorMagicAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ArtifactForm.resx">
+      <DependentUpon>ArtifactForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\CharacterForm.resx">
+      <DependentUpon>CharacterForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ChooseBonusFeatForm.resx">
+      <DependentUpon>ChooseBonusFeatForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ChooseBonusFeatOfTypeForm.resx">
+      <DependentUpon>ChooseBonusFeatOfTypeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ChooseFeatureForm.resx">
+      <DependentUpon>ChooseFeatureForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ClassForm.resx">
+      <DependentUpon>ClassForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ClassLevelForm.resx">
+      <DependentUpon>ClassLevelForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\CombatStyleForm.resx">
+      <DependentUpon>CombatStyleForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ConditionForm.resx">
+      <DependentUpon>ConditionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsiLikeAbilityForm.resx">
+      <DependentUpon>PsiLikeAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellLikeAbilityForm.resx">
+      <DependentUpon>SpellLikeAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MonsterForm.resx">
+      <DependentUpon>MonsterForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\CreateClassLevelsForm.resx">
+      <DependentUpon>CreateClassLevelsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\CustomItemForm.resx">
+      <DependentUpon>CustomItemForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DamageAdditionForm.resx">
+      <DependentUpon>DamageAdditionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DamageReductionForm.resx">
+      <DependentUpon>DamageReductionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DamageResistanceForm.resx">
+      <DependentUpon>DamageResistanceForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DeityForm.resx">
+      <DependentUpon>DeityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DomainForm.resx">
+      <DependentUpon>DomainForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\DorjeForm.resx">
+      <DependentUpon>DorjeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\EnhancementForm.resx">
+      <DependentUpon>EnhancementForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\FamiliarForm.resx">
+      <DependentUpon>FamiliarForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\FeatForm.resx">
+      <DependentUpon>FeatForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\FeatureForm.resx">
+      <DependentUpon>FeatureForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\FlurryOfBlowsForm.resx">
+      <DependentUpon>FlurryOfBlowsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\GenericChooseBonusForm.resx">
+      <DependentUpon>GenericChooseBonusForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\GenericDescriptionForm.resx">
+      <DependentUpon>GenericDescriptionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\HepPageForm.resx">
+      <DependentUpon>HepPageForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ImprovedUnarmedDamageForm.resx">
+      <DependentUpon>ImprovedUnarmedDamageForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ItemForm.resx">
+      <DependentUpon>ItemForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MagicAmmoForm.resx">
+      <DependentUpon>MagicAmmoForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ModifierForm.resx">
+      <DependentUpon>ModifierForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MoneyForm.resx">
+      <DependentUpon>MoneyForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MonsterClassForm.resx">
+      <DependentUpon>MonsterClassForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MonsterRaceForm.resx">
+      <DependentUpon>MonsterRaceForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\MonsterTypeForm.resx">
+      <DependentUpon>MonsterTypeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\NaturalWeaponForm.resx">
+      <DependentUpon>NaturalWeaponForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PotionForm.resx">
+      <DependentUpon>PotionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerDisciplineForm.resx">
+      <DependentUpon>PowerDisciplineForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerForm.resx">
+      <DependentUpon>PowerForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerListForm.resx">
+      <DependentUpon>PowerListForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerListSpecificForm.resx">
+      <DependentUpon>PowerListSpecificForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerProgressionForm.resx">
+      <DependentUpon>PowerProgressionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PowerStoneFrom.resx">
+      <DependentUpon>PowerStoneFrom.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PrerequisiteForm.resx">
+      <DependentUpon>PrerequisiteForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PropertiesForm.resx">
+      <DependentUpon>PropertiesForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PropertiesFormDV.resx">
+      <DependentUpon>PropertiesFormDV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsicrownForm.resx">
+      <DependentUpon>PsicrownForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicAmmoForm.resx">
+      <DependentUpon>PsionicAmmoForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicArmorAbilityForm.resx">
+      <DependentUpon>PsionicArmorAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicArmorForm.resx">
+      <DependentUpon>PsionicArmorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicArtifactForm.resx">
+      <DependentUpon>PsionicArtifactForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicDisciplineSpecializationForm.resx">
+      <DependentUpon>PsionicDisciplineSpecializationForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicTattooForm.resx">
+      <DependentUpon>PsionicTattooForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicWeaponAbilityForm.resx">
+      <DependentUpon>PsionicWeaponAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\PsionicWeaponForm.resx">
+      <DependentUpon>PsionicWeaponForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\RaceForm.resx">
+      <DependentUpon>RaceForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\RegenerationForm.resx">
+      <DependentUpon>RegenerationForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\RingForm.resx">
+      <DependentUpon>RingForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\RodForm.resx">
+      <DependentUpon>RodForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\ScrollFrom.resx">
+      <DependentUpon>ScrollFrom.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SetAbilityForm.resx">
+      <DependentUpon>SetAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SetValueForm.resx">
+      <DependentUpon>SetValueForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SimpleForm.resx">
+      <DependentUpon>SimpleForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SimpleNumericalForm.resx">
+      <DependentUpon>SimpleNumericalForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SimpleSelectorForm.resx">
+      <DependentUpon>SimpleSelectorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SimpleTextForm.resx">
+      <DependentUpon>SimpleTextForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SkillAbilityExchangeForm.resx">
+      <DependentUpon>SkillAbilityExchangeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SkillForm.resx">
+      <DependentUpon>SkillForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SkillSynergyForm.resx">
+      <DependentUpon>SkillSynergyForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpecialMaterialForm.resx">
+      <DependentUpon>SpecialMaterialForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpecificArmorForm.resx">
+      <DependentUpon>SpecificArmorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpecificBonusFeatForm.resx">
+      <DependentUpon>SpecificBonusFeatForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpecificWeaponForm.resx">
+      <DependentUpon>SpecificWeaponForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellFailureForm.resx">
+      <DependentUpon>SpellFailureForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellForm.resx">
+      <DependentUpon>SpellForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellLevelsForm.resx">
+      <DependentUpon>SpellLevelsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellListForm.resx">
+      <DependentUpon>SpellListForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellListSpecificForm.resx">
+      <DependentUpon>SpellListSpecificForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SpellSchoolForm.resx">
+      <DependentUpon>SpellSchoolForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\StaffForm.resx">
+      <DependentUpon>StaffForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SubtypeForm.resx">
+      <DependentUpon>SubtypeForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SystemElementForm.resx">
+      <DependentUpon>SystemElementForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\SystemReferenceForm.resx">
+      <DependentUpon>SystemReferenceForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\UniversalItemForm.resx">
+      <DependentUpon>UniversalItemForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\WandForm.resx">
+      <DependentUpon>WandForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\WeaponForm.resx">
+      <DependentUpon>WeaponForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\WeaponMagicAbilityForm.resx">
+      <DependentUpon>WeaponMagicAbilityForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ObjectForms\WondrousItemForm.resx">
+      <DependentUpon>WondrousItemForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\AboutForm.resx">
+      <DependentUpon>AboutForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\CentralDisplayForm.resx">
+      <DependentUpon>CentralDisplayForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\CharacterXMLForm.resx">
+      <DependentUpon>CharacterXMLForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ChooseWeaponDialog.resx">
+      <DependentUpon>ChooseWeaponDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\CompareForm.resx">
+      <DependentUpon>CompareForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ConstructListDialog.resx">
+      <DependentUpon>ConstructListDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\CreateAttackDialog.resx">
+      <DependentUpon>CreateAttackDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\CustomCartItemForm.resx">
+      <DependentUpon>CustomCartItemForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\DatasetLoadResult.resx">
+      <DependentUpon>DatasetLoadResult.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\DeleteFailuresForm.resx">
+      <DependentUpon>DeleteFailuresForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\DeleteLevelsForm.resx">
+      <DependentUpon>DeleteLevelsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ErrorForm.resx">
+      <DependentUpon>ErrorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\FilterForm.resx">
+      <DependentUpon>FilterForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\FiltersForm.resx">
+      <DependentUpon>FiltersForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ListsDialog.resx">
+      <DependentUpon>ListsDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\Marketplace.resx">
+      <DependentUpon>Marketplace.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\NewsForm.resx">
+      <DependentUpon>NewsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\NumericSelector.resx">
+      <DependentUpon>NumericSelector.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ObjectSelectorForm.resx">
+      <DependentUpon>ObjectSelectorForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\OptionsForm.resx">
+      <DependentUpon>OptionsForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\PasteFailuresForm.resx">
+      <DependentUpon>PasteFailuresForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\PrintPreview.resx">
+      <DependentUpon>PrintPreview.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\ProgressBar.resx">
+      <DependentUpon>ProgressBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\RollHitDiceForm.resx">
+      <DependentUpon>RollHitDiceForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\SaveOptionForm.resx">
+      <DependentUpon>SaveOptionForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\SellItems.resx">
+      <DependentUpon>SellItems.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OtherForms\SimpleSelectorDialog.resx">
+      <DependentUpon>SimpleSelectorDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Assets.resx">
+      <DependentUpon>Assets.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\AttacksSubreport.resx">
+      <DependentUpon>AttacksSubreport.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\CasterLevelSpellSave.resx">
+      <DependentUpon>CasterLevelSpellSave.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\CharacterSheet.resx">
+      <DependentUpon>CharacterSheet.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\ConditionalModifiers.resx">
+      <DependentUpon>ConditionalModifiers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\DomainsSchools.resx">
+      <DependentUpon>DomainsSchools.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Feats.resx">
+      <DependentUpon>Feats.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Features.resx">
+      <DependentUpon>Features.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Inventory.resx">
+      <DependentUpon>Inventory.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\ManifesterLevelPowerSave.resx">
+      <DependentUpon>ManifesterLevelPowerSave.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Modifiers.resx">
+      <DependentUpon>Modifiers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\PowerBook.resx">
+      <DependentUpon>PowerBook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\PowerModifiers.resx">
+      <DependentUpon>PowerModifiers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\PowerNotes.resx">
+      <DependentUpon>PowerNotes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\PsionicSpecializations.resx">
+      <DependentUpon>PsionicSpecializations.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\Skills.resx">
+      <DependentUpon>Skills.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\SpellBook.resx">
+      <DependentUpon>SpellBook.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\SpellModifiers.resx">
+      <DependentUpon>SpellModifiers.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\SpellNotes.resx">
+      <DependentUpon>SpellNotes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\SpellsPerDay.resx">
+      <DependentUpon>SpellsPerDay.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\AttackBlock.resx">
+      <DependentUpon>AttackBlock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\AttributeScore.resx">
+      <DependentUpon>AttributeScore.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\Circle.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Circle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\AttributeCircle.resx">
+      <DependentUpon>AttributeCircle.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\Picture.resx">
+      <DependentUpon>Picture.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Printing\UserControls\Subheading.resx">
+      <DependentUpon>Subheading.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\d8.resx">
+      <DependentUpon>d8.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\AssetsPanel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AssetsPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\CharacterPanel.resx">
+      <DependentUpon>CharacterPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\InventoryPanel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InventoryPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\ManifesterPanel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ManifesterPanel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\MonsterWeaponConfiguration.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>MonsterWeaponConfiguration.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\ShoppingCartPanel2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShoppingCartPanel2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\SpellcasterPanel2.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SpellcasterPanel2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\DisplayPanels\WeaponsPanel.resx">
+      <DependentUpon>WeaponsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\FilterBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FilterBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\HeightSpin.resx">
+      <DependentUpon>HeightSpin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\ListBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ListBox.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\NumericKeypad.resx">
+      <DependentUpon>NumericKeypad.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\PropertiesTab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PropertiesTab.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\RPGXInheritedListView.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>RPGXInheritedListView.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\SetValue.resx">
+      <DependentUpon>SetValue.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Test.resx">
+      <DependentUpon>Test.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\WizardFilterBar.resx">
+      <DependentUpon>WizardFilterBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardManager.resx">
+      <DependentUpon>WizardManager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\AddPowersKnown.resx">
+      <DependentUpon>AddPowersKnown.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\AddSpellsKnown.resx">
+      <DependentUpon>AddSpellsKnown.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\AssignAbilityPoints.resx">
+      <DependentUpon>AssignAbilityPoints.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\AssignSkillPointsPanel.resx">
+      <DependentUpon>AssignSkillPointsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\ExistingSpellcasterProgression.resx">
+      <DependentUpon>ExistingSpellcasterProgression.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\FavoredEnemyPanel.resx">
+      <DependentUpon>FavoredEnemyPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\FeatLegendPanel.resx">
+      <DependentUpon>FeatLegendPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\LevelUpFinishPanel.resx">
+      <DependentUpon>LevelUpFinishPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\PanelBase.resx">
+      <DependentUpon>PanelBase.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\PickLangaugesPanel.resx">
+      <DependentUpon>PickLangaugesPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\RollHitDicePanel.resx">
+      <DependentUpon>RollHitDicePanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectBonusClassSkillsPanel.resx">
+      <DependentUpon>SelectBonusClassSkillsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectBonusDomainsPanel.resx">
+      <DependentUpon>SelectBonusDomainsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectClassPanel.resx">
+      <DependentUpon>SelectClassPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectDomainsPanel.resx">
+      <DependentUpon>SelectDomainsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectFeatsPanel.resx">
+      <DependentUpon>SelectFeatsPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectFeaturesPanel.resx">
+      <DependentUpon>SelectFeaturesPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectPsionicSpecializationPanel.resx">
+      <DependentUpon>SelectPsionicSpecializationPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SelectSchoolSpecialization.resx">
+      <DependentUpon>SelectSchoolSpecialization.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\SpellLegendPanel.resx">
+      <DependentUpon>SpellLegendPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\TemplatePanel.resx">
+      <DependentUpon>TemplatePanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Wizards\WizardPanels\TestPanel.resx">
+      <DependentUpon>TestPanel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icons\about.png" />
+    <Content Include="Icons\AnimalCompanion.png" />
+    <Content Include="Icons\arrow_down_green.png" />
+    <Content Include="Icons\arrow_up_blue.png" />
+    <Content Include="Icons\arrow_up_green.png" />
+    <Content Include="Icons\books_add.png" />
+    <Content Include="Icons\book_blue.png" />
+    <Content Include="Icons\book_blue_add.png" />
+    <Content Include="Icons\businessman_delete.png" />
+    <Content Include="Icons\cashier.png" />
+    <Content Include="Icons\CharacterHumanMale.png" />
+    <Content Include="Icons\chest.png" />
+    <Content Include="Icons\chest_into.png" />
+    <Content Include="Icons\chest_out.png" />
+    <Content Include="Icons\clipboard_empty.png" />
+    <Content Include="Icons\Copy.ico" />
+    <Content Include="Icons\copy.png" />
+    <Content Include="Icons\Cut.ico" />
+    <Content Include="Icons\cut.png" />
+    <Content Include="Icons\data_disk.png" />
+    <Content Include="Icons\data_into.png" />
+    <Content Include="Icons\data_new.png" />
+    <Content Include="Icons\data_replace.png" />
+    <Content Include="Icons\delete2.png" />
+    <Content Include="Icons\document.png" />
+    <Content Include="Icons\document_add.png" />
+    <Content Include="Icons\document_edit.png" />
+    <Content Include="Icons\document_info.png" />
+    <Content Include="Icons\document_into.png" />
+    <Content Include="Icons\document_stop.png" />
+    <Content Include="Icons\document_view.png" />
+    <Content Include="Icons\earth.png" />
+    <Content Include="Icons\exit.png" />
+    <Content Include="Icons\folders.png" />
+    <Content Include="Icons\folder_add.png" />
+    <Content Include="Icons\folder_into.png" />
+    <Content Include="Icons\folder_out.png" />
+    <Content Include="Icons\folder_up.png" />
+    <Content Include="Icons\form_blue.ico" />
+    <Content Include="Icons\form_blue.png" />
+    <Content Include="Icons\form_green.ico" />
+    <Content Include="Icons\form_green.png" />
+    <Content Include="Icons\form_yellow.ico" />
+    <Content Include="Icons\form_yellow.png" />
+    <Content Include="Icons\funnel.png" />
+    <Content Include="Icons\funnel_delete.png" />
+    <Content Include="Icons\funnel_edit.png" />
+    <Content Include="Icons\gears.png" />
+    <Content Include="Icons\gears_preferences.png" />
+    <Content Include="Icons\gear_run.png" />
+    <Content Include="Icons\gear_stop.png" />
+    <Content Include="Icons\goldbar.ico" />
+    <Content Include="Icons\goldbar.png" />
+    <Content Include="Icons\goldbars.png" />
+    <Content Include="Icons\goldbar_add.png" />
+    <Content Include="Icons\goldbar_delete.png" />
+    <Content Include="Icons\hammer.png" />
+    <Content Include="Icons\help.png" />
+    <Content Include="Icons\help2.png" />
+    <Content Include="Icons\index_add.png" />
+    <Content Include="Icons\index_delete.png" />
+    <Content Include="Icons\information.png" />
+    <Content Include="Icons\lightbulb.png" />
+    <Content Include="Icons\lightbulb_on.png" />
+    <Content Include="Icons\lock.png" />
+    <Content Include="Icons\lock_open.png" />
+    <Content Include="Icons\magic-wand.png" />
+    <Content Include="Icons\memspell.png" />
+    <Content Include="Icons\messages.ico" />
+    <Content Include="Icons\messages.png" />
+    <Content Include="Icons\money.png" />
+    <Content Include="Icons\moneybag.png" />
+    <Content Include="Icons\navigate_minus.png" />
+    <Content Include="Icons\navigate_plus.png" />
+    <Content Include="Icons\navigate_up2.png" />
+    <Content Include="Icons\note_edit.png" />
+    <Content Include="Icons\Paste.ico" />
+    <Content Include="Icons\paste.png" />
+    <Content Include="Icons\preferences.png" />
+    <Content Include="Icons\refresh.png" />
+    <Content Include="Icons\row_add.ico" />
+    <Content Include="Icons\row_add.png" />
+    <Content Include="Icons\row_add_after.png" />
+    <Content Include="Icons\row_delete.ico" />
+    <Content Include="Icons\row_delete.png" />
+    <Content Include="Icons\scroll_add.png" />
+    <Content Include="Icons\scroll_view.png" />
+    <Content Include="Icons\selection.png" />
+    <Content Include="Icons\shield.ico" />
+    <Content Include="Icons\shoppingbasket.png" />
+    <Content Include="Icons\shoppingbasket_add.png" />
+    <Content Include="Icons\shoppingbasket_delete.png" />
+    <Content Include="Icons\shoppingbasket_full.ico" />
+    <Content Include="Icons\shoppingbasket_full.png" />
+    <Content Include="Icons\signpost.png" />
+    <Content Include="Icons\tables.png" />
+    <Content Include="Icons\table_add.png" />
+    <Content Include="Icons\table_new.png" />
+    <Content Include="Icons\undo.png" />
+    <Content Include="Icons\ViewModeDetails.ico" />
+    <Content Include="Icons\ViewModeLargeIcons.ico" />
+    <Content Include="Icons\ViewModeList.ico" />
+    <Content Include="Icons\ViewModeSmallIcons.ico" />
+    <Content Include="Icons\warning.png" />
+    <Content Include="Icons\windows.png" />
+    <Content Include="Icons\window_earth.png" />
+    <Content Include="Icons\window_new.png" />
+    <Content Include="Icons\window_sidebar.png" />
+    <Content Include="Icons\window_split_hor.png" />
+    <Content Include="Icons\window_split_ver.png" />
+    <Content Include="Images\Dimmed\Buckler.png" />
+    <Content Include="Images\Dimmed\Offhand.png" />
+    <Content Include="Images\Dimmed\Primary.png" />
+    <Content Include="Images\Dimmed\Secondary.png" />
+    <Content Include="Images\Dimmed\WeaponBastardSword.png" />
+    <Content Include="Images\Dimmed\WeaponCompositeLongbow.png" />
+    <Content Include="Images\Dimmed\WeaponCrossbowRepeating.png" />
+    <Content Include="Images\Dimmed\WeaponGlaive.png" />
+    <Content Include="Images\Dimmed\WeaponGreatSword.png" />
+    <Content Include="Images\Dimmed\WeaponGuisarme.png" />
+    <Content Include="Images\Dimmed\WeaponHalberd.png" />
+    <Content Include="Images\Dimmed\WeaponLongbow.png" />
+    <Content Include="Images\Dimmed\WeaponQuarterstaff.png" />
+    <Content Include="Images\Dimmed\WeaponRanseur.png" />
+    <Content Include="Images\Dimmed\WeaponSai.png" />
+    <Content Include="Images\Dimmed\WeaponsAxe.png" />
+    <Content Include="Images\Dimmed\WeaponsAxeLarge.png" />
+    <Content Include="Images\Dimmed\WeaponsBolas.png" />
+    <Content Include="Images\Dimmed\WeaponsBow.png" />
+    <Content Include="Images\Dimmed\WeaponsClub.png" />
+    <Content Include="Images\Dimmed\WeaponsCrossbow.png" />
+    <Content Include="Images\Dimmed\WeaponsDagger.png" />
+    <Content Include="Images\Dimmed\WeaponsDaggerPunching.png" />
+    <Content Include="Images\Dimmed\WeaponsDart.png" />
+    <Content Include="Images\Dimmed\WeaponsDefault.png" />
+    <Content Include="Images\Dimmed\WeaponsFalchion.png" />
+    <Content Include="Images\Dimmed\WeaponsGauntlet.png" />
+    <Content Include="Images\Dimmed\WeaponsGauntletSpiked.png" />
+    <Content Include="Images\Dimmed\WeaponsHammer.png" />
+    <Content Include="Images\Dimmed\WeaponsJavelin.png" />
+    <Content Include="Images\Dimmed\WeaponsKama.png" />
+    <Content Include="Images\Dimmed\WeaponsKukri.png" />
+    <Content Include="Images\Dimmed\WeaponsLance.png" />
+    <Content Include="Images\Dimmed\WeaponsMace.png" />
+    <Content Include="Images\Dimmed\WeaponsMorningStar.png" />
+    <Content Include="Images\Dimmed\WeaponsNet.png" />
+    <Content Include="Images\Dimmed\WeaponsNunchaku.png" />
+    <Content Include="Images\Dimmed\WeaponsPick.png" />
+    <Content Include="Images\Dimmed\WeaponsPolearms.png" />
+    <Content Include="Images\Dimmed\WeaponsQuarterstaff.png" />
+    <Content Include="Images\Dimmed\WeaponsRapier.png" />
+    <Content Include="Images\Dimmed\WeaponsSap.png" />
+    <Content Include="Images\Dimmed\WeaponsScimitar.png" />
+    <Content Include="Images\Dimmed\WeaponsScythe.png" />
+    <Content Include="Images\Dimmed\WeaponsShuriken.png" />
+    <Content Include="Images\Dimmed\WeaponsSiangham.png" />
+    <Content Include="Images\Dimmed\WeaponsSickle.png" />
+    <Content Include="Images\Dimmed\WeaponsSling.png" />
+    <Content Include="Images\Dimmed\WeaponsSpear.png" />
+    <Content Include="Images\Dimmed\WeaponsSpikedChain.png" />
+    <Content Include="Images\Dimmed\WeaponsSwordLarge.png" />
+    <Content Include="Images\Dimmed\WeaponsSwordShort.png" />
+    <Content Include="Images\Dimmed\WeaponsWhip.png" />
+    <Content Include="Images\Dimmed\WeaponTrident.png" />
+    <Content Include="Images\Dimmed\WeaponTwo-BladedSword.png" />
+    <Content Include="Images\Dimmed\WeaponUnarmedStrike.png" />
+    <Content Include="Images\LargeImages\Ability.png" />
+    <Content Include="Images\LargeImages\AnimalCompanion.png" />
+    <Content Include="Images\LargeImages\Armor.png" />
+    <Content Include="Images\LargeImages\ArmorBanded.png" />
+    <Content Include="Images\LargeImages\ArmorBreastplate.png" />
+    <Content Include="Images\LargeImages\ArmorChainmail.png" />
+    <Content Include="Images\LargeImages\ArmorChainShirt.png" />
+    <Content Include="Images\LargeImages\ArmorDefault.png" />
+    <Content Include="Images\LargeImages\ArmorFullPlate.png" />
+    <Content Include="Images\LargeImages\ArmorHalfPlate.png" />
+    <Content Include="Images\LargeImages\ArmorHide.png" />
+    <Content Include="Images\LargeImages\ArmorLeather.png" />
+    <Content Include="Images\LargeImages\ArmorPadded.png" />
+    <Content Include="Images\LargeImages\ArmorScaleMail.png" />
+    <Content Include="Images\LargeImages\ArmorShields.png" />
+    <Content Include="Images\LargeImages\ArmorSplintMail.png" />
+    <Content Include="Images\LargeImages\ArmorStuddedLeather.png" />
+    <Content Include="Images\LargeImages\Bite.png" />
+    <Content Include="Images\LargeImages\books.png" />
+    <Content Include="Images\LargeImages\book_blue.png" />
+    <Content Include="Images\LargeImages\book_green.png" />
+    <Content Include="Images\LargeImages\book_open.png" />
+    <Content Include="Images\LargeImages\book_open2.png" />
+    <Content Include="Images\LargeImages\book_red.png" />
+    <Content Include="Images\LargeImages\book_yellow.png" />
+    <Content Include="Images\LargeImages\CharacterHumanFemale.png" />
+    <Content Include="Images\LargeImages\CharacterHumanMale.png" />
+    <Content Include="Images\LargeImages\Claw.png" />
+    <Content Include="Images\LargeImages\CognizanceCrystal.png" />
+    <Content Include="Images\LargeImages\Dorje.png" />
+    <Content Include="Images\LargeImages\Encounter.png" />
+    <Content Include="Images\LargeImages\EquipmentAdventuringGearSmallItems.png" />
+    <Content Include="Images\LargeImages\EquipmentAlchemyLab.png" />
+    <Content Include="Images\LargeImages\EquipmentBackpack.png" />
+    <Content Include="Images\LargeImages\EquipmentBarrel.png" />
+    <Content Include="Images\LargeImages\EquipmentBasket.png" />
+    <Content Include="Images\LargeImages\EquipmentBedroll.png" />
+    <Content Include="Images\LargeImages\EquipmentBell.png" />
+    <Content Include="Images\LargeImages\EquipmentBlanket.png" />
+    <Content Include="Images\LargeImages\EquipmentBlockAndTackle.png" />
+    <Content Include="Images\LargeImages\EquipmentBoat.png" />
+    <Content Include="Images\LargeImages\EquipmentBottleWine.png" />
+    <Content Include="Images\LargeImages\EquipmentBucket.png" />
+    <Content Include="Images\LargeImages\EquipmentCaltrops.png" />
+    <Content Include="Images\LargeImages\EquipmentCandle.png" />
+    <Content Include="Images\LargeImages\EquipmentCanvas.png" />
+    <Content Include="Images\LargeImages\EquipmentCaseMapOrScroll.png" />
+    <Content Include="Images\LargeImages\EquipmentChain.png" />
+    <Content Include="Images\LargeImages\EquipmentCheese.png" />
+    <Content Include="Images\LargeImages\EquipmentChest.png" />
+    <Content Include="Images\LargeImages\EquipmentClothing.png" />
+    <Content Include="Images\LargeImages\EquipmentCrowbar.png" />
+    <Content Include="Images\LargeImages\EquipmentDefault.png" />
+    <Content Include="Images\LargeImages\EquipmentDog.png" />
+    <Content Include="Images\LargeImages\EquipmentFirewood.png" />
+    <Content Include="Images\LargeImages\EquipmentFishingEquipmentHookNet.png" />
+    <Content Include="Images\LargeImages\EquipmentFlaskFlaskOfOil.png" />
+    <Content Include="Images\LargeImages\EquipmentFlaskHolywaterAcidAntitoxin.png" />
+    <Content Include="Images\LargeImages\EquipmentFlintAndSteel.png" />
+    <Content Include="Images\LargeImages\EquipmentFoodDrinkLodgings.png" />
+    <Content Include="Images\LargeImages\EquipmentGear.png" />
+    <Content Include="Images\LargeImages\EquipmentGrapplingHook.png" />
+    <Content Include="Images\LargeImages\EquipmentHammer.png" />
+    <Content Include="Images\LargeImages\EquipmentHerbsPlantsEtc.png" />
+    <Content Include="Images\LargeImages\EquipmentHolySymbolSilver.png" />
+    <Content Include="Images\LargeImages\EquipmentHolySymbolWooden.png" />
+    <Content Include="Images\LargeImages\EquipmentHourglass.png" />
+    <Content Include="Images\LargeImages\EquipmentLadder.png" />
+    <Content Include="Images\LargeImages\EquipmentLantern.png" />
+    <Content Include="Images\LargeImages\EquipmentLoafOfBread.png" />
+    <Content Include="Images\LargeImages\EquipmentLock.png" />
+    <Content Include="Images\LargeImages\EquipmentMagnifyingGlass.png" />
+    <Content Include="Images\LargeImages\EquipmentManacles.png" />
+    <Content Include="Images\LargeImages\EquipmentMinersPick.png" />
+    <Content Include="Images\LargeImages\EquipmentMirror.png" />
+    <Content Include="Images\LargeImages\EquipmentMoney.png" />
+    <Content Include="Images\LargeImages\EquipmentMounts.png" />
+    <Content Include="Images\LargeImages\EquipmentMusicalInstrument.png" />
+    <Content Include="Images\LargeImages\EquipmentPitcher.png" />
+    <Content Include="Images\LargeImages\EquipmentPiton.png" />
+    <Content Include="Images\LargeImages\EquipmentPole.png" />
+    <Content Include="Images\LargeImages\EquipmentPortableRam.png" />
+    <Content Include="Images\LargeImages\EquipmentPot.png" />
+    <Content Include="Images\LargeImages\EquipmentPouchBelt.png" />
+    <Content Include="Images\LargeImages\EquipmentRations.png" />
+    <Content Include="Images\LargeImages\EquipmentRope.png" />
+    <Content Include="Images\LargeImages\EquipmentSack.png" />
+    <Content Include="Images\LargeImages\EquipmentScales.png" />
+    <Content Include="Images\LargeImages\EquipmentServices.png" />
+    <Content Include="Images\LargeImages\EquipmentSignetRing.png" />
+    <Content Include="Images\LargeImages\EquipmentSledSledge.png" />
+    <Content Include="Images\LargeImages\EquipmentSmokestick.png" />
+    <Content Include="Images\LargeImages\EquipmentSpadeShovel.png" />
+    <Content Include="Images\LargeImages\EquipmentSpellbook.png" />
+    <Content Include="Images\LargeImages\EquipmentSpyglassTelescope.png" />
+    <Content Include="Images\LargeImages\EquipmentStationery.png" />
+    <Content Include="Images\LargeImages\EquipmentSunrod.png" />
+    <Content Include="Images\LargeImages\EquipmentTankardMug.png" />
+    <Content Include="Images\LargeImages\EquipmentTent.png" />
+    <Content Include="Images\LargeImages\EquipmentThievesTools.png" />
+    <Content Include="Images\LargeImages\EquipmentThunderstone.png" />
+    <Content Include="Images\LargeImages\EquipmentTindertwig.png" />
+    <Content Include="Images\LargeImages\EquipmentToolsHealerArtisanEtc.png" />
+    <Content Include="Images\LargeImages\EquipmentTorch.png" />
+    <Content Include="Images\LargeImages\EquipmentTransport.png" />
+    <Content Include="Images\LargeImages\EquipmentWaterClock.png" />
+    <Content Include="Images\LargeImages\EquipmentWaterskin.png" />
+    <Content Include="Images\LargeImages\EquipmentWhetstone.png" />
+    <Content Include="Images\LargeImages\Familiar.png" />
+    <Content Include="Images\LargeImages\Feat.png" />
+    <Content Include="Images\LargeImages\FeatBlank.png" />
+    <Content Include="Images\LargeImages\FeatItemCreation.png" />
+    <Content Include="Images\LargeImages\FeatMetamagic.png" />
+    <Content Include="Images\LargeImages\FeatPsionic.png" />
+    <Content Include="Images\LargeImages\Folder.png" />
+    <Content Include="Images\LargeImages\Gore.png" />
+    <Content Include="Images\LargeImages\Language.png" />
+    <Content Include="Images\LargeImages\MagicItemsAbility.png" />
+    <Content Include="Images\LargeImages\MagicItemsArtifacts.png" />
+    <Content Include="Images\LargeImages\MagicItemsPotions.png" />
+    <Content Include="Images\LargeImages\MagicItemsRings.png" />
+    <Content Include="Images\LargeImages\MagicItemsRods.png" />
+    <Content Include="Images\LargeImages\MagicItemsScrolls.png" />
+    <Content Include="Images\LargeImages\MagicItemsStaff.png" />
+    <Content Include="Images\LargeImages\MagicItemsWands.png" />
+    <Content Include="Images\LargeImages\MagicItemsWondrous.png" />
+    <Content Include="Images\LargeImages\ModifierNegative.png" />
+    <Content Include="Images\LargeImages\ModifierNegativeAbility.png" />
+    <Content Include="Images\LargeImages\ModifierNegativeArmourClass.png" />
+    <Content Include="Images\LargeImages\ModifierNegativeCombat.png" />
+    <Content Include="Images\LargeImages\ModifierPositive.png" />
+    <Content Include="Images\LargeImages\ModifierPositiveAbility.png" />
+    <Content Include="Images\LargeImages\ModifierPositiveArmourClass.png" />
+    <Content Include="Images\LargeImages\ModifierPositiveCombat.png" />
+    <Content Include="Images\LargeImages\MonsterFemale.png" />
+    <Content Include="Images\LargeImages\MonsterMale.png" />
+    <Content Include="Images\LargeImages\MountBrown.png" />
+    <Content Include="Images\LargeImages\MountWhite.png" />
+    <Content Include="Images\LargeImages\Power.png" />
+    <Content Include="Images\LargeImages\PowerStone.png" />
+    <Content Include="Images\LargeImages\PsiCrown.png" />
+    <Content Include="Images\LargeImages\PsiCrystal.png" />
+    <Content Include="Images\LargeImages\PsiCrystalCompanion.png" />
+    <Content Include="Images\LargeImages\PsionicAbility.png" />
+    <Content Include="Images\LargeImages\PsionicArtifact.png" />
+    <Content Include="Images\LargeImages\PsionicBlank.png" />
+    <Content Include="Images\LargeImages\refresh.png" />
+    <Content Include="Images\LargeImages\RuleObject.png" />
+    <Content Include="Images\LargeImages\RuleObject2.png" />
+    <Content Include="Images\LargeImages\RuleObjectSystem.png" />
+    <Content Include="Images\LargeImages\rule_table.png" />
+    <Content Include="Images\LargeImages\ShieldsBuckler.png" />
+    <Content Include="Images\LargeImages\ShieldsDefault.png" />
+    <Content Include="Images\LargeImages\ShieldsSteelLarge.png" />
+    <Content Include="Images\LargeImages\ShieldsSteelSmall.png" />
+    <Content Include="Images\LargeImages\ShieldsTower.png" />
+    <Content Include="Images\LargeImages\ShieldsWoodenLarge.png" />
+    <Content Include="Images\LargeImages\ShieldsWoodenSmall.png" />
+    <Content Include="Images\LargeImages\Skill.png" />
+    <Content Include="Images\LargeImages\SkillBlank.png" />
+    <Content Include="Images\LargeImages\SkillCraft.png" />
+    <Content Include="Images\LargeImages\SkillKnowledge.png" />
+    <Content Include="Images\LargeImages\SkillMagic.png" />
+    <Content Include="Images\LargeImages\SkillPerform.png" />
+    <Content Include="Images\LargeImages\SkillPsionic.png" />
+    <Content Include="Images\LargeImages\Slam.png" />
+    <Content Include="Images\LargeImages\Spell.png" />
+    <Content Include="Images\LargeImages\SpellBlank.png" />
+    <Content Include="Images\LargeImages\Stamp.png" />
+    <Content Include="Images\LargeImages\star_green.png" />
+    <Content Include="Images\LargeImages\TailSlap.png" />
+    <Content Include="Images\LargeImages\Talon.png" />
+    <Content Include="Images\LargeImages\Tattoo.png" />
+    <Content Include="Images\LargeImages\Tentacle.png" />
+    <Content Include="Images\LargeImages\UniversalItem.png" />
+    <Content Include="Images\LargeImages\UserDoc.png" />
+    <Content Include="Images\LargeImages\UserDocMap.png" />
+    <Content Include="Images\LargeImages\WeaponBastardSword.png" />
+    <Content Include="Images\LargeImages\WeaponCompositeLongbow.png" />
+    <Content Include="Images\LargeImages\WeaponCrossbowRepeating.png" />
+    <Content Include="Images\LargeImages\WeaponGlaive.png" />
+    <Content Include="Images\LargeImages\WeaponGreatSword.png" />
+    <Content Include="Images\LargeImages\WeaponGuisarme.png" />
+    <Content Include="Images\LargeImages\WeaponHalberd.png" />
+    <Content Include="Images\LargeImages\WeaponLongbow.png" />
+    <Content Include="Images\LargeImages\WeaponRanseur.png" />
+    <Content Include="Images\LargeImages\WeaponSai.png" />
+    <Content Include="Images\LargeImages\WeaponsArrow.png" />
+    <Content Include="Images\LargeImages\WeaponsAxe.png" />
+    <Content Include="Images\LargeImages\WeaponsAxeLarge.png" />
+    <Content Include="Images\LargeImages\WeaponsBolas.png" />
+    <Content Include="Images\LargeImages\WeaponsBolt.png" />
+    <Content Include="Images\LargeImages\WeaponsBow.png" />
+    <Content Include="Images\LargeImages\WeaponsClub.png" />
+    <Content Include="Images\LargeImages\WeaponsCrossbow.png" />
+    <Content Include="Images\LargeImages\WeaponsDagger.png" />
+    <Content Include="Images\LargeImages\WeaponsDaggerPunching.png" />
+    <Content Include="Images\LargeImages\WeaponsDart.png" />
+    <Content Include="Images\LargeImages\WeaponsDefault.png" />
+    <Content Include="Images\LargeImages\WeaponsFalchion.png" />
+    <Content Include="Images\LargeImages\WeaponsGauntlet.png" />
+    <Content Include="Images\LargeImages\WeaponsGauntletSpiked.png" />
+    <Content Include="Images\LargeImages\WeaponsHammer.png" />
+    <Content Include="Images\LargeImages\WeaponsJavelin.png" />
+    <Content Include="Images\LargeImages\WeaponsKama.png" />
+    <Content Include="Images\LargeImages\WeaponsKukri.png" />
+    <Content Include="Images\LargeImages\WeaponsLance.png" />
+    <Content Include="Images\LargeImages\WeaponsMace.png" />
+    <Content Include="Images\LargeImages\WeaponsMorningStar.png" />
+    <Content Include="Images\LargeImages\WeaponsNet.png" />
+    <Content Include="Images\LargeImages\WeaponsNunchaku.png" />
+    <Content Include="Images\LargeImages\WeaponsPick.png" />
+    <Content Include="Images\LargeImages\WeaponsPolearms.png" />
+    <Content Include="Images\LargeImages\WeaponsQuarterstaff.png" />
+    <Content Include="Images\LargeImages\WeaponsRapier.png" />
+    <Content Include="Images\LargeImages\WeaponsSap.png" />
+    <Content Include="Images\LargeImages\WeaponsScimitar.png" />
+    <Content Include="Images\LargeImages\WeaponsScythe.png" />
+    <Content Include="Images\LargeImages\WeaponsShuriken.png" />
+    <Content Include="Images\LargeImages\WeaponsSiangham.png" />
+    <Content Include="Images\LargeImages\WeaponsSickle.png" />
+    <Content Include="Images\LargeImages\WeaponsSling.png" />
+    <Content Include="Images\LargeImages\WeaponsSlingBullet.png" />
+    <Content Include="Images\LargeImages\WeaponsSpear.png" />
+    <Content Include="Images\LargeImages\WeaponsSpikedChain.png" />
+    <Content Include="Images\LargeImages\WeaponsSwordLarge.png" />
+    <Content Include="Images\LargeImages\WeaponsSwordShort.png" />
+    <Content Include="Images\LargeImages\WeaponsWhip.png" />
+    <Content Include="Images\LargeImages\WeaponTrident.png" />
+    <Content Include="Images\LargeImages\WeaponTwo-BladedSword.png" />
+    <Content Include="Images\LargeImages\WeaponUnarmedStrike.png" />
+    <Content Include="Images\Miscellaneous\magic-wand.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale1.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale10.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale11.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale12.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale13.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale14.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale15.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale16.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale17.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale18.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale19.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale2.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale20.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale21.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale22.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale23.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale24.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale25.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale3.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale4.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale5.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale6.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale7.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale8.png" />
+    <Content Include="Images\Portraits\Female\ElfFemale9.png" />
+    <Content Include="Images\Portraits\Female\Female1.png" />
+    <Content Include="Images\Portraits\Female\Female10.png" />
+    <Content Include="Images\Portraits\Female\Female11.png" />
+    <Content Include="Images\Portraits\Female\Female12.png" />
+    <Content Include="Images\Portraits\Female\Female13.png" />
+    <Content Include="Images\Portraits\Female\Female14.png" />
+    <Content Include="Images\Portraits\Female\Female15.png" />
+    <Content Include="Images\Portraits\Female\Female16.png" />
+    <Content Include="Images\Portraits\Female\Female17.png" />
+    <Content Include="Images\Portraits\Female\Female18.png" />
+    <Content Include="Images\Portraits\Female\Female19.png" />
+    <Content Include="Images\Portraits\Female\Female2.png" />
+    <Content Include="Images\Portraits\Female\Female20.png" />
+    <Content Include="Images\Portraits\Female\Female21.png" />
+    <Content Include="Images\Portraits\Female\Female22.png" />
+    <Content Include="Images\Portraits\Female\Female23.png" />
+    <Content Include="Images\Portraits\Female\Female24.png" />
+    <Content Include="Images\Portraits\Female\Female25.png" />
+    <Content Include="Images\Portraits\Female\Female26.png" />
+    <Content Include="Images\Portraits\Female\Female27.png" />
+    <Content Include="Images\Portraits\Female\Female28.png" />
+    <Content Include="Images\Portraits\Female\Female29.png" />
+    <Content Include="Images\Portraits\Female\Female3.png" />
+    <Content Include="Images\Portraits\Female\Female30.png" />
+    <Content Include="Images\Portraits\Female\Female31.png" />
+    <Content Include="Images\Portraits\Female\Female32.png" />
+    <Content Include="Images\Portraits\Female\Female33.png" />
+    <Content Include="Images\Portraits\Female\Female34.png" />
+    <Content Include="Images\Portraits\Female\Female35.png" />
+    <Content Include="Images\Portraits\Female\Female36.png" />
+    <Content Include="Images\Portraits\Female\Female37.png" />
+    <Content Include="Images\Portraits\Female\Female38.png" />
+    <Content Include="Images\Portraits\Female\Female39.png" />
+    <Content Include="Images\Portraits\Female\Female4.png" />
+    <Content Include="Images\Portraits\Female\Female40.png" />
+    <Content Include="Images\Portraits\Female\Female41.png" />
+    <Content Include="Images\Portraits\Female\Female42.png" />
+    <Content Include="Images\Portraits\Female\Female43.png" />
+    <Content Include="Images\Portraits\Female\Female44.png" />
+    <Content Include="Images\Portraits\Female\Female45.png" />
+    <Content Include="Images\Portraits\Female\Female46.png" />
+    <Content Include="Images\Portraits\Female\Female47.png" />
+    <Content Include="Images\Portraits\Female\Female48.png" />
+    <Content Include="Images\Portraits\Female\Female49.png" />
+    <Content Include="Images\Portraits\Female\Female5.png" />
+    <Content Include="Images\Portraits\Female\Female50.png" />
+    <Content Include="Images\Portraits\Female\Female51.png" />
+    <Content Include="Images\Portraits\Female\Female52.png" />
+    <Content Include="Images\Portraits\Female\Female53.png" />
+    <Content Include="Images\Portraits\Female\Female54.png" />
+    <Content Include="Images\Portraits\Female\Female55.png" />
+    <Content Include="Images\Portraits\Female\Female56.png" />
+    <Content Include="Images\Portraits\Female\Female57.png" />
+    <Content Include="Images\Portraits\Female\Female58.png" />
+    <Content Include="Images\Portraits\Female\Female59.png" />
+    <Content Include="Images\Portraits\Female\Female6.png" />
+    <Content Include="Images\Portraits\Female\Female60.png" />
+    <Content Include="Images\Portraits\Female\Female61.png" />
+    <Content Include="Images\Portraits\Female\Female62.png" />
+    <Content Include="Images\Portraits\Female\Female63.png" />
+    <Content Include="Images\Portraits\Female\Female64.png" />
+    <Content Include="Images\Portraits\Female\Female65.png" />
+    <Content Include="Images\Portraits\Female\Female66.png" />
+    <Content Include="Images\Portraits\Female\Female67.png" />
+    <Content Include="Images\Portraits\Female\Female68.png" />
+    <Content Include="Images\Portraits\Female\Female69.png" />
+    <Content Include="Images\Portraits\Female\Female7.png" />
+    <Content Include="Images\Portraits\Female\Female70.png" />
+    <Content Include="Images\Portraits\Female\Female71.png" />
+    <Content Include="Images\Portraits\Female\Female72.png" />
+    <Content Include="Images\Portraits\Female\Female73.png" />
+    <Content Include="Images\Portraits\Female\Female74.png" />
+    <Content Include="Images\Portraits\Female\Female75.png" />
+    <Content Include="Images\Portraits\Female\Female76.png" />
+    <Content Include="Images\Portraits\Female\Female77.png" />
+    <Content Include="Images\Portraits\Female\Female78.png" />
+    <Content Include="Images\Portraits\Female\Female8.png" />
+    <Content Include="Images\Portraits\Female\Female9.png" />
+    <Content Include="Images\Portraits\Female\HalfOrcFemale1.png" />
+    <Content Include="Images\Portraits\Male\ElfMale1.png" />
+    <Content Include="Images\Portraits\Male\ElfMale10.png" />
+    <Content Include="Images\Portraits\Male\ElfMale11.png" />
+    <Content Include="Images\Portraits\Male\ElfMale12.png" />
+    <Content Include="Images\Portraits\Male\ElfMale2.png" />
+    <Content Include="Images\Portraits\Male\ElfMale3.png" />
+    <Content Include="Images\Portraits\Male\ElfMale4.png" />
+    <Content Include="Images\Portraits\Male\ElfMale5.png" />
+    <Content Include="Images\Portraits\Male\ElfMale6.png" />
+    <Content Include="Images\Portraits\Male\ElfMale7.png" />
+    <Content Include="Images\Portraits\Male\ElfMale8.png" />
+    <Content Include="Images\Portraits\Male\ElfMale9.png" />
+    <Content Include="Images\Portraits\Male\HalfOrcMale1.png" />
+    <Content Include="Images\Portraits\Male\HalfOrcMale2.png" />
+    <Content Include="Images\Portraits\Male\Male1.png" />
+    <Content Include="Images\Portraits\Male\Male10.png" />
+    <Content Include="Images\Portraits\Male\Male11.png" />
+    <Content Include="Images\Portraits\Male\Male12.png" />
+    <Content Include="Images\Portraits\Male\Male13.png" />
+    <Content Include="Images\Portraits\Male\Male14.png" />
+    <Content Include="Images\Portraits\Male\Male15.png" />
+    <Content Include="Images\Portraits\Male\Male16.png" />
+    <Content Include="Images\Portraits\Male\Male17.png" />
+    <Content Include="Images\Portraits\Male\Male18.png" />
+    <Content Include="Images\Portraits\Male\Male19.png" />
+    <Content Include="Images\Portraits\Male\Male2.png" />
+    <Content Include="Images\Portraits\Male\Male20.png" />
+    <Content Include="Images\Portraits\Male\Male21.png" />
+    <Content Include="Images\Portraits\Male\Male22.png" />
+    <Content Include="Images\Portraits\Male\Male23.png" />
+    <Content Include="Images\Portraits\Male\Male24.png" />
+    <Content Include="Images\Portraits\Male\Male25.png" />
+    <Content Include="Images\Portraits\Male\Male26.png" />
+    <Content Include="Images\Portraits\Male\Male27.png" />
+    <Content Include="Images\Portraits\Male\Male28.png" />
+    <Content Include="Images\Portraits\Male\Male29.png" />
+    <Content Include="Images\Portraits\Male\Male3.png" />
+    <Content Include="Images\Portraits\Male\Male30.png" />
+    <Content Include="Images\Portraits\Male\Male31.png" />
+    <Content Include="Images\Portraits\Male\Male32.png" />
+    <Content Include="Images\Portraits\Male\Male33.png" />
+    <Content Include="Images\Portraits\Male\Male34.png" />
+    <Content Include="Images\Portraits\Male\Male35.png" />
+    <Content Include="Images\Portraits\Male\Male36.png" />
+    <Content Include="Images\Portraits\Male\Male37.png" />
+    <Content Include="Images\Portraits\Male\Male38.png" />
+    <Content Include="Images\Portraits\Male\Male39.png" />
+    <Content Include="Images\Portraits\Male\Male4.png" />
+    <Content Include="Images\Portraits\Male\Male40.png" />
+    <Content Include="Images\Portraits\Male\Male41.png" />
+    <Content Include="Images\Portraits\Male\Male42.png" />
+    <Content Include="Images\Portraits\Male\Male43.png" />
+    <Content Include="Images\Portraits\Male\Male44.png" />
+    <Content Include="Images\Portraits\Male\Male45.png" />
+    <Content Include="Images\Portraits\Male\Male46.png" />
+    <Content Include="Images\Portraits\Male\Male47.png" />
+    <Content Include="Images\Portraits\Male\Male48.png" />
+    <Content Include="Images\Portraits\Male\Male49.png" />
+    <Content Include="Images\Portraits\Male\Male5.png" />
+    <Content Include="Images\Portraits\Male\Male6.png" />
+    <Content Include="Images\Portraits\Male\Male7.png" />
+    <Content Include="Images\Portraits\Male\Male8.png" />
+    <Content Include="Images\Portraits\Male\Male9.png" />
+    <Content Include="Images\SmallImages\Ability.png" />
+    <Content Include="Images\SmallImages\AnimalCompanion.png" />
+    <Content Include="Images\SmallImages\Armor.png" />
+    <Content Include="Images\SmallImages\ArmorBanded.png" />
+    <Content Include="Images\SmallImages\ArmorBreastplate.png" />
+    <Content Include="Images\SmallImages\ArmorChainmail.png" />
+    <Content Include="Images\SmallImages\ArmorChainShirt.png" />
+    <Content Include="Images\SmallImages\ArmorDefault.png" />
+    <Content Include="Images\SmallImages\ArmorFullPlate.png" />
+    <Content Include="Images\SmallImages\ArmorHalfPlate.png" />
+    <Content Include="Images\SmallImages\ArmorHide.png" />
+    <Content Include="Images\SmallImages\ArmorLeather.png" />
+    <Content Include="Images\SmallImages\ArmorPadded.png" />
+    <Content Include="Images\SmallImages\ArmorScaleMail.png" />
+    <Content Include="Images\SmallImages\ArmorShields.png" />
+    <Content Include="Images\SmallImages\ArmorSplintMail.png" />
+    <Content Include="Images\SmallImages\ArmorStuddedLeather.png" />
+    <Content Include="Images\SmallImages\Bite.png" />
+    <Content Include="Images\SmallImages\books.png" />
+    <Content Include="Images\SmallImages\book_blue.png" />
+    <Content Include="Images\SmallImages\book_green.png" />
+    <Content Include="Images\SmallImages\book_open.png" />
+    <Content Include="Images\SmallImages\book_open2.png" />
+    <Content Include="Images\SmallImages\book_red.png" />
+    <Content Include="Images\SmallImages\book_yellow.png" />
+    <Content Include="Images\SmallImages\CharacterHumanFemale.png" />
+    <Content Include="Images\SmallImages\CharacterHumanMale.png" />
+    <Content Include="Images\SmallImages\Claw.png" />
+    <Content Include="Images\SmallImages\CognizanceCrystal.png" />
+    <Content Include="Images\SmallImages\Dorje.png" />
+    <Content Include="Images\SmallImages\Encounter.png" />
+    <Content Include="Images\SmallImages\EquipmentAdventuringGearSmallItems.png" />
+    <Content Include="Images\SmallImages\EquipmentAlchemyLab.png" />
+    <Content Include="Images\SmallImages\EquipmentBackpack.png" />
+    <Content Include="Images\SmallImages\EquipmentBarrel.png" />
+    <Content Include="Images\SmallImages\EquipmentBasket.png" />
+    <Content Include="Images\SmallImages\EquipmentBedroll.png" />
+    <Content Include="Images\SmallImages\EquipmentBell.png" />
+    <Content Include="Images\SmallImages\EquipmentBlanket.png" />
+    <Content Include="Images\SmallImages\EquipmentBlockAndTackle.png" />
+    <Content Include="Images\SmallImages\EquipmentBoat.png" />
+    <Content Include="Images\SmallImages\EquipmentBottleWine.png" />
+    <Content Include="Images\SmallImages\EquipmentBucket.png" />
+    <Content Include="Images\SmallImages\EquipmentCaltrops.png" />
+    <Content Include="Images\SmallImages\EquipmentCandle.png" />
+    <Content Include="Images\SmallImages\EquipmentCanvas.png" />
+    <Content Include="Images\SmallImages\EquipmentCaseMapOrScroll.png" />
+    <Content Include="Images\SmallImages\EquipmentChain.png" />
+    <Content Include="Images\SmallImages\EquipmentCheese.png" />
+    <Content Include="Images\SmallImages\EquipmentChest.png" />
+    <Content Include="Images\SmallImages\EquipmentClothing.png" />
+    <Content Include="Images\SmallImages\EquipmentCrowbar.png" />
+    <Content Include="Images\SmallImages\EquipmentDefault.png" />
+    <Content Include="Images\SmallImages\EquipmentDog.png" />
+    <Content Include="Images\SmallImages\EquipmentFirewood.png" />
+    <Content Include="Images\SmallImages\EquipmentFishingEquipmentHookNet.png" />
+    <Content Include="Images\SmallImages\EquipmentFlaskFlaskOfOil.png" />
+    <Content Include="Images\SmallImages\EquipmentFlaskHolywaterAcidAntitoxin.png" />
+    <Content Include="Images\SmallImages\EquipmentFlintAndSteel.png" />
+    <Content Include="Images\SmallImages\EquipmentFoodDrinkLodgings.png" />
+    <Content Include="Images\SmallImages\EquipmentGear.png" />
+    <Content Include="Images\SmallImages\EquipmentGrapplingHook.png" />
+    <Content Include="Images\SmallImages\EquipmentHammer.png" />
+    <Content Include="Images\SmallImages\EquipmentHerbsPlantsEtc.png" />
+    <Content Include="Images\SmallImages\EquipmentHolySymbolSilver.png" />
+    <Content Include="Images\SmallImages\EquipmentHolySymbolWooden.png" />
+    <Content Include="Images\SmallImages\EquipmentHourglass.png" />
+    <Content Include="Images\SmallImages\EquipmentLadder.png" />
+    <Content Include="Images\SmallImages\EquipmentLantern.png" />
+    <Content Include="Images\SmallImages\EquipmentLoafOfBread.png" />
+    <Content Include="Images\SmallImages\EquipmentLock.png" />
+    <Content Include="Images\SmallImages\EquipmentMagnifyingGlass.png" />
+    <Content Include="Images\SmallImages\EquipmentManacles.png" />
+    <Content Include="Images\SmallImages\EquipmentMinersPick.png" />
+    <Content Include="Images\SmallImages\EquipmentMirror.png" />
+    <Content Include="Images\SmallImages\EquipmentMoney.png" />
+    <Content Include="Images\SmallImages\EquipmentMounts.png" />
+    <Content Include="Images\SmallImages\EquipmentMusicalInstrument.png" />
+    <Content Include="Images\SmallImages\EquipmentPitcher.png" />
+    <Content Include="Images\SmallImages\EquipmentPiton.png" />
+    <Content Include="Images\SmallImages\EquipmentPole.png" />
+    <Content Include="Images\SmallImages\EquipmentPortableRam.png" />
+    <Content Include="Images\SmallImages\EquipmentPot.png" />
+    <Content Include="Images\SmallImages\EquipmentPouchBelt.png" />
+    <Content Include="Images\SmallImages\EquipmentRations.png" />
+    <Content Include="Images\SmallImages\EquipmentRope.png" />
+    <Content Include="Images\SmallImages\EquipmentSack.png" />
+    <Content Include="Images\SmallImages\EquipmentScales.png" />
+    <Content Include="Images\SmallImages\EquipmentServices.png" />
+    <Content Include="Images\SmallImages\EquipmentSignetRing.png" />
+    <Content Include="Images\SmallImages\EquipmentSledSledge.png" />
+    <Content Include="Images\SmallImages\EquipmentSmokestick.png" />
+    <Content Include="Images\SmallImages\EquipmentSpadeShovel.png" />
+    <Content Include="Images\SmallImages\EquipmentSpellbook.png" />
+    <Content Include="Images\SmallImages\EquipmentSpyglassTelescope.png" />
+    <Content Include="Images\SmallImages\EquipmentStationery.png" />
+    <Content Include="Images\SmallImages\EquipmentSunrod.png" />
+    <Content Include="Images\SmallImages\EquipmentTankardMug.png" />
+    <Content Include="Images\SmallImages\EquipmentTent.png" />
+    <Content Include="Images\SmallImages\EquipmentThievesTools.png" />
+    <Content Include="Images\SmallImages\EquipmentThunderstone.png" />
+    <Content Include="Images\SmallImages\EquipmentTindertwig.png" />
+    <Content Include="Images\SmallImages\EquipmentToolsHealerArtisanEtc.png" />
+    <Content Include="Images\SmallImages\EquipmentTorch.png" />
+    <Content Include="Images\SmallImages\EquipmentTransport.png" />
+    <Content Include="Images\SmallImages\EquipmentWaterClock.png" />
+    <Content Include="Images\SmallImages\EquipmentWaterskin.png" />
+    <Content Include="Images\SmallImages\EquipmentWhetstone.png" />
+    <Content Include="Images\SmallImages\Familiar.png" />
+    <Content Include="Images\SmallImages\Feat.png" />
+    <Content Include="Images\SmallImages\FeatBlank.png" />
+    <Content Include="Images\SmallImages\FeatItemCreation.png" />
+    <Content Include="Images\SmallImages\FeatMetamagic.png" />
+    <Content Include="Images\SmallImages\FeatPsionic.png" />
+    <Content Include="Images\SmallImages\Folder.png" />
+    <Content Include="Images\SmallImages\Gore.png" />
+    <Content Include="Images\SmallImages\Language.png" />
+    <Content Include="Images\SmallImages\MagicItemsAbility.png" />
+    <Content Include="Images\SmallImages\MagicItemsArtifacts.png" />
+    <Content Include="Images\SmallImages\MagicItemsPotion.png" />
+    <Content Include="Images\SmallImages\MagicItemsRings.png" />
+    <Content Include="Images\SmallImages\MagicItemsRods.png" />
+    <Content Include="Images\SmallImages\MagicItemsScrolls.png" />
+    <Content Include="Images\SmallImages\MagicItemsStaffs.png" />
+    <Content Include="Images\SmallImages\MagicItemsWands.png" />
+    <Content Include="Images\SmallImages\MagicItemsWondrous.png" />
+    <Content Include="Images\SmallImages\ModifierNegative.png" />
+    <Content Include="Images\SmallImages\ModifierNegativeAbility.png" />
+    <Content Include="Images\SmallImages\ModifierNegativeArmourClass.png" />
+    <Content Include="Images\SmallImages\ModifierNegativeCombat.png" />
+    <Content Include="Images\SmallImages\ModifierPositive.png" />
+    <Content Include="Images\SmallImages\ModifierPositiveAbility.png" />
+    <Content Include="Images\SmallImages\ModifierPositiveArmourClass.png" />
+    <Content Include="Images\SmallImages\ModiiferPositiveCombat.png" />
+    <Content Include="Images\SmallImages\MonsterFemale.png" />
+    <Content Include="Images\SmallImages\MonsterMale.png" />
+    <Content Include="Images\SmallImages\MountBrown.png" />
+    <Content Include="Images\SmallImages\MountWhite.png" />
+    <Content Include="Images\SmallImages\Power.png" />
+    <Content Include="Images\SmallImages\PowerStone.png" />
+    <Content Include="Images\SmallImages\PsiCrown.png" />
+    <Content Include="Images\SmallImages\PsiCrystal.png" />
+    <Content Include="Images\SmallImages\PsiCrystalCompanion.png" />
+    <Content Include="Images\SmallImages\PsionicAbility.png" />
+    <Content Include="Images\SmallImages\PsionicArtifact.png" />
+    <Content Include="Images\SmallImages\PsionicBlank.png" />
+    <Content Include="Images\SmallImages\refresh.png" />
+    <Content Include="Images\SmallImages\RuleObject.png" />
+    <Content Include="Images\SmallImages\RuleObject2.png" />
+    <Content Include="Images\SmallImages\RuleObjectSystem.png" />
+    <Content Include="Images\SmallImages\rule_table.png" />
+    <Content Include="Images\SmallImages\ShieldsBuckler.png" />
+    <Content Include="Images\SmallImages\ShieldsDefault.png" />
+    <Content Include="Images\SmallImages\ShieldsSteelLarge.png" />
+    <Content Include="Images\SmallImages\ShieldsSteelSmall.png" />
+    <Content Include="Images\SmallImages\ShieldsTower.png" />
+    <Content Include="Images\SmallImages\ShieldsWoodenLarge.png" />
+    <Content Include="Images\SmallImages\ShieldsWoodenSmall.png" />
+    <Content Include="Images\SmallImages\Skill.png" />
+    <Content Include="Images\SmallImages\SkillBlank.png" />
+    <Content Include="Images\SmallImages\SkillCraft.png" />
+    <Content Include="Images\SmallImages\SkillKnowledge.png" />
+    <Content Include="Images\SmallImages\SkillMagic.png" />
+    <Content Include="Images\SmallImages\SkillPerform.png" />
+    <Content Include="Images\SmallImages\SkillPsionic.png" />
+    <Content Include="Images\SmallImages\Slam.png" />
+    <Content Include="Images\SmallImages\Spell.png" />
+    <Content Include="Images\SmallImages\SpellBlank.png" />
+    <Content Include="Images\SmallImages\Stamp.png" />
+    <Content Include="Images\SmallImages\star_green.png" />
+    <Content Include="Images\SmallImages\TailSlap.png" />
+    <Content Include="Images\SmallImages\Talon.png" />
+    <Content Include="Images\SmallImages\Tattoo.png" />
+    <Content Include="Images\SmallImages\Tentacle.png" />
+    <Content Include="Images\SmallImages\UniversalItem.png" />
+    <Content Include="Images\SmallImages\UserDoc.png" />
+    <Content Include="Images\SmallImages\UserDocMap.png" />
+    <Content Include="Images\SmallImages\WeaponBastardSword.png" />
+    <Content Include="Images\SmallImages\WeaponCompositeLongbow.png" />
+    <Content Include="Images\SmallImages\WeaponCrossbowRepeating.png" />
+    <Content Include="Images\SmallImages\WeaponGlaive.png" />
+    <Content Include="Images\SmallImages\WeaponGreatSword.png" />
+    <Content Include="Images\SmallImages\WeaponGuisarme.png" />
+    <Content Include="Images\SmallImages\WeaponHalberd.png" />
+    <Content Include="Images\SmallImages\WeaponLongbow.png" />
+    <Content Include="Images\SmallImages\WeaponRanseur.png" />
+    <Content Include="Images\SmallImages\WeaponSai.png" />
+    <Content Include="Images\SmallImages\WeaponsArrow.png" />
+    <Content Include="Images\SmallImages\WeaponsAxe.png" />
+    <Content Include="Images\SmallImages\WeaponsAxeLarge.png" />
+    <Content Include="Images\SmallImages\WeaponsBolas.png" />
+    <Content Include="Images\SmallImages\WeaponsBolt.png" />
+    <Content Include="Images\SmallImages\WeaponsBow.png" />
+    <Content Include="Images\SmallImages\WeaponsClub.png" />
+    <Content Include="Images\SmallImages\WeaponsCrossbow.png" />
+    <Content Include="Images\SmallImages\WeaponsDagger.png" />
+    <Content Include="Images\SmallImages\WeaponsDaggerPunching.png" />
+    <Content Include="Images\SmallImages\WeaponsDart.png" />
+    <Content Include="Images\SmallImages\WeaponsDefault.png" />
+    <Content Include="Images\SmallImages\WeaponsFalchion.png" />
+    <Content Include="Images\SmallImages\WeaponsGauntlet.png" />
+    <Content Include="Images\SmallImages\WeaponsGauntletSpiked.png" />
+    <Content Include="Images\SmallImages\WeaponsHammer.png" />
+    <Content Include="Images\SmallImages\WeaponsJavelin.png" />
+    <Content Include="Images\SmallImages\WeaponsKama.png" />
+    <Content Include="Images\SmallImages\WeaponsKukri.png" />
+    <Content Include="Images\SmallImages\WeaponsLance.png" />
+    <Content Include="Images\SmallImages\WeaponsMace.png" />
+    <Content Include="Images\SmallImages\WeaponsMorningStar.png" />
+    <Content Include="Images\SmallImages\WeaponsNet.png" />
+    <Content Include="Images\SmallImages\WeaponsNunchaku.png" />
+    <Content Include="Images\SmallImages\WeaponsPick.png" />
+    <Content Include="Images\SmallImages\WeaponsPolearms.png" />
+    <Content Include="Images\SmallImages\WeaponsQuarterstaff.png" />
+    <Content Include="Images\SmallImages\WeaponsRapier.png" />
+    <Content Include="Images\SmallImages\WeaponsSap.png" />
+    <Content Include="Images\SmallImages\WeaponsScimitar.png" />
+    <Content Include="Images\SmallImages\WeaponsScythe.png" />
+    <Content Include="Images\SmallImages\WeaponsShuriken.png" />
+    <Content Include="Images\SmallImages\WeaponsSiangham.png" />
+    <Content Include="Images\SmallImages\WeaponsSickle.png" />
+    <Content Include="Images\SmallImages\WeaponsSling.png" />
+    <Content Include="Images\SmallImages\WeaponsSlingBullet.png" />
+    <Content Include="Images\SmallImages\WeaponsSpear.png" />
+    <Content Include="Images\SmallImages\WeaponsSpikedChain.png" />
+    <Content Include="Images\SmallImages\WeaponsSwordLarge.png" />
+    <Content Include="Images\SmallImages\WeaponsSwordShort.png" />
+    <Content Include="Images\SmallImages\WeaponsWhip.png" />
+    <Content Include="Images\SmallImages\WeaponTrident.png" />
+    <Content Include="Images\SmallImages\WeaponTwo-BladedSword.png" />
+    <Content Include="Images\SmallImages\WeaponUnarmedStrike.png" />
+    <None Include="Printing\Datasets\AssetsDataset.xsc">
+      <DependentUpon>AssetsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\AssetsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AssetsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\AssetsDataset.xss">
+      <DependentUpon>AssetsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\AttacksDataset.xsc">
+      <DependentUpon>AttacksDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\AttacksDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AttacksDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\AttacksDataset.xss">
+      <DependentUpon>AttacksDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CasterLevelDataset.xsc">
+      <DependentUpon>CasterLevelDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CasterLevelDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CasterLevelDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\CasterLevelDataset.xss">
+      <DependentUpon>CasterLevelDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CharacterDataset.xsc">
+      <DependentUpon>CharacterDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CharacterDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CharacterDataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\CharacterDataset.xss">
+      <DependentUpon>CharacterDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CharacterXMLDataset.xsc">
+      <DependentUpon>CharacterXMLDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\CharacterXMLDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>CharacterXMLDataset.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\CharacterXMLDataset.xss">
+      <DependentUpon>CharacterXMLDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ConditionalModifiersDataset.xsc">
+      <DependentUpon>ConditionalModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ConditionalModifiersDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ConditionalModifiersDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\ConditionalModifiersDataset.xss">
+      <DependentUpon>ConditionalModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\DomainsSchoolsDataset.xsc">
+      <DependentUpon>DomainsSchoolsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\DomainsSchoolsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DomainsSchoolsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\DomainsSchoolsDataset.xss">
+      <DependentUpon>DomainsSchoolsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\FeatsDataset.xsc">
+      <DependentUpon>FeatsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\FeatsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FeatsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\FeatsDataset.xss">
+      <DependentUpon>FeatsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\FeaturesDataset.xsc">
+      <DependentUpon>FeaturesDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\FeaturesDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>FeaturesDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\FeaturesDataset.xss">
+      <DependentUpon>FeaturesDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\InventoryDataset.xsc">
+      <DependentUpon>InventoryDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\InventoryDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>InventoryDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\InventoryDataset.xss">
+      <DependentUpon>InventoryDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ManifesterLevelDataset.xsc">
+      <DependentUpon>ManifesterLevelDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ManifesterLevelDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ManifesterLevelDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\ManifesterLevelDataset.xss">
+      <DependentUpon>ManifesterLevelDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ModifiersDataset.xsc">
+      <DependentUpon>ModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\ModifiersDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ModifiersDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\ModifiersDataset.xss">
+      <DependentUpon>ModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\PsionocSpecializationsDataset.xsc">
+      <DependentUpon>PsionocSpecializationsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\PsionocSpecializationsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PsionocSpecializationsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\PsionocSpecializationsDataset.xss">
+      <DependentUpon>PsionocSpecializationsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SkillsDataset.xsc">
+      <DependentUpon>SkillsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SkillsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SkillsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SkillsDataset.xss">
+      <DependentUpon>SkillsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellbookDataset.xsc">
+      <DependentUpon>SpellbookDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellbookDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellbookDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellbookDataset.xss">
+      <DependentUpon>SpellbookDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellModifiersDataset.xsc">
+      <DependentUpon>SpellModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellModifiersDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellModifiersDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellModifiersDataset.xss">
+      <DependentUpon>SpellModifiersDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellNotesDataset.xsc">
+      <DependentUpon>SpellNotesDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellNotesDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellNotesDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellNotesDataset.xss">
+      <DependentUpon>SpellNotesDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellPointsDataset.xsc">
+      <DependentUpon>SpellPointsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellPointsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellPointsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellPointsDataset.xss">
+      <DependentUpon>SpellPointsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsDataset.xsc">
+      <DependentUpon>SpellsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellsDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellsDataset.xss">
+      <DependentUpon>SpellsDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsKnownDataset.xsc">
+      <DependentUpon>SpellsKnownDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsKnownDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellsKnownDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellsKnownDataset.xss">
+      <DependentUpon>SpellsKnownDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsPerDayDataset.xsc">
+      <DependentUpon>SpellsPerDayDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Printing\Datasets\SpellsPerDayDataset.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SpellsPerDayDataset1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Printing\Datasets\SpellsPerDayDataset.xss">
+      <DependentUpon>SpellsPerDayDataset.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\shield_red.png" />
+    <None Include="Resources\form_blue.png" />
+    <None Include="Resources\document_delete.png" />
+    <None Include="Resources\document_new.png" />
+    <None Include="Resources\row_delete.png" />
+    <None Include="Resources\table_new.png" />
+    <None Include="Resources\warning.png" />
+    <None Include="Resources\copy.png" />
+    <Content Include="shield.ico" />
+    <Content Include="Sounds\DiceRoll.wav" />
+    <Content Include="UserControls\Images\magic-wand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<DurationType>Number of rounds</DurationType>
+	<DurationType>Number of rounds per class level</DurationType>
+	<DurationType>Number of rounds + ability modifier</DurationType>
+	<DurationType>Number of hours</DurationType>
+	<DurationType>Number of hours per class level</DurationType>
+	<DurationType>Number of hours + ability modifier</DurationType>
+	<DurationType>Current encounter</DurationType>
+	<DurationType>Single attack</DurationType>
+	<DurationType>Permanent</DurationType>
+	<DurationType>Special</DurationType>
+</RPGXplorerConfig>

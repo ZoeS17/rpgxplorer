@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+    <DamageType>Acid</DamageType>
+	<DamageType>Bludgeoning</DamageType>
+	<DamageType>Cold</DamageType>
+	<DamageType>Electricity</DamageType>
+	<DamageType>Fire</DamageType>
+	<DamageType>Force</DamageType>
+	<DamageType>Magic</DamageType>
+	<DamageType>Piercing</DamageType>
+	<DamageType>Slashing</DamageType>
+	<DamageType>Sonic</DamageType>
+</RPGXplorerConfig>

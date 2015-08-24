@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<RPGXplorerData>
+  <RPGXplorerObject>
+    <Name>Spell DC for Descriptor</Name>
+    <Type>System Element</Type>
+    <ObjectGUID>032-9e902711-43ee-488f-a8a4-15a3a6fd61f0</ObjectGUID>
+    <ParentGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ParentGUID>
+    <HTML>Help\SystemElement.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObjectSystem.png</ImageFilename>
+    <AllowModifiers>Yes</AllowModifiers>
+    <AllowAbilityModifiers>No</AllowAbilityModifiers>
+    <AllowPositiveAbilityModifier>No</AllowPositiveAbilityModifier>
+    <AllowPercentileModifier>No</AllowPercentileModifier>
+    <AllowDiceRange>No</AllowDiceRange>
+    <Armor />
+    <Shields />
+    <Feats>Yes</Feats>
+    <Features>Yes</Features>
+    <Synergies />
+    <Weapons />
+    <ArmorMagicAbility>Yes</ArmorMagicAbility>
+    <Artifacts>Yes</Artifacts>
+    <MagicAmmo />
+    <MagicArmor>Yes</MagicArmor>
+    <MagicShields />
+    <MagicWeapons>Yes</MagicWeapons>
+    <Rings>Yes</Rings>
+    <Rods>Yes</Rods>
+    <Staffs>Yes</Staffs>
+    <ShieldMagicAbility />
+    <WeaponMagicAbility>Yes</WeaponMagicAbility>
+    <Wondrous>Yes</Wondrous>
+    <HasFocus>Yes</HasFocus>
+    <FocusType>Spell Descriptor Definition</FocusType>
+    <DuplicateFocusAllowed>No</DuplicateFocusAllowed>
+    <License />
+    <Sourcebook />
+    <Tags />
+  </RPGXplorerObject>
+</RPGXplorerData>

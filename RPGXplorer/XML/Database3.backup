@@ -1,0 +1,3291 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Features</Name>
+    <Type>Feature Folder</Type>
+    <ObjectGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Feats</Name>
+    <Type>Feat Folder</Type>
+    <ObjectGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Levels</Name>
+    <Type>Character Levels Folder</Type>
+    <ObjectGUID>003-3ea21bb0-53c5-4d71-a8c1-ae348ca89b94</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Skills</Name>
+    <Type>Skill Folder</Type>
+    <ObjectGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Modifiers</Name>
+    <Type>Modifier Folder</Type>
+    <ObjectGUID>003-86ede7c4-39c4-4097-8c9e-69fcfcc80d4b</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Weapons</Name>
+    <Type>Weapon Configs Folder</Type>
+    <ObjectGUID>003-21d49a88-3e14-40c2-93e8-a7bc9531a643</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inventory</Name>
+    <Type>Inventory Folder</Type>
+    <ObjectGUID>003-40fc3bed-96ef-4878-b668-82d69ce0c9dd</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inventory - Assets</Name>
+    <Type>Assets Folder</Type>
+    <ObjectGUID>003-15cc8173-a924-4bdc-b576-8d2a5dc7b0b8</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Choices</Name>
+    <Type>Character Choice Folder</Type>
+    <ObjectGUID>003-76ac3169-aaf9-4870-b9d7-0eb69f9baaaa</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Languages</Name>
+    <Type>Language Folder</Type>
+    <ObjectGUID>003-3d0eda47-1ac4-49a2-81a8-eaba41c8e2b3</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic</Name>
+    <Type>Magic Folder</Type>
+    <ObjectGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Like Abilities</Name>
+    <Type>Spell Like Ability Folder</Type>
+    <ObjectGUID>003-7f7ee964-180e-41ca-9bda-2fd15a2efd5a</ObjectGUID>
+    <ParentGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic</Name>
+    <Type>Psionics Folder</Type>
+    <ObjectGUID>003-f95c43fb-b279-421c-b930-cec92f6a32bf</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psi Like Abilities</Name>
+    <Type>Psi Like Ability Folder</Type>
+    <ObjectGUID>003-84078417-ba02-4509-8de2-d006748fd08d</ObjectGUID>
+    <ParentGUID>003-f95c43fb-b279-421c-b930-cec92f6a32bf</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>test</Name>
+    <Type>Character</Type>
+    <ObjectGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ObjectGUID>
+    <ParentGUID>001-dcdbb16b-684b-4f23-b7a5-ef82f39b20da</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CurrentHP>0</CurrentHP>
+    <XP>0</XP>
+    <Player>
+    </Player>
+    <Race FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Race>
+    <Deity FK="006-4d027d64-0c7b-4b3e-abd4-6bc64409ca7a" reference="Name">Sample</Deity>
+    <Gender>Male</Gender>
+    <Alignment>Chaotic Good</Alignment>
+    <STR>15</STR>
+    <CON>16</CON>
+    <DEX>14</DEX>
+    <INT>15</INT>
+    <WIS>9</WIS>
+    <CHA>13</CHA>
+    <Age>54</Age>
+    <Height>49</Height>
+    <Weight>108</Weight>
+    <License>
+    </License>
+    <Sourcebook>
+    </Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>CharacterHumanMale.png</ImageFilename>
+    <ArmorWorn>
+    </ArmorWorn>
+    <ShieldWorn>
+    </ShieldWorn>
+    <EncumberanceType>ByWeight</EncumberanceType>
+    <Portrait>Male\ElfMale1.png</Portrait>
+    <CurrentNonlethalHP>0</CurrentNonlethalHP>
+    <Notes>
+    </Notes>
+    <Background>
+    </Background>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Level 1</Name>
+    <Type>Character Level</Type>
+    <ObjectGUID>003-7ad00b61-4da4-47f3-92cb-77a23dbb1a8f</ObjectGUID>
+    <ParentGUID>003-3ea21bb0-53c5-4d71-a8c1-ae348ca89b94</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CharacterLevel>1</CharacterLevel>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ClassLevel FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Level">1</ClassLevel>
+    <HitPointRoll>12</HitPointRoll>
+    <HitDice>0</HitDice>
+    <STR>15</STR>
+    <DEX>14</DEX>
+    <CON>16</CON>
+    <INT>15</INT>
+    <WIS>9</WIS>
+    <CHA>13</CHA>
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Handle Animal</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-08d3acf3-d27e-42d7-9ac1-3ee9ef0573c5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3b5197aa-a9c9-458c-b5dc-dac69d0f4214</HTMLGUID>
+    <Skill FK="027-3b5197aa-a9c9-458c-b5dc-dac69d0f4214" reference="Name">Handle Animal</Skill>
+    <Rank>4</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Level2>4</Level2>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+4</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Alchemy)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-e5083ca5-243a-4b0e-9190-c4325bf2690a</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3f37c8ed-e815-4067-ba20-5e622c20c6e5</HTMLGUID>
+    <Skill FK="027-3f37c8ed-e815-4067-ba20-5e622c20c6e5" reference="Name">Craft (Alchemy)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Scribe)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-97e01c4a-d225-414e-9229-e851076416a0</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-90f19de9-603a-41cf-bdab-744031e7b817</HTMLGUID>
+    <Skill FK="027-90f19de9-603a-41cf-bdab-744031e7b817" reference="Name">Profession (Scribe)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Survival</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-aebdab59-83d2-4c5c-9218-6ab957d73923</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-c85521e2-d917-4435-981b-679a2c8743be</HTMLGUID>
+    <Skill FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</Skill>
+    <Rank>4</Rank>
+    <Level1>4</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+3</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Keyboard Instruments)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-e40a5d67-75d5-4c86-9df1-407cc30669d0</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-98970122-63fd-46ae-b590-16e42c8406b8</HTMLGUID>
+    <Skill FK="027-98970122-63fd-46ae-b590-16e42c8406b8" reference="Name">Perform (Keyboard Instruments)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disable Device</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-aa70852c-aa51-4a2b-a327-50054d654472</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-87814aac-9109-4711-bcb1-928cf4d7c4a8</HTMLGUID>
+    <Skill FK="027-87814aac-9109-4711-bcb1-928cf4d7c4a8" reference="Name">Disable Device</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Architecture and Engineering)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-9658e8f7-bf76-4925-9d65-8db62ae9c4b4</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-34015924-13c9-407e-8eed-199264b834b5</HTMLGUID>
+    <Skill FK="027-34015924-13c9-407e-8eed-199264b834b5" reference="Name">Knowledge (Architecture and Engineering)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Blacksmithing)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-80a9c47a-2184-462a-8f9b-c6f1f421b36b</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-b93f6ef6-f88b-4c81-8dd4-817da3964589</HTMLGUID>
+    <Skill FK="027-b93f6ef6-f88b-4c81-8dd4-817da3964589" reference="Name">Craft (Blacksmithing)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Cook)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-6b2be6fa-8a6e-42aa-8252-1ebfd7b84251</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-51f91a2b-3b56-4b4c-b87f-9979fab4ea1f</HTMLGUID>
+    <Skill FK="027-51f91a2b-3b56-4b4c-b87f-9979fab4ea1f" reference="Name">Profession (Cook)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Heal</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-91442dd1-450b-4894-b158-2827c3f721b5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-1458cd80-768a-4cab-8081-3b75c6927775</HTMLGUID>
+    <Skill FK="027-1458cd80-768a-4cab-8081-3b75c6927775" reference="Name">Heal</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Religion)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-3aa9d034-1e15-4273-9dbc-5023588e5509</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d</HTMLGUID>
+    <Skill FK="027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d" reference="Name">Knowledge (Religion)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (History)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-a09b1a9c-9c45-4b56-b510-67e253ed29a5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-7480b911-56f2-48da-9ca4-0cc430987fbb</HTMLGUID>
+    <Skill FK="027-7480b911-56f2-48da-9ca4-0cc430987fbb" reference="Name">Knowledge (History)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Wind Instruments)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-0b77b0b9-18c7-4b91-a962-0f628cab7332</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-09ae370d-78ed-4d98-9f5b-417dc0811acb</HTMLGUID>
+    <Skill FK="027-09ae370d-78ed-4d98-9f5b-417dc0811acb" reference="Name">Perform (Wind Instruments)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Dungeoneering)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-ffb2ad8d-091a-4782-8dfd-d43c3d225b6c</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-e4df23d7-35b7-4771-8472-2ea6973eae80</HTMLGUID>
+    <Skill FK="027-e4df23d7-35b7-4771-8472-2ea6973eae80" reference="Name">Knowledge (Dungeoneering)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spot</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-d281c3f0-244f-4e14-b202-a9d701f97b5a</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3776f4fc-0ec7-4f44-ac3d-d765e9c0e549</HTMLGUID>
+    <Skill FK="027-3776f4fc-0ec7-4f44-ac3d-d765e9c0e549" reference="Name">Spot</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Gemcutting)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-3cd034f3-1530-45bf-9e71-ff633a5aee5c</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-02b8d38d-7eef-488a-9c63-34f0ec3b99d0</HTMLGUID>
+    <Skill FK="027-02b8d38d-7eef-488a-9c63-34f0ec3b99d0" reference="Name">Craft (Gemcutting)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (The Planes)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-39cd8168-c9c5-45ac-b7df-489e090dc07d</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-d506fddc-5f01-4dae-b03b-806631dcf9d7</HTMLGUID>
+    <Skill FK="027-d506fddc-5f01-4dae-b03b-806631dcf9d7" reference="Name">Knowledge (The Planes)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Forgery</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-8abc316b-3eaf-4321-850f-5cef6c3a1ff7</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-d0c2643a-ee54-44b0-80e4-23b5f7ff097a</HTMLGUID>
+    <Skill FK="027-d0c2643a-ee54-44b0-80e4-23b5f7ff097a" reference="Name">Forgery</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intimidate</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-a912a62e-a284-47af-9183-886e70099be0</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-7db032fc-88e8-4d0a-a8eb-d8c249f5566e</HTMLGUID>
+    <Skill FK="027-7db032fc-88e8-4d0a-a8eb-d8c249f5566e" reference="Name">Intimidate</Skill>
+    <Rank>5</Rank>
+    <Level1>4</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Level2>1</Level2>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+5</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Dance)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-375227e5-33f8-4a5e-bc04-bda8e90bb986</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-09c7b61d-f723-4584-a10a-40194a8f3b4c</HTMLGUID>
+    <Skill FK="027-09c7b61d-f723-4584-a10a-40194a8f3b4c" reference="Name">Perform (Dance)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Act)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-86da4ef7-1768-4d70-9d53-9e25e435a1dc</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-d3d0da17-7cc1-46aa-87ce-74c5085a32a9</HTMLGUID>
+    <Skill FK="027-d3d0da17-7cc1-46aa-87ce-74c5085a32a9" reference="Name">Perform (Act)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Bowmaking)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-3635d58d-c525-4b07-bdf6-2f4116413392</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-d561cbf7-38d3-4c46-b301-e06b943c6230</HTMLGUID>
+    <Skill FK="027-d561cbf7-38d3-4c46-b301-e06b943c6230" reference="Name">Craft (Bowmaking)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Local)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-466a85b4-5226-409b-ba21-05645a6a32a4</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-98bf1ac3-cb88-43f9-ba87-1801c40016da</HTMLGUID>
+    <Skill FK="027-98bf1ac3-cb88-43f9-ba87-1801c40016da" reference="Name">Knowledge (Local)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Diplomacy</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-33607a37-3484-4f02-948f-9c001c6ac2c5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-319e8b62-7a34-4632-883e-8d2ef702816f</HTMLGUID>
+    <Skill FK="027-319e8b62-7a34-4632-883e-8d2ef702816f" reference="Name">Diplomacy</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Search</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-0d9128ed-3367-48d0-aeb8-622096409d7a</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-535e2d1b-0f5c-4de5-85b3-ca27be995d12</HTMLGUID>
+    <Skill FK="027-535e2d1b-0f5c-4de5-85b3-ca27be995d12" reference="Name">Search</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Open Lock</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-24390ede-2902-4b89-9885-12c8534eaea3</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-dc471c09-c450-4421-8bd1-0d070055adc7</HTMLGUID>
+    <Skill FK="027-dc471c09-c450-4421-8bd1-0d070055adc7" reference="Name">Open Lock</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Swim</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-89f78f61-3565-4fe1-ac2d-dfe3f08217d5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-c8d48dcf-532e-46d3-b187-257e0bdc3117</HTMLGUID>
+    <Skill FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</Skill>
+    <Rank>4</Rank>
+    <Level1>4</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>STR</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+6</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Autohypnosis</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-575e89d9-4616-447f-bd14-e92a4e53821c</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3442bfee-f80b-4df7-b195-a8f5e7ad6868</HTMLGUID>
+    <Skill FK="027-3442bfee-f80b-4df7-b195-a8f5e7ad6868" reference="Name">Autohypnosis</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Apothecary)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-f72529d8-3741-4c6e-8206-289f11bf6695</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-174735f2-8266-426e-b6da-d9052ae8325b</HTMLGUID>
+    <Skill FK="027-174735f2-8266-426e-b6da-d9052ae8325b" reference="Name">Profession (Apothecary)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (String Instruments)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-5e0431ec-3fe7-48f2-b0ee-4840cdef801d</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-04273239-312a-4861-bfdf-00557c78138e</HTMLGUID>
+    <Skill FK="027-04273239-312a-4861-bfdf-00557c78138e" reference="Name">Perform (String Instruments)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nature)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-d3002004-5704-4ac7-a15b-b62d79718394</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</HTMLGUID>
+    <Skill FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ride</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-97cd4bad-10b1-4b6e-a260-61490af05b33</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-e623c225-824d-4837-bba7-67f24aca0716</HTMLGUID>
+    <Skill FK="027-e623c225-824d-4837-bba7-67f24aca0716" reference="Name">Ride</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sense Motive</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-c74cf4d7-8110-42b6-832f-129365d149d6</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-fad461d2-cf4e-4017-a8f4-b071dd765f95</HTMLGUID>
+    <Skill FK="027-fad461d2-cf4e-4017-a8f4-b071dd765f95" reference="Name">Sense Motive</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Concentration</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-e66f9329-86f9-4a8d-8015-435940f920b7</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-56e3e5bf-f719-4339-92a5-975e00a2651c</HTMLGUID>
+    <Skill FK="027-56e3e5bf-f719-4339-92a5-975e00a2651c" reference="Name">Concentration</Skill>
+    <Rank>4</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CON</KeyAbility>
+    <Modifiers>+4</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+4</SkillModifier>
+    <Level3>4</Level3>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Arcana)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-7e123e90-03b0-4f8a-820b-710e0efa5c9f</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3c0483ec-5300-47f2-b834-15c1736d244b</HTMLGUID>
+    <Skill FK="027-3c0483ec-5300-47f2-b834-15c1736d244b" reference="Name">Knowledge (Arcana)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Magic Device</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-34aa66c0-7719-4cca-95a8-fdfc263ee69b</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-aa387ca9-1dc5-479a-9feb-6870d4db8656</HTMLGUID>
+    <Skill FK="027-aa387ca9-1dc5-479a-9feb-6870d4db8656" reference="Name">Use Magic Device</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Trapmaking)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-d7609b6e-bce3-4388-bdb8-b6ce2ffb7b5b</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-963bfc9c-c1a8-44a6-a2c0-fb3cf9c2f2ca</HTMLGUID>
+    <Skill FK="027-963bfc9c-c1a8-44a6-a2c0-fb3cf9c2f2ca" reference="Name">Craft (Trapmaking)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sleight of Hand</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-40639225-76af-4b20-86ba-0d46c4d148e1</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-b290828e-bc6e-4a01-9a07-ec0286dc0b5c</HTMLGUID>
+    <Skill FK="027-b290828e-bc6e-4a01-9a07-ec0286dc0b5c" reference="Name">Sleight of Hand</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Rope</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-830b47b1-552f-4d4d-b201-57b80b038aac</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-2efc0ec2-0805-47f8-a43e-51d1b40186c3</HTMLGUID>
+    <Skill FK="027-2efc0ec2-0805-47f8-a43e-51d1b40186c3" reference="Name">Use Rope</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Psionics)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-218f793a-05af-4548-9f1a-03fdd65a9346</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-9cbd3081-5fe3-48c1-a3f2-4b5f698c9f75</HTMLGUID>
+    <Skill FK="027-9cbd3081-5fe3-48c1-a3f2-4b5f698c9f75" reference="Name">Knowledge (Psionics)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Sing)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-dd327fa8-9454-4e20-a4c6-3f6a8c1e5275</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-47437210-493c-424d-9d15-ef8194c93ccf</HTMLGUID>
+    <Skill FK="027-47437210-493c-424d-9d15-ef8194c93ccf" reference="Name">Perform (Sing)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Decipher Script</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-84f58080-5ad7-44a1-8b77-d43b2b0c00c5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-98d90dd0-55db-4f49-a70c-caeb46bc34ba</HTMLGUID>
+    <Skill FK="027-98d90dd0-55db-4f49-a70c-caeb46bc34ba" reference="Name">Decipher Script</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Stonemasonry)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-3a6a15b7-58e7-4e9e-9475-16a80431b0ae</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-233daeeb-9725-497e-a86f-8d2281db99fb</HTMLGUID>
+    <Skill FK="027-233daeeb-9725-497e-a86f-8d2281db99fb" reference="Name">Craft (Stonemasonry)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Appraise</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-55bf0b1c-0bbe-4591-9e89-279365f52cbf</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-03d941a5-38d1-448e-8e20-e27df991f6fa</HTMLGUID>
+    <Skill FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nobility and Royalty)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-2e56090e-87b5-4617-b3e2-cb3b16dc69e5</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-bd237c17-5f83-45e5-bc88-4cc6b833264a</HTMLGUID>
+    <Skill FK="027-bd237c17-5f83-45e5-bc88-4cc6b833264a" reference="Name">Knowledge (Nobility and Royalty)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Miner)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-3443e166-fed8-4f14-84bd-dbbb946b8058</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-0170eaad-a853-45df-bb59-543a29c53ee8</HTMLGUID>
+    <Skill FK="027-0170eaad-a853-45df-bb59-543a29c53ee8" reference="Name">Profession (Miner)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>STR</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tumble</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-9d76180e-91f4-43ad-aef0-a267e8e23902</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-13c6c58e-253d-4757-8383-302fc725ad18</HTMLGUID>
+    <Skill FK="027-13c6c58e-253d-4757-8383-302fc725ad18" reference="Name">Tumble</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+4</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+4</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Percussion Instruments)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-139278f8-a12e-490a-abcb-df376a14fd71</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-96522e80-d611-4f2d-8c02-4fc44e1d78e0</HTMLGUID>
+    <Skill FK="027-96522e80-d611-4f2d-8c02-4fc44e1d78e0" reference="Name">Perform (Percussion Instruments)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Listen</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-6734a2f3-b053-48d7-b250-edd4a8d0bac2</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-691f6602-39bf-4016-bda9-bfeb151973a0</HTMLGUID>
+    <Skill FK="027-691f6602-39bf-4016-bda9-bfeb151973a0" reference="Name">Listen</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Sailor)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-f08d2609-f4bf-424e-b0b3-0d1c8cd6e05c</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-28b85348-ae2e-4ae1-9e44-e48e2e74eca0</HTMLGUID>
+    <Skill FK="027-28b85348-ae2e-4ae1-9e44-e48e2e74eca0" reference="Name">Profession (Sailor)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Oratory)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-b35b2aeb-09fd-44aa-9f3c-181c0569c7e8</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-cccc776a-e67e-48ff-9f40-fc4d1bd0311d</HTMLGUID>
+    <Skill FK="027-cccc776a-e67e-48ff-9f40-fc4d1bd0311d" reference="Name">Perform (Oratory)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Farmer)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-dd8a73ef-8925-4b25-abf2-b4767f50c458</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-e7f03b23-ff3d-4db7-a7fa-bdf2bcd6377d</HTMLGUID>
+    <Skill FK="027-e7f03b23-ff3d-4db7-a7fa-bdf2bcd6377d" reference="Name">Profession (Farmer)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Locksmithing)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-19ba5f66-95e7-40c3-b303-df51ffe2f1a9</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-7c8dbce5-e571-4ab0-80d6-57bd3e2f74d4</HTMLGUID>
+    <Skill FK="027-7c8dbce5-e571-4ab0-80d6-57bd3e2f74d4" reference="Name">Craft (Locksmithing)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-2c38a787-97cd-453e-804e-c0bd830f558a</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-b04b509c-7424-48de-b039-97433b940c88</HTMLGUID>
+    <Skill FK="027-b04b509c-7424-48de-b039-97433b940c88" reference="Name">Disguise</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Move Silently</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-dcaa489a-cc44-48f0-903a-25d7f12e279e</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-3d486762-958e-4211-840b-bbca9e217231</HTMLGUID>
+    <Skill FK="027-3d486762-958e-4211-840b-bbca9e217231" reference="Name">Move Silently</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Carpentry)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-1fb3bc8d-bf32-4146-9a45-eb7612417441</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-94d3f472-45d3-484d-b43f-7cef5d4f56cf</HTMLGUID>
+    <Skill FK="027-94d3f472-45d3-484d-b43f-7cef5d4f56cf" reference="Name">Craft (Carpentry)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Balance</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-95f59b69-77ca-4f43-b252-75bf39503d76</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-6927facc-f92c-44a5-8e1e-1b70505bc0bf</HTMLGUID>
+    <Skill FK="027-6927facc-f92c-44a5-8e1e-1b70505bc0bf" reference="Name">Balance</Skill>
+    <Rank>2</Rank>
+    <Level1>2</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+4</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Geography)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-426cdba1-1afe-4eb2-ba8b-80c7b957b790</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-396d13de-42aa-4cbb-bd11-19630dee21ae</HTMLGUID>
+    <Skill FK="027-396d13de-42aa-4cbb-bd11-19630dee21ae" reference="Name">Knowledge (Geography)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Psionic Device</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-1c1532be-77bd-43b1-bc8b-2c9ca8895964</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-72e88291-4076-4fa3-ad3e-2a2d2ff90089</HTMLGUID>
+    <Skill FK="027-72e88291-4076-4fa3-ad3e-2a2d2ff90089" reference="Name">Use Psionic Device</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Weaponsmithing)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-8378789c-e1af-4cfa-afef-5110802c5f66</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-59faec54-af57-4df8-a2c7-733f48df79f4</HTMLGUID>
+    <Skill FK="027-59faec54-af57-4df8-a2c7-733f48df79f4" reference="Name">Craft (Weaponsmithing)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Climb</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-08be423a-0ad2-41bb-9a5f-e9885334afa4</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-b53fa108-0561-447a-9939-19555b052e70</HTMLGUID>
+    <Skill FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</Skill>
+    <Rank>5</Rank>
+    <Level1>4</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Level2>1</Level2>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>STR</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+7</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gather Information</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-8b97c476-b58c-4de0-875d-a9a1f818f5fb</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-a662af9e-f7cc-498a-855c-fcff373d426e</HTMLGUID>
+    <Skill FK="027-a662af9e-f7cc-498a-855c-fcff373d426e" reference="Name">Gather Information</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speak Language</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-1bcf146f-021c-4294-b068-955399182bc9</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-5e470cd2-d9b2-4ee6-a61d-95316c66fa16</HTMLGUID>
+    <Skill FK="027-5e470cd2-d9b2-4ee6-a61d-95316c66fa16" reference="Name">Speak Language</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>
+    </KeyAbility>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hide</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-c92c17fd-c206-49f5-9972-3dc6193ed652</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-697a1c59-e93f-4dde-b3ed-03a11891f37b</HTMLGUID>
+    <Skill FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Hunter)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-da0431da-56a1-437e-815f-09bea96767b6</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-bca1c841-7654-4422-94bb-d2182d7e45ec</HTMLGUID>
+    <Skill FK="027-bca1c841-7654-4422-94bb-d2182d7e45ec" reference="Name">Profession (Hunter)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Armorsmithing)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-7191882e-8279-4580-ae3d-8656aa410edd</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-fb67f00e-5351-4e5c-9332-1b1a1a576730</HTMLGUID>
+    <Skill FK="027-fb67f00e-5351-4e5c-9332-1b1a1a576730" reference="Name">Craft (Armorsmithing)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Books)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-77e4ae1a-1083-4518-a7fd-755f21b871c9</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-1409c057-83c1-4e17-a8d8-c25538a32e66</HTMLGUID>
+    <Skill FK="027-1409c057-83c1-4e17-a8d8-c25538a32e66" reference="Name">Knowledge (Books)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bluff</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-dc5a058f-b294-4e36-a732-7be9ccf88259</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</HTMLGUID>
+    <Skill FK="027-96aa0bb4-b059-4385-8d68-c9f70941b7b3" reference="Name">Bluff</Skill>
+    <Rank>2</Rank>
+    <Level1>2</Level1>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spellcraft</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-5af17699-f9d0-4ab0-a246-3413d1c75931</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-a1d2177e-26bb-4090-a05b-cd25175e26a1</HTMLGUID>
+    <Skill FK="027-a1d2177e-26bb-4090-a05b-cd25175e26a1" reference="Name">Spellcraft</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Comedy)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-a87394df-4f59-44e7-a2f3-4675b7068d2e</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-50202628-d06d-4c60-9a3a-ed7d5a4efeab</HTMLGUID>
+    <Skill FK="027-50202628-d06d-4c60-9a3a-ed7d5a4efeab" reference="Name">Perform (Comedy)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>CHA</KeyAbility>
+    <Modifiers>
+    </Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>
+    </SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psicraft</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-a6732acb-928d-48bb-9c09-05f7886c871d</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-ec9899fa-810a-4da1-9602-8042f64a8604</HTMLGUID>
+    <Skill FK="027-ec9899fa-810a-4da1-9602-8042f64a8604" reference="Name">Psicraft</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>INT</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Herbalist)</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-d573f9a9-1d29-43df-8d60-801df46bffbd</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-5d1cb6bb-ac25-4f07-9898-bfa5075f07e0</HTMLGUID>
+    <Skill FK="027-5d1cb6bb-ac25-4f07-9898-bfa5075f07e0" reference="Name">Profession (Herbalist)</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>
+    </Untrained>
+    <KeyAbility>WIS</KeyAbility>
+    <Modifiers>-1</Modifiers>
+    <ArmorCheckPenalty>
+    </ArmorCheckPenalty>
+    <SkillModifier>-1</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Jump</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-cbafc22a-d90a-400c-999c-885016b3c57c</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-e1f6c664-9233-4eb2-9543-c10cbf3416e6</HTMLGUID>
+    <Skill FK="027-e1f6c664-9233-4eb2-9543-c10cbf3416e6" reference="Name">Jump</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>STR</KeyAbility>
+    <Modifiers>+4</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+4</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Escape Artist</Name>
+    <Type>Skill Points Spent</Type>
+    <ObjectGUID>003-1062287e-6fc0-405a-b7ce-f78d607e2be8</ObjectGUID>
+    <ParentGUID>003-6744675a-c4ed-4c79-901b-a8a26e75c517</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>027-7f79a248-fcf8-4473-89ed-40e35a161909</HTMLGUID>
+    <Skill FK="027-7f79a248-fcf8-4473-89ed-40e35a161909" reference="Name">Escape Artist</Skill>
+    <Rank>0</Rank>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Untrained>Yes</Untrained>
+    <KeyAbility>DEX</KeyAbility>
+    <Modifiers>+2</Modifiers>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <SkillModifier>+2</SkillModifier>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Acrobatic</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-16b1049c-7552-455b-93d2-66e0a40dfb98</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-a2faace2-477b-48f2-bdc1-235562181035</HTMLGUID>
+    <Feat FK="008-a2faace2-477b-48f2-bdc1-235562181035" reference="Name">Acrobatic</Feat>
+    <CharacterLevel>1</CharacterLevel>
+    <SourceType>Bonus Feat</SourceType>
+    <Source FK="000-00000000-0000-0000-0000-000000000000" reference="Name">Core Rules</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-a2faace2-477b-48f2-bdc1-235562181035" reference="Description">+2 bonus on all Jump checks and Tumble checks.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Proficiency (Medium)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-7b0049e0-3ca5-4be4-9b46-0b11377141e8</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-0d66387e-2365-4653-a5b0-6e23bce9f2a3</HTMLGUID>
+    <Feat FK="008-0d66387e-2365-4653-a5b0-6e23bce9f2a3" reference="Name">Armor Proficiency (Medium)</Feat>
+    <CharacterLevel>1</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-0d66387e-2365-4653-a5b0-6e23bce9f2a3" reference="Description">Proficient in the wearing of all medium armors.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapons Proficiency</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-e032dc93-6ff4-4537-9e34-15a1dc0a0653</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-0bcc2e19-c945-40ae-a10d-693613f01190</HTMLGUID>
+    <Feat FK="008-0bcc2e19-c945-40ae-a10d-693613f01190" reference="Name">Simple Weapons Proficiency</Feat>
+    <CharacterLevel>1</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-0bcc2e19-c945-40ae-a10d-693613f01190" reference="Description">Proficient with simple weapons.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Proficiency (Light)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-3a735209-3f9a-486f-859d-bf98f7a903a2</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-3614fd5e-d8c7-456d-ab7d-9a96c6d1aa41</HTMLGUID>
+    <Feat FK="008-3614fd5e-d8c7-456d-ab7d-9a96c6d1aa41" reference="Name">Armor Proficiency (Light)</Feat>
+    <CharacterLevel>1</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-3614fd5e-d8c7-456d-ab7d-9a96c6d1aa41" reference="Description">Proficient in the wearing of all light armors.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield Proficiency</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-6b12d107-5bc4-4ba9-85c1-c597d1643789</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-c59abb85-90b8-45e3-af0d-b247d03e8df6</HTMLGUID>
+    <Feat FK="008-c59abb85-90b8-45e3-af0d-b247d03e8df6" reference="Name">Shield Proficiency</Feat>
+    <CharacterLevel>1</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-c59abb85-90b8-45e3-af0d-b247d03e8df6" reference="Description">Proficient will all shields except tower shields.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Stability</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-ab2aacbf-15fe-47ef-933a-f696adbeee80</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-defdbbd0-a563-415b-83af-91e7c41efb93</HTMLGUID>
+    <Feature FK="009-defdbbd0-a563-415b-83af-91e7c41efb93" reference="Name">Stability</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-defdbbd0-a563-415b-83af-91e7c41efb93" reference="FeatureType">Natural</FeatureType>
+    <Description FK="009-defdbbd0-a563-415b-83af-91e7c41efb93" reference="Description">+4 on ability checks to resist being bull rushed on tripped when standing on ground.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Source>
+    <SourceType>Racial Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rage 1/Day</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-2f8f977c-0b07-4d2e-b377-2f8ecf4829d2</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-d351d3c3-ba6f-4e10-bb95-174c7d3f8d98</HTMLGUID>
+    <Feature FK="009-d351d3c3-ba6f-4e10-bb95-174c7d3f8d98" reference="Name">Rage 1/Day</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-d351d3c3-ba6f-4e10-bb95-174c7d3f8d98" reference="FeatureType">Extraordinary</FeatureType>
+    <Description FK="009-d351d3c3-ba6f-4e10-bb95-174c7d3f8d98" reference="Description">Can fly into a rage once per day. </Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Martial Weapons Proficiency</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-275a5f56-7f08-4d45-bf18-0789108c0253</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-20b9ec1f-4a0a-43ab-924a-0f8648fa4a0d</HTMLGUID>
+    <Feature FK="009-20b9ec1f-4a0a-43ab-924a-0f8648fa4a0d" reference="Name">Martial Weapons Proficiency</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-20b9ec1f-4a0a-43ab-924a-0f8648fa4a0d" reference="FeatureType">
+    </FeatureType>
+    <Description FK="009-20b9ec1f-4a0a-43ab-924a-0f8648fa4a0d" reference="Description">Proficient with all martial weapons.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkvision 60ft.</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-c5cc0725-fad1-4313-81af-418e3a4077f4</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-fc38c66d-63b1-4058-9a9c-787eff16693e</HTMLGUID>
+    <Feature FK="009-fc38c66d-63b1-4058-9a9c-787eff16693e" reference="Name">Darkvision 60ft.</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-fc38c66d-63b1-4058-9a9c-787eff16693e" reference="FeatureType">Natural</FeatureType>
+    <Description FK="009-fc38c66d-63b1-4058-9a9c-787eff16693e" reference="Description">Can see in the dark up to 60ft. No light is required. Darkvision is black and white only. </Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Source>
+    <SourceType>Racial Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illiteracy</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-374c7b7f-aa20-4468-b001-9e07aac9b226</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-29c3d5b6-3fbc-4014-be59-099ab8b3ff0a</HTMLGUID>
+    <Feature FK="009-29c3d5b6-3fbc-4014-be59-099ab8b3ff0a" reference="Name">Illiteracy</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-29c3d5b6-3fbc-4014-be59-099ab8b3ff0a" reference="FeatureType">
+    </FeatureType>
+    <Description FK="009-29c3d5b6-3fbc-4014-be59-099ab8b3ff0a" reference="Description">You do not automatically know how to read and write. You may spend 2 skill points to overcome this.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fast Movement +10ft (Barbarian)</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-b93bc225-e04d-42d4-98f9-1041a5add4ce</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-55cb82a6-eae1-4566-b9b0-f03038336566</HTMLGUID>
+    <Feature FK="009-55cb82a6-eae1-4566-b9b0-f03038336566" reference="Name">Fast Movement +10ft (Barbarian)</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-55cb82a6-eae1-4566-b9b0-f03038336566" reference="FeatureType">Extraordinary</FeatureType>
+    <Description FK="009-55cb82a6-eae1-4566-b9b0-f03038336566" reference="Description">Land speed is faster than the norm for race by +10 ft. </Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-6fd409ae-33e6-40f7-8179-9a4e5e02d402" reference="Name">Level 1</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ignore Encumberance</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-389bc6b3-1c5b-4d83-a316-d4a82adce018</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-6fada1a3-e1ca-4821-be3e-e45e1b629264</HTMLGUID>
+    <Feature FK="009-6fada1a3-e1ca-4821-be3e-e45e1b629264" reference="Name">Ignore Encumberance</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-6fada1a3-e1ca-4821-be3e-e45e1b629264" reference="FeatureType">Natural</FeatureType>
+    <Description FK="009-6fada1a3-e1ca-4821-be3e-e45e1b629264" reference="Description">Can move at base speed even when carrying a medium or heavy load.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Source>
+    <SourceType>Racial Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Stonecunning</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-f437473d-b89e-42ea-9417-4eac9744f498</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-5e978c52-5462-4042-9c8a-30a59dd0b73c</HTMLGUID>
+    <Feature FK="009-5e978c52-5462-4042-9c8a-30a59dd0b73c" reference="Name">Stonecunning</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>1</CharacterLevel>
+    <FeatureType FK="009-5e978c52-5462-4042-9c8a-30a59dd0b73c" reference="FeatureType">
+    </FeatureType>
+    <Description FK="009-5e978c52-5462-4042-9c8a-30a59dd0b73c" reference="Description">Can detect unusual stonework inc. traps. Can sense approximate depth underground.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="026-3404ab0d-80c6-4cca-badb-9dd19bdc04f3" reference="Name">Dwarf</Source>
+    <SourceType>Racial Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Overrides>
+    </Overrides>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Read and Write</Name>
+    <Type>Language Known</Type>
+    <ObjectGUID>003-7b1bfa22-2e61-412a-94cf-7fac4f487429</ObjectGUID>
+    <ParentGUID>003-3d0eda47-1ac4-49a2-81a8-eaba41c8e2b3</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>011-c9108486-f4d7-4e6c-8e03-d895164501ee</HTMLGUID>
+    <LevelAcquired>1</LevelAcquired>
+    <Language FK="011-c9108486-f4d7-4e6c-8e03-d895164501ee" reference="Name">Read and Write</Language>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Goblin</Name>
+    <Type>Language Known</Type>
+    <ObjectGUID>003-46790f17-c15c-47b6-9c09-6972a82c05c1</ObjectGUID>
+    <ParentGUID>003-3d0eda47-1ac4-49a2-81a8-eaba41c8e2b3</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>011-6a823fcb-2f79-4ae4-a9f5-66eba26fa0c2</HTMLGUID>
+    <LevelAcquired>1</LevelAcquired>
+    <Language FK="011-6a823fcb-2f79-4ae4-a9f5-66eba26fa0c2" reference="Name">Goblin</Language>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Common</Name>
+    <Type>Language Known</Type>
+    <ObjectGUID>003-40b53efe-10a6-40a3-8a97-9e0b6d27825b</ObjectGUID>
+    <ParentGUID>003-3d0eda47-1ac4-49a2-81a8-eaba41c8e2b3</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>011-d14113dd-ac9f-41bc-a3cc-bd0e80b0f240</HTMLGUID>
+    <LevelAcquired>1</LevelAcquired>
+    <Language FK="011-d14113dd-ac9f-41bc-a3cc-bd0e80b0f240" reference="Name">Common</Language>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarven</Name>
+    <Type>Language Known</Type>
+    <ObjectGUID>003-1b5ba7bc-4942-423b-87f6-c316a7404495</ObjectGUID>
+    <ParentGUID>003-3d0eda47-1ac4-49a2-81a8-eaba41c8e2b3</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>011-32a803d7-d247-4a88-94fc-91f132cfcd86</HTMLGUID>
+    <LevelAcquired>1</LevelAcquired>
+    <Language FK="011-32a803d7-d247-4a88-94fc-91f132cfcd86" reference="Name">Dwarven</Language>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Level 2</Name>
+    <Type>Character Level</Type>
+    <ObjectGUID>003-4b5e467f-01c7-41a7-923f-da60b1c91f3a</ObjectGUID>
+    <ParentGUID>003-3ea21bb0-53c5-4d71-a8c1-ae348ca89b94</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CharacterLevel>2</CharacterLevel>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <ClassLevel FK="005-12c79493-ed9d-4cdf-8779-68b7bb3643ae" reference="Level">2</ClassLevel>
+    <HitPointRoll>6</HitPointRoll>
+    <HitDice>0</HitDice>
+    <STR>15</STR>
+    <DEX>14</DEX>
+    <CON>16</CON>
+    <INT>15</INT>
+    <WIS>9</WIS>
+    <CHA>13</CHA>
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Uncanny Dodge</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-1554deef-7ae9-4344-8841-0d4d10659490</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-80d5a5e6-8d94-4dcb-89bf-d5c727f19a40</HTMLGUID>
+    <Feature FK="009-80d5a5e6-8d94-4dcb-89bf-d5c727f19a40" reference="Name">Uncanny Dodge</Feature>
+    <Class FK="005-a417dcca-2311-40e1-805e-d411e30546dd" reference="Name">Barbarian</Class>
+    <CharacterLevel>2</CharacterLevel>
+    <FeatureType FK="009-80d5a5e6-8d94-4dcb-89bf-d5c727f19a40" reference="FeatureType">Extraordinary</FeatureType>
+    <Description FK="009-80d5a5e6-8d94-4dcb-89bf-d5c727f19a40" reference="Description">You retain your dexterity bonus to AC even if caught flat-footed or struck by an invisible attacker.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-12c79493-ed9d-4cdf-8779-68b7bb3643ae" reference="Name">Level 2</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Level 3</Name>
+    <Type>Character Level</Type>
+    <ObjectGUID>003-b98047ee-a9dd-4350-b670-95a841fcde6a</ObjectGUID>
+    <ParentGUID>003-3ea21bb0-53c5-4d71-a8c1-ae348ca89b94</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CharacterLevel>3</CharacterLevel>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ClassLevel FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Level">1</ClassLevel>
+    <HitPointRoll>3</HitPointRoll>
+    <HitDice>0</HitDice>
+    <STR>15</STR>
+    <DEX>14</DEX>
+    <CON>16</CON>
+    <INT>15</INT>
+    <WIS>9</WIS>
+    <CHA>13</CHA>
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Domains and Schools</Name>
+    <Type>Domain Folder</Type>
+    <ObjectGUID>003-22593eef-9bac-4f7f-af5e-047d3ade8ed1</ObjectGUID>
+    <ParentGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard Spell List</Name>
+    <Type>Class Spells Folder</Type>
+    <ObjectGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ObjectGUID>
+    <ParentGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard Caster Information</Name>
+    <Type>Class Spell Settings Folder</Type>
+    <ObjectGUID>003-0646579e-1703-438d-bf95-352eb5402185</ObjectGUID>
+    <ParentGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Acid Splash</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-8bc104fb-9d62-4a49-9025-9f1866792ac4</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Acid Splash.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-6274f0d5-0df1-4eba-bef0-ba8da4d6ec3a" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Conjuration</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Acid</Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>One missile of acid</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Orb deals 1d3 acid damage.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Detect Magic</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-f5322d38-9537-4cbc-8afb-c84f289cf87c</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Detect Magic.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-3cd6f5c9-ce2f-498d-84a2-b38e08c45421" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Divination</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>60 ft.</Range>
+    <TargetAreaEffect>Cone-shaped emanation</TargetAreaEffect>
+    <Duration>Concentration, up to 1 min./level (D)</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Detects spells and magic items within 60 ft.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Read Magic</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-00411648-a0be-4c7e-9db2-f3a9db079f87</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Read Magic.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-e932c9a5-acbb-40c7-8a04-85d9f2d8c3e9" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Divination</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, F</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Personal</Range>
+    <TargetAreaEffect>You</TargetAreaEffect>
+    <Duration>10 min./level</Duration>
+    <SavingThrow>
+    </SavingThrow>
+    <SpellResistance>
+    </SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Read scrolls and spellbooks.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flare</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-ba1f68f9-f1c8-48b5-a621-ea9b39c7c6bd</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Flare.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-4c01e7ab-0e47-47e5-8f48-73a91023ed37" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Evocation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Light</Descriptors>
+    <Components>V</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Burst of light</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>Fortitude negates</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Dazzles one creature (1 on attack rolls).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mending</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-a630f4e5-c5d8-4b61-9f76-b0b9819102bf</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Mending.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-1b2c5324-3b46-443f-9b5d-553c0792ccc4" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Transmutation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>10 ft.</Range>
+    <TargetAreaEffect>One object of up to 1 lb.</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>Will negates (harmless, object)</SavingThrow>
+    <SpellResistance>Yes (harmless, object)</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Makes minor repairs on an object.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Light</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-6314fa63-7286-4630-80ba-6849add3e28b</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Light.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-dec311ad-9f46-4d85-a837-b4aac62bc115" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Evocation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Light</Descriptors>
+    <Components>V, M, DF</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Touch</Range>
+    <TargetAreaEffect>Object touched</TargetAreaEffect>
+    <Duration>10 min./level (D)</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Object shines like a torch.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mage Hand</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-745f19ba-83ad-46f4-9067-c62812f3b0f7</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Mage Hand.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-f72bddad-cebe-4599-94dc-8efa3ee78449" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Transmutation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>One nonmagical, unattended object weighing up to 5 lb.</TargetAreaEffect>
+    <Duration>Concentration</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>5-pound telekinesis.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Prestidigitation</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-ce9706ef-2241-4cb1-976b-9bc25dcb22f8</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Prestidigitation.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-20556c51-fc04-4418-a916-522096f5b4dd" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Universal</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>10 ft.</Range>
+    <TargetAreaEffect>Target, Effect, or Area: See text</TargetAreaEffect>
+    <Duration>1 hour</Duration>
+    <SavingThrow>See text</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Performs minor tricks.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Message</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-14b30ceb-b0fa-4065-ad65-110febc406d5</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Message.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-d1dad3e6-cd76-439f-a142-d9ce7f3a5279" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Transmutation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Language-Dependant</Descriptors>
+    <Components>V, S, F</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Medium (100 ft. + 10 ft./level)</Range>
+    <TargetAreaEffect>Targets: One creature/level</TargetAreaEffect>
+    <Duration>10 min./level</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Whispered conversation at distance.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ghost Sound</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-6d0648d0-4e77-4400-875f-981a50e35c60</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Ghost Sound.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-5416e6df-70a9-4b8a-99c4-37ee9cebded4" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Illusion</School>
+    <Subschool>Figment</Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, M</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Illusory sounds</TargetAreaEffect>
+    <Duration>1 round/level (D)</Duration>
+    <SavingThrow>Will disbelief (if interacted with)</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Figment sounds.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Detect Poison</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-725df28b-35ca-4ba0-8cd2-151f343ce415</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Detect Poison.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-4022267a-6cc7-4b7a-b375-d4811923c552" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Divination</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Target or Area: One creature, one object, or a 5-ft. cube</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Detects poison in one creature or object.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Daze</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-b0e80d05-a19d-46e4-a8d1-5f5869172e46</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Daze.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-059a8966-9431-4d0f-b179-2cf431b71833" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Enchantment</School>
+    <Subschool>Compulsion</Subschool>
+    <Descriptors>Mind-Affecting</Descriptors>
+    <Components>V, S, M</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>One humanoid creature of 4 HD or less</TargetAreaEffect>
+    <Duration>1 round</Duration>
+    <SavingThrow>Will negates</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Humanoid creature of 4 HD or less loses next action.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Touch of Fatigue</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-1e35d137-7cd4-4369-86f2-f3be26b575f7</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Touch of Fatigue.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-261e64e6-6c78-4bcb-a9bf-5fa7b357f02d" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Necromancy</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, M</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Touch</Range>
+    <TargetAreaEffect>Creature touched</TargetAreaEffect>
+    <Duration>1 round/level</Duration>
+    <SavingThrow>Fortitude negates</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Touch attack fatigues target.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Color Spray</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-6d861295-52d4-4492-b14a-72241d34f404</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Color Spray.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-6d59381a-aa4a-44a2-8027-39f56952f094" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>1</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Illusion</School>
+    <Subschool>Pattern</Subschool>
+    <Descriptors>Mind-Affecting</Descriptors>
+    <Components>V, S, M</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>15 ft.</Range>
+    <TargetAreaEffect>Cone-shaped burst</TargetAreaEffect>
+    <Duration>Instantaneous; see text</Duration>
+    <SavingThrow>Will negates</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Knocks unconscious, blinds, and/or stuns weak creatures.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Feather Fall</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-2e1ba8c6-5549-46e5-a408-b0f46a3f3c2e</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Feather Fall.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-2d44f588-1692-46da-9b9f-d008037dcc98" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>1</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Transmutation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V</Components>
+    <CastingTime>1 free action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Targets: One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart</TargetAreaEffect>
+    <Duration>Until landing or 1 round/level</Duration>
+    <SavingThrow>Will negates (harmless) or Will negates (object)</SavingThrow>
+    <SpellResistance>Yes (object)</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Objects or creatures fall slowly.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Arcane Mark</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-386a92f3-5f81-4e8c-8c14-7295e68093d3</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Arcane Mark.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-63851854-6b59-4c0b-99f4-974b3cd51259" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Universal</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>0 ft.</Range>
+    <TargetAreaEffect>One personal rune or mark, all of which must fit within 1 sq. ft.</TargetAreaEffect>
+    <Duration>Permanent</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Inscribes a personal rune (visible or invisible).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dancing Lights</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-1492cc7e-7a0a-49e1-aa5b-ea955d4a5a21</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Dancing Lights.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-cdfc9ba6-9c93-4204-abca-dacffcc7759a" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Evocation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Light</Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Medium (100 ft. + 10 ft./level)</Range>
+    <TargetAreaEffect>Up to four lights, all within a 10- ft.-radius area</TargetAreaEffect>
+    <Duration>1 minute (D)</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Creates torches or other lights.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise Self</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-e2450de0-ef1e-4517-ba16-99d16d9fd578</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Disguise Self.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-1881d393-05a0-4a52-96c1-5ed12d072af7" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>1</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Illusion</School>
+    <Subschool>Glamer</Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Personal</Range>
+    <TargetAreaEffect>You</TargetAreaEffect>
+    <Duration>10 min./level (D)</Duration>
+    <SavingThrow>
+    </SavingThrow>
+    <SpellResistance>
+    </SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Changes your appearance.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Open/Close</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-4d3dd65b-1ce2-426b-83ed-640573dc6586</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\OpenClose.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-6ca3b245-602c-404d-bae2-965fc56cf704" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Transmutation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, F</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Object weighing up to 30 lb. or portal that can be opened or closed</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>Will negates (object)</SavingThrow>
+    <SpellResistance>Yes (object)</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Opens or closes small or light things.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ray of Frost</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-29822501-abfc-4e9c-bd27-e8d697bc44a9</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Ray of Frost.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-91e437ec-65fe-47a4-bc64-7da3bf94ffc8" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Evocation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Cold</Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Ray</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Ray deals 1d3 cold damage.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disrupt Undead</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-6b0d168e-d9bd-4652-a2c7-5f48c7ac0971</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Disrupt Undead.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-5394627c-99cf-42ea-8805-d37053ed6d40" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Necromancy</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Close (25 ft. + 5 ft./2 levels)</Range>
+    <TargetAreaEffect>Ray</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Deals 1d6 damage to one undead.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Missile</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-14b103b8-b6ea-4ca7-a5f2-fe0b97a52235</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Magic Missile.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>1</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Evocation</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>Force</Descriptors>
+    <Components>V, S</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Medium (100 ft. + 10 ft./level)</Range>
+    <TargetAreaEffect>Targets: Up to five creatures, no two of which can be more than 15 ft. apart</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>Yes</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>1d4+1 damage; +1 missile per two levels above 1st (max 5).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Identify</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-493f394c-303c-472a-86af-29375d7a1a7c</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Identify.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-1fa088b4-7c48-4301-8352-d99907f8e43c" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>1</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Divination</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, M, DF</Components>
+    <CastingTime>1 hour</CastingTime>
+    <Range>Touch</Range>
+    <TargetAreaEffect>Targets: One touched object</TargetAreaEffect>
+    <Duration>Instantaneous</Duration>
+    <SavingThrow>None</SavingThrow>
+    <SpellResistance>No</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>100 gp</ComponentCost>
+    <Description>Determines properties of magic item.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Resistance</Name>
+    <Type>Spell Learned</Type>
+    <ObjectGUID>003-15356942-15e3-4bca-b651-f52f48c6f18d</ObjectGUID>
+    <ParentGUID>003-28b5c9c8-5bde-45e9-aaa7-92bc28248ebb</ParentGUID>
+    <HTML>Spells\Resistance.htm</HTML>
+    <HTMLGUID />
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Spell FK="030-9eb518fc-d02e-450a-9a02-5a6395cdc6c4" reference="Name">Panel</Spell>
+    <Source FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Source>
+    <Level>0</Level>
+    <CharacterLevel>3</CharacterLevel>
+    <AutoObtained>Yes</AutoObtained>
+    <ImageFilename>Spell.png</ImageFilename>
+    <School>Abjuration</School>
+    <Subschool>
+    </Subschool>
+    <Descriptors>
+    </Descriptors>
+    <Components>V, S, M, DF</Components>
+    <CastingTime>1 standard action</CastingTime>
+    <Range>Touch</Range>
+    <TargetAreaEffect>Creature touched</TargetAreaEffect>
+    <Duration>1 minute</Duration>
+    <SavingThrow>Will negates (harmless)</SavingThrow>
+    <SpellResistance>Yes (harmless)</SpellResistance>
+    <XPCost>
+    </XPCost>
+    <ComponentCost>
+    </ComponentCost>
+    <Description>Subject gains +1 on saving throws.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <Prohibited>
+    </Prohibited>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency (Club)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-ca87c971-3fc1-4154-893f-98e2eb4c10e8</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-aeeb09b2-1656-4176-a169-c6196bad68a9</HTMLGUID>
+    <Feat FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Description">Proficient with a single simple weapon.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Focus FK="031-b1ea66c1-b316-4eff-8695-74ad2fee64b5" reference="Name">Club</Focus>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency (Crossbow, Light)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-22515c29-c604-43cd-9eb1-5d800aff3df9</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-aeeb09b2-1656-4176-a169-c6196bad68a9</HTMLGUID>
+    <Feat FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Description">Proficient with a single simple weapon.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Focus FK="031-78d8843d-ce08-41dd-a7e1-6f645bbd3888" reference="Name">Crossbow, Light</Focus>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency (Crossbow, Heavy)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-cdd6d3e4-1826-45f8-95f5-26b0b4a219cb</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-aeeb09b2-1656-4176-a169-c6196bad68a9</HTMLGUID>
+    <Feat FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Description">Proficient with a single simple weapon.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Focus FK="031-6cef1500-2c80-4815-9d71-0a08bb7d67fe" reference="Name">Crossbow, Heavy</Focus>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency (Dagger)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-c22c8111-8527-4ddb-8223-2311e03a5146</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-aeeb09b2-1656-4176-a169-c6196bad68a9</HTMLGUID>
+    <Feat FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Description">Proficient with a single simple weapon.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Focus FK="031-2653fdc2-cc72-4bb9-8417-d6c6206f29a0" reference="Name">Dagger</Focus>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Simple Weapon Proficiency (Quarterstaff)</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-02c946b1-6cbc-4df9-9a38-2abdb69a2f17</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-aeeb09b2-1656-4176-a169-c6196bad68a9</HTMLGUID>
+    <Feat FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Name">Simple Weapon Proficiency</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>General</FeatType>
+    <Description FK="008-aeeb09b2-1656-4176-a169-c6196bad68a9" reference="Description">Proficient with a single simple weapon.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Focus FK="031-440250e4-ca27-44f9-86de-764e8f0ec3eb" reference="Name">Quarterstaff</Focus>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scribe Scroll</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-15118696-2417-451c-91ea-f21d282929d7</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-07945c12-a9ee-408e-95f0-ba9fd14a2280</HTMLGUID>
+    <Feat FK="008-07945c12-a9ee-408e-95f0-ba9fd14a2280" reference="Name">Scribe Scroll</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Specific Bonus Feat</SourceType>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <FeatType>Item Creation</FeatType>
+    <Description FK="008-07945c12-a9ee-408e-95f0-ba9fd14a2280" reference="Description">You can create a scroll of any spell that you know.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>Yes</IgnorePrerequisites>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Mastery</Name>
+    <Type>Feat Taken</Type>
+    <ObjectGUID>003-5a31d459-7b50-4bb4-bc4b-33a3da584926</ObjectGUID>
+    <ParentGUID>003-f8e542d0-3a48-46ed-a3fa-3fdaf5d74218</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>008-a1ab72a3-51c8-4a4e-989d-09f741c47e4c</HTMLGUID>
+    <Feat FK="008-a1ab72a3-51c8-4a4e-989d-09f741c47e4c" reference="Name">Spell Mastery</Feat>
+    <CharacterLevel>3</CharacterLevel>
+    <SourceType>Bonus Feat</SourceType>
+    <Source FK="000-00000000-0000-0000-0000-000000000000" reference="Name">Core Rules</Source>
+    <FeatType>Special</FeatType>
+    <Description FK="008-a1ab72a3-51c8-4a4e-989d-09f741c47e4c" reference="Description">Prepare selected spells without referring to a spellbook.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <ImageFilename>Feat.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summon Familiar</Name>
+    <Type>Feature Gained</Type>
+    <ObjectGUID>003-2c0565cf-b2f2-47ee-bead-e4d0c700311f</ObjectGUID>
+    <ParentGUID>003-168a0cac-b2da-4ac7-86ce-e59ed0cab95c</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>009-89dc0cd4-d9e2-4829-9a02-b2119be2ae0b</HTMLGUID>
+    <Feature FK="009-89dc0cd4-d9e2-4829-9a02-b2119be2ae0b" reference="Name">Summon Familiar</Feature>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <CharacterLevel>3</CharacterLevel>
+    <FeatureType FK="009-89dc0cd4-d9e2-4829-9a02-b2119be2ae0b" reference="FeatureType">
+    </FeatureType>
+    <Description FK="009-89dc0cd4-d9e2-4829-9a02-b2119be2ae0b" reference="Description">Grants the ability to summon a familiar.</Description>
+    <Disabled>
+    </Disabled>
+    <IgnorePrerequisites>
+    </IgnorePrerequisites>
+    <Source FK="005-51528fd9-4a85-4001-8dd8-c0225704c83b" reference="Name">Level 1</Source>
+    <SourceType>Class Feature</SourceType>
+    <ChoiceObject FK="000-00000000-0000-0000-0000-000000000000" reference="Name">
+    </ChoiceObject>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Memorized Spells</Name>
+    <Type>Memorized Spells Folder</Type>
+    <ObjectGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ObjectGUID>
+    <ParentGUID>003-d393b66f-242c-4682-8351-fe62db614df4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard 0</Name>
+    <Type>Memorized Spell</Type>
+    <ObjectGUID>003-81a24cc4-bd67-4b7c-8e92-d617e64b2c67</ObjectGUID>
+    <ParentGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Level>0</Level>
+    <SlotType>Standard</SlotType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard 0</Name>
+    <Type>Memorized Spell</Type>
+    <ObjectGUID>003-5ee0d703-fc8a-4c6e-bec4-5d96a186ba2a</ObjectGUID>
+    <ParentGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Level>0</Level>
+    <SlotType>Standard</SlotType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard 0</Name>
+    <Type>Memorized Spell</Type>
+    <ObjectGUID>003-15db404f-3938-4933-b8a0-3d781aada9b0</ObjectGUID>
+    <ParentGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Level>0</Level>
+    <SlotType>Standard</SlotType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard 1</Name>
+    <Type>Memorized Spell</Type>
+    <ObjectGUID>003-2df8a344-2046-4ebd-9148-ebfb04ef3b81</ObjectGUID>
+    <ParentGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Level>1</Level>
+    <SlotType>Standard</SlotType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wizard 1</Name>
+    <Type>Memorized Spell</Type>
+    <ObjectGUID>003-8a3d66d3-db92-4de6-8311-70abb5f8c36c</ObjectGUID>
+    <ParentGUID>003-e5534727-ec36-455a-a395-cbb4e72293b2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Class FK="005-98dbe2a9-745b-42df-8bbf-e0ed65976f53" reference="Name">Wizard</Class>
+    <Level>1</Level>
+    <SlotType>Standard</SlotType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shopping Cart</Name>
+    <Type>Shopping Cart</Type>
+    <ObjectGUID>003-1c1ad597-11cc-45c7-9908-0c161f3b68c0</ObjectGUID>
+    <ParentGUID>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Battleaxe</Name>
+    <Type>Item</Type>
+    <ObjectGUID>003-015a4329-3442-47e4-af8a-3d983ab4aa50</ObjectGUID>
+    <ParentGUID>003-40fc3bed-96ef-4878-b668-82d69ce0c9dd</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>031-b291bc3f-50f3-4a1c-a8a4-957756397344</HTMLGUID>
+    <ItemType>Weapon Definition</ItemType>
+    <Item FK="031-b291bc3f-50f3-4a1c-a8a4-957756397344" reference="Name">Battleaxe</Item>
+    <BaseCost>10 gp</BaseCost>
+    <Cost>10 gp</Cost>
+    <Quantity>1</Quantity>
+    <Size>Medium</Size>
+    <DisplaySize>Medium</DisplaySize>
+    <BaseWeight>6 lb.</BaseWeight>
+    <Weight>6 lb.</Weight>
+    <Masterwork>
+    </Masterwork>
+    <EnhancementBonus>
+    </EnhancementBonus>
+    <Active>
+    </Active>
+    <Charges>
+    </Charges>
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Banded Mail</Name>
+    <Type>Item</Type>
+    <ObjectGUID>003-68a57f1a-1f86-4dbc-a27f-6740367cfb99</ObjectGUID>
+    <ParentGUID>003-40fc3bed-96ef-4878-b668-82d69ce0c9dd</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>004-7ea10eee-76ae-41a4-9243-9f9885c992f7</HTMLGUID>
+    <ItemType>Armor Definition</ItemType>
+    <Item FK="004-7ea10eee-76ae-41a4-9243-9f9885c992f7" reference="Name">Banded Mail</Item>
+    <BaseCost>250 gp</BaseCost>
+    <Cost>250 gp</Cost>
+    <Quantity>1</Quantity>
+    <Size>Medium</Size>
+    <DisplaySize>Medium</DisplaySize>
+    <BaseWeight>35 lb.</BaseWeight>
+    <Weight>35 lb.</Weight>
+    <Masterwork>
+    </Masterwork>
+    <EnhancementBonus>
+    </EnhancementBonus>
+    <Active>
+    </Active>
+    <Charges>
+    </Charges>
+    <ImageFilename>ArmorBanded.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

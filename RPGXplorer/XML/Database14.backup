@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Banded Mail of Luck</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-ec15a17e-ceda-48c5-9d49-a5792bf667df</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Banded Mail of Luck.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Once per week, the armor allows it wearer to require that an attack roll made against him be rerolled.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-7ea10eee-76ae-41a4-9243-9f9885c992f7" reference="Name">Banded Mail</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>18900 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorBanded.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Breastplate of Command</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-64746d3f-36fe-491d-abb7-9bef0703e819</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Breastplate of Command.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>This armor bestows a dignified and commanding aura upon its owner.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-8af1f804-74da-487b-832e-aad3d5aff897" reference="Name">Breastplate</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>25400 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorBreastplate.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Charisma Check [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>014-db78b753-4f88-4da3-9799-2716d72d5ff1</ObjectGUID>
+    <ParentGUID>014-64746d3f-36fe-491d-abb7-9bef0703e819</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-dc7b09e1-d35d-4e14-966c-cee6b3473da2" reference="Name">Charisma Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Leadership Score [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>014-acfaaad7-5886-418f-b897-68784d50643d</ObjectGUID>
+    <ParentGUID>014-64746d3f-36fe-491d-abb7-9bef0703e819</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-ff2df6cc-e24a-40b2-ad93-bd3b3456af71" reference="Name">Leadership Score</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Celestial Armor</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-a4bce4a3-2f4b-4908-9cc2-b358823362fc</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Celestial Armor.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Allows wearer to use Fly on command once per day.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-eabedbbf-18b2-43a9-ab04-0a104c223664" reference="Name">Celestial Armor (Base)</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>22400 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorChainmail.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Demon Armor</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-191da98f-1ba9-4e5d-a7a1-74f77a285a07</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Demon Armor.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer can make claw attacks that deal 1d10, strike at +1 and inflict Contagion.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-34dcd005-c9ce-4766-b512-0e01a75b88ba" reference="Name">Full Plate</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>52560 gp</MarketPrice>
+    <EnhancementBonus>+4</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mithral Full Plate of Speed</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-19167e02-6c04-418b-a6fc-408c704b6e81</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Mithral Full Plate of Speed.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer can act as if Hasted for up to 10 rounds per day.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-34dcd005-c9ce-4766-b512-0e01a75b88ba" reference="Name">Full Plate</Armor>
+    <Material FK="035-fd7a2828-5481-42cc-b772-c623fb02b402" reference="Name">Mithral</Material>
+    <Calculate>No</Calculate>
+    <MarketPrice>26500 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Abilities />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+    <PageNoRef />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Plate Armor of the Deep</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-63d5a950-f214-4b27-8b3d-59b828ffde58</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Plate Armor of the Deep.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Wearer treated as unarmored for Swim checks. Can also breath underwater and converse with water-breathing creatures.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-34dcd005-c9ce-4766-b512-0e01a75b88ba" reference="Name">Full Plate</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>17150 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rhino Hide</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-5d3b80bd-0028-4755-8a2b-642301c73b78</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Rhino Hide.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Deals additional 2d6 of damage on successful charge attack even if mounted.</Description>
+    <ArmorType>Armor Definition</ArmorType>
+    <Armor FK="004-59cbff8c-7ae1-4289-afa1-27bc37439721" reference="Name">Rhino Hide (Base)</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>5165 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ArmorHide.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Roll +2d6 [Enhancement] [charge attack only]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>014-a6d8d313-8ee3-4550-a2cd-aa6e6581639f</ObjectGUID>
+    <ParentGUID>014-5d3b80bd-0028-4755-8a2b-642301c73b78</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5bd6fb42-f05c-4c65-9379-40b13ad71582" reference="Name">Damage Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Dice Range Modifier</ModifierCategory>
+    <Modifier>2d6</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter FK="024-c70027bc-a765-4a4b-85b8-aad081f9b61e" reference="Name">charge attack only</Limiter>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Absorbing Shield</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-0cb7898d-35c3-412e-89ee-94f5907bed45</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Absorbing Shield.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Once every 2 days, can Disintegrate an object that it touches as per spell but requiring melee touch attack.</Description>
+    <ArmorType>Shield Definition</ArmorType>
+    <Armor FK="004-bdf111dc-ed27-44c9-a91c-7c63d503945f" reference="Name">Shield, Heavy Steel</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>50170 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ShieldsSteelLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Caster's Shield</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-1b75b851-20fb-4e59-a0e8-382316d1f6bb</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Caster's Shield.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A single spell up to 3rd level can be scribed onto the back of the shield as a scroll.</Description>
+    <ArmorType>Shield Definition</ArmorType>
+    <Armor FK="004-fb450c80-b9e0-410d-aad2-576eafa81b2a" reference="Name">Shield, Light Wooden</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>3153 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ShieldsWoodenSmall.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lion's Shield</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-e2a3391a-b39d-42f0-8723-a66df6f6d739</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Lion's Shield.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Grants bite attack that deals 2d6 damage. Can be used 3 times per day.</Description>
+    <ArmorType>Shield Definition</ArmorType>
+    <Armor FK="004-bdf111dc-ed27-44c9-a91c-7c63d503945f" reference="Name">Shield, Heavy Steel</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>9170 gp</MarketPrice>
+    <EnhancementBonus>+2</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ShieldsSteelLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spined Shield</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-a942f9a6-ff29-4893-b6a0-73ffe5e62ffc</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Spined Shield.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spiked shield. 3 times per day user can fire a spike (+1, Range Inc. 120ft, Dmg 1d10, 19-20/x2).</Description>
+    <ArmorType>Shield Definition</ArmorType>
+    <Armor FK="004-bdf111dc-ed27-44c9-a91c-7c63d503945f" reference="Name">Shield, Heavy Steel</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>5580 gp</MarketPrice>
+    <EnhancementBonus>+1</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ShieldsSteelLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Winged Shield</Name>
+    <Type>Specific Armor Definition</Type>
+    <ObjectGUID>014-40c14701-f28e-4a10-ab3d-d70d46c129fe</ObjectGUID>
+    <ParentGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ParentGUID>
+    <HTML>Magic Armor\Winged Shield.htm</HTML>
+    <HTMLGUID>014-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Once per day shield can Fly carrying wielder and up to 133 lb. (move 60ft.) or 266 lb. (move 40ft).</Description>
+    <ArmorType>Shield Definition</ArmorType>
+    <Armor FK="004-529fb560-8dbb-49e1-8bbd-091518903616" reference="Name">Shield, Heavy Wooden</Armor>
+    <Calculate>No</Calculate>
+    <MarketPrice>17257 gp</MarketPrice>
+    <EnhancementBonus>+3</EnhancementBonus>
+    <Abilities />
+    <ImageFilename>ShieldsWoodenLarge.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

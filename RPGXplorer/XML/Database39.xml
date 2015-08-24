@@ -1,0 +1,522 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Archon</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Archon Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Archons are a race of celestials, or good outsiders, native to lawful good-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkvision 60ft.</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-c11974f6-323d-4a16-8211-ff5e16d687ad</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-fc38c66d-63b1-4058-9a9c-787eff16693e</HTMLGUID>
+    <Feature FK="009-fc38c66d-63b1-4058-9a9c-787eff16693e" reference="Name">Darkvision 60ft.</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Aura of Menace</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-603537ea-7db2-40d0-8e97-369db1d5dabc</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-f9948417-3968-4e30-a523-c4c4d66280b9</HTMLGUID>
+    <Feature FK="009-f9948417-3968-4e30-a523-c4c4d66280b9" reference="Name">Aura of Menace</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Immune to Electricity</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-f72d2520-1aee-46b2-9675-f31aeb48c051</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-9409cb86-289b-4c81-8e7a-e0bb53322f61</HTMLGUID>
+    <Feature FK="009-9409cb86-289b-4c81-8e7a-e0bb53322f61" reference="Name">Immune to Electricity</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Immune to Petrification</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-e8c4fefd-8d3f-406c-91c7-f357e367e4d4</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-1c1cf64c-3460-4b0e-8ef4-919f37d6552d</HTMLGUID>
+    <Feature FK="009-1c1cf64c-3460-4b0e-8ef4-919f37d6552d" reference="Name">Immune to Petrification</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Saving Throw [Racial] [vs. poison]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>039-fdc6cbe2-ef53-4519-b37e-0b1e9965769f</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Racial</ModifierType>
+    <Limiter FK="024-5b4fc5d7-6003-4fda-adda-50cd0d555c30" reference="Name">vs. poison</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Circle against Evil</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-feeb6693-b4d9-4b1c-8def-2f2c2121a4fa</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-77323d2f-6781-4e9c-acde-857b75667b74</HTMLGUID>
+    <Feature FK="009-77323d2f-6781-4e9c-acde-857b75667b74" reference="Name">Magic Circle against Evil</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleport</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-671ab570-23c3-47ac-8965-573bf86959ca</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-8e012a53-72b6-4fe3-8610-4a93a4c0c34e</HTMLGUID>
+    <Feature FK="009-8e012a53-72b6-4fe3-8610-4a93a4c0c34e" reference="Name">Teleport</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tongues</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-2aaa885f-a40e-4578-a238-ddb3374565c7</ObjectGUID>
+    <ParentGUID>039-546eba69-57da-446e-b495-5cec79ae1334</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-167cda65-1fda-4a08-8ebf-69fc59af4755</HTMLGUID>
+    <Feature FK="009-167cda65-1fda-4a08-8ebf-69fc59af4755" reference="Name">Tongues</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Extraplanar</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-e3190737-1066-4fcb-a6de-43182858ccfe</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Extraplanar Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A creature not on its native plane.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Good</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-64af164c-ed0e-4292-b2b8-abb4e7e5dc49</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Good Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creatures from good-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-c64d1acb-c22d-42ea-aaf1-ba62a10eb304</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Lawful.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creatures from lawful-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-0de3676b-b376-4017-a292-2d1b17868057</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Fire Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Immunity to fire and vulnerability to cold.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire Immunity &amp; Cold Vulnerability</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-fece8f7e-65cb-40a6-a84c-da4c00b79d00</ObjectGUID>
+    <ParentGUID>039-0de3676b-b376-4017-a292-2d1b17868057</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-929a2cb3-4d65-4ada-b026-ce70d1ce414b</HTMLGUID>
+    <Feature FK="009-929a2cb3-4d65-4ada-b026-ce70d1ce414b" reference="Name">Fire Immunity &amp; Cold Vulnerability</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Goblinoid</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-181e7f4e-e530-4c2b-9089-ac9a44f8892d</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Goblinoid Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Earth</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-a5c3b670-4c18-4b3a-972d-4047e93a0b73</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Earth Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Aquatic</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-6e4829e9-736b-433e-94cb-0007a683b1ea</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Aquatic Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Lives in the sea, and can breath underwater.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Take 10 on Swim Check</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-4f4be4ae-2641-4268-8037-9f2d49306c92</ObjectGUID>
+    <ParentGUID>039-6e4829e9-736b-433e-94cb-0007a683b1ea</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e245d5e2-c08c-4904-8a65-028b02f52e78</HTMLGUID>
+    <Feature FK="009-e245d5e2-c08c-4904-8a65-028b02f52e78" reference="Name">Take 10 on Swim Check</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shapechanger</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-857daf08-d225-43d0-839a-1280354c1bc8</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Shapechanger Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A shapechanger has the supernatural ability to assume one or more alternate forms.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reptilian</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-43834650-5c9b-4878-91a0-7c40a3c733f7</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Reptilian Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>These creatures are scaly and usually coldblooded.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Native</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-e9c5a957-c286-4e24-b1cd-8840ed763b3c</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Native Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Outsiders native to the material plane.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Air</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-bb9ccbcc-65f4-4159-8e10-3b5aca343b30</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Air Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Air creatures always have fly speeds and usually have perfect maneuverability.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Angel</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Angel Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Angels are a race of celestials, or good outsiders, native to the good-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkvision 60ft.</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-3d2adc41-f85e-4387-814a-f943b770aed3</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-fc38c66d-63b1-4058-9a9c-787eff16693e</HTMLGUID>
+    <Feature FK="009-fc38c66d-63b1-4058-9a9c-787eff16693e" reference="Name">Darkvision 60ft.</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Low-Light Vision</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-8a391a1b-fdd9-49b2-b14b-57e6c97cf22c</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-a11a1d95-c349-4f10-b201-600f3fc04014</HTMLGUID>
+    <Feature FK="009-a11a1d95-c349-4f10-b201-600f3fc04014" reference="Name">Low-Light Vision</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>039-7bfd9f2a-992f-49d6-a7b9-9b5f815c2296</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <Stacks />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>039-64b5f62f-b4ab-4afc-91fb-5efd727c5ded</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <Stacks />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Saving Throw [Racial] [vs. poison]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>039-07c887b1-fb5b-44fc-a742-bda3e37fa186</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Racial</ModifierType>
+    <Limiter FK="024-5b4fc5d7-6003-4fda-adda-50cd0d555c30" reference="Name">vs. poison</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Protective Aura</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-2aacaf13-b25a-44e8-a47b-35f45bc5b8a5</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-c999e1bb-35be-492b-b546-c5fc61cb1e4b</HTMLGUID>
+    <Feature FK="009-c999e1bb-35be-492b-b546-c5fc61cb1e4b" reference="Name">Protective Aura</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tongues</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-c33ba56b-3cb3-4a3c-8b0d-348ef3384f4d</ObjectGUID>
+    <ParentGUID>039-60aa854d-db80-42ba-922d-009904f194f9</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-167cda65-1fda-4a08-8ebf-69fc59af4755</HTMLGUID>
+    <Feature FK="009-167cda65-1fda-4a08-8ebf-69fc59af4755" reference="Name">Tongues</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Augmented</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-faaaae98-37d5-48db-b983-20df6c3dbb0f</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Augmented Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A creature receives this subtype whenever something happens to change its original type.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-ef4c8bb6-88ba-4b61-830d-e3139bc0c4b2</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Chaotic Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A subtype usually applied only to outsiders native to the chaotic-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-06c7918d-c710-4b66-982a-aa951ed949d3</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Cold Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creaturew with the cold subtype have immunity to cold. It also has vulnerability to fire.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evil</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-193d17b3-3e70-4928-a82e-4eed6fefc264</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Evil Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A subtype usually applied only to outsiders native to the evil-aligned Outer Planes.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Incorporeal</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-4f453958-1263-4be7-9ca0-64cd8444835a</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Incorporeal Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons, spells, spell-like abilities, or supernatural abilities.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nonability (Strength)</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-1f755424-5686-4dbe-aca2-5eaee61f6be9</ObjectGUID>
+    <ParentGUID>039-4f453958-1263-4be7-9ca0-64cd8444835a</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-7ba78377-c69a-4fb3-a817-cc9d38d90b37</HTMLGUID>
+    <Feature FK="009-7ba78377-c69a-4fb3-a817-cc9d38d90b37" reference="Name">Nonability (Strength)</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Swarm</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-bebb0dd4-97ad-43c3-8b2b-30174f42ed37</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Swarm Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Distraction</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>039-632b81d7-7ac8-4003-a757-5ac02c063a9e</ObjectGUID>
+    <ParentGUID>039-bebb0dd4-97ad-43c3-8b2b-30174f42ed37</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-335b65c7-51f7-4c3a-a5fa-4a27504d68ec</HTMLGUID>
+    <Feature FK="009-335b65c7-51f7-4c3a-a5fa-4a27504d68ec" reference="Name">Distraction</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Water</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-b48c29e8-eb1c-4627-ba47-75f8a095a27b</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Water Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Water.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic</Name>
+    <Type>Subtype Definition</Type>
+    <ObjectGUID>039-4a2a5096-9b3c-418b-96ed-b423e67a3507</ObjectGUID>
+    <ParentGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ParentGUID>
+    <HTML>UserDocs\Psionic Subtype.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Creature can use psionic powers or abilities or that have the ability to manifest powers.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>CHA modifies Armor Class [Deflection]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>039-7e4701ea-d4ae-4e04-971c-706d8689fb2e</ObjectGUID>
+    <ParentGUID>039-4f453958-1263-4be7-9ca0-64cd8444835a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject>
+    </FocusObject>
+    <ModifierCategory>Use Ability Modifier (+1 minimum)</ModifierCategory>
+    <Modifier>CHA</Modifier>
+    <ModifierType>Deflection</ModifierType>
+    <Limiter>
+    </Limiter>
+    <Notes>
+    </Notes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

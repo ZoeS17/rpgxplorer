@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+  <NaturalAttackType>Arm</NaturalAttackType>	
+	<NaturalAttackType>Bite</NaturalAttackType>
+  <NaturalAttackType>Claw</NaturalAttackType>
+  <NaturalAttackType>Gore</NaturalAttackType>
+  <NaturalAttackType>Headbutt</NaturalAttackType>
+  <NaturalAttackType>Hoof</NaturalAttackType>
+  <NaturalAttackType>Ram</NaturalAttackType>
+  <NaturalAttackType>Slam</NaturalAttackType>
+  <NaturalAttackType>Stamp</NaturalAttackType>
+  <NaturalAttackType>Sting</NaturalAttackType>	
+	<NaturalAttackType>Talon</NaturalAttackType>
+	<NaturalAttackType>Tentacle</NaturalAttackType>
+	<NaturalAttackType>Tail</NaturalAttackType>
+  <NaturalAttackType>Wing</NaturalAttackType>
+</RPGXplorerConfig>
+
+

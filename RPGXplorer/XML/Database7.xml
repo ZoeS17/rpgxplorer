@@ -1,0 +1,1760 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Sun</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-7e6eb6f5-13cd-4d43-a69f-895ed120fd2e</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Sun.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Greater turning once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Water</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-69dbcd29-8acb-445e-b1ac-e94a3cc224f2</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Water.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Turn or destroy fire creatures. Rebuke, command or bolster water creatures.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Air</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-65980870-29e9-4262-adac-172f5d9b4738</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Air.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Turn or destroy earth creatures. Rebuke, command or bolster air creatures.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Animal</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-ec21ded6-b297-4813-9e11-c68384bd4a5f</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Animal.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Speak with animals once per day, Knowledge (Nature) becomes a class skill.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nature)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-b2751301-fb7c-4edc-abc2-8827ce9905ff</ObjectGUID>
+    <ParentGUID>007-ec21ded6-b297-4813-9e11-c68384bd4a5f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</HTMLGUID>
+    <Skill FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaos</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-04c5df3a-022a-4a83-bf5b-756e700115be</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Chaos.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast chaos spells at +1 caster level.</Description>
+    <Alignment>Chaotic</Alignment>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Death</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-05e70b35-8ba4-406a-a651-f1f8bba0f731</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Death.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You may use a death touch once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Destruction</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-15040646-973a-45f1-b944-234470011ecf</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Destruction.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You gain the smite power which is usable once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Earth</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-024a495d-23f9-4af8-82d6-d5ee0863a2ef</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Earth.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Turn or destroy air creatures. Rebuke, command or bolster earth creatures.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evil</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-b3d38b31-781e-41a1-b1c1-8b46bc4c435a</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Evil.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast evil spells at +1 caster level.</Description>
+    <Alignment>Evil</Alignment>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-e9b3110a-790b-4b23-af8a-971119480028</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Fire.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Turn or destroy water creatures. Rebuke, command or bolster fire creatures.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Good</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-8393d7a8-b514-4c43-9abf-d8eca9a29dfb</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Good.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast good spells at +1 caster level.</Description>
+    <Alignment>Good</Alignment>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Healing</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-fb55905f-2bc3-413a-a7c5-42b9aae51781</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Healing.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast healing spells at +1 caster level.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Knowledge.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>All Knowledge skills become class skills. Cast divination spells at +1 caster level.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Arcana)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-f09b6324-aa7a-435a-b80c-1a3ac174ec6f</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-3c0483ec-5300-47f2-b834-15c1736d244b</HTMLGUID>
+    <Skill FK="027-3c0483ec-5300-47f2-b834-15c1736d244b" reference="Name">Knowledge (Arcana)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Architecture and Engineering)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-a83c1cd3-06e3-4eaa-86a7-e828dc387df0</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-34015924-13c9-407e-8eed-199264b834b5</HTMLGUID>
+    <Skill FK="027-34015924-13c9-407e-8eed-199264b834b5" reference="Name">Knowledge (Architecture and Engineering)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Dungeoneering)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-2c607972-9419-4933-8b2d-f6a9f041c76d</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-e4df23d7-35b7-4771-8472-2ea6973eae80</HTMLGUID>
+    <Skill FK="027-e4df23d7-35b7-4771-8472-2ea6973eae80" reference="Name">Knowledge (Dungeoneering)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Geography)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-795dc30a-95a4-4214-b992-22b9fb32c78f</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-396d13de-42aa-4cbb-bd11-19630dee21ae</HTMLGUID>
+    <Skill FK="027-396d13de-42aa-4cbb-bd11-19630dee21ae" reference="Name">Knowledge (Geography)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (History)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-1cf4c609-960f-4df9-916e-f41f240f92ef</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-7480b911-56f2-48da-9ca4-0cc430987fbb</HTMLGUID>
+    <Skill FK="027-7480b911-56f2-48da-9ca4-0cc430987fbb" reference="Name">Knowledge (History)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Local)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-0398856d-33f1-41cb-8ec2-c2d55e06b706</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-98bf1ac3-cb88-43f9-ba87-1801c40016da</HTMLGUID>
+    <Skill FK="027-98bf1ac3-cb88-43f9-ba87-1801c40016da" reference="Name">Knowledge (Local)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nature)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-a26121bd-435a-41c4-aebc-8ea675770d84</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</HTMLGUID>
+    <Skill FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nobility and Royalty)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-439d8770-6119-49a4-8825-32218f7acd33</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-bd237c17-5f83-45e5-bc88-4cc6b833264a</HTMLGUID>
+    <Skill FK="027-bd237c17-5f83-45e5-bc88-4cc6b833264a" reference="Name">Knowledge (Nobility and Royalty)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Religion)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-4ae3c31d-8556-4dfb-91ef-faaf7ca78166</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d</HTMLGUID>
+    <Skill FK="027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d" reference="Name">Knowledge (Religion)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (The Planes)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-cf4a0bd1-e4e9-4db4-9003-d883c153cf0d</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-d506fddc-5f01-4dae-b03b-806631dcf9d7</HTMLGUID>
+    <Skill FK="027-d506fddc-5f01-4dae-b03b-806631dcf9d7" reference="Name">Knowledge (The Planes)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Law</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-7779947b-7b57-4c2d-8ad3-76ae4a619079</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Law.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast law spells at +1 caster level.</Description>
+    <Alignment>Lawful</Alignment>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Luck</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-80da77ed-fe63-49f4-bbd8-4f9ead9251c2</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Luck.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You gain the power of good fortune which is usable once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-ed46da9f-82a5-4d7f-8e31-92305d61bd1d</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Magic.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Use scrolls, wands and other devices as a wizard of one-half your cleric level.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Plant</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-88f2a216-340e-452e-9e21-835c34ee2d7f</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Plant.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Rebuke or command plant creatures. Knowledge (Nature) becomes a class skill.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nature)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-fb1c591e-99ae-4cca-b24c-a4ba1968ae92</ObjectGUID>
+    <ParentGUID>007-88f2a216-340e-452e-9e21-835c34ee2d7f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</HTMLGUID>
+    <Skill FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Protection</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-7bda8820-9d4d-4f1c-856e-7de73fe57a1f</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Protection.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Generate a protective ward once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Strength</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-bedd83bd-c4fd-4835-adcb-61a086782931</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Strength.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Perform a feat of strength once per day.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Travel</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-0ff218ad-4026-4601-aab5-481c750cc2d8</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Travel.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You gain the freedom of movement power. Survival becomes a class skill.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Survival</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-d4ce8d64-4c4e-46f3-bd6c-8fd72f706b13</ObjectGUID>
+    <ParentGUID>007-0ff218ad-4026-4601-aab5-481c750cc2d8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-c85521e2-d917-4435-981b-679a2c8743be</HTMLGUID>
+    <Skill FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Trickery</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Trickery.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Bluff, Disguise and Hide become class skills.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bluff</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-d4362781-7bfc-41e2-8ad0-b6dc2415ab8b</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</HTMLGUID>
+    <Skill FK="027-96aa0bb4-b059-4385-8d68-c9f70941b7b3" reference="Name">Bluff</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-ec6aae7a-cfc9-4af5-b0b1-6db47cf49475</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-b04b509c-7424-48de-b039-97433b940c88</HTMLGUID>
+    <Skill FK="027-b04b509c-7424-48de-b039-97433b940c88" reference="Name">Disguise</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hide</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-b32b3516-2e8f-4e54-bcd3-7b774583af5c</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>027-697a1c59-e93f-4dde-b3ed-03a11891f37b</HTMLGUID>
+    <Skill FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>War</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-6ee0950d-3a0d-48a4-a184-30b03bd85c4d</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\War.htm</HTML>
+    <HTMLGUID>007-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Free proficiency and Weapon Focus feat with deity's favored weapon.</Description>
+    <Alignment />
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Books)</Name>
+    <Type>Class Skill</Type>
+    <ObjectGUID>007-680f1051-8789-4865-95ad-3b6f1a5bec50</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML />
+    <HTMLGUID>027-1409c057-83c1-4e17-a8d8-c25538a32e66</HTMLGUID>
+    <Skill FK="027-1409c057-83c1-4e17-a8d8-c25538a32e66" reference="Name">Knowledge (Books)</Skill>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Air Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-710f70b5-7bc1-4214-83bf-4bfa761a1f2a</ObjectGUID>
+    <ParentGUID>007-65980870-29e9-4262-adac-172f5d9b4738</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-611531e6-934b-44cc-8274-445f91198d21</HTMLGUID>
+    <Feature FK="009-611531e6-934b-44cc-8274-445f91198d21" reference="Name">Granted Power of Air Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-78421c7d-36a3-47fe-8f5d-7073277246a6</ObjectGUID>
+    <ParentGUID>007-65980870-29e9-4262-adac-172f5d9b4738</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-767cde05-6f12-4121-8de5-709df934752e</ObjectGUID>
+    <ParentGUID>007-ec21ded6-b297-4813-9e11-c68384bd4a5f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Knowledge (Nature)</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-801c9a5d-7770-47a0-9356-873e8447b64c</ObjectGUID>
+    <ParentGUID>007-ec21ded6-b297-4813-9e11-c68384bd4a5f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Animal Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-8cc4bc63-9ace-4856-b206-161d699b0047</ObjectGUID>
+    <ParentGUID>007-ec21ded6-b297-4813-9e11-c68384bd4a5f</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-0b6cfcfb-701b-401b-9e13-dc17a449689b</HTMLGUID>
+    <Feature FK="009-0b6cfcfb-701b-401b-9e13-dc17a449689b" reference="Name">Granted Power of Animal Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-bc56affb-8ae0-4264-bddf-216af81c13e6</ObjectGUID>
+    <ParentGUID>007-04c5df3a-022a-4a83-bf5b-756e700115be</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Chaos Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-53692eb6-dc0c-4e3a-a96b-c5116894923c</ObjectGUID>
+    <ParentGUID>007-04c5df3a-022a-4a83-bf5b-756e700115be</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-50ecbca9-deae-407a-be7f-68ef02dc84e7</HTMLGUID>
+    <Feature FK="009-50ecbca9-deae-407a-be7f-68ef02dc84e7" reference="Name">Granted Power of Chaos Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-2939ac88-1dc6-4f88-832a-f62d1129471b</ObjectGUID>
+    <ParentGUID>007-05e70b35-8ba4-406a-a651-f1f8bba0f731</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Death Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-5afd8ad9-bfec-40c2-a4a5-7d581bd38e32</ObjectGUID>
+    <ParentGUID>007-05e70b35-8ba4-406a-a651-f1f8bba0f731</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-ad058b84-648d-4c8a-a221-7915c50a2528</HTMLGUID>
+    <Feature FK="009-ad058b84-648d-4c8a-a221-7915c50a2528" reference="Name">Granted Power of Death Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-5b0674fe-0e37-4366-a192-bacf9989de1d</ObjectGUID>
+    <ParentGUID>007-15040646-973a-45f1-b944-234470011ecf</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Destruction Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-4c06384c-82d4-42fe-8c79-ef35d95f0553</ObjectGUID>
+    <ParentGUID>007-15040646-973a-45f1-b944-234470011ecf</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e79752d2-5ade-427a-a12f-bc8ad59830d3</HTMLGUID>
+    <Feature FK="009-e79752d2-5ade-427a-a12f-bc8ad59830d3" reference="Name">Granted Power of Destruction Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-21dd804f-0444-4a45-a62e-3b2fd44d5323</ObjectGUID>
+    <ParentGUID>007-024a495d-23f9-4af8-82d6-d5ee0863a2ef</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-eb38a900-074d-45d0-816f-362d0660c05a</ObjectGUID>
+    <ParentGUID>007-b3d38b31-781e-41a1-b1c1-8b46bc4c435a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-f37bf9af-da26-4807-9f2f-0533aa649f88</ObjectGUID>
+    <ParentGUID>007-e9b3110a-790b-4b23-af8a-971119480028</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-a1b56b43-38c0-4172-b253-9d93fa5b1077</ObjectGUID>
+    <ParentGUID>007-8393d7a8-b514-4c43-9abf-d8eca9a29dfb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-9ae45137-19f0-469a-b359-eded22f748e1</ObjectGUID>
+    <ParentGUID>007-fb55905f-2bc3-413a-a7c5-42b9aae51781</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-3feede78-0189-43e1-86c2-9a13d0401e52</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-85dd8037-136d-4649-b351-1684c8476d02</ObjectGUID>
+    <ParentGUID>007-7779947b-7b57-4c2d-8ad3-76ae4a619079</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-6f50015f-0622-45b8-8b25-25c2b998480b</ObjectGUID>
+    <ParentGUID>007-80da77ed-fe63-49f4-bbd8-4f9ead9251c2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-cdd0a52d-8aa6-44ae-b960-b229e3548943</ObjectGUID>
+    <ParentGUID>007-ed46da9f-82a5-4d7f-8e31-92305d61bd1d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-ded4aab4-0cd3-4791-8a19-428d3fad6678</ObjectGUID>
+    <ParentGUID>007-88f2a216-340e-452e-9e21-835c34ee2d7f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-0cdd10bf-c016-49a7-b7ea-f7ddb0d7a24f</ObjectGUID>
+    <ParentGUID>007-7bda8820-9d4d-4f1c-856e-7de73fe57a1f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-db11be5b-d367-4594-9661-0643842fec16</ObjectGUID>
+    <ParentGUID>007-bedd83bd-c4fd-4835-adcb-61a086782931</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-1cab2cd7-35f0-4aa3-8483-b3a57117228c</ObjectGUID>
+    <ParentGUID>007-7e6eb6f5-13cd-4d43-a69f-895ed120fd2e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-a87d5da2-a481-44c3-9b22-19992d6be3f7</ObjectGUID>
+    <ParentGUID>007-0ff218ad-4026-4601-aab5-481c750cc2d8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-7751fa5f-083b-45ca-8f14-8ab7f0fb4a63</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-a09e407a-9e9d-49a2-a83d-6b0fc48be8f4</ObjectGUID>
+    <ParentGUID>007-6ee0950d-3a0d-48a4-a184-30b03bd85c4d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-ce6f71a6-b289-4453-9937-0b6802baba76</ObjectGUID>
+    <ParentGUID>007-69dbcd29-8acb-445e-b1ac-e94a3cc224f2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Earth Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-b3caa421-7fc0-4136-ba0b-7e18cc3183a0</ObjectGUID>
+    <ParentGUID>007-024a495d-23f9-4af8-82d6-d5ee0863a2ef</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-aa44dea2-4ecc-4521-b522-f88a913cffb5</HTMLGUID>
+    <Feature FK="009-aa44dea2-4ecc-4521-b522-f88a913cffb5" reference="Name">Granted Power of Earth Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Evil Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-c71d5118-4008-4d9a-ba7e-dc9073eeb38b</ObjectGUID>
+    <ParentGUID>007-b3d38b31-781e-41a1-b1c1-8b46bc4c435a</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-8f3f0a65-7606-49f6-a5e3-380d64432eb1</HTMLGUID>
+    <Feature FK="009-8f3f0a65-7606-49f6-a5e3-380d64432eb1" reference="Name">Granted Power of Evil Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Fire Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-a65aea95-df4e-4895-b6b8-59ce6fcd720b</ObjectGUID>
+    <ParentGUID>007-e9b3110a-790b-4b23-af8a-971119480028</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e76caf85-7c09-4503-aac6-f6d30a254e74</HTMLGUID>
+    <Feature FK="009-e76caf85-7c09-4503-aac6-f6d30a254e74" reference="Name">Granted Power of Fire Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Good Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-315a7e2e-9ad0-436c-bc27-b2b2ad33e452</ObjectGUID>
+    <ParentGUID>007-8393d7a8-b514-4c43-9abf-d8eca9a29dfb</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-ea26f10c-d1d2-4ae6-9cae-7f0bf23b0abc</HTMLGUID>
+    <Feature FK="009-ea26f10c-d1d2-4ae6-9cae-7f0bf23b0abc" reference="Name">Granted Power of Good Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Healing Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-a99e7229-d142-4294-b0cc-7ab8e74dd3aa</ObjectGUID>
+    <ParentGUID>007-fb55905f-2bc3-413a-a7c5-42b9aae51781</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-a7fc966e-785f-4fce-b3fd-e593b9d90902</HTMLGUID>
+    <Feature FK="009-a7fc966e-785f-4fce-b3fd-e593b9d90902" reference="Name">Granted Power of Healing Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Knowledge Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-82829695-5cc6-40bf-8d20-e7c7d0a3a419</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-1f6b34a9-a1c9-4d6f-b558-72f7833f8ca7</HTMLGUID>
+    <Feature FK="009-1f6b34a9-a1c9-4d6f-b558-72f7833f8ca7" reference="Name">Granted Power of Knowledge Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Knowledge</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-b79436a1-fecf-4be5-8082-6f83263c9fd3</ObjectGUID>
+    <ParentGUID>007-adc1ec54-0ae7-4d81-87bd-262d9afee04e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-4e387a7b-c798-455e-a735-86b2e5a269a4" reference="Name">Knowledge</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Law Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-8c0ad9fc-be50-43ab-b911-655c9367140a</ObjectGUID>
+    <ParentGUID>007-7779947b-7b57-4c2d-8ad3-76ae4a619079</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-f3138798-9f5d-48ce-87f3-eddcf24ad62f</HTMLGUID>
+    <Feature FK="009-f3138798-9f5d-48ce-87f3-eddcf24ad62f" reference="Name">Granted Power of Law Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Luck Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-635fe0ce-3577-41e6-90cf-3e501344c976</ObjectGUID>
+    <ParentGUID>007-80da77ed-fe63-49f4-bbd8-4f9ead9251c2</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e5575c24-6057-4055-a1df-ceaa749fba94</HTMLGUID>
+    <Feature FK="009-e5575c24-6057-4055-a1df-ceaa749fba94" reference="Name">Granted Power of Luck Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Magic Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-3470768d-6d52-434c-b1fd-512201ebfb7b</ObjectGUID>
+    <ParentGUID>007-ed46da9f-82a5-4d7f-8e31-92305d61bd1d</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-49436d52-fa33-4fd1-b17b-a8d58f72d409</HTMLGUID>
+    <Feature FK="009-49436d52-fa33-4fd1-b17b-a8d58f72d409" reference="Name">Granted Power of Magic Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Plant Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-7ed86ba1-7c53-4fe2-a004-69db84faf303</ObjectGUID>
+    <ParentGUID>007-88f2a216-340e-452e-9e21-835c34ee2d7f</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-12b04d96-0a9d-4093-b418-0a86661b3631</HTMLGUID>
+    <Feature FK="009-12b04d96-0a9d-4093-b418-0a86661b3631" reference="Name">Granted Power of Plant Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Knowledge (Nature)</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-55be1014-df2f-4c17-b526-a558165942ff</ObjectGUID>
+    <ParentGUID>007-88f2a216-340e-452e-9e21-835c34ee2d7f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Protection Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-d779fcc8-5577-4ec1-b499-9e2b4106908c</ObjectGUID>
+    <ParentGUID>007-7bda8820-9d4d-4f1c-856e-7de73fe57a1f</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-c824b6a0-da26-4749-b864-64b02218a66a</HTMLGUID>
+    <Feature FK="009-c824b6a0-da26-4749-b864-64b02218a66a" reference="Name">Granted Power of Protection Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Strength Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-1985b4e0-fbb2-4f9b-b15c-abbfa438015d</ObjectGUID>
+    <ParentGUID>007-bedd83bd-c4fd-4835-adcb-61a086782931</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e829ab19-73aa-4815-bab3-190b0cbea6fa</HTMLGUID>
+    <Feature FK="009-e829ab19-73aa-4815-bab3-190b0cbea6fa" reference="Name">Granted Power of Strength Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Sun Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-8b33eabe-1089-43c7-a2f6-7b96e5c7b401</ObjectGUID>
+    <ParentGUID>007-7e6eb6f5-13cd-4d43-a69f-895ed120fd2e</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-e55059ff-201c-4806-86e9-11ff9a16a196</HTMLGUID>
+    <Feature FK="009-e55059ff-201c-4806-86e9-11ff9a16a196" reference="Name">Granted Power of Sun Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Travel Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-e6fde328-e8fc-4383-b1da-ca935ae356ad</ObjectGUID>
+    <ParentGUID>007-0ff218ad-4026-4601-aab5-481c750cc2d8</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-1b5d270c-3537-4862-8f6e-c35586f62add</HTMLGUID>
+    <Feature FK="009-1b5d270c-3537-4862-8f6e-c35586f62add" reference="Name">Granted Power of Travel Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Survival</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-0390e123-43fc-4a03-8f40-cf2f6914c724</ObjectGUID>
+    <ParentGUID>007-0ff218ad-4026-4601-aab5-481c750cc2d8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Bluff</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-ce5d39d0-2a69-4cf4-a6f3-cb9ac8b1cbaa</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-96aa0bb4-b059-4385-8d68-c9f70941b7b3" reference="Name">Bluff</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Hide</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-3bb40bc7-6119-4e5b-95e0-ac9b6ba12d43</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Disguise</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-80009b32-64f9-44d8-813d-e0bcbf2e428b</ObjectGUID>
+    <ParentGUID>007-347f5d45-539a-4191-8855-b56412b9ee9d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-b04b509c-7424-48de-b039-97433b940c88" reference="Name">Disguise</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of War Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-b6a68fde-68f5-4fa1-9a34-d94596cf3169</ObjectGUID>
+    <ParentGUID>007-6ee0950d-3a0d-48a4-a184-30b03bd85c4d</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-078684fe-fcad-4c25-8ca0-5d53562ba28a</HTMLGUID>
+    <Feature FK="009-078684fe-fcad-4c25-8ca0-5d53562ba28a" reference="Name">Granted Power of War Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Water Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-cc501196-079d-43a6-a4a9-6c3baacb0224</ObjectGUID>
+    <ParentGUID>007-69dbcd29-8acb-445e-b1ac-e94a3cc224f2</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-41ddfd48-59ed-4cfd-b916-961083be7948</HTMLGUID>
+    <Feature FK="009-41ddfd48-59ed-4cfd-b916-961083be7948" reference="Name">Granted Power of Water Domain</Feature>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Egoist</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-5d58702e-63f1-4009-93a9-b7bc5eb550bc</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Egoist.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A psion who specializes in psychometabolism is known as an egoist. </Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-8e22f096-e780-4e81-a9a5-01a777981f05</ObjectGUID>
+    <ParentGUID>007-5d58702e-63f1-4009-93a9-b7bc5eb550bc</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Seer</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-f024024d-aa75-4ed8-a4c4-c9f345be8f43</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Seer.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A psion who chooses clairsentience is known as a seer.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-7bad7538-c498-44fd-b303-04527b7378be</ObjectGUID>
+    <ParentGUID>007-f024024d-aa75-4ed8-a4c4-c9f345be8f43</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shaper</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-11d72afa-aecb-4280-abc4-4558e784ad0b</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Shaper.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A psion specializing in metacreativity is known as a shaper.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-8b0bc500-5621-4963-b702-364087c3ab85</ObjectGUID>
+    <ParentGUID>007-11d72afa-aecb-4280-abc4-4558e784ad0b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Kineticist</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-022cd495-0954-48e1-b58b-0f60d88861f1</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Kineticists.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Psions who specialize in psychokinesis are known as kineticists.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-ede45b86-8896-4523-a76a-2e9d1d3b4d9a</ObjectGUID>
+    <ParentGUID>007-022cd495-0954-48e1-b58b-0f60d88861f1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nomad</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Psychoportation.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A psion who relies on psychoportation powers is known as a nomad.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-099c511f-02d9-4fa0-8129-64d0742925ef</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Telepath</Name>
+    <Type>Psionic Specialization Definition</Type>
+    <ObjectGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ObjectGUID>
+    <ParentGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ParentGUID>
+    <HTML>Psionic Specializations\Telepath.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>A psion who chooses the discipline of telepathy is known as a telepath.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power List</Name>
+    <Type>Power List Folder</Type>
+    <ObjectGUID>007-177fe775-ce6f-460e-9c65-a9961b785278</ObjectGUID>
+    <ParentGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Autohypnosis</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-55ad4dd3-d5a3-4224-97f2-f4b732ef7b0f</ObjectGUID>
+    <ParentGUID>007-5d58702e-63f1-4009-93a9-b7bc5eb550bc</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-3442bfee-f80b-4df7-b195-a8f5e7ad6868" reference="Name">Autohypnosis</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Balance</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-830f84e6-0b4c-4d7e-ad8d-1311d0adb859</ObjectGUID>
+    <ParentGUID>007-5d58702e-63f1-4009-93a9-b7bc5eb550bc</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-6927facc-f92c-44a5-8e1e-1b70505bc0bf" reference="Name">Balance</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Heal</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-2412e55b-6237-4c68-9e4c-4eacece9d56e</ObjectGUID>
+    <ParentGUID>007-5d58702e-63f1-4009-93a9-b7bc5eb550bc</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-1458cd80-768a-4cab-8081-3b75c6927775" reference="Name">Heal</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Autohypnosis</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-80083e3b-ccd6-4bc2-8a61-e5c801e85e47</ObjectGUID>
+    <ParentGUID>007-022cd495-0954-48e1-b58b-0f60d88861f1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-3442bfee-f80b-4df7-b195-a8f5e7ad6868" reference="Name">Autohypnosis</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Disable Device</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-c9e000c9-dab7-440a-a4f7-3f91a1f0d7c9</ObjectGUID>
+    <ParentGUID>007-022cd495-0954-48e1-b58b-0f60d88861f1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-87814aac-9109-4711-bcb1-928cf4d7c4a8" reference="Name">Disable Device</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Intimidate</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-8c3bf438-d6a7-4a6b-b784-cc29925f3704</ObjectGUID>
+    <ParentGUID>007-022cd495-0954-48e1-b58b-0f60d88861f1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-7db032fc-88e8-4d0a-a8eb-d8c249f5566e" reference="Name">Intimidate</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Climb</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-a6d85c62-bce8-4692-b3c3-4300633ec5ff</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Jump</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-a4e2aa16-2fdd-4bd4-ab0e-97a1232b8181</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-e1f6c664-9233-4eb2-9543-c10cbf3416e6" reference="Name">Jump</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Ride</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-deea709a-e389-4ddf-8e55-4d3c75063132</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-e623c225-824d-4837-bba7-67f24aca0716" reference="Name">Ride</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Survival</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-8d74aaf6-2930-45dc-bade-57478646a84e</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Swim</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-c50691a8-bf1c-4aac-8c95-961150318c6e</ObjectGUID>
+    <ParentGUID>007-3529757b-c5b0-42f8-9a28-97681a35a859</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Gather Information</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-acc2f588-663b-4b5e-8334-1c6110591e68</ObjectGUID>
+    <ParentGUID>007-f024024d-aa75-4ed8-a4c4-c9f345be8f43</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-a662af9e-f7cc-498a-855c-fcff373d426e" reference="Name">Gather Information</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Listen</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-67572f39-3f11-4a4b-82ed-ce500d1f6ce4</ObjectGUID>
+    <ParentGUID>007-f024024d-aa75-4ed8-a4c4-c9f345be8f43</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-691f6602-39bf-4016-bda9-bfeb151973a0" reference="Name">Listen</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Spot</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-46ff2c50-80f2-44f0-bb3b-0a3b0bd4093a</ObjectGUID>
+    <ParentGUID>007-f024024d-aa75-4ed8-a4c4-c9f345be8f43</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-3776f4fc-0ec7-4f44-ac3d-d765e9c0e549" reference="Name">Spot</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Bluff</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-c64e135d-18ba-40c3-b527-d33b3550470a</ObjectGUID>
+    <ParentGUID>007-11d72afa-aecb-4280-abc4-4558e784ad0b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-96aa0bb4-b059-4385-8d68-c9f70941b7b3" reference="Name">Bluff</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Disguise</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-78a1ae7f-f2dd-4f9f-9bb0-ed62aca3cbec</ObjectGUID>
+    <ParentGUID>007-11d72afa-aecb-4280-abc4-4558e784ad0b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-b04b509c-7424-48de-b039-97433b940c88" reference="Name">Disguise</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Use Psionic Device</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-77d541dd-73b6-42f4-a378-af1c2fcb97ef</ObjectGUID>
+    <ParentGUID>007-11d72afa-aecb-4280-abc4-4558e784ad0b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-72e88291-4076-4fa3-ad3e-2a2d2ff90089" reference="Name">Use Psionic Device</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Bluff</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-73bf0fda-131e-4fe5-8147-446bca465126</ObjectGUID>
+    <ParentGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-96aa0bb4-b059-4385-8d68-c9f70941b7b3" reference="Name">Bluff</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Diplomacy</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-876b3cde-61eb-4c92-918e-1e3a76785ac1</ObjectGUID>
+    <ParentGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-319e8b62-7a34-4632-883e-8d2ef702816f" reference="Name">Diplomacy</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Gather Information</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-e1c4a042-a0c2-4367-927e-fb1f30a4334c</ObjectGUID>
+    <ParentGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-a662af9e-f7cc-498a-855c-fcff373d426e" reference="Name">Gather Information</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Sense Motive</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-cc4fd694-6a78-44be-a478-54fbac662c1a</ObjectGUID>
+    <ParentGUID>007-686a4dff-9e3d-48f0-b339-2f43073ce693</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-fad461d2-cf4e-4017-a8f4-b071dd765f95" reference="Name">Sense Motive</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Artifice</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-67360a91-0bd9-41c0-93fc-1a124554b4c1</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Artifice.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Gain +4 bonus on Craft checks. The character casts conjuration (creation) spells at +1 caster level.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-a5f30d68-3890-4bc3-b984-633a96ec07cc</ObjectGUID>
+    <ParentGUID>007-67360a91-0bd9-41c0-93fc-1a124554b4c1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Artifice Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-3eb9546d-ad38-4e5e-913f-b43f4d3a60a1</ObjectGUID>
+    <ParentGUID>007-67360a91-0bd9-41c0-93fc-1a124554b4c1</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-d264c69c-40f8-4aba-a46d-3f5c9bea1892</HTMLGUID>
+    <Feature FK="009-d264c69c-40f8-4aba-a46d-3f5c9bea1892" reference="Name">Granted Power of Artifice Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-7222b78e-e638-4e1c-abab-716d5dd8a582</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Charm.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Boost Charisma by 4 points once per day as a free action for 1 minute.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-699c14a9-5e2b-4321-a579-44a94b6b4005</ObjectGUID>
+    <ParentGUID>007-7222b78e-e638-4e1c-abab-716d5dd8a582</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Charm Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-0e56d3ff-097b-477d-a33b-f3ffa449a60b</ObjectGUID>
+    <ParentGUID>007-7222b78e-e638-4e1c-abab-716d5dd8a582</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-361c3b14-411c-4f94-96f0-98b8ae3058d6</HTMLGUID>
+    <Feature FK="009-361c3b14-411c-4f94-96f0-98b8ae3058d6" reference="Name">Granted Power of Charm Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Community</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-dac7ba1a-58db-41e3-85d8-c3df7f8655be</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Community.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Use calm emotions as a spell-like ability once per day. Gain a +2 competence bonus on Diplomacy checks.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-5070027e-d7ed-488e-9fa1-b98837b15afe</ObjectGUID>
+    <ParentGUID>007-dac7ba1a-58db-41e3-85d8-c3df7f8655be</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Community Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-bdd0cdb5-e4b4-4f5a-8435-341257e8dc5b</ObjectGUID>
+    <ParentGUID>007-dac7ba1a-58db-41e3-85d8-c3df7f8655be</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-79ab6ce7-148a-4a01-b4e9-cbe0d35c84e2</HTMLGUID>
+    <Feature FK="009-79ab6ce7-148a-4a01-b4e9-cbe0d35c84e2" reference="Name">Granted Power of Community Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Creation</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-10101fbf-5226-4e8c-815f-c2a2ca222998</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Creation.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Cast conjuration (creation) spells at +2 caster level.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-2d35787a-ccbd-4d48-b23f-692e2bab4194</ObjectGUID>
+    <ParentGUID>007-10101fbf-5226-4e8c-815f-c2a2ca222998</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Creation Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-3973b864-9576-4d59-b73a-1044fccfdeae</ObjectGUID>
+    <ParentGUID>007-10101fbf-5226-4e8c-815f-c2a2ca222998</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-d282515e-087c-4609-8487-0ea30f956130</HTMLGUID>
+    <Feature FK="009-d282515e-087c-4609-8487-0ea30f956130" reference="Name">Granted Power of Creation Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkness</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-0acb8406-356a-49ec-91e0-cde608cf44d7</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Darkness.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Free Blind-Fight feat.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-d8d41c4c-7787-438c-bc31-c35df414efb3</ObjectGUID>
+    <ParentGUID>007-0acb8406-356a-49ec-91e0-cde608cf44d7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Blind Fight</Name>
+    <Type>Specific Bonus Feat</Type>
+    <ObjectGUID>007-5e8c8e4a-b91a-40e9-84b5-edd76c6f93d4</ObjectGUID>
+    <ParentGUID>007-0acb8406-356a-49ec-91e0-cde608cf44d7</ParentGUID>
+    <HTML />
+    <HTMLGUID>008-bdd12461-c41d-43b8-a371-4b8b41619505</HTMLGUID>
+    <Feat FK="008-bdd12461-c41d-43b8-a371-4b8b41619505" reference="Name">Blind Fight</Feat>
+    <Focus />
+    <OverridePrerequisites />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Glory</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-d2611acb-ab7d-4bf6-82a2-81296e4502d5</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Glory.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Turn undead with a +2 bonus on the turning check and +1d6 to the turning damage roll.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-52a684a8-e54d-4abf-bf14-2a19b0c894c2</ObjectGUID>
+    <ParentGUID>007-d2611acb-ab7d-4bf6-82a2-81296e4502d5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Glory Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-d4f88a80-b22c-4d13-add5-8fdd858df34f</ObjectGUID>
+    <ParentGUID>007-d2611acb-ab7d-4bf6-82a2-81296e4502d5</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-c56d2770-92a1-4e24-8bea-2e1a4861ab25</HTMLGUID>
+    <Feature FK="009-c56d2770-92a1-4e24-8bea-2e1a4861ab25" reference="Name">Granted Power of Glory Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Liberation</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-2a3e250b-746f-4e19-997c-46e118e1ce13</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Liberation.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Gain a +2 morale bonus on all saving throws against enchantment spells or effects.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-296ef80f-28f2-423f-99d2-dff3ceb5cdb3</ObjectGUID>
+    <ParentGUID>007-2a3e250b-746f-4e19-997c-46e118e1ce13</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Liberation Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-b6082b4b-0dd5-4e3e-a932-1bd0bc5b40fe</ObjectGUID>
+    <ParentGUID>007-2a3e250b-746f-4e19-997c-46e118e1ce13</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-d0a735c1-e949-4543-ad52-e61d94e558cb</HTMLGUID>
+    <Feature FK="009-d0a735c1-e949-4543-ad52-e61d94e558cb" reference="Name">Granted Power of Liberation Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Madness</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-161b94c1-c48b-4872-b948-d6f72eccaa3a</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Madness.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>The character gains an Insanity score equal to half his or her class level (see text).</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-47ac920c-ccc4-45b3-b9c2-84e834805eae</ObjectGUID>
+    <ParentGUID>007-161b94c1-c48b-4872-b948-d6f72eccaa3a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Madness Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-c4e351c3-3ed8-4c4c-b7fd-53fc11ba6c89</ObjectGUID>
+    <ParentGUID>007-161b94c1-c48b-4872-b948-d6f72eccaa3a</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-795f2323-a5d5-488e-8572-1f9b91029140</HTMLGUID>
+    <Feature FK="009-795f2323-a5d5-488e-8572-1f9b91029140" reference="Name">Granted Power of Madness Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nobility</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-c7534a85-1455-4885-af40-d7f52c8b1ca2</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Nobility.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Can use Inspire Allies spell-like ability 1/day (see text).</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-e50748a5-f0be-4d37-9ed6-c6aefc0b8e98</ObjectGUID>
+    <ParentGUID>007-c7534a85-1455-4885-af40-d7f52c8b1ca2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Nobility Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-b2a8f6de-28ab-48b2-a8c2-5a4e2dde2ebb</ObjectGUID>
+    <ParentGUID>007-c7534a85-1455-4885-af40-d7f52c8b1ca2</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-ea6e539a-c983-4169-ab94-aa8ec5c0aecd</HTMLGUID>
+    <Feature FK="009-ea6e539a-c983-4169-ab94-aa8ec5c0aecd" reference="Name">Granted Power of Nobility Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Repose</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-b2575552-3b21-4943-8c46-534e340191ab</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Repose.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You may use death touch once per day.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-0b14a3cc-c1df-4409-812a-b7f5567454ee</ObjectGUID>
+    <ParentGUID>007-b2575552-3b21-4943-8c46-534e340191ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Repose Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-2ce35bde-936d-4875-8032-11dea323727c</ObjectGUID>
+    <ParentGUID>007-b2575552-3b21-4943-8c46-534e340191ab</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-c0811ce1-ac4b-4aaf-b4ab-faec51012113</HTMLGUID>
+    <Feature FK="009-c0811ce1-ac4b-4aaf-b4ab-faec51012113" reference="Name">Granted Power of Repose Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rune</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-ac8f11e7-5f80-4d57-92c1-da04bd19ba40</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Rune.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Free Scribe Scroll feat.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-6d5c6969-e195-4e34-aaf5-2d3391a952c6</ObjectGUID>
+    <ParentGUID>007-ac8f11e7-5f80-4d57-92c1-da04bd19ba40</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scribe Scroll</Name>
+    <Type>Specific Bonus Feat</Type>
+    <ObjectGUID>007-fe2465b5-6709-4401-bbf3-7a4e07d03da6</ObjectGUID>
+    <ParentGUID>007-ac8f11e7-5f80-4d57-92c1-da04bd19ba40</ParentGUID>
+    <HTML />
+    <HTMLGUID>008-07945c12-a9ee-408e-95f0-ba9fd14a2280</HTMLGUID>
+    <Feat FK="008-07945c12-a9ee-408e-95f0-ba9fd14a2280" reference="Name">Scribe Scroll</Feat>
+    <Focus />
+    <OverridePrerequisites />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scalykind</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-887070fd-a4e2-4884-b719-1c555ab36177</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Scalykind.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>You can rebuke/command animals (reptilian creatures/snakes only).</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-0888aec9-6092-4d68-baa2-d5272b39db91</ObjectGUID>
+    <ParentGUID>007-887070fd-a4e2-4884-b719-1c555ab36177</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Granted Power of Scalykind Domain</Name>
+    <Type>Feature</Type>
+    <ObjectGUID>007-a9647035-ee18-4631-b2d2-88a7a116e44d</ObjectGUID>
+    <ParentGUID>007-887070fd-a4e2-4884-b719-1c555ab36177</ParentGUID>
+    <HTML />
+    <HTMLGUID>009-a1ed094b-99a7-4cb0-9c6f-d53f51f20807</HTMLGUID>
+    <Feature FK="009-a1ed094b-99a7-4cb0-9c6f-d53f51f20807" reference="Name">Granted Power of Scalykind Domain</Feature>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Weather</Name>
+    <Type>Domain Definition</Type>
+    <ObjectGUID>007-bef5d24a-9435-4720-9133-d3f7b6afc67d</ObjectGUID>
+    <ParentGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ParentGUID>
+    <HTML>Domains\Weather.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Survival is a class skill.</Description>
+    <Alignment />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Divine</Tags>
+    <PageNoRef />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell List</Name>
+    <Type>Spell List Folder</Type>
+    <ObjectGUID>007-f769235e-857b-4470-adf4-90749ed5750f</ObjectGUID>
+    <ParentGUID>007-bef5d24a-9435-4720-9133-d3f7b6afc67d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bonus Class Skill: Survival</Name>
+    <Type>Bonus Class Skill Choice or Specific</Type>
+    <ObjectGUID>007-a1ad3f0b-440e-448f-b26f-8e54c9675130</ObjectGUID>
+    <ParentGUID>007-bef5d24a-9435-4720-9133-d3f7b6afc67d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ChoiceType>Specific</ChoiceType>
+    <Specific FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</Specific>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

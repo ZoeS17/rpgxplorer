@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Rod of Absorption</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-51f134d1-fef2-48f6-b6b1-ee3571a5a85f</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Absorption.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <Description>Acts as a magnet, drawing spells or spell-like abilities into itself.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Alertness</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-d75a32c8-f7a2-4742-9cd1-f14b2f091a01</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Alertness.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType>Varied</AuraType>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>85000 gp</MarketPrice>
+    <Description>+1 Light Mace and +1 insight on Initiative. Numerous spell and other abilities.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Initiative Roll [Insight]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>018-0c4687a6-c435-4822-b0a2-71e1d774c592</ObjectGUID>
+    <ParentGUID>018-d75a32c8-f7a2-4742-9cd1-f14b2f091a01</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-8f7b9da5-4f42-49c2-8fe9-d0dcf01b8a59" reference="Name">Initiative Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Insight</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Cancellation</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-fc3e472a-78cd-4a27-acf4-961893a4f99c</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Cancellation.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>11000 gp</MarketPrice>
+    <Description>Drains items of magical abilities.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Enemy Detection</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-290302f3-76c0-4d78-9ae5-4dbc73f5f4c4</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Enemy Detection.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a" reference="Name">Divination</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>23500 gp</MarketPrice>
+    <Description>Detects enemies within 60ft even if invisible, ethereal, hidden, disguised or in plain sight.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Flailing</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-a5392a3a-1085-4d74-8357-a040b771f596</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Flailing.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>50000 gp</MarketPrice>
+    <Description>Upon activation becomes +3 dire flail with 2-weapon fighting. +4 AC/Saves once per day for 10 mins.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Flame Extinguishing</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-9a6d732b-6835-4f01-a220-8b684de7047f</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Flame Extinguishing.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>15000 gp</MarketPrice>
+    <Description>10 charges, renewed every day. Expend charges to extinguish fires of differing sizes.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Immovable Rod</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-b712d055-a1d9-4782-8cec-bf3a8d7a21e4</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Immovable Rod.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>5000 gp</MarketPrice>
+    <Description>Upon activation rod remains fixed in space, even if in mid-air, until deactivated.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Lordly Might</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-c37ed1d9-6c19-4a74-9d1c-5fbf9f47c037</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Lordly Might.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <CasterLevel>19</CasterLevel>
+    <MarketPrice>70000 gp</MarketPrice>
+    <Description>Powerful rod with multiple weapon and spell functions.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metal and Mineral Detection</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-f66f9f4e-dc1e-4096-9baf-3339284205fc</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metal and Mineral Detection.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a" reference="Name">Divination</AuraType>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>10500 gp</MarketPrice>
+    <Description>Detect metals and minerals within 30 ft.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Empower, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-757de4ee-f3e4-461a-a1bc-1a42dabe742a</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Empower.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>9000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Empowered.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Empower</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-c273e0ca-5f17-4605-a54a-0b3099d14d55</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Empower.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>32500 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Empowered.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Empower, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-4834ebb8-e7fc-46a9-b38e-7ce6b36269cd</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Empower.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>73000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Empowered.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Enlarge</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-199ea9eb-0577-4624-b4e3-10297c2de015</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Enlarge.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>11000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Enlarged.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Enlarge, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-f613d188-e7f0-4e24-a251-b649ca445764</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Enlarge.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>24500 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Enlarged.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Enlarge, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-b88973ce-0e7c-4933-8c2f-dc960a660caf</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Enlarge.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Enlarged.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Extend</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-384abb73-099a-4a09-983f-2dc3e2f16968</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Extend.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>11000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Extended.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Extend, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-7179ebb9-b7e5-4470-989e-4951c028f0d3</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Extend.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>24500 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Extended.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Extend, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-87339bf6-6f53-4ccd-8017-7f1451a253e4</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Extend.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Extended.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Maximize</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-09aabd14-de34-4866-912f-cc293001e04b</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Maximize.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>54000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Maximized.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Maximize, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-b6d9bddd-6d61-46a9-808c-1ecb12591187</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Maximize.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>121500 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Maximized.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Maximized, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-8274204d-4a8f-4ac3-8643-d5ca4f318afa</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Maximize.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>14000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Maximized.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Quicken</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-37061f67-a48d-4108-b60d-cd7bec2f0b9e</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Quicken.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>75000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Quickened.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Quicken, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-061a3142-dfc5-4961-9a8b-6fa8fd875d02</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Quicken.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>170000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Quickened.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Quicken, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-d62c1eca-cddf-41db-b675-5f892b1b61ea</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Quicken.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>35000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Quickened.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Silent</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-245a8060-37a0-4c48-bcf3-11b5c10229ed</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Silent.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>11000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 6th level or lower as if they were Silent.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Silent, Greater</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-5a5e678c-9b74-496d-a467-a0b12902ad94</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Silent.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>24500 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 9th level or lower as if they were Silent.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Metamagic, Silent, Lesser</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-269c0418-a225-4cbc-9200-91675c2024f7</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Metamagic, Silent.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>No School</AuraType>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Description>Cast 3 spells per day of 3rd level or lower as if they were Silent.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Negation</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-e550105c-9b05-4719-b702-aa158504a411</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Negation.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>Varied</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>37000 gp</MarketPrice>
+    <Description>Negates the spell or spell-like function or functions of magic items.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of the Python</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-cb8e4e5b-2004-4a49-bc4b-8f6e7b3ced58</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of the Python.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>13000 gp</MarketPrice>
+    <Description>+1/+1 quarterstaff that can turn into a python.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Rulership</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-3d716b58-0bc6-4dda-bacc-90fd187ccb4c</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Rulership.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>60000 gp</MarketPrice>
+    <Description>Command the obedience and fealty of creatures within 120 ft.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Security</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-873964a9-b95e-43c5-9c90-8c8c7d32ece1</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Security.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>61000 gp</MarketPrice>
+    <Description>Creates a non-dimensional space where the user and 199 others can reside in paradise.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Splendor</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-1ba0b849-7b2a-46ba-993f-a160095afbd8</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Splendor.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>25000 gp</MarketPrice>
+    <Description>+4 to CHA plus the rod can adorn wearer with fine clothing and jewellry for 12 hrs.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Charisma [Enhancement]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>018-636df81a-c018-447f-944b-79d9d2f34406</ObjectGUID>
+    <ParentGUID>018-1ba0b849-7b2a-46ba-993f-a160095afbd8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-faed75ff-568e-4f7a-8c3c-86eb78fedff1" reference="Name">Charisma</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Thunder and Lightning</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-2b72b6d6-f88a-4088-b1d5-ad4f553e2fcb</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Thunder and Lightning.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</AuraType>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>33000 gp</MarketPrice>
+    <Description>+2 light mace with numerous other weapon and spell powers.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of the Viper</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-a4008e16-dd15-4083-a08f-d50bbac0cbe2</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of the Viper.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>19000 gp</MarketPrice>
+    <Description>+2 heavy mace. Head can turn into viper for 10 minutes per day adding poison to the attack.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Withering</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-4786f325-9f07-4a57-a68e-97bb3a161b36</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Withering.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>25000 gp</MarketPrice>
+    <Description>+1 light mace that deals 1d4 STR and 1d4 CON damage as a touch attack.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rod of Wonder</Name>
+    <Type>Rod Definition</Type>
+    <ObjectGUID>018-42014299-1e85-4b12-8dc6-726c1fc6e239</ObjectGUID>
+    <ParentGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ParentGUID>
+    <HTML>Rods\Rod of Wonder.htm</HTML>
+    <HTMLGUID>018-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>12000 gp</MarketPrice>
+    <Description>Strange and unpredictable device that has a random effect when used.</Description>
+    <ImageFilename>MagicItemsRods.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

@@ -1,0 +1,15 @@
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\Templates.Resources.resources
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\Templates.vbproj.GenerateResource.Cache
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Templates.dll
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Templates.pdb
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Templates.xml
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\RPGXplorer.exe
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Desaware.MachineLicense11.dll
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Desaware.Dls.Interfaces11.dll
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Skybound.VisualStyles.dll
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\RPGXplorer.pdb
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\bin\Debug\Skybound.VisualStyles.xml
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\Templates.dll
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\Templates.xml
+C:\Users\Anurien\Documents\Visual Studio 2005\RPGXplorer\RPGXplorer\Templates\TestLibrary1\obj\Debug\Templates.pdb

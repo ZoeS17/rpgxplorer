@@ -1,0 +1,1806 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Potion of Cure Light Wounds</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-19ec0838-43b7-45c6-b5b0-4f46e1e6a29a</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d7a7eef6-9b99-4a29-ae80-2cf1c5ca1829</HTMLGUID>
+    <BaseSpell FK="030-d7a7eef6-9b99-4a29-ae80-2cf1c5ca1829" reference="Name">Cure Light Wounds</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Endure Elements</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-efa9a4c0-3002-46a9-9170-58a15abfde0f</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-360c76a5-f9e9-4320-b0dd-976e262c859c</HTMLGUID>
+    <BaseSpell FK="030-360c76a5-f9e9-4320-b0dd-976e262c859c" reference="Name">Endure Elements</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Hide from Animals</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-53aa4291-1522-4f0a-a9e7-64daa4123497</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-684eec30-8700-452d-afb6-3da4d4dfaebe</HTMLGUID>
+    <BaseSpell FK="030-684eec30-8700-452d-afb6-3da4d4dfaebe" reference="Name">Hide from Animals</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Hide from Undead</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-49d28e24-fb97-4b56-91ae-bdd918604c0f</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-5ba1b446-d4a1-4da5-a61b-106262ed6456</HTMLGUID>
+    <BaseSpell FK="030-5ba1b446-d4a1-4da5-a61b-106262ed6456" reference="Name">Hide from Undead</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Jump</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-318091f3-314e-43fb-9b56-ebe7a6740429</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ef69ac38-3900-4d0f-b0e0-b762c42ec685</HTMLGUID>
+    <BaseSpell FK="030-ef69ac38-3900-4d0f-b0e0-b762c42ec685" reference="Name">Jump</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Mage Armor</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-e577bdda-50a5-4cf7-a74e-c74dddec89cf</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-cbf2f7a4-e34c-4536-8c92-c888f7847e99</HTMLGUID>
+    <BaseSpell FK="030-cbf2f7a4-e34c-4536-8c92-c888f7847e99" reference="Name">Mage Armor</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Magic Fang</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-75be98b5-fec5-4d6a-812a-bc906958ef90</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-73b81b87-e21f-4d46-adf6-2a80ebaf4474</HTMLGUID>
+    <BaseSpell FK="030-73b81b87-e21f-4d46-adf6-2a80ebaf4474" reference="Name">Magic Fang</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Stone</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-09d6b79a-be69-4257-84d7-7697dcfb1fb0</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-14124543-5f90-4cc8-9853-250d4d0688fd</HTMLGUID>
+    <BaseSpell FK="030-14124543-5f90-4cc8-9853-250d4d0688fd" reference="Name">Magic Stone</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Weapon</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-6a2b85c1-cf04-4566-ac6c-2f4228be0dec</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-247fa813-67dc-4e11-8aa2-53c76fc2ceaa</HTMLGUID>
+    <BaseSpell FK="030-247fa813-67dc-4e11-8aa2-53c76fc2ceaa" reference="Name">Magic Weapon</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Pass without Trace</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-eb1ba680-6922-4006-bf3f-6b116b3fad66</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c35c8e63-5003-4e96-8f8e-eb350cbf8d19</HTMLGUID>
+    <BaseSpell FK="030-c35c8e63-5003-4e96-8f8e-eb350cbf8d19" reference="Name">Pass without Trace</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Chaos</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-cdf71d5b-0a22-4f39-a39e-3867d0c02387</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a0e760dc-dafe-479d-a2bd-340c2c217482</HTMLGUID>
+    <BaseSpell FK="030-a0e760dc-dafe-479d-a2bd-340c2c217482" reference="Name">Protection from Chaos</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Evil</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-c40956b7-f4d7-4f2b-ae86-26067709930d</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-36221169-01b0-4287-9a5c-d38025c0feab</HTMLGUID>
+    <BaseSpell FK="030-36221169-01b0-4287-9a5c-d38025c0feab" reference="Name">Protection from Evil</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Good</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-038a7c94-ed8f-4184-8a96-47f2b16bc45c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-9672ae14-a87e-40c8-81d6-24426a375acc</HTMLGUID>
+    <BaseSpell FK="030-9672ae14-a87e-40c8-81d6-24426a375acc" reference="Name">Protection from Good</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Remove Fear</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-512d0c31-486e-4c04-8d1e-84615f5ed405</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-46fa8d43-902f-4d16-b85d-645cf417fc19</HTMLGUID>
+    <BaseSpell FK="030-46fa8d43-902f-4d16-b85d-645cf417fc19" reference="Name">Remove Fear</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Bless Weapon</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-9d572951-54ab-4e8e-81bd-bcdd2f58f9a6</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f37281d2-9634-4201-bafa-5695618b53c9</HTMLGUID>
+    <BaseSpell FK="030-f37281d2-9634-4201-bafa-5695618b53c9" reference="Name">Bless Weapon</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>100 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Reduce Person</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-667de524-eb0f-46ca-bbb0-f5e1d633f392</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-33dd023c-8dca-400a-9452-8aa8da799be8</HTMLGUID>
+    <BaseSpell FK="030-33dd023c-8dca-400a-9452-8aa8da799be8" reference="Name">Reduce Person</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>250 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Aid</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-94e3ce2b-f885-4583-bec1-8c93d63fa27b</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-831aee5b-1f4e-4de9-b2f0-b8766de7135e</HTMLGUID>
+    <BaseSpell FK="030-831aee5b-1f4e-4de9-b2f0-b8766de7135e" reference="Name">Aid</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Barkskin +2</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-daed17f1-5c74-45a8-9276-bb212e28c065</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-250c8d67-7642-4042-aec1-e63d60605b36</HTMLGUID>
+    <BaseSpell FK="030-250c8d67-7642-4042-aec1-e63d60605b36" reference="Name">Barkskin</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Bear's Endurance</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-17f9477a-1206-4b1f-b061-8be3daf6047d</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-9dab6d40-f14a-4d1a-9565-bf4caea43cd9</HTMLGUID>
+    <BaseSpell FK="030-9dab6d40-f14a-4d1a-9565-bf4caea43cd9" reference="Name">Bear's Endurance</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Blur</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-976b6bc3-b7e3-4449-8f3f-5f378a29660a</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a8ccde1d-db7d-489c-8f61-fbd3c6bd7658</HTMLGUID>
+    <BaseSpell FK="030-a8ccde1d-db7d-489c-8f61-fbd3c6bd7658" reference="Name">Blur</BaseSpell>
+    <CasterLevel>2</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Bull's Strength</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-f7b2a271-a19e-4656-a65c-60d8b5123b88</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-126a40b9-a49d-4f91-b3e4-a0a1d4daf62f</HTMLGUID>
+    <BaseSpell FK="030-126a40b9-a49d-4f91-b3e4-a0a1d4daf62f" reference="Name">Bull's Strength</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Cat's Grace</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-2f3f8119-7bdf-4b91-939b-5d415c543c0c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-1a6da579-e4f5-409e-9832-d0a9343ec364</HTMLGUID>
+    <BaseSpell FK="030-1a6da579-e4f5-409e-9832-d0a9343ec364" reference="Name">Cat's Grace</BaseSpell>
+    <CasterLevel>2</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Cure Moderate Wounds</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-cc2e71f8-48fd-43f5-920b-02500ce957f9</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-7aa11dbb-885a-4bb8-b5f2-51d87c575bb2</HTMLGUID>
+    <BaseSpell FK="030-7aa11dbb-885a-4bb8-b5f2-51d87c575bb2" reference="Name">Cure Moderate Wounds</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Darkness</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-d6e66e14-76f1-499b-b31e-513454c693a9</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-5b294c6a-6dfb-4571-b2cd-23dece7605f7</HTMLGUID>
+    <BaseSpell FK="030-5b294c6a-6dfb-4571-b2cd-23dece7605f7" reference="Name">Darkness</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Darkvision</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-bcddbf17-814f-4796-99d8-6a4ad5d94136</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-479bf93e-0abd-4f07-b0cb-8b6a0daf8435</HTMLGUID>
+    <BaseSpell FK="030-479bf93e-0abd-4f07-b0cb-8b6a0daf8435" reference="Name">Darkvision</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Delay Poison</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-36421fd2-d36f-4cf0-b617-c2324af2ca64</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-98922d47-baa8-48b6-ae0a-9adb3c5258f1</HTMLGUID>
+    <BaseSpell FK="030-98922d47-baa8-48b6-ae0a-9adb3c5258f1" reference="Name">Delay Poison</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Eagle's Splendor</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-48f48f5c-7863-4f7c-84d9-bbe10d250fb3</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-bc056501-69c2-43e0-99ab-5194d2822cbc</HTMLGUID>
+    <BaseSpell FK="030-bc056501-69c2-43e0-99ab-5194d2822cbc" reference="Name">Eagle's Splendor</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Fox's Cunning</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-560eb12d-3ff9-4a40-8c43-31dedfe09201</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f46da990-af3f-464b-b8ab-dc8e2761c805</HTMLGUID>
+    <BaseSpell FK="030-f46da990-af3f-464b-b8ab-dc8e2761c805" reference="Name">Fox's Cunning</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Invisibility</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-1402896a-bd9a-4b93-9348-85705db82fa8</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e</HTMLGUID>
+    <BaseSpell FK="030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e" reference="Name">Invisibility</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Levitate</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-c7124efa-5e75-4ccd-8507-2dfb6da38cc7</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3</HTMLGUID>
+    <BaseSpell FK="030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3" reference="Name">Levitate</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Misdirection</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-a6d3fc13-4e06-4f5a-aae1-61d8c3e52fbb</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f73830c6-4901-446f-8e34-9f9ad16a19ca</HTMLGUID>
+    <BaseSpell FK="030-f73830c6-4901-446f-8e34-9f9ad16a19ca" reference="Name">Misdirection</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Owl's Wisdom</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-8bdde4fc-63cd-4644-8f1b-f57f6beb1889</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d522f87-d663-4139-9550-ec9ed90eb5c6</HTMLGUID>
+    <BaseSpell FK="030-2d522f87-d663-4139-9550-ec9ed90eb5c6" reference="Name">Owl's Wisdom</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Arrows 10/Magic</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-2d43a80a-8cd0-483a-b25c-6fc06807396d</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c55418c6-c083-41ab-95fa-8d812e5929f5</HTMLGUID>
+    <BaseSpell FK="030-c55418c6-c083-41ab-95fa-8d812e5929f5" reference="Name">Protection from Arrows</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Remove Paralysis</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-72ba1a73-04bb-4e5c-8f88-aaf04029fe47</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-7c44e29b-9c20-4137-b78a-6546f1d0abb2</HTMLGUID>
+    <BaseSpell FK="030-7c44e29b-9c20-4137-b78a-6546f1d0abb2" reference="Name">Remove Paralysis</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Acid) 10</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-132c556c-2fff-45c6-a46a-d242a693071f</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Cold) 10</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-d08a3a52-6806-4c84-9090-4127d0bbdd03</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Fire) 10</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-33ce7f25-4017-46af-aa67-711c854369c6</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Electricity) 10</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-e9e852a7-4afc-48e3-be96-2d71e89e9a6a</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Sonic) 10</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-7a00343f-4555-49e6-854a-2828482b238e</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Barkskin +3</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-bedee187-9ef4-48e0-849b-c9ba89106379</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-250c8d67-7642-4042-aec1-e63d60605b36</HTMLGUID>
+    <BaseSpell FK="030-250c8d67-7642-4042-aec1-e63d60605b36" reference="Name">Barkskin</BaseSpell>
+    <CasterLevel>6</CasterLevel>
+    <MarketPrice>600 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Acid) 20</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-3074253c-2207-4b91-b5c9-6c307259e196</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>700 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Cold) 20</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-4052826e-1ade-4f5d-8d6e-e77a978344ae</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>700 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Electricity) 20</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-b3fae9b8-39e3-4fde-9a5c-0a40722948b1</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>700 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Fire) 20</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-bea2a7d9-60e8-4c8c-ab97-2cf24776e431</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>700 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Sonic) 20</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-739cd442-093b-4948-8e09-f64b273950d4</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>7</CasterLevel>
+    <MarketPrice>700 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Cure Serious Wounds</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-1535e141-32b6-4a15-a593-1f1ca4bea6a3</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df</HTMLGUID>
+    <BaseSpell FK="030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df" reference="Name">Cure Serious Wounds</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Daylight</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-6796fda9-0a18-48f1-b9f5-d38e696cf90a</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a7f4fe90-a4d4-4479-8dc8-84ad41941342</HTMLGUID>
+    <BaseSpell FK="030-a7f4fe90-a4d4-4479-8dc8-84ad41941342" reference="Name">Daylight</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Displacement</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-7d2a6b76-0b86-4334-90da-227a14a656fd</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-46469e02-fb5f-440a-a426-e6e41a933b5a</HTMLGUID>
+    <BaseSpell FK="030-46469e02-fb5f-440a-a426-e6e41a933b5a" reference="Name">Displacement</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Flame Arrow</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-0cd8ba65-eb78-42d5-9955-051e8e3285c6</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-22d048bf-626b-4696-9b8b-5ea63f890799</HTMLGUID>
+    <BaseSpell FK="030-22d048bf-626b-4696-9b8b-5ea63f890799" reference="Name">Flame Arrow</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Fly</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-3ff47709-4811-4b52-ad92-69b5baaea7a3</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f2ddded2-7a5a-420a-bf03-782df9712f3b</HTMLGUID>
+    <BaseSpell FK="030-f2ddded2-7a5a-420a-bf03-782df9712f3b" reference="Name">Fly</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Gaseous Form</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-b14244ac-8005-44b3-a5c9-892d7350ccd1</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6e774d62-334c-436e-a19d-48db9f01e6eb</HTMLGUID>
+    <BaseSpell FK="030-6e774d62-334c-436e-a19d-48db9f01e6eb" reference="Name">Gaseous Form</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Greater Magic Fang +1</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-a933ec48-f221-49be-8976-71098ced1e88</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1</HTMLGUID>
+    <BaseSpell FK="030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1" reference="Name">Magic Fang, Greater</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Greater Magic Weapon +1</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-9be53f0b-24d3-4327-bb53-ac8d776c05be</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac</HTMLGUID>
+    <BaseSpell FK="030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac" reference="Name">Magic Weapon, Greater</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Haste</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-9fc76a99-97c7-436a-b194-64ce0f51b2df</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-7504c1bf-ecfb-4950-861b-8f6c67a70b4e</HTMLGUID>
+    <BaseSpell FK="030-7504c1bf-ecfb-4950-861b-8f6c67a70b4e" reference="Name">Haste</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Heroism</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-b1c8e5fa-0c71-4b03-bf92-0d646884d937</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d759672c-2bc9-4c8e-9dc8-d6d3062f20a5</HTMLGUID>
+    <BaseSpell FK="030-d759672c-2bc9-4c8e-9dc8-d6d3062f20a5" reference="Name">Heroism</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Keen Edge</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-90be589d-3969-4520-a3ad-f7136aaf479c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-4e0bb517-54e2-442e-86db-f97ed7d42dec</HTMLGUID>
+    <BaseSpell FK="030-4e0bb517-54e2-442e-86db-f97ed7d42dec" reference="Name">Keen Edge</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Magic Circle against Chaos</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-7bb09792-1dbf-44fa-82c5-d97e416ee4b5</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6d495e3d-cdb2-455f-9017-90536a29b541</HTMLGUID>
+    <BaseSpell FK="030-6d495e3d-cdb2-455f-9017-90536a29b541" reference="Name">Magic Circle against Chaos</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Magic Circle against Evil</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-4bedfa8f-5fa1-48ca-a8ab-d8fecf623139</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-65b94f12-2771-4e6b-b4c4-2f0e9fd40104</HTMLGUID>
+    <BaseSpell FK="030-65b94f12-2771-4e6b-b4c4-2f0e9fd40104" reference="Name">Magic Circle against Evil</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Magic Circle against Good</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-dc787d0b-6707-4909-83c0-542d87c65ede</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-5872c0df-da31-48e6-b45f-0f412368e7e5</HTMLGUID>
+    <BaseSpell FK="030-5872c0df-da31-48e6-b45f-0f412368e7e5" reference="Name">Magic Circle against Good</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Vestment +1</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-afeff8d0-43a3-482b-a45a-99624a836866</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c1ad7817-0e1a-4512-88f2-85e22cd56f87</HTMLGUID>
+    <BaseSpell FK="030-c1ad7817-0e1a-4512-88f2-85e22cd56f87" reference="Name">Magic Vestment</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Neutralize Poison</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-15658307-fb87-4be6-95b6-64327a34a37c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-aa3f3d0e-a7bc-4d4a-808e-ae0e36713ff7</HTMLGUID>
+    <BaseSpell FK="030-aa3f3d0e-a7bc-4d4a-808e-ae0e36713ff7" reference="Name">Neutralize Poison</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Nondetection</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-8bb612c1-2dec-481b-9381-b5a564b88a33</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0beb4c9-35a2-41f5-ae38-3f49cb79e12c</HTMLGUID>
+    <BaseSpell FK="030-d0beb4c9-35a2-41f5-ae38-3f49cb79e12c" reference="Name">Nondetection</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Energy (Cold)</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-3e0b6389-5d51-42af-baeb-a3492048b724</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0dec599-69d4-45b7-a79e-c3ed3709450b</HTMLGUID>
+    <BaseSpell FK="030-d0dec599-69d4-45b7-a79e-c3ed3709450b" reference="Name">Protection from Energy</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Energy (Electricity)</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-eaca0f06-50da-4dff-be5b-0e043fae2266</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0dec599-69d4-45b7-a79e-c3ed3709450b</HTMLGUID>
+    <BaseSpell FK="030-d0dec599-69d4-45b7-a79e-c3ed3709450b" reference="Name">Protection from Energy</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Energy (Fire)</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-e8c9b553-9ecf-4cde-af6b-c55fbf352be7</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0dec599-69d4-45b7-a79e-c3ed3709450b</HTMLGUID>
+    <BaseSpell FK="030-d0dec599-69d4-45b7-a79e-c3ed3709450b" reference="Name">Protection from Energy</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Energy (Acid)</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-f05355b8-4ee2-4f33-a087-59cd27455237</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0dec599-69d4-45b7-a79e-c3ed3709450b</HTMLGUID>
+    <BaseSpell FK="030-d0dec599-69d4-45b7-a79e-c3ed3709450b" reference="Name">Protection from Energy</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Protection from Energy (Sonic)</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-48881db7-8932-465d-86c8-d8385a74a54a</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-d0dec599-69d4-45b7-a79e-c3ed3709450b</HTMLGUID>
+    <BaseSpell FK="030-d0dec599-69d4-45b7-a79e-c3ed3709450b" reference="Name">Protection from Energy</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Rage</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-9add74d8-674d-49e6-9214-7b8c4d62fd04</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-727b0059-cdf0-4a8e-9453-8acf02bb31bc</HTMLGUID>
+    <BaseSpell FK="030-727b0059-cdf0-4a8e-9453-8acf02bb31bc" reference="Name">Rage</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Remove Blindness/Deafness</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-040da8d2-3479-4362-9643-f5df91b913c3</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-102986b8-dc08-4f9e-9a30-1110efb3777b</HTMLGUID>
+    <BaseSpell FK="030-102986b8-dc08-4f9e-9a30-1110efb3777b" reference="Name">Remove Blindness/Deafness</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Remove Curse</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-4ec875a6-08a3-4535-9dce-956bd2924f7e</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-da3f6df2-0b4d-4206-b7a3-1fe6be56c1f7</HTMLGUID>
+    <BaseSpell FK="030-da3f6df2-0b4d-4206-b7a3-1fe6be56c1f7" reference="Name">Remove Curse</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Remove Disease</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-aa230a5c-f143-4ba8-b3c2-4da2ae5f2990</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ae177897-c236-416c-9284-09b53fd98c49</HTMLGUID>
+    <BaseSpell FK="030-ae177897-c236-416c-9284-09b53fd98c49" reference="Name">Remove Disease</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Barkskin +4</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-c45a6228-b46b-46d6-9347-303c26f853a5</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-250c8d67-7642-4042-aec1-e63d60605b36</HTMLGUID>
+    <BaseSpell FK="030-250c8d67-7642-4042-aec1-e63d60605b36" reference="Name">Barkskin</BaseSpell>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>900 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Good Hope</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-86c5cb04-7598-4890-83dd-fd31ba14e35c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-06f3ab57-9a26-4797-94ca-1d527712e939</HTMLGUID>
+    <BaseSpell FK="030-06f3ab57-9a26-4797-94ca-1d527712e939" reference="Name">Good Hope</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>1050 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Acid) 30</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-76cd40c0-0990-46b7-90fd-efce0f7cb743</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>1100 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Cold) 30</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-f9b48416-444a-4f55-abe7-4133529cce6b</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>1100 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Electricity) 30</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-54e491d1-b670-4fd3-8fa7-39f24e541517</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>1100 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Fire) 30</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-b5bc704c-9b49-4166-a822-ae0626fe8653</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>1100 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Resist Energy (Sonic) 30</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-94408162-909e-427a-b84d-c09d9bd2b06e</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <BaseSpell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</BaseSpell>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>1100 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Barkskin +5</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-4acd9f37-d401-4457-bde4-6ed9926af375</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-250c8d67-7642-4042-aec1-e63d60605b36</HTMLGUID>
+    <BaseSpell FK="030-250c8d67-7642-4042-aec1-e63d60605b36" reference="Name">Barkskin</BaseSpell>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>1200 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Greater Magic Fang +2</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-976eba49-1c8a-4a71-b5e7-6301d021c963</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1</HTMLGUID>
+    <BaseSpell FK="030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1" reference="Name">Magic Fang, Greater</BaseSpell>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>1200 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Greater Magic Weapon +2</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-6d8e3935-ea40-4dda-94ac-36b615f24132</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac</HTMLGUID>
+    <BaseSpell FK="030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac" reference="Name">Magic Weapon, Greater</BaseSpell>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>1200 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Vestment +2</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-ae7962cb-2887-4e9c-abdb-3512bbfbd945</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c1ad7817-0e1a-4512-88f2-85e22cd56f87</HTMLGUID>
+    <BaseSpell FK="030-c1ad7817-0e1a-4512-88f2-85e22cd56f87" reference="Name">Magic Vestment</BaseSpell>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>1200 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Greater Magic Fang +3</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-a6b20641-7120-46e0-be6d-ad0088c9a04b</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1</HTMLGUID>
+    <BaseSpell FK="030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1" reference="Name">Magic Fang, Greater</BaseSpell>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>1800 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Greater Magic Weapon +3</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-bedb7a89-a620-4fc2-9c8f-7d2711e4eb8b</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac</HTMLGUID>
+    <BaseSpell FK="030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac" reference="Name">Magic Weapon, Greater</BaseSpell>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>1800 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Vestment +3</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-3374bb12-eea4-48a2-ac36-8e31cbbd622e</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c1ad7817-0e1a-4512-88f2-85e22cd56f87</HTMLGUID>
+    <BaseSpell FK="030-c1ad7817-0e1a-4512-88f2-85e22cd56f87" reference="Name">Magic Vestment</BaseSpell>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>1800 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Greater Magic Fang +4</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-80655858-da4c-4732-82dd-21791d602970</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1</HTMLGUID>
+    <BaseSpell FK="030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1" reference="Name">Magic Fang, Greater</BaseSpell>
+    <CasterLevel>16</CasterLevel>
+    <MarketPrice>2400 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Greater Magic Weapon +4</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-cd80d16b-11b9-4142-bcd4-f85326b26182</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac</HTMLGUID>
+    <BaseSpell FK="030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac" reference="Name">Magic Weapon, Greater</BaseSpell>
+    <CasterLevel>16</CasterLevel>
+    <MarketPrice>2400 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Vestment +4</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-903c2bf3-7748-4d6f-9cf6-a05ed5d17571</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c1ad7817-0e1a-4512-88f2-85e22cd56f87</HTMLGUID>
+    <BaseSpell FK="030-c1ad7817-0e1a-4512-88f2-85e22cd56f87" reference="Name">Magic Vestment</BaseSpell>
+    <CasterLevel>16</CasterLevel>
+    <MarketPrice>2400 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Greater Magic Fang +5</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-f40c0404-27c2-4143-824d-443451d168a4</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1</HTMLGUID>
+    <BaseSpell FK="030-741112ec-2aa5-41e4-bfc1-fbf5a615edd1" reference="Name">Magic Fang, Greater</BaseSpell>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Greater Magic Weapon +5</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-0406d32e-6926-475f-8568-0991a3793774</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac</HTMLGUID>
+    <BaseSpell FK="030-34e99ca7-cf81-4f6f-80d0-639191e5b7ac" reference="Name">Magic Weapon, Greater</BaseSpell>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Magic Vestment +5</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-b5a9cb7f-2c24-43bc-9274-9db2e5519a7c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-c1ad7817-0e1a-4512-88f2-85e22cd56f87</HTMLGUID>
+    <BaseSpell FK="030-c1ad7817-0e1a-4512-88f2-85e22cd56f87" reference="Name">Magic Vestment</BaseSpell>
+    <CasterLevel>20</CasterLevel>
+    <MarketPrice>3000 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Sanctuary</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-a2e4ec5a-d4e7-4edd-a066-332762a93464</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-a751792b-a381-4ac6-96f6-0a002901a602</HTMLGUID>
+    <BaseSpell FK="030-a751792b-a381-4ac6-96f6-0a002901a602" reference="Name">Sanctuary</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Shield of Faith +2</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-15c9d493-419c-4e41-9b01-fbddb9b013ca</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff</HTMLGUID>
+    <BaseSpell FK="030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff" reference="Name">Shield of Faith</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Shillelagh</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-2acfa847-4ed3-4cd8-8456-5bcf8acf0cc1</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-48218d11-a0a5-456e-83c1-1ea29bbb10e1</HTMLGUID>
+    <BaseSpell FK="030-48218d11-a0a5-456e-83c1-1ea29bbb10e1" reference="Name">Shillelagh</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>50 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Enlarge Person</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-a24c86d1-8eae-46f7-aa29-65727cadb025</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-6b911c45-164b-4454-99ef-aa43e963821d</HTMLGUID>
+    <BaseSpell FK="030-6b911c45-164b-4454-99ef-aa43e963821d" reference="Name">Enlarge Person</BaseSpell>
+    <CasterLevel>1</CasterLevel>
+    <MarketPrice>250 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Restoration, Lesser</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-38c430fe-10f2-4697-b5cd-e5cf97487d04</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-86440c0f-ee20-4992-9d97-fa5c5500f4cf</HTMLGUID>
+    <BaseSpell FK="030-86440c0f-ee20-4992-9d97-fa5c5500f4cf" reference="Name">Restoration, Lesser</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Shield of Faith +3</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-52e76b10-876f-4d11-8d9b-a4cd9aef391e</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff</HTMLGUID>
+    <BaseSpell FK="030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff" reference="Name">Shield of Faith</BaseSpell>
+    <CasterLevel>6</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Spider Climb</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-acd2e96b-d1fb-4e09-b20b-337cbf09250c</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-45de168e-c011-4405-8646-f30728ccafcc</HTMLGUID>
+    <BaseSpell FK="030-45de168e-c011-4405-8646-f30728ccafcc" reference="Name">Spider Climb</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Undetectable Alignment</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-8cbb1675-0e79-4c11-9a8f-6f4622df9aab</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-ba22b932-f1bf-4e8d-83f5-6d3aeba70b63</HTMLGUID>
+    <BaseSpell FK="030-ba22b932-f1bf-4e8d-83f5-6d3aeba70b63" reference="Name">Undetectable Alignment</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Shield of Faith +4</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-463c67df-9f3f-4e4e-93ea-55feb38426e2</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff</HTMLGUID>
+    <BaseSpell FK="030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff" reference="Name">Shield of Faith</BaseSpell>
+    <CasterLevel>12</CasterLevel>
+    <MarketPrice>600 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Tongues</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-7b75acdc-2f5f-4d65-bf44-72c40052cb80</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f0d66ab6-7c3d-4f1a-859b-7aebbd2ed405</HTMLGUID>
+    <BaseSpell FK="030-f0d66ab6-7c3d-4f1a-859b-7aebbd2ed405" reference="Name">Tongues</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Water Breathing</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-c6416a52-3267-47c4-9b84-5d358a797bdf</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-f956125b-d083-4ac8-8278-2bde42b047ee</HTMLGUID>
+    <BaseSpell FK="030-f956125b-d083-4ac8-8278-2bde42b047ee" reference="Name">Water Breathing</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Water Walk</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-834b380e-27e6-46c2-9d82-5c84e7ac2730</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-16e08955-8111-4d08-8019-a2c12a61ce9c</HTMLGUID>
+    <BaseSpell FK="030-16e08955-8111-4d08-8019-a2c12a61ce9c" reference="Name">Water Walk</BaseSpell>
+    <CasterLevel>5</CasterLevel>
+    <MarketPrice>750 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potion of Shield of Faith +5</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-51ece1f2-f09d-4a21-a75f-a7f313a73a64</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff</HTMLGUID>
+    <BaseSpell FK="030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff" reference="Name">Shield of Faith</BaseSpell>
+    <CasterLevel>18</CasterLevel>
+    <MarketPrice>900 gp</MarketPrice>
+    <Potion>Yes</Potion>
+    <Oil />
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Invisibility</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-0fa25d29-4685-4fea-b3cf-0bf4a6fedbb8</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e</HTMLGUID>
+    <BaseSpell FK="030-e4dd9ffe-bd42-4a14-938a-59d8a2e2b26e" reference="Name">Invisibility</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Oil of Levitate</Name>
+    <Type>Potion Definition</Type>
+    <ObjectGUID>016-123d9151-2e7f-4f38-80d5-93fd51685c08</ObjectGUID>
+    <ParentGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3</HTMLGUID>
+    <BaseSpell FK="030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3" reference="Name">Levitate</BaseSpell>
+    <CasterLevel>3</CasterLevel>
+    <MarketPrice>300 gp</MarketPrice>
+    <Potion />
+    <Oil>Yes</Oil>
+    <ImageFilename>MagicItemsPotion.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tattoo of Adapt Body</Name>
+    <Type>Psionic Tattoo Definition</Type>
+    <ObjectGUID>016-4560597f-3060-429e-89ea-69d682679092</ObjectGUID>
+    <ParentGUID>001-beadf847-3684-472e-b49d-df64101b9ea3</ParentGUID>
+    <HTML>
+    </HTML>
+    <HTMLGUID>034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125</HTMLGUID>
+    <BasePower FK="034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125" reference="Name">Adapt Body</BasePower>
+    <ManifesterLevel>1</ManifesterLevel>
+    <MarketPrice>5 gp</MarketPrice>
+    <License>
+    </License>
+    <Sourcebook>
+    </Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Tattoo.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

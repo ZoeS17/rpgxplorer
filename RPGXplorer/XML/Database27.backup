@@ -1,0 +1,1945 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Appraise</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-03d941a5-38d1-448e-8e20-e27df991f6fa</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Appraise.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty />
+    <Description>Estimate the market value of an item.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Balance</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-6927facc-f92c-44a5-8e1e-1b70505bc0bf</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Balance.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Walk on precarious or narrow surfaces without falling.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Jump</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-e1f6c664-9233-4eb2-9543-c10cbf3416e6</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Jump.htm</HTML>
+    <KeyAbility>STR</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Jump distances or heights.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Tumble)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-9afeb3ae-b5ee-45b8-9dfe-770c72113224</ObjectGUID>
+    <ParentGUID>027-e1f6c664-9233-4eb2-9543-c10cbf3416e6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-13c6c58e-253d-4757-8383-302fc725ad18" reference="Name">Tumble</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tumble</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-13c6c58e-253d-4757-8383-302fc725ad18</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Tumble.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained />
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Land more softly when falling, tumble past an opponent in combat or entertain an audience.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Balance)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-e1d588c9-d318-4d2b-a8f3-bebabb887b02</ObjectGUID>
+    <ParentGUID>027-13c6c58e-253d-4757-8383-302fc725ad18</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-6927facc-f92c-44a5-8e1e-1b70505bc0bf" reference="Name">Balance</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Jump)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-9023de6e-0472-4032-95e9-be97f36691f2</ObjectGUID>
+    <ParentGUID>027-13c6c58e-253d-4757-8383-302fc725ad18</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-e1f6c664-9233-4eb2-9543-c10cbf3416e6" reference="Name">Jump</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Concentration</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-56e3e5bf-f719-4339-92a5-975e00a2651c</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Concentration.htm</HTML>
+    <KeyAbility>CON</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty />
+    <Description>Focus on a task such as casting a spell while in combat or otherwise being distracted.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Search</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-535e2d1b-0f5c-4de5-85b3-ca27be995d12</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Search.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Search an area for items or traps.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Survival) [to find or follow tracks]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-c55cd16b-710b-4fd1-8936-5b4718205c0c</ObjectGUID>
+    <ParentGUID>027-535e2d1b-0f5c-4de5-85b3-ca27be995d12</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-917a7400-cf2b-47f9-983f-1331c41d9982" reference="Name">to find or follow tracks</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Climb</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-b53fa108-0561-447a-9939-19555b052e70</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Climb.htm</HTML>
+    <KeyAbility>STR</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Climb vertical or steeply inclined surfaces and similar obstacles.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Alchemy)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3f37c8ed-e815-4067-ba20-5e622c20c6e5</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create chemicals, chemical compounds and explosives.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-0d437957-56ed-4c16-9a6a-f8a55af8f0e6</ObjectGUID>
+    <ParentGUID>027-3f37c8ed-e815-4067-ba20-5e622c20c6e5</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Handle Animal</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3b5197aa-a9c9-458c-b5dc-dac69d0f4214</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Handle animal.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Description>Command an animal to perform certain tasks, to train animals for a specific purpose and to rear wild animals.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Ride)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-4dd4c5e6-4a9f-4c46-9cd2-a4da499fdea2</ObjectGUID>
+    <ParentGUID>027-3b5197aa-a9c9-458c-b5dc-dac69d0f4214</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-e623c225-824d-4837-bba7-67f24aca0716" reference="Name">Ride</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Wild Empathy Check</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-05415734-5c88-4950-9389-a815da60e970</ObjectGUID>
+    <ParentGUID>027-3b5197aa-a9c9-458c-b5dc-dac69d0f4214</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-7a415d4c-03c3-426d-8dc1-aec1b5af8153" reference="Name">Wild Empathy Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Intimidate</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-7db032fc-88e8-4d0a-a8eb-d8c249f5566e</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Intimidate.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Intimidate another in order to change their behaviour towards you. You can also intimidate opponents in combat.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bluff</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Bluff.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Convince another of something that is not true in order to get them to do something.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Diplomacy)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-3bf02d63-7008-481c-b5d4-5dfa9e5b1ce8</ObjectGUID>
+    <ParentGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-319e8b62-7a34-4632-883e-8d2ef702816f" reference="Name">Diplomacy</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Intimidate)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-07937cf6-317a-419c-b488-94f9a622ff54</ObjectGUID>
+    <ParentGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-7db032fc-88e8-4d0a-a8eb-d8c249f5566e" reference="Name">Intimidate</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Sleight of Hand)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-7b3ffbf5-32c1-4906-bff0-fcfd2ee1fd9c</ObjectGUID>
+    <ParentGUID>027-96aa0bb4-b059-4385-8d68-c9f70941b7b3</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b290828e-bc6e-4a01-9a07-ec0286dc0b5c" reference="Name">Sleight of Hand</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Decipher Script</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-98d90dd0-55db-4f49-a70c-caeb46bc34ba</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Decipher script.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Decipher writing in an unfamiliar language written in an incomplete or archaic form.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Use Magic Device) [scrolls]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-da1c6449-51c2-4a7f-9454-60ebcda1cc74</ObjectGUID>
+    <ParentGUID>027-98d90dd0-55db-4f49-a70c-caeb46bc34ba</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-aa387ca9-1dc5-479a-9feb-6870d4db8656" reference="Name">Use Magic Device</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-8bcdf971-55a5-449d-b4c8-402f09610c3e" reference="Name">scrolls</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Diplomacy</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-319e8b62-7a34-4632-883e-8d2ef702816f</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Diplomacy.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Change the attitude of others through conversation or negotiation.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disable Device</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-87814aac-9109-4711-bcb1-928cf4d7c4a8</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Disable device.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Understanding of mechanical devices with specific regard to disabling, disarming or otherwise tampering with them to your gain.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-b04b509c-7424-48de-b039-97433b940c88</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Disguise.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Disguise yourself as someone or something that you are not.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Escape Artist</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-7f79a248-fcf8-4473-89ed-40e35a161909</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Escape artist.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Get out of manacles, escape from rope bonds or similar and being grappled.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Use Rope) [to bind someone]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-d9a08986-41f3-4177-a484-2ced74bdb166</ObjectGUID>
+    <ParentGUID>027-7f79a248-fcf8-4473-89ed-40e35a161909</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-2efc0ec2-0805-47f8-a43e-51d1b40186c3" reference="Name">Use Rope</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-6f96ac98-ac9b-4114-9447-99d62795f776" reference="Name">to bind someone</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Forgery</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-d0c2643a-ee54-44b0-80e4-23b5f7ff097a</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Forgery.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Forge signatures, documents or other writings.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gather Information</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-a662af9e-f7cc-498a-855c-fcff373d426e</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Gather information.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Gather information from general observation and social interaction.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Heal</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-1458cd80-768a-4cab-8081-3b75c6927775</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Heal.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Apply first aid, long-term care and treat wounds, poison and disease.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hide</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-697a1c59-e93f-4dde-b3ed-03a11891f37b</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Hide.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Conceal yourself from sight by using your surroundings.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Arcana)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3c0483ec-5300-47f2-b834-15c1736d244b</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of ancient mysteries, magic traditions, arcane symbols, arcane books, cryptic phrases, constructs, dragons and magical beasts.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Spellcraft)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-d416c341-8572-4445-bec5-3b5087f48bd5</ObjectGUID>
+    <ParentGUID>027-3c0483ec-5300-47f2-b834-15c1736d244b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-a1d2177e-26bb-4090-a05b-cd25175e26a1" reference="Name">Spellcraft</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Listen</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-691f6602-39bf-4016-bda9-bfeb151973a0</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Listen.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Detect sound.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Move Silently</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3d486762-958e-4211-840b-bbca9e217231</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Move silently.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Move without being detected by sound.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Open Lock</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-dc471c09-c450-4421-8bd1-0d070055adc7</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Open lock.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Description>Pick locks.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Act)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-d3d0da17-7cc1-46aa-87ce-74c5085a32a9</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Comedy, drama, mime.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ride</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-e623c225-824d-4837-bba7-67f24aca0716</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Ride.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Ride a mount such as a horse or mule.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sense Motive</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-fad461d2-cf4e-4017-a8f4-b071dd765f95</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Sense motive.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Sense the motives of others.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Diplomacy)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-3a138a64-fffa-40f4-87ca-7fb2923a3531</ObjectGUID>
+    <ParentGUID>027-fad461d2-cf4e-4017-a8f4-b071dd765f95</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-319e8b62-7a34-4632-883e-8d2ef702816f" reference="Name">Diplomacy</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sleight of Hand</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-b290828e-bc6e-4a01-9a07-ec0286dc0b5c</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Sleight of hand.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Perform simple parlour tricks and legerdemain.</Description>
+    <SkillGroup />
+    <Untrained />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spellcraft</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-a1d2177e-26bb-4090-a05b-cd25175e26a1</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Spellcraft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Identify spells being cast, spell effects in place and similar tasks that require an understanding of magic.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillMagic.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Use Magic Device) [scrolls]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-ad74c497-f27b-41ad-bdde-9d0deda1d730</ObjectGUID>
+    <ParentGUID>027-a1d2177e-26bb-4090-a05b-cd25175e26a1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-aa387ca9-1dc5-479a-9feb-6870d4db8656" reference="Name">Use Magic Device</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-8bcdf971-55a5-449d-b4c8-402f09610c3e" reference="Name">scrolls</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spot</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3776f4fc-0ec7-4f44-ac3d-d765e9c0e549</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Spot.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Spot someone that is attempting to hide from you and similar tasks.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Survival</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-c85521e2-d917-4435-981b-679a2c8743be</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Survival.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Keep yourself and others safe and fed in the wild. Tracking.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Knowledge (Nature))</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-be4a1622-5733-4ab8-af5e-04b5cc51e2e0</ObjectGUID>
+    <ParentGUID>027-c85521e2-d917-4435-981b-679a2c8743be</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-5fce2661-6421-4480-8157-daad0c10ade7" reference="Name">Knowledge (Nature)</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Swim</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-c8d48dcf-532e-46d3-b187-257e0bdc3117</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Swim.htm</HTML>
+    <KeyAbility>STR</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <ArmorCheckPenalty>Yes</ArmorCheckPenalty>
+    <Description>Swimming and diving.</Description>
+    <SkillGroup />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Magic Device</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-aa387ca9-1dc5-479a-9feb-6870d4db8656</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Use magic device.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Description>Use magic devices such as scrolls or wands.</Description>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillMagic.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Spellcraft) [to decipher scrolls]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-b60cf66b-d6d9-47f9-aed4-4cf900c5ca55</ObjectGUID>
+    <ParentGUID>027-aa387ca9-1dc5-479a-9feb-6870d4db8656</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-a1d2177e-26bb-4090-a05b-cd25175e26a1" reference="Name">Spellcraft</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-c6cbdc7e-52ad-43ef-abec-2e31341a3c16" reference="Name">to decipher scrolls</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Rope</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-2efc0ec2-0805-47f8-a43e-51d1b40186c3</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Use rope.htm</HTML>
+    <KeyAbility>DEX</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Tie or untie knots, secure grappling hooks, bind a person and similar.</Description>
+    <SkillGroup />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Climb) [climb rope, knotted rope and similar]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-8e222648-e369-403c-89e7-2ad56beae0a0</ObjectGUID>
+    <ParentGUID>027-2efc0ec2-0805-47f8-a43e-51d1b40186c3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b53fa108-0561-447a-9939-19555b052e70" reference="Name">Climb</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-cf5f53ad-bd22-405d-8eef-2076019716d4" reference="Name">climb rope, knotted rope and similar</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Escape Artist) [when escaping from rope bonds]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-95e0de3c-1ac6-4fbf-a02f-10d4d15fb741</ObjectGUID>
+    <ParentGUID>027-2efc0ec2-0805-47f8-a43e-51d1b40186c3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-7f79a248-fcf8-4473-89ed-40e35a161909" reference="Name">Escape Artist</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-96b72648-186a-48ed-8e48-ffff382fa865" reference="Name">when escaping from rope bonds</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Architecture and Engineering)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-34015924-13c9-407e-8eed-199264b834b5</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of buildings, aqueducts, bridges and fortifications.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Search) [to find secret doors or hidden compartments]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-a4180046-5ad6-43eb-ba4b-794ca3242699</ObjectGUID>
+    <ParentGUID>027-34015924-13c9-407e-8eed-199264b834b5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-535e2d1b-0f5c-4de5-85b3-ca27be995d12" reference="Name">Search</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-ce313301-2442-404d-931a-46c25ec35b94" reference="Name">to find secret doors or hidden compartments</Limiter>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Dungeoneering)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-e4df23d7-35b7-4771-8472-2ea6973eae80</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of aberrations, caverns, oozes, spelunking.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Survival) [while underground]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-323541ba-6e55-4e43-b319-c2b08d5665c4</ObjectGUID>
+    <ParentGUID>027-e4df23d7-35b7-4771-8472-2ea6973eae80</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-5afa06b4-7e0d-42ec-9d43-2615a457037d" reference="Name">while underground</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Geography)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-396d13de-42aa-4cbb-bd11-19630dee21ae</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of lands, terrain, climate, people.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Survival) [to keep from getting lost or to avoid natural hazards]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-4ea5a3dd-57c3-407d-80d8-5560541a320a</ObjectGUID>
+    <ParentGUID>027-396d13de-42aa-4cbb-bd11-19630dee21ae</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-302cd760-20f4-4668-a733-763a81642b86" reference="Name">to keep from getting lost or to avoid natural hazards</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (History)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-7480b911-56f2-48da-9ca4-0cc430987fbb</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of royalty, wars, colonies, migrations, founding of cities.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Bardic Knowledge Check</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-77a3b0c9-a21d-4ac1-8c1f-40a09f1fb806</ObjectGUID>
+    <ParentGUID>027-7480b911-56f2-48da-9ca4-0cc430987fbb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-5adf3f9e-a0e3-4f04-8e29-2c8303aaed4c" reference="Name">Bardic Knowledge Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Local)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-98bf1ac3-cb88-43f9-ba87-1801c40016da</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of local legends, personalities, inhabitants, laws, customs, traditions, humanoids.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Gather Information)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-779afd49-338a-4739-bef2-f918a935d807</ObjectGUID>
+    <ParentGUID>027-98bf1ac3-cb88-43f9-ba87-1801c40016da</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-a662af9e-f7cc-498a-855c-fcff373d426e" reference="Name">Gather Information</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nature)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of animals, fey, giants, monstrous humanoids, plants, seasons and cycles, weather, vermin.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Survival) [in above ground natural environments]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-a798a572-6116-4e9c-8e69-a53e1b56faba</ObjectGUID>
+    <ParentGUID>027-5fce2661-6421-4480-8157-daad0c10ade7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-37063b3d-5b2f-4a07-931b-7b7c74b8a3bc" reference="Name">in above ground natural environments</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Nobility and Royalty)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-bd237c17-5f83-45e5-bc88-4cc6b833264a</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of lineages, heraldry, mottoes, personalities.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Diplomacy)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-f2639824-fff1-40e1-9172-3034cc2acd72</ObjectGUID>
+    <ParentGUID>027-bd237c17-5f83-45e5-bc88-4cc6b833264a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-319e8b62-7a34-4632-883e-8d2ef702816f" reference="Name">Diplomacy</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Religion)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of gods and goddesses, mythic history, ecclesiastic tradition, rituals, holy symbols, undead.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Turn or Rebuke Undead Check</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-c339a771-a579-45f8-965d-3adf270571be</ObjectGUID>
+    <ParentGUID>027-24a1e0da-fd23-442f-9bcd-d6e0812fff3d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e866b2a7-56c1-4a33-ac37-5fb7b62b3356" reference="Name">Turn or Rebuke Undead Check</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (The Planes)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-d506fddc-5f01-4dae-b03b-806631dcf9d7</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of the Inner, Outer and Astral Planes, outsiders, elementals, magic related to the planes.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Survival) [on planes other than material]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-d7b3cb3a-c08d-4cb7-9369-b9cc0be8dbbb</ObjectGUID>
+    <ParentGUID>027-d506fddc-5f01-4dae-b03b-806631dcf9d7</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c85521e2-d917-4435-981b-679a2c8743be" reference="Name">Survival</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-bb5619b5-6040-431a-8e08-1381e178f328" reference="Name">on planes other than material</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Comedy)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-50202628-d06d-4c60-9a3a-ed7d5a4efeab</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Buffoonery, limericks, joke-telling.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Dance)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-09c7b61d-f723-4584-a10a-40194a8f3b4c</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Ballet, waltz, jig.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Keyboard Instruments)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-98970122-63fd-46ae-b590-16e42c8406b8</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Harpsichord, piano, pipe organ.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Oratory)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-cccc776a-e67e-48ff-9f40-fc4d1bd0311d</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Epics, odes, storytelling.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (String Instruments)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-04273239-312a-4861-bfdf-00557c78138e</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Fiddle, harp, lute, mandolin.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Percussion Instruments)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-96522e80-d611-4f2d-8c02-4fc44e1d78e0</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Bells, chimes, drums, gong.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Wind Instruments)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-09ae370d-78ed-4d98-9f5b-417dc0811acb</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Flute, pan pipes, recorder, shawm, trumpet.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform (Sing)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-47437210-493c-424d-9d15-ef8194c93ccf</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Perform.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Ballad, chant, melody.</Description>
+    <SkillGroup>Perform</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillPerform.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Armorsmithing)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-fb67f00e-5351-4e5c-9332-1b1a1a576730</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create armors and shields, vehicle and mount armor.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-1fcde9b3-86f4-4f4c-ad80-6fdb46a71700</ObjectGUID>
+    <ParentGUID>027-fb67f00e-5351-4e5c-9332-1b1a1a576730</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Bowmaking)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-d561cbf7-38d3-4c46-b301-e06b943c6230</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create bows, crossbows and similar weapons inc. ballistic siege engines</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-1032ba4a-139b-46b1-b744-423df58d6cc5</ObjectGUID>
+    <ParentGUID>027-d561cbf7-38d3-4c46-b301-e06b943c6230</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Stonemasonry)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-233daeeb-9725-497e-a86f-8d2281db99fb</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create stone constructions of all kinds. Shape rough stone, slates and similar.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-dd45967a-2168-49e7-9ce4-b6154bc03efd</ObjectGUID>
+    <ParentGUID>027-233daeeb-9725-497e-a86f-8d2281db99fb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Carpentry)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-94d3f472-45d3-484d-b43f-7cef5d4f56cf</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create wooden items, furniture, barrels and constructions.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-dc01baaa-6247-44c1-8cc9-4614f10b47b6</ObjectGUID>
+    <ParentGUID>027-94d3f472-45d3-484d-b43f-7cef5d4f56cf</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Trapmaking)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-963bfc9c-c1a8-44a6-a2c0-fb3cf9c2f2ca</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create traps of all kinds, ranging from simple animal traps to complex dungeon defenses.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-22d92fb3-383e-460f-9d11-ae9f64e104e5</ObjectGUID>
+    <ParentGUID>027-963bfc9c-c1a8-44a6-a2c0-fb3cf9c2f2ca</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Weaponsmithing)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-59faec54-af57-4df8-a2c7-733f48df79f4</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create metal arms of all kinds inc. attaching warheads and weapons to wood, armor and warengines.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-8dc0bca3-28d1-47ad-9be0-ce0f4a740860</ObjectGUID>
+    <ParentGUID>027-59faec54-af57-4df8-a2c7-733f48df79f4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Farmer)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-e7f03b23-ff3d-4db7-a7fa-bdf2bcd6377d</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>Makes a living from the land by growing crops and/or raising livestock.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Cook)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-51f91a2b-3b56-4b4c-b87f-9979fab4ea1f</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>One skilled in the preparation of food.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Blacksmithing)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-b93f6ef6-f88b-4c81-8dd4-817da3964589</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create metal items of all kinds using a forge. Shoe horses (Farrier).</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-b6dba0cd-4b83-43c7-96dd-dc77e01fa1d4</ObjectGUID>
+    <ParentGUID>027-b93f6ef6-f88b-4c81-8dd4-817da3964589</ParentGUID>
+    <HTML>Rules\SkillSynergy.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speak Language</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-5e470cd2-d9b2-4ee6-a61d-95316c66fa16</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Speak Language.htm</HTML>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility />
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>For each skill point you spend you can learn a new language (2 skill points if cross-class)</Description>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Gemcutting)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-02b8d38d-7eef-488a-9c63-34f0ec3b99d0</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>The transformation of rough gems into finished stones.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-1b8f4527-656b-4f34-ba7a-284bffa07628</ObjectGUID>
+    <ParentGUID>027-02b8d38d-7eef-488a-9c63-34f0ec3b99d0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft (Locksmithing)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-7c8dbce5-e571-4ab0-80d6-57bd3e2f74d4</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <Description>Create locks, padlocks, safes and secret mechanical contraptions.</Description>
+    <SkillGroup>Craft</SkillGroup>
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillCraft.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Appraise) [items made with this craft skill]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-7cac529b-08cf-4a8f-859a-dd2e7837c3d8</ObjectGUID>
+    <ParentGUID>027-7c8dbce5-e571-4ab0-80d6-57bd3e2f74d4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-03d941a5-38d1-448e-8e20-e27df991f6fa" reference="Name">Appraise</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-2919493d-232e-4eff-aeeb-5cd6e28df131" reference="Name">items made with this craft skill</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Books)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-1409c057-83c1-4e17-a8d8-c25538a32e66</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Knowledge.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Description>Knowledge of books that have been written in recent and historic times. Direct or apocryphal knowledge of their contents.</Description>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Apothecary)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-174735f2-8266-426e-b6da-d9052ae8325b</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>Someone that prepares and sell chemical compounds of varying properties, good or ill.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Herbalist)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-5d1cb6bb-ac25-4f07-9898-bfa5075f07e0</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>A person knowledgable in the healing or other properties of plantlife.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Hunter)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-bca1c841-7654-4422-94bb-d2182d7e45ec</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>One who tracks and kills or traps wild animals for a living.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Sailor)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-28b85348-ae2e-4ae1-9e44-e48e2e74eca0</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>One who makes a living as a crewman on ships at sea.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Scribe)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-90f19de9-603a-41cf-bdab-744031e7b817</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Description>One who writes and reads professionally.</Description>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Craft</Name>
+    <Type>Skill Group</Type>
+    <ObjectGUID>027-909ac18f-1a0c-4029-a1f5-3abba18bc18a</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge</Name>
+    <Type>Skill Group</Type>
+    <ObjectGUID>027-4e387a7b-c798-455e-a735-86b2e5a269a4</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>INT</KeyAbility>
+    <Untrained />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Perform</Name>
+    <Type>Skill Group</Type>
+    <ObjectGUID>027-2fe3602e-6c03-4084-a187-54205908314b</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>CHA</KeyAbility>
+    <Untrained>Yes</Untrained>
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession</Name>
+    <Type>Skill Group</Type>
+    <ObjectGUID>027-9fe4d2f0-e2c0-47d4-a2cf-35879fbde955</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Craft.htm</HTML>
+    <KeyAbility>WIS</KeyAbility>
+    <Untrained />
+    <HTMLGUID>027-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Autohypnosis</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-3442bfee-f80b-4df7-b195-a8f5e7ad6868</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>UserDocs\Autohypnosis 1.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility>WIS</KeyAbility>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>You have trained your mind to gain mastery over your body and the mind’s own deepest capabilities.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>SkillPsionic.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Knowledge (Psionics)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-9cbd3081-5fe3-48c1-a3f2-4b5f698c9f75</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>UserDocs\Knowledge (Psionics).htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility>INT</KeyAbility>
+    <SkillGroup>Knowledge</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>Knowledge (psionics) covers ancient mysteries, psionic traditions, psychic symbols, cryptic phrases, astral constructs, and psionic races.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>SkillKnowledge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psicraft</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-ec9899fa-810a-4da1-9602-8042f64a8604</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>UserDocs\Psicraft.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility>INT</KeyAbility>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>Use this skill to identify powers as they are manifest or powers already in place.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>SkillPsionic.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Use Psionic Device</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-72e88291-4076-4fa3-ad3e-2a2d2ff90089</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>UserDocs\Use Psionic Device.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility>CHA</KeyAbility>
+    <SkillGroup />
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>Use this skill to activate psionic devices, including power stones and dorjes, that otherwise you could not activate.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>SkillPsionic.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Knowledge (Psionics))</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-d822cc05-5075-4033-a916-61b3ce0cd91b</ObjectGUID>
+    <ParentGUID>027-3442bfee-f80b-4df7-b195-a8f5e7ad6868</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-9cbd3081-5fe3-48c1-a3f2-4b5f698c9f75" reference="Name">Knowledge (Psionics)</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Autohypnosis)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-d3764f54-9221-402a-b6ad-57822132dc48</ObjectGUID>
+    <ParentGUID>027-56e3e5bf-f719-4339-92a5-975e00a2651c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-3442bfee-f80b-4df7-b195-a8f5e7ad6868" reference="Name">Autohypnosis</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Psicraft)</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-a3376c71-e5ed-468a-bfe1-c59ad2475ed5</ObjectGUID>
+    <ParentGUID>027-9cbd3081-5fe3-48c1-a3f2-4b5f698c9f75</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-ec9899fa-810a-4da1-9602-8042f64a8604" reference="Name">Psicraft</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Use Psionic Device) [involving power stones]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-ef296701-574e-4391-b037-e24ff8d670df</ObjectGUID>
+    <ParentGUID>027-ec9899fa-810a-4da1-9602-8042f64a8604</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-72e88291-4076-4fa3-ad3e-2a2d2ff90089" reference="Name">Use Psionic Device</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-c93407fe-b864-425c-91ec-4f212e569ccc" reference="Name">involving power stones</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Ranks gives +2 Skill (Psicraft) [involving power stones]</Name>
+    <Type>Skill Synergy</Type>
+    <ObjectGUID>027-04ac44a7-8394-4029-bf38-57a4d2bf1b6f</ObjectGUID>
+    <ParentGUID>027-72e88291-4076-4fa3-ad3e-2a2d2ff90089</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Ranks>5</Ranks>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-ec9899fa-810a-4da1-9602-8042f64a8604" reference="Name">Psicraft</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-c93407fe-b864-425c-91ec-4f212e569ccc" reference="Name">involving power stones</Limiter>
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Profession (Miner)</Name>
+    <Type>Skill Definition</Type>
+    <ObjectGUID>027-0170eaad-a853-45df-bb59-543a29c53ee8</ObjectGUID>
+    <ParentGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ParentGUID>
+    <HTML>Skills\Profession.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <KeyAbility>STR</KeyAbility>
+    <SkillGroup>Profession</SkillGroup>
+    <Untrained />
+    <ArmorCheckPenalty />
+    <Description>One who mines.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Skill.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<ObjectType>Skill Definition</ObjectType>
+	<ObjectType>Feat Definition</ObjectType>
+	<ObjectType>Ability Definition</ObjectType>
+</RPGXplorerConfig>

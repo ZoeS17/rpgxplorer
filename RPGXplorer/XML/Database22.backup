@@ -1,0 +1,1635 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Anarchic</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-fd7a2898-9935-42cc-b772-c648fb02b402</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Anarchic.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment>Chaotic</Alignment>
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon is aligned to Chaos.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Lawful</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-4db696a3-c4d5-400c-bd24-73ed3a298e61</ObjectGUID>
+    <ParentGUID>022-fd7a2898-9935-42cc-b772-c648fb02b402</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Alignment(s)</Condition>
+    <ConditionTarget>Alignment</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Neutral</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-ae9d169a-347e-46d0-ac3d-996539deafff</ObjectGUID>
+    <ParentGUID>022-4db696a3-c4d5-400c-bd24-73ed3a298e61</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Good</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-6eb3796c-f0ae-41d9-aac1-f13bc8ac899c</ObjectGUID>
+    <ParentGUID>022-4db696a3-c4d5-400c-bd24-73ed3a298e61</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-e2f6bd3a-e0a4-4648-bec5-7dd06904fa6b</ObjectGUID>
+    <ParentGUID>022-4db696a3-c4d5-400c-bd24-73ed3a298e61</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-d4aa0d4e-33f3-4283-b0d4-ac333eb1ff85</ObjectGUID>
+    <ParentGUID>022-4db696a3-c4d5-400c-bd24-73ed3a298e61</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Axiomatic</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-57f2ae05-c5fa-4da0-acb8-630af8f2ccae</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Axiomatic.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment>Lawful</Alignment>
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon is aligned to Law.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Chaos</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-5dc85781-fadd-45c5-a416-2cd884a84d06</ObjectGUID>
+    <ParentGUID>022-57f2ae05-c5fa-4da0-acb8-630af8f2ccae</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Alignment(s)</Condition>
+    <ConditionTarget>Alignment</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Good</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-1792fbe7-a0c0-4597-bd20-bbf2d54c78f2</ObjectGUID>
+    <ParentGUID>022-5dc85781-fadd-45c5-a416-2cd884a84d06</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Neutral</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-9f1b6943-cb69-4b7d-89d4-018dc82643a4</ObjectGUID>
+    <ParentGUID>022-5dc85781-fadd-45c5-a416-2cd884a84d06</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-766e29b8-c00d-4d29-a8a5-575f766cbdd1</ObjectGUID>
+    <ParentGUID>022-5dc85781-fadd-45c5-a416-2cd884a84d06</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-d9893bc2-0dd3-427d-90e2-9552d65fb8dc</ObjectGUID>
+    <ParentGUID>022-5dc85781-fadd-45c5-a416-2cd884a84d06</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bane</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-b27b9bfe-62dc-4ef0-b423-dde8e8841505</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Bane.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>+2, +2d6 vs. target creature type.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Bane</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-d2d4521c-a810-42e5-a9ea-57c91d6ddd2a</ObjectGUID>
+    <ParentGUID>022-b27b9bfe-62dc-4ef0-b423-dde8e8841505</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Bane (Select focus at purchase)</Condition>
+    <ConditionTarget>MonsterType</ConditionTarget>
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>022-c32362ba-c8f5-4a58-bc62-831220488753</ObjectGUID>
+    <ParentGUID>022-d2d4521c-a810-42e5-a9ea-57c91d6ddd2a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-1dfcd135-6b3a-4557-8d1d-0a4f63270c01</ObjectGUID>
+    <ParentGUID>022-d2d4521c-a810-42e5-a9ea-57c91d6ddd2a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Brilliant Energy</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-f6240423-ed7e-44c9-a7b1-254992521455</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Brilliant Energy.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee, Thrown and Ammo Only</WeaponType>
+    <PriceBonus>+4</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon has its significant portion transformed into light. Weapon ignores non-living matter.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dancing</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-f6ef3713-1b19-4925-9ffc-26bd61c2abc0</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Dancing.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+4</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon can be loosed to attack on its own for 4 rounds at BAB of the wielder then drops.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Defending</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-c51c63da-d818-4e53-ae85-f7c32a69d603</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Defending.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Wielder can transfer some or all of the weapon's bonus to AC.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disruption</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-1835870a-29d2-4736-a2f2-b40178872b27</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Disruption.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Any undead creature struck in combat must succeed on a DC 14 Will save or be destroyed.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Distance</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-6078e3fa-ade0-4f3d-9a29-baf918ec87ac</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Distance.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Ranged Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Range increment is doubled.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Missile Weapons Range Increment (Projectile) +100% [Enhancement]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>022-603db570-566a-4407-a37f-e3438a106f0d</ObjectGUID>
+    <ParentGUID>022-6078e3fa-ade0-4f3d-9a29-baf918ec87ac</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-40d90381-f93a-493e-8b9c-ab9792f97eed" reference="Name">Missile Weapons Range Increment (Projectile)</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Percentage Modifier</ModifierCategory>
+    <Modifier>100%</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flaming</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-7d8d7d3d-6a9b-4bd1-a007-3bba544dcdb0</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Flaming.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Upon command weapon or ammo is sheathed in fire and deals an extra 1d6 fire damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Fire Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-3e26a6f2-6b90-4819-b0b2-5e068e4f2550</ObjectGUID>
+    <ParentGUID>022-7d8d7d3d-6a9b-4bd1-a007-3bba544dcdb0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Fire</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flaming Burst</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-6d5750a9-435f-4b4b-b73c-3591736cc07a</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Flaming Burst.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Flaming weapon that also explodes with flame upon a critical hit.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d10 Extra Fire Damage on Critical, x3 2d10, x4 3d10</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-67d94d79-4178-4ee6-ac64-f48be7134af5</ObjectGUID>
+    <ParentGUID>022-6d5750a9-435f-4b4b-b73c-3591736cc07a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d10</Damage>
+    <OnCritical>Yes</OnCritical>
+    <CriticalMultiplier>Yes</CriticalMultiplier>
+    <WhenThrown />
+    <DamageType>Fire</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Fire Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-0c736de2-4625-4300-a820-ae05e0c4866f</ObjectGUID>
+    <ParentGUID>022-6d5750a9-435f-4b4b-b73c-3591736cc07a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Fire</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Frost</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-7682c8c4-3f7b-4a4d-9cf8-08c7cae64459</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Frost.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Upon command weapon or ammo is sheathed in icy cold and deals 1d6 extra cold damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Cold Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-e8fcba97-faba-4e5f-8efb-2bc7d8ed40ce</ObjectGUID>
+    <ParentGUID>022-7682c8c4-3f7b-4a4d-9cf8-08c7cae64459</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Cold</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ghost Touch</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-ba96d5ee-e8ca-4877-b699-5f12a55e74f4</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Ghost Touch.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon deals damage normally against incorporeal creatures.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Holy</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-87244640-3180-42d6-8ab6-ef360b0b8a53</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Holy.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment>Good</Alignment>
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Good aligned. Deals 2d6 damage against evil. Bestows one negative level on evil wielder.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Evil</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-6b9dbd69-3b28-4794-b773-6db2f00724eb</ObjectGUID>
+    <ParentGUID>022-87244640-3180-42d6-8ab6-ef360b0b8a53</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Alignment(s)</Condition>
+    <ConditionTarget>Alignment</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-1d7c4a7c-aabd-4751-b6ed-dd1aeed4f676</ObjectGUID>
+    <ParentGUID>022-6b9dbd69-3b28-4794-b773-6db2f00724eb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Neutral Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-bf6d4d24-0af5-4aa7-92ec-cdfdc3037189</ObjectGUID>
+    <ParentGUID>022-6b9dbd69-3b28-4794-b773-6db2f00724eb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Evil</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-674c7189-271a-4b43-b8f1-2fc20fa264cc</ObjectGUID>
+    <ParentGUID>022-6b9dbd69-3b28-4794-b773-6db2f00724eb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-1eb85348-340b-4104-a24c-3951be2d25b0</ObjectGUID>
+    <ParentGUID>022-6b9dbd69-3b28-4794-b773-6db2f00724eb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alignment Penalty 1</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-abf2b379-85e0-4ebb-b563-1a36df32f71b</ObjectGUID>
+    <ParentGUID>022-87244640-3180-42d6-8ab6-ef360b0b8a53</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-6dd9efee-43a2-4748-883b-ef49a6db11e9" reference="Name">Alignment Penalty 1</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Icy Burst</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-c7d0a92d-141f-44d0-93e0-73d71a64e8a1</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Icy Burst.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Frost weapon that also explodes with frost upon a critical hit.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Cold Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-18b18963-a78a-443b-9b08-e9153094d9eb</ObjectGUID>
+    <ParentGUID>022-c7d0a92d-141f-44d0-93e0-73d71a64e8a1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Cold</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d10 Extra Cold Damage on Critical, x3 2d10, x4 3d10</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-1bda2340-50b6-473e-b0f7-0bae68bfbbd4</ObjectGUID>
+    <ParentGUID>022-c7d0a92d-141f-44d0-93e0-73d71a64e8a1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d10</Damage>
+    <OnCritical>Yes</OnCritical>
+    <CriticalMultiplier>Yes</CriticalMultiplier>
+    <WhenThrown />
+    <DamageType>Cold</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Keen</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-251d47ce-cf5e-45ae-921f-86e0970e7bb1</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Keen.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning />
+    <Description>Doubles the threat range of a piercing or slashing weapon.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Keen</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-17fb8636-c2ec-4b17-9f98-35997ca795ba</ObjectGUID>
+    <ParentGUID>022-251d47ce-cf5e-45ae-921f-86e0970e7bb1</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-3c950c7b-939d-48d5-8c3a-1269eac6e9ea" reference="Name">Keen</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ki Focus</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-fcc46f11-bebc-496b-a9f7-819fef2b7653</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Ki Focus.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon serves as a channel for ki allowing wielder to use ki attacks through weapon as if unarmed.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ki Weapon</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-d356befc-d849-4784-8b80-958877ee8d20</ObjectGUID>
+    <ParentGUID>022-fcc46f11-bebc-496b-a9f7-819fef2b7653</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-36c385c6-5802-4890-be2d-9234a019a3eb" reference="Name">Ki Weapon</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Merciful</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-60b4f0ee-8ff5-47fb-9222-e49ddda5f93c</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Merciful.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>All damage dealt by weapon is non-lethal. Weapon deals an extra 1d6 damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nonlethal Weapon</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-0b238454-4ab6-4478-bd71-224d5311c50e</ObjectGUID>
+    <ParentGUID>022-60b4f0ee-8ff5-47fb-9222-e49ddda5f93c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-82b38b01-9d76-48bb-933f-36f85657457a" reference="Name">Nonlethal Weapon</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mighty Cleaving</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-52712096-3ec4-48d5-bbaa-4f7f4a004e09</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Mighty Cleaving.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Wielder can make one additional Cleave per round (if they have the feat).</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Cleave Attempts [Enhancement]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>022-49f60ed0-9e32-4c1f-ba12-b5225dfaafbf</ObjectGUID>
+    <ParentGUID>022-52712096-3ec4-48d5-bbaa-4f7f4a004e09</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e2a1013f-05c1-45dc-b940-12e99bd1f749" reference="Name">Cleave Attempts</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Returning</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-e1d3ab93-add6-4b7b-8c77-23bf43efd29e</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Returning.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Thrown Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>A returning weapon flies through the air back to the creature that threw it.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Seeking</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-d3228254-95d5-4686-8241-28f90c89bea9</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Seeking.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Ranged Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon veers toward its target negating any miss chances e.g. from concealment.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shock</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-bfc1644b-3e63-4420-831b-fa69facfdbc5</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Shock.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Upon command weapon or ammo is sheathed in crackling electricity.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Electricity Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-cdacee9f-ae64-4f37-b430-9adac9263e44</ObjectGUID>
+    <ParentGUID>022-bfc1644b-3e63-4420-831b-fa69facfdbc5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Electricity</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shocking Burst</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-9c055297-358b-462a-9f06-79bd702f7be3</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Shocking Burst.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Shock weapon that also explodes with electricity upon a critical hit.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d6 Extra Electricity Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-5dd75c52-cd0c-4fd1-bd7c-2592e5ead2fd</ObjectGUID>
+    <ParentGUID>022-9c055297-358b-462a-9f06-79bd702f7be3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType>Electricity</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d10 Extra Electricity Damage on Critical, x3 2d10, x4 3d10</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-7b52a53e-ac65-4b64-a649-d127b042e455</ObjectGUID>
+    <ParentGUID>022-9c055297-358b-462a-9f06-79bd702f7be3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d10</Damage>
+    <OnCritical>Yes</OnCritical>
+    <CriticalMultiplier>Yes</CriticalMultiplier>
+    <WhenThrown />
+    <DamageType>Electricity</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speed</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-5bee3e2c-1567-4d78-b15c-f355c704e16f</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Speed.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+3</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>When making a full attack, wielder gets an extra attack with weapon at BAB.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speed Weapon</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-1e5c527d-21d9-46f6-aa15-eb390095ecab</ObjectGUID>
+    <ParentGUID>022-5bee3e2c-1567-4d78-b15c-f355c704e16f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-e0c89a27-0b67-4c4b-996f-1ddd07de6ef3" reference="Name">Speed Weapon</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Storing</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-020ba6ab-18b4-409b-8a9f-5e400d6caaac</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Spell Storing.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon can store a single spell of up 3rd level that can be unleashed on target.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Thundering</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-f5835678-8a59-42c3-89e5-dc4f3a9be58f</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Thundering.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon creates a cacophonous roar like thunder upon a critical hit.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d8 Extra Sonic Damage on Critical, x3 2d8, x4 3d8</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-28ca491f-89b8-4b27-97e1-1a05374d6534</ObjectGUID>
+    <ParentGUID>022-f5835678-8a59-42c3-89e5-dc4f3a9be58f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d8</Damage>
+    <OnCritical>Yes</OnCritical>
+    <CriticalMultiplier>Yes</CriticalMultiplier>
+    <WhenThrown />
+    <DamageType>Sonic</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <NoCriticalDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Throwing</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-fa2c2867-6668-4a1a-9cd6-b8a5c8b5dfe2</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Throwing.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Melee weapon gains range increment of 10ft.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Throwing</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-65fca383-a886-4a6a-abe4-47512fb66d5f</ObjectGUID>
+    <ParentGUID>022-fa2c2867-6668-4a1a-9cd6-b8a5c8b5dfe2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-64a10077-0259-42b2-b84b-0b5a03e56bd5" reference="Name">Throwing</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unholy</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-da20c08b-42f5-4ff4-8d83-b9d7adee5938</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Unholy.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment>Evil</Alignment>
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Evil Aligned. Deals 2d6 damage against good. Bestows one negative level on good wielder.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Good</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-26b19fba-d750-4a6b-8be9-09c07e5cfde5</ObjectGUID>
+    <ParentGUID>022-da20c08b-42f5-4ff4-8d83-b9d7adee5938</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Alignment(s)</Condition>
+    <ConditionTarget>Alignment</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lawful Good</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-8975faf0-9c2a-4d64-9af0-26cddecf9220</ObjectGUID>
+    <ParentGUID>022-26b19fba-d750-4a6b-8be9-09c07e5cfde5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Neutral Good</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-00c6c5c6-8a62-4e6f-a4ae-44fe71cd6488</ObjectGUID>
+    <ParentGUID>022-26b19fba-d750-4a6b-8be9-09c07e5cfde5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chaotic Good</Name>
+    <Type>Condition Member</Type>
+    <ObjectGUID>022-5c49cef7-edfd-43c2-8d8b-a62c6c8d8094</ObjectGUID>
+    <ParentGUID>022-26b19fba-d750-4a6b-8be9-09c07e5cfde5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-8bd46a6d-ed08-4089-9b8a-315d8313eebb</ObjectGUID>
+    <ParentGUID>022-26b19fba-d750-4a6b-8be9-09c07e5cfde5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vicious</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-9bab49f4-3a86-475f-9ee1-58fa3c9f3f26</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Vicious.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Deals 2d6 extra damage to target. Disruptive flash also deals 1d6 to wielder.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-9e8437d4-b93e-4075-ba8b-729ede4efc68</ObjectGUID>
+    <ParentGUID>022-9bab49f4-3a86-475f-9ee1-58fa3c9f3f26</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vicious</Name>
+    <Type>System Weapon Ability</Type>
+    <ObjectGUID>022-a65ee6e4-c158-4cd7-8fbf-a409eabc4c90</ObjectGUID>
+    <ParentGUID>022-9bab49f4-3a86-475f-9ee1-58fa3c9f3f26</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemWeaponAbilityDefinition FK="032-b67dba05-1495-480c-960a-52adb3e0e927" reference="Name">Vicious</SystemWeaponAbilityDefinition>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vorpal</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-82d188d0-87f8-4045-89ef-d2ccfb1ca27c</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Vorpal.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceBonus>+5</PriceBonus>
+    <Alignment />
+    <Piercing />
+    <Slashing>Yes</Slashing>
+    <Bludgeoning />
+    <Description>Opponent's head is severed on natural 20 followed by successful attack roll.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wounding</Name>
+    <Type>Weapon Magic Ability Definition</Type>
+    <ObjectGUID>022-47b27ac0-afe7-411e-873a-8c951c2c98bb</ObjectGUID>
+    <ParentGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ParentGUID>
+    <HTML>Weapon Magic Abilities\Wounding.htm</HTML>
+    <HTMLGUID>022-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Deals 1 point of CON damage from blood loss. Crit does not multiply this damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Versus Creatures Not Immune to Critical Hits</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-7ba8fee1-e147-4702-87b2-7dd45e80b22a</ObjectGUID>
+    <ParentGUID>022-47b27ac0-afe7-411e-873a-8c951c2c98bb</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>Versus Creatures Not Immune to Critical Hits</Condition>
+    <ConditionTarget>Race</ConditionTarget>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1 Extra CON Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-24f42685-9075-4ee3-a5a4-b2f9db37ebc0</ObjectGUID>
+    <ParentGUID>022-7ba8fee1-e147-4702-87b2-7dd45e80b22a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1</Damage>
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <NoCriticalDamage>Yes</NoCriticalDamage>
+    <DamageType>CON</DamageType>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <SunderDamage />
+    <PermanentDamage />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bodyfeeder</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-623b2f29-f70b-4df9-a25e-f4c9d9ceb536</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Bodyfeeder.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+3</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Upon critical hit grants temporary hit points equal to damage dealt.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Collision</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-c5f5a38a-af09-4989-9338-354d7f09ff5f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Collision.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Deal an extra 5 points of damage.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>5 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-fe28ae57-d021-4a6f-9936-4e0d0ea687f8</ObjectGUID>
+    <ParentGUID>022-c5f5a38a-af09-4989-9338-354d7f09ff5f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>5</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <SunderDamage />
+    <PermanentDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Coup de Grace</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-4c262b21-99bb-4b5c-80c3-03fd9f602c6c</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Coup de Grace.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+5</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>On successful critical hits target must make DC27 Will save or be paralyzed for 1 round.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dislocator</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-a330475f-acbc-4a74-ae58-f6e4853dc149</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Dislocator.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+3</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Target must make DC17 Will save or be teleported 1-100 miles in a random direction (3/day).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dissipater</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-8ae9b555-6f84-4041-9f23-c9d8809aa1f5</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Dissipater.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Ignores DR and hardness, and all hits critical vs. creatures/objects composed of ectoplasm.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Great Dislocator</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-cc5c39a6-361c-41b5-aa8c-3d38fcce4ea5</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Great Dislocator.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+4</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Target must make DC20 Will save or be teleported to a random plane (3/day).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lucky</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-20c34b2d-336e-4fc6-bfd7-33e7e06327fc</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Lucky.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Once per day wielder can reroll a failed attack roll.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <PriceType>Bonus</PriceType>
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Manifester</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-b6018348-0d4a-42e9-9e2d-c97c1f80281f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Manifester.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Specific</PriceType>
+    <PriceBonus>+16000 gp</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Generates 5 power points per day for the wielder.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mindcrusher</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-f905ef0b-5fe5-44e5-a30f-464edec5cbf1</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Mindcrusher.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Creature struck loses power points equal to half damage dealt.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mindfeeder</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-b9e1138c-07a9-477e-b035-7a58811a2101</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Mindfeeder.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+3</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Grants temporary power points equal to damage dealt upon successful critical hit.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Parrying</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-b5716c66-2b75-4921-bba9-f6ec38ebf051</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Parrying.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Specific</PriceType>
+    <PriceBonus>+8000 gp</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Grants a +1 insight bonus to AC and saving throws vs. powers.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Armor Class (inc. Touch/Flatfooted) [Insight]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>022-8c1be412-610e-48d7-8378-f3ffe503fda7</ObjectGUID>
+    <ParentGUID>022-b5716c66-2b75-4921-bba9-f6ec38ebf051</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-18d43e0e-bc13-477d-972e-7c128d2e3e02" reference="Name">Armor Class (inc. Touch/Flatfooted)</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Insight</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Saving Throw [Insight] [vs. psionic powers]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>022-55ceee9f-a29b-48d5-b673-b547389281fe</ObjectGUID>
+    <ParentGUID>022-b5716c66-2b75-4921-bba9-f6ec38ebf051</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-779109fe-7ff4-4245-8369-f5e5e40bad81" reference="Name">Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Insight</ModifierType>
+    <Limiter FK="024-d09fd860-02ac-47a8-be69-6776841b5936" reference="Name">vs. psionic powers</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Storing</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-e671e3d2-0988-40e6-9e79-23a233481543</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Power Storing.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Holds a single power up to 5 points which is unleashed on target when hit.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psibane</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-44c69185-f654-42c2-a0ee-6097cd6f0823</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Psibane.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Additional +2 enhancement and extra 2d6 damage vs. psionic creatures.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>vs. Psionic Creature</Name>
+    <Type>Condition</Type>
+    <ObjectGUID>022-f919203b-4663-45b1-86da-f361dd205c4f</ObjectGUID>
+    <ParentGUID>022-44c69185-f654-42c2-a0ee-6097cd6f0823</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Condition>User Defined</Condition>
+    <ConditionTarget />
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Enhancement Bonus</Name>
+    <Type>Enhancement Bonus</Type>
+    <ObjectGUID>022-e57d75dc-3208-45ed-9fa3-0403a42c2f51</ObjectGUID>
+    <ParentGUID>022-f919203b-4663-45b1-86da-f361dd205c4f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Enhancement>+2</Enhancement>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-4b323092-4ae8-401a-a697-1675648e4618</ObjectGUID>
+    <ParentGUID>022-f919203b-4663-45b1-86da-f361dd205c4f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <SunderDamage />
+    <PermanentDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychic</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-fd6a095c-42bb-47e4-b869-29ed0a4f7149</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Psychic.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Specific</PriceType>
+    <PriceBonus>+35000 gp</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Enhancement bonus of weapon varies according to wielder's power points.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychokinetic</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-99f406b2-c9ac-4083-93e0-6e3abe7f506f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Psychokinetic.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Deals an extra 1d4 points of damage. Damage not affected by damage reduction.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d4 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-ba7a0a69-b78d-463f-90dd-c3bc0310d9b5</ObjectGUID>
+    <ParentGUID>022-99f406b2-c9ac-4083-93e0-6e3abe7f506f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d4</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <SunderDamage />
+    <PermanentDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychokinetic Burst</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-9a050d69-b477-4357-86a9-d1182b9dc95f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Psychokinetic Burst.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Psychokinetic weapon plus deals extra damage on critical hit.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>1d4 Extra Damage</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-83874b05-7e60-4464-954d-51304951dace</ObjectGUID>
+    <ParentGUID>022-9a050d69-b477-4357-86a9-d1182b9dc95f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>1d4</Damage>
+    <DamageType />
+    <OnCritical />
+    <CriticalMultiplier />
+    <WhenThrown />
+    <SunderDamage />
+    <PermanentDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>2d6 Extra Damage on Critical, x3 3d6, x4 4d6</Name>
+    <Type>Damage Addition</Type>
+    <ObjectGUID>022-5902d0ce-338c-487e-9416-f406c44dfbea</ObjectGUID>
+    <ParentGUID>022-9a050d69-b477-4357-86a9-d1182b9dc95f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Damage>2d6</Damage>
+    <DamageType />
+    <OnCritical>Yes</OnCritical>
+    <CriticalMultiplier>Yes</CriticalMultiplier>
+    <WhenThrown />
+    <SunderDamage />
+    <PermanentDamage />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Soulbreaker</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-d238fbf3-e8dd-4cb1-a15b-8fb4ebfc4d2f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Soulbreaker.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+3</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Bestows negative level on creature struck.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sundering</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-309afbda-1c7b-49cc-bef8-62668979ea5e</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Sundering.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Melee Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Grants Improved Sunder feat when using the weapon.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Suppression</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-51772fab-e0e5-42c6-96d6-85cea222ab1f</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Suppression.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>All Weapons and Ammunition</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+2</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Creature or object struck is subject to a targeted Dispel Psionics power.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleporting</Name>
+    <Type>Psionic Weapon Ability Definition</Type>
+    <ObjectGUID>022-15c43267-d683-4fd9-a012-a40053ca7b08</ObjectGUID>
+    <ParentGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ParentGUID>
+    <HTML>Psionic Weapon Abilities\Teleporting.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <WeaponType>Thrown Weapons Only</WeaponType>
+    <PriceType>Bonus</PriceType>
+    <PriceBonus>+1</PriceBonus>
+    <Alignment />
+    <Piercing>Yes</Piercing>
+    <Slashing>Yes</Slashing>
+    <Bludgeoning>Yes</Bludgeoning>
+    <Description>Weapon returns to thrower via Astral Plane, ready for use next turn.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<AlignmentType>Lawful Good</AlignmentType>
+	<AlignmentType>Neutral Good</AlignmentType>
+	<AlignmentType>Chaotic Good</AlignmentType>
+	<AlignmentType>Lawful Neutral</AlignmentType>
+	<AlignmentType>True Neutral</AlignmentType>
+	<AlignmentType>Chaotic Neutral</AlignmentType>
+	<AlignmentType>Lawful Evil</AlignmentType>
+	<AlignmentType>Neutral Evil</AlignmentType>
+	<AlignmentType>Chaotic Evil</AlignmentType>
+</RPGXplorerConfig>

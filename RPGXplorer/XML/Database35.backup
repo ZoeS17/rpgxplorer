@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Adamantine</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5487-42cc-b772-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Adamantine.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <CostIncludesMasterwork>Yes</CostIncludesMasterwork>
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType>Specific</LightArmorCostType>
+    <LightArmorCostModifier>5000</LightArmorCostModifier>
+    <MediumArmorCostType>Specific</MediumArmorCostType>
+    <MediumArmorCostModifier>10000</MediumArmorCostModifier>
+    <HeavyArmorCostType>Specific</HeavyArmorCostType>
+    <HeavyArmorCostModifier>15000</HeavyArmorCostModifier>
+    <ShieldCostType>Specific</ShieldCostType>
+    <ShieldCostModifier>5000</ShieldCostModifier>
+    <AmmoCostType>Specific</AmmoCostType>
+    <AmmoCostModifier>60</AmmoCostModifier>
+    <LightSlashingCostType>Specific</LightSlashingCostType>
+    <LightSlashingCostModifier>3000</LightSlashingCostModifier>
+    <LightPiercingCostType>Specific</LightPiercingCostType>
+    <LightPiercingCostModifier>3000</LightPiercingCostModifier>
+    <LightBludgeoningCostType>Specific</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>3000</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>Specific</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>3000</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>Specific</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>3000</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>Specific</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>3000</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>Specific</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>3000</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>Specific</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>3000</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>Specific</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>3000</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>Specific</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>6000</DoubleWeaponCostModifier>
+    <LightReduction>1</LightReduction>
+    <MediumReduction>2</MediumReduction>
+    <HeavyReduction>3</HeavyReduction>
+    <DROvercomeByType>-</DROvercomeByType>
+    <DamageType />
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkwood</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5487-42cc-b772-c623fb02b403</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Darkwood.htm</HTML>
+    <HTMLGUID>035-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <CostIncludesMasterwork />
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType>PerPound</LightArmorCostType>
+    <LightArmorCostModifier>10</LightArmorCostModifier>
+    <MediumArmorCostType>PerPound</MediumArmorCostType>
+    <MediumArmorCostModifier>10</MediumArmorCostModifier>
+    <HeavyArmorCostType>PerPound</HeavyArmorCostType>
+    <HeavyArmorCostModifier>10</HeavyArmorCostModifier>
+    <ShieldCostType>PerPound</ShieldCostType>
+    <ShieldCostModifier>10</ShieldCostModifier>
+    <AmmoCostType>PerPound</AmmoCostType>
+    <AmmoCostModifier>10</AmmoCostModifier>
+    <LightSlashingCostType>PerPound</LightSlashingCostType>
+    <LightSlashingCostModifier>10</LightSlashingCostModifier>
+    <LightPiercingCostType>PerPound</LightPiercingCostType>
+    <LightPiercingCostModifier>10</LightPiercingCostModifier>
+    <LightBludgeoningCostType>PerPound</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>10</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>PerPound</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>10</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>PerPound</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>10</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>PerPound</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>10</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>PerPound</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>10</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>PerPound</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>10</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>PerPound</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>10</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>PerPound</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>10</DoubleWeaponCostModifier>
+    <WeightAdjustment>0.5</WeightAdjustment>
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dragonhide</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5487-42cc-b772-c623fb02b404</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Dragonhide.htm</HTML>
+    <HTMLGUID>035-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon />
+    <AllowAmmo />
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <CostIncludesMasterwork />
+    <MuliplierEffectsMasterwork>Yes</MuliplierEffectsMasterwork>
+    <LightArmorCostType>Multiplier</LightArmorCostType>
+    <LightArmorCostModifier>2</LightArmorCostModifier>
+    <MediumArmorCostType>Multiplier</MediumArmorCostType>
+    <MediumArmorCostModifier>2</MediumArmorCostModifier>
+    <HeavyArmorCostType>Multiplier</HeavyArmorCostType>
+    <HeavyArmorCostModifier>2</HeavyArmorCostModifier>
+    <ShieldCostType>Multiplier</ShieldCostType>
+    <ShieldCostModifier>2</ShieldCostModifier>
+    <AmmoCostType />
+    <AmmoCostModifier />
+    <LightSlashingCostType />
+    <LightSlashingCostModifier />
+    <LightPiercingCostType />
+    <LightPiercingCostModifier />
+    <LightBludgeoningCostType />
+    <LightBludgeoningCostModifier />
+    <OneHandSlashingCostType />
+    <OneHandSlashingCostModifier />
+    <OneHandPiercingCostType />
+    <OneHandPiercingCostModifier />
+    <OneHandBludgeoningCostType />
+    <OneHandBludgeoningCostModifier />
+    <TwoHandSlashingCostType />
+    <TwoHandSlashingCostModifier />
+    <TwoHandPiercingCostType />
+    <TwoHandPiercingCostModifier />
+    <TwoHandBludgeoningCostType />
+    <TwoHandBludgeoningCostModifier />
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold Iron</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd3a2828-5487-42cc-b772-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Iron, Cold.htm</HTML>
+    <HTMLGUID>035-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield />
+    <AllowLightArmor />
+    <AllowMediumArmor />
+    <AllowHeavyArmor />
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork />
+    <CostIncludesMasterwork />
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType />
+    <LightArmorCostModifier />
+    <MediumArmorCostType />
+    <MediumArmorCostModifier />
+    <HeavyArmorCostType />
+    <HeavyArmorCostModifier />
+    <ShieldCostType />
+    <ShieldCostModifier />
+    <AmmoCostType>Multiplier</AmmoCostType>
+    <AmmoCostModifier>2</AmmoCostModifier>
+    <LightSlashingCostType>Multiplier</LightSlashingCostType>
+    <LightSlashingCostModifier>2</LightSlashingCostModifier>
+    <LightPiercingCostType>Multiplier</LightPiercingCostType>
+    <LightPiercingCostModifier>2</LightPiercingCostModifier>
+    <LightBludgeoningCostType>Multiplier</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>2</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>Multiplier</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>2</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>Multiplier</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>2</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>Multiplier</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>2</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>Multiplier</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>2</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>Multiplier</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>2</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>Multiplier</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>2</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>Multiplier</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>2</DoubleWeaponCostModifier>
+    <EnhancementAdjustment>2000</EnhancementAdjustment>
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mithral</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5481-42cc-b772-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Mithral.htm</HTML>
+    <HTMLGUID>035-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <CostIncludesMasterwork>Yes</CostIncludesMasterwork>
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType>Specific</LightArmorCostType>
+    <LightArmorCostModifier>1000</LightArmorCostModifier>
+    <MediumArmorCostType>Specific</MediumArmorCostType>
+    <MediumArmorCostModifier>4000</MediumArmorCostModifier>
+    <HeavyArmorCostType>Specific</HeavyArmorCostType>
+    <HeavyArmorCostModifier>9000</HeavyArmorCostModifier>
+    <ShieldCostType>Specific</ShieldCostType>
+    <ShieldCostModifier>1000</ShieldCostModifier>
+    <AmmoCostType>PerPound</AmmoCostType>
+    <AmmoCostModifier>500</AmmoCostModifier>
+    <LightSlashingCostType>PerPound</LightSlashingCostType>
+    <LightSlashingCostModifier>500</LightSlashingCostModifier>
+    <LightPiercingCostType>PerPound</LightPiercingCostType>
+    <LightPiercingCostModifier>500</LightPiercingCostModifier>
+    <LightBludgeoningCostType>PerPound</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>500</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>PerPound</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>500</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>PerPound</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>500</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>PerPound</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>500</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>PerPound</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>500</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>PerPound</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>500</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>PerPound</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>500</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>PerPound</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>500</DoubleWeaponCostModifier>
+    <WeightAdjustment>0.5</WeightAdjustment>
+    <ReduceArmorTraining>Yes</ReduceArmorTraining>
+    <MaxDexModifier>2</MaxDexModifier>
+    <SpellFailureBonus>10</SpellFailureBonus>
+    <ArmorCheckBonus>3</ArmorCheckBonus>
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alchemical Silver</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5487-42cc-b172-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Silver, Alchemical.htm</HTML>
+    <HTMLGUID>035-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield />
+    <AllowLightArmor />
+    <AllowMediumArmor />
+    <AllowHeavyArmor />
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork />
+    <CostIncludesMasterwork />
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType />
+    <LightArmorCostModifier />
+    <MediumArmorCostType />
+    <MediumArmorCostModifier />
+    <HeavyArmorCostType />
+    <HeavyArmorCostModifier />
+    <ShieldCostType />
+    <ShieldCostModifier />
+    <AmmoCostType>Specific</AmmoCostType>
+    <AmmoCostModifier>2</AmmoCostModifier>
+    <LightSlashingCostType>Specific</LightSlashingCostType>
+    <LightSlashingCostModifier>20</LightSlashingCostModifier>
+    <LightPiercingCostType>Specific</LightPiercingCostType>
+    <LightPiercingCostModifier>20</LightPiercingCostModifier>
+    <LightBludgeoningCostType>Specific</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>20</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>Specific</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>90</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>Specific</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>90</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>Specific</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>90</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>Specific</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>180</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>Specific</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>180</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>Specific</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>180</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>Specific</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>180</DoubleWeaponCostModifier>
+    <DamageEnhancementAdjustment>-1</DamageEnhancementAdjustment>
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crystal, Mundane</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5483-42cc-b612-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Crystal, Mundane.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType>Specific</LightArmorCostType>
+    <LightArmorCostModifier>0</LightArmorCostModifier>
+    <MediumArmorCostType>Specific</MediumArmorCostType>
+    <MediumArmorCostModifier>0</MediumArmorCostModifier>
+    <HeavyArmorCostType>Specific</HeavyArmorCostType>
+    <HeavyArmorCostModifier>0</HeavyArmorCostModifier>
+    <ShieldCostType>Specific</ShieldCostType>
+    <ShieldCostModifier>0</ShieldCostModifier>
+    <AmmoCostType>Specific</AmmoCostType>
+    <AmmoCostModifier>0</AmmoCostModifier>
+    <LightSlashingCostType>Specific</LightSlashingCostType>
+    <LightSlashingCostModifier>0</LightSlashingCostModifier>
+    <LightPiercingCostType>Specific</LightPiercingCostType>
+    <LightPiercingCostModifier>0</LightPiercingCostModifier>
+    <LightBludgeoningCostType>Specific</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>0</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>Specific</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>0</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>Specific</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>0</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>Specific</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>0</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>Specific</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>0</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>Specific</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>0</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>Specific</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>0</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>Specific</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>0</DoubleWeaponCostModifier>
+    <LightReduction />
+    <MediumReduction />
+    <heavyReduction />
+    <DROvercomeByType />
+    <DamageType />
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crystal, Deep</Name>
+    <Type>Special Material Definition</Type>
+    <ObjectGUID>035-fd7a2828-5483-42cc-b532-c623fb02b402</ObjectGUID>
+    <ParentGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ParentGUID>
+    <HTML>UserDocs\Crystal, Deep.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AllowShield>Yes</AllowShield>
+    <AllowLightArmor>Yes</AllowLightArmor>
+    <AllowMediumArmor>Yes</AllowMediumArmor>
+    <AllowHeavyArmor>Yes</AllowHeavyArmor>
+    <AllowWeapon>Yes</AllowWeapon>
+    <AllowAmmo>Yes</AllowAmmo>
+    <MaterialForcesMasterwork>Yes</MaterialForcesMasterwork>
+    <CostIncludesMasterwork>Yes</CostIncludesMasterwork>
+    <MuliplierEffectsMasterwork />
+    <LightArmorCostType>Specific</LightArmorCostType>
+    <LightArmorCostModifier>1000</LightArmorCostModifier>
+    <MediumArmorCostType>Specific</MediumArmorCostType>
+    <MediumArmorCostModifier>1000</MediumArmorCostModifier>
+    <HeavyArmorCostType>Specific</HeavyArmorCostType>
+    <HeavyArmorCostModifier>1000</HeavyArmorCostModifier>
+    <ShieldCostType>Specific</ShieldCostType>
+    <ShieldCostModifier>1000</ShieldCostModifier>
+    <AmmoCostType>Specific</AmmoCostType>
+    <AmmoCostModifier>100</AmmoCostModifier>
+    <LightSlashingCostType>Specific</LightSlashingCostType>
+    <LightSlashingCostModifier>1000</LightSlashingCostModifier>
+    <LightPiercingCostType>Specific</LightPiercingCostType>
+    <LightPiercingCostModifier>1000</LightPiercingCostModifier>
+    <LightBludgeoningCostType>Specific</LightBludgeoningCostType>
+    <LightBludgeoningCostModifier>1000</LightBludgeoningCostModifier>
+    <OneHandSlashingCostType>Specific</OneHandSlashingCostType>
+    <OneHandSlashingCostModifier>1000</OneHandSlashingCostModifier>
+    <OneHandPiercingCostType>Specific</OneHandPiercingCostType>
+    <OneHandPiercingCostModifier>1000</OneHandPiercingCostModifier>
+    <OneHandBludgeoningCostType>Specific</OneHandBludgeoningCostType>
+    <OneHandBludgeoningCostModifier>1000</OneHandBludgeoningCostModifier>
+    <TwoHandSlashingCostType>Specific</TwoHandSlashingCostType>
+    <TwoHandSlashingCostModifier>1000</TwoHandSlashingCostModifier>
+    <TwoHandPiercingCostType>Specific</TwoHandPiercingCostType>
+    <TwoHandPiercingCostModifier>1000</TwoHandPiercingCostModifier>
+    <TwoHandBludgeoningCostType>Specific</TwoHandBludgeoningCostType>
+    <TwoHandBludgeoningCostModifier>1000</TwoHandBludgeoningCostModifier>
+    <DoubleWeaponCostType>Specific</DoubleWeaponCostType>
+    <DoubleWeaponCostModifier>1000</DoubleWeaponCostModifier>
+    <LightReduction />
+    <MediumReduction />
+    <heavyReduction />
+    <DROvercomeByType />
+    <DamageType />
+    <ReduceArmorTraining />
+    <Description />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

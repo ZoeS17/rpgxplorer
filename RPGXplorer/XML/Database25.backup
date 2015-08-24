@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Aberration</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-6545273a-76f3-4f86-9eb6-d67dafe9552c</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Aberration</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Construct</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-3466a113-2dc4-4059-88d8-fcaf796de79b</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Construct</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Aquatic)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-931af4e5-ddb7-49fe-8308-9f956d8b5140</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Aquatic</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dragon</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-cc079936-c4a9-4204-ba82-e163e37fdb00</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Dragon</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fey</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-a80385d7-bb24-485e-bad5-869222ffd4dc</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Fey</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Animal</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-f9d0352e-13fa-4e8d-8886-4487e76f43ad</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Animal</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Giant</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-4b6a18a8-a657-44a8-970d-1c1541a23459</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Giant</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Dwarf)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-c600407a-ce6b-4133-a284-5b5e0e6df415</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Dwarf</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Elf)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-1fa64961-c05c-4f2a-b799-20611a0b2799</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Elf</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Reptilian)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-2bc91748-b2f9-4651-9660-19601267ab8f</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Reptilian</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Goblinoid)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-3ac7097b-6de4-486b-bb33-f639aaa214ea</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Goblinoid</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Gnoll)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-1c83321a-5daf-4860-9078-e3eb70ca3c4e</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Gnoll</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Gnome)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-077518d9-993a-4973-9884-09aa40ec3afd</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Gnome</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Halfling)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-078d99b7-fe7a-481b-b66e-cdb31c7387e1</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Hafling</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Human)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-856b4c93-ea9a-4803-a06f-2b6857622603</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Human</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Humanoid (Orc)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-ce0ea9ec-067b-4806-b277-88efe12a7a90</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Humanoid</MonsterType>
+    <MonsterSubtypes>Orc</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Lawful)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-8bd81ba5-d4f3-4144-8efa-7f0e255fd8ba</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Lawful</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Native)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-dde3a7f6-bbcf-42b9-9802-28ff9ee86dc5</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Native</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Water)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-6c543129-aeed-4449-a158-7f7805650b5b</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Water</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Plant</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-963097ff-4123-4887-872c-f9bd8d1ab307</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Plant</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Undead</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-98fb4294-715d-4408-b823-7ddf6701afe4</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Undead</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vermin</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-a69f3b6b-e920-4e59-bd77-e50bf211f9f4</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Vermin</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elemental</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-6042c142-1052-485e-b792-ac48c05c9a11</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Elemental</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magical Beast</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-1c61cca6-1c03-4537-9764-3b43939267f6</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Magical Beast</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monstrous Humanoid</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-89445af5-fd8c-4037-86a2-8360173334da</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Monstrous Humanoid</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ooze</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-88b67976-6cc4-40ba-b743-973a90a5fa9b</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Ooze</MonsterType>
+    <MonsterSubtypes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Air)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-5c559fba-1864-46fe-b1ac-77b5f1c3e1de</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Air</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Chaotic)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-b97aa7c2-afce-454f-a23c-b093ee2757af</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Chaotic</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Evil)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-ed02717a-78ab-4290-bff9-f81836b1b7e3</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Evil</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Earth)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-7b59cf4b-6c10-456f-9225-9d384357643d</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Earth</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Good)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-98cefe51-77b4-4a36-9443-7545ae31579b</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Good</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Fire)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-0f36b0cd-ab19-4db0-9bb0-390b30b6aaac</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Fire</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elemental (Fire)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-96561c34-d8a8-446b-aea0-bc593f88bd01</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Elemental</MonsterType>
+    <MonsterSubtypes>Fire</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elemental (Cold)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-2611a3cc-e086-431b-b4ae-fe81b8495e53</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Elemental</MonsterType>
+    <MonsterSubtypes>Cold</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Outsider (Cold)</Name>
+    <Type>Monster Type</Type>
+    <ObjectGUID>025-a078c762-1053-46f7-a039-a70d2f40a85f</ObjectGUID>
+    <ParentGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MonsterType>Outsider</MonsterType>
+    <MonsterSubtypes>Cold</MonsterSubtypes>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

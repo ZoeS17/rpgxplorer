@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RPGXplorerConfig>
+	<FolderSetting type='Specific Armor Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Spell Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Class' view='Details' sortby='Name' />
+	<FolderSetting type='Spell Slots Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Specific Weapon Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Spell Descriptor Definition Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Feature Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Spells Per Day Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System Precondition Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Specific Armor Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Character' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Ring Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Modifier Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Ammunition Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Class Levels Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System Folder' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Condition' view='Details' sortby='Name' />
+	<FolderSetting type='Domain Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Feat Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Character Choice Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Feat Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Rod Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Assets Folder' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Scroll Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Class Spell Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Ring Definition' view='Details' sortby='Name' />
+	<FolderSetting type='User Folder' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Artifact Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Armor Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Modifier Limiter Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Specific Weapon Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='User Document' view='Details' sortby='Name' />
+	<FolderSetting type='Feature Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Rod Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Armor Magic Ability Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Inventory Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Skill Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System References Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System Elements Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Monster Type Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System Ability Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Wondrous Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Spell Folder' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Weapon Magic Ability Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Armor Magic Ability Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Item' view='Details' sortby='Name' />
+	<FolderSetting type='Skill Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Skill Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Class Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Deity Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Character Folder' view='LargeIcon' sortby='Name' />
+	<FolderSetting type='Race' view='Details' sortby='Name' />
+	<FolderSetting type='Armor Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Weapon Magic Ability Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Scroll Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Feature Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Spell School Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Shield Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Weapon Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Wondrous Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='User Rules' view='Details' sortby='Name' />
+	<FolderSetting type='Potion Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Staff Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Artifact Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Weapon Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Spells Known Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Language Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Wand Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='System Weapon Ability Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Races Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Staff Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Magic Ammo Definition' view='Details' sortby='Name' />
+	<FolderSetting type='Item Definitions Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Feat Folder' view='Details' sortby='Name' />
+	<FolderSetting type='Spell School' view='Details' sortby='Name' />
+	<FolderSetting type='User Map' view='Details' sortby='Name' />
+</RPGXplorerConfig>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<UsesType>Unlimited</UsesType>
+	<UsesType>Special</UsesType>
+	<UsesType>Number per day</UsesType>
+	<UsesType>Number per day + ability modifier</UsesType>
+	<UsesType>Number per day per class level</UsesType>
+	<UsesType>Number per week</UsesType>
+	<UsesType>Number per week + ability modifier</UsesType>
+	<UsesType>Number per week per class level</UsesType>
+</RPGXplorerConfig>

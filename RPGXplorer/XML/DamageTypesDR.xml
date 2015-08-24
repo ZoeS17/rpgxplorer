@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>    
+    <DamageType>Adamantine</DamageType>
+	<DamageType>Bludgeoning</DamageType>
+	<DamageType>Chaotic</DamageType>
+	<DamageType>Cold Iron</DamageType>
+	<DamageType>Evil</DamageType>
+	<DamageType>Good</DamageType>
+	<DamageType>Lawful</DamageType>	
+	<DamageType>Neutral</DamageType>
+	<DamageType>Piercing</DamageType>	
+	<DamageType>Silver</DamageType>
+	<DamageType>Slashing</DamageType>	
+</RPGXplorerConfig>

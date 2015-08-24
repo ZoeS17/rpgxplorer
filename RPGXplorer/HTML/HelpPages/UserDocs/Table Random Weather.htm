@@ -1,0 +1,897 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html xmlns:o="">
+<head>
+
+
+
+
+
+		
+		
+  
+  
+  
+  
+  
+  
+  
+  
+  <title>Rule Page</title>
+  <meta name="vs_snapToGrid" content="False">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="vs_showGrid" content="False">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="vs_defaultClientScript" content="JavaScript">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="ProgId" content="VisualStudio.HTML">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <meta name="Originator" content="Microsoft Visual Studio .NET 7.1">
+
+
+
+
+
+		
+  
+  
+  
+  
+  <link type="text/css" href="Styles.css" rel="stylesheet">
+</head>
+
+
+<body bottommargin="0" leftmargin="0" topmargin="0" rightmargin="0" link="royalblue" vlink="royalblue">
+
+
+
+
+
+		
+<table id="Header" style="border-bottom: 1px solid gray;" bgcolor="darkgray" border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+
+
+
+			<tbody>
+
+
+
+
+    <tr>
+
+
+
+
+
+				<td class="HelpTitle" style="padding: 5px 5px 0px 7px;" valign="bottom">Table: Random Weather</td>
+
+
+
+
+
+				<td rowspan="2" style="padding: 5px;" align="right"></td>
+
+
+
+
+
+			</tr>
+
+
+
+
+
+			<tr>
+
+
+
+
+
+				<td class="HelpSubtitle" style="padding: 0px 5px 5px 8px;">
+					Rule Page</td>
+
+
+
+
+
+			</tr>
+
+
+
+
+
+		
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+		
+<table id="Body" border="0" cellpadding="8" cellspacing="0" width="100%">
+
+
+
+
+
+			<tbody>
+
+
+
+
+    <tr>
+
+
+
+
+
+				<td class="HelpText" valign="top">
+					
+      
+      
+      
+      
+      
+      <table style="background-color: rgb(102, 102, 102);" border="0" cellpadding="0" cellspacing="1">
+
+
+
+
+
+        <tbody>
+
+
+
+
+
+          <tr style="font-weight: bold;" class="HelpTableCell">
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204);" colspan="5">
+            
+            
+            
+            
+            <p>Table: Random Weather </p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204); font-weight: bold;" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>d%</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204); font-weight: bold;" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Weather</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204); font-weight: bold;" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Cold Climate</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204); font-weight: bold;" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Temperate Climate<sup>1</sup></p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(204, 204, 204); font-weight: bold;" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Desert</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>01&ndash;70</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Normal weather</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Cold, calm</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Normal for season<sup>2</sup></p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Hot, calm</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>71&ndash;80</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Abnormal weather</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Heat wave (01&ndash;30) or cold snap (31&ndash;100)</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Heat wave (01&ndash;50) or cold snap (51&ndash;100)</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Hot, windy</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>81&ndash;90</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Inclement weather</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Precipitation (snow)</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Precipitation (normal for season)</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Hot, windy</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>91&ndash;99</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Storm</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Snowstorm</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Thunderstorm, snowstorm<sup>3</sup></p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Duststorm</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+
+          <tr>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="8%">
+            
+            
+            
+            
+            <p>100</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="12%">
+            
+            
+            
+            
+            <p>Powerful storm</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Blizzard</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="34%">
+            
+            
+            
+            
+            <p>Windstorm, blizzard<sup>4</sup>, hurricane, tornado</p>
+
+
+
+
+            </td>
+
+
+
+
+
+            <td style="background-color: rgb(255, 255, 204);" class="HelpTableCell" width="11%">
+            
+            
+            
+            
+            <p>Downpour</p>
+
+
+
+
+            </td>
+
+
+
+
+          </tr>
+
+
+
+
+        
+        
+        
+        
+        </tbody>
+      
+      
+      
+      
+      </table>
+
+
+
+
+      
+      
+      
+
+
+      
+      
+      
+      
+      <p><span class="HelpTableNotes">1 - Temperate includes forest, hills, marsh, mountains, plains, and warm aquatic.</span><span class="HelpTableNotes">&nbsp;</span><br class="HelpTableNotes">
+      <span class="HelpTableNotes">
+2 - Winter is cold, summer is warm, spring and autumn are
+temperate. Marsh regions are slightly warmer in
+winter.&nbsp;&nbsp;&nbsp; &nbsp;</span><br>
+
+
+
+
+      </p>
+
+
+
+
+
+				</td>
+
+
+
+
+
+			</tr>
+
+
+
+
+
+		
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+		
+<table id="Copyright" style="border-top: 1px solid gray;" border="0" cellpadding="8" cellspacing="0" width="100%">
+
+
+
+
+
+			<tbody>
+
+
+
+
+    <tr>
+
+
+
+
+
+				<td class="HelpText">
+					<a href="../ogl.htm">OPEN GAME LICENSE Version 1.0a</a><br>
+
+
+
+
+
+					Open Game License v1.0 Copyright 2000, Wizards of the Coast, Inc.
+				</td>
+
+
+
+
+
+			</tr>
+
+
+
+
+
+		
+  
+  
+  
+  
+  </tbody>
+</table>
+
+
+
+
+
+	
+</body>
+</html>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Sample</Name>
+    <Type>Deity Definition</Type>
+    <ObjectGUID>006-4d027d64-0c7b-4b3e-abd4-6bc64409ca7a</ObjectGUID>
+    <ParentGUID>001-51d1cfaf-78ea-471a-a849-e580f1abb4b7</ParentGUID>
+    <HTML>Deities\Sample.htm</HTML>
+    <HTMLGUID>006-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Please enter your own deities.</Description>
+    <Alignment>Lawful Good</Alignment>
+    <FavoredWeapon FK="031-b291bc3f-50f3-4a1c-a8a4-957756397344" reference="Name">Battleaxe</FavoredWeapon>
+    <LawfulGood>True</LawfulGood>
+    <NeutralGood>True</NeutralGood>
+    <ChaoticGood>True</ChaoticGood>
+    <LawfulNeutral>False</LawfulNeutral>
+    <TrueNeutral>False</TrueNeutral>
+    <ChaoticNeutral>False</ChaoticNeutral>
+    <LawfulEvil>False</LawfulEvil>
+    <NeutralEvil>False</NeutralEvil>
+    <ChaoticEvil>False</ChaoticEvil>
+    <Domains>Good, Air, War</Domains>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Good</Name>
+    <Type>Deity Domain</Type>
+    <ObjectGUID>006-1b89aa83-4650-4766-811b-8de6673e00d6</ObjectGUID>
+    <ParentGUID>006-4d027d64-0c7b-4b3e-abd4-6bc64409ca7a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Domain FK="007-8393d7a8-b514-4c43-9abf-d8eca9a29dfb" reference="Name">Good</Domain>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Air</Name>
+    <Type>Deity Domain</Type>
+    <ObjectGUID>006-b24e0299-47df-4c0f-b868-383bbdfe78ca</ObjectGUID>
+    <ParentGUID>006-4d027d64-0c7b-4b3e-abd4-6bc64409ca7a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Domain FK="007-65980870-29e9-4262-adac-172f5d9b4738" reference="Name">Air</Domain>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>War</Name>
+    <Type>Deity Domain</Type>
+    <ObjectGUID>006-dcbc0fbd-48cb-4666-9a14-2806dd66656a</ObjectGUID>
+    <ParentGUID>006-4d027d64-0c7b-4b3e-abd4-6bc64409ca7a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Domain FK="007-6ee0950d-3a0d-48a4-a184-30b03bd85c4d" reference="Name">War</Domain>
+    <ImageFilename />
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

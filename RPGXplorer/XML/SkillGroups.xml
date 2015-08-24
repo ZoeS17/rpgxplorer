@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<SkillGroup>Craft</SkillGroup>
+	<SkillGroup>Knowledge</SkillGroup>
+	<SkillGroup>Perform</SkillGroup>
+	<SkillGroup>Profession</SkillGroup>
+</RPGXplorerConfig>

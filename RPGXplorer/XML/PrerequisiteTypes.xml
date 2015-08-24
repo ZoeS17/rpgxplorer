@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<PrerequisiteType>Ability Score</PrerequisiteType>
+	<PrerequisiteType>Alignment</PrerequisiteType>
+	<PrerequisiteType>Base Attack Bonus</PrerequisiteType>
+	<PrerequisiteType>Caster Level</PrerequisiteType>
+	<PrerequisiteType>Cast Specific Spell</PrerequisiteType>
+	<PrerequisiteType>Cast Spells from School</PrerequisiteType>
+	<PrerequisiteType>Cast Spells from Subschool</PrerequisiteType>
+	<PrerequisiteType>Cast Spells with Descriptor</PrerequisiteType>
+	<PrerequisiteType>Cast Magic of Level</PrerequisiteType>
+	<PrerequisiteType>Character Level</PrerequisiteType>
+	<PrerequisiteType>Class Level</PrerequisiteType>
+	<PrerequisiteType>Damage Reduction (Racial/Class)</PrerequisiteType>
+	<PrerequisiteType>Deity</PrerequisiteType>
+	<PrerequisiteType>Domain</PrerequisiteType>
+	<PrerequisiteType>Feat</PrerequisiteType>
+	<PrerequisiteType>Feature</PrerequisiteType>
+	<PrerequisiteType>Feat of Type</PrerequisiteType>
+	<PrerequisiteType>First Level Only</PrerequisiteType>
+	<PrerequisiteType>Flurry of Blows Ability</PrerequisiteType>
+  <PrerequisiteType>Fly Speed</PrerequisiteType>
+	<PrerequisiteType>Gender</PrerequisiteType>
+	<PrerequisiteType>Language</PrerequisiteType>
+	<PrerequisiteType>Manifester Level</PrerequisiteType>
+	<PrerequisiteType>Manifest Powers from Discipline</PrerequisiteType>
+	<PrerequisiteType>Manifest Powers from Subdiscipline</PrerequisiteType>
+	<PrerequisiteType>Manifest Power of Level</PrerequisiteType>
+	<PrerequisiteType>Manifest Powers with Descriptor</PrerequisiteType>
+	<PrerequisiteType>Manifest Specific Power</PrerequisiteType>
+	<PrerequisiteType>Power Point Reserve</PrerequisiteType>
+	<PrerequisiteType>Psionic Specialization</PrerequisiteType>
+  <PrerequisiteType>Psi-Like Ability of Manifester Level</PrerequisiteType>
+	<PrerequisiteType>Race</PrerequisiteType>
+	<PrerequisiteType>Saving Throw</PrerequisiteType>
+	<PrerequisiteType>Saving Throw (Base)</PrerequisiteType>
+	<PrerequisiteType>Size</PrerequisiteType>
+	<PrerequisiteType>Skill</PrerequisiteType>
+	<PrerequisiteType>Skill Group</PrerequisiteType>
+  <PrerequisiteType>Spell-Like Ability of Caster Level</PrerequisiteType>
+	<PrerequisiteType>Spell Resistance</PrerequisiteType>
+</RPGXplorerConfig>

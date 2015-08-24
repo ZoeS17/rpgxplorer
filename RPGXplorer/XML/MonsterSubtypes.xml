@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<MonsterSubtype>Air</MonsterSubtype>
+	<MonsterSubtype>Angel</MonsterSubtype>
+	<MonsterSubtype>Aquatic</MonsterSubtype>
+	<MonsterSubtype>Archon</MonsterSubtype>
+	<MonsterSubtype>Augmented</MonsterSubtype>
+	<MonsterSubtype>Chaotic</MonsterSubtype>
+	<MonsterSubtype>Cold</MonsterSubtype>
+	<MonsterSubtype>Dwarf</MonsterSubtype>
+	<MonsterSubtype>Earth</MonsterSubtype>
+	<MonsterSubtype>Elf</MonsterSubtype>
+	<MonsterSubtype>Evil</MonsterSubtype>
+	<MonsterSubtype>Extraplanar</MonsterSubtype>
+	<MonsterSubtype>Fire</MonsterSubtype>
+	<MonsterSubtype>Gnoll</MonsterSubtype>
+	<MonsterSubtype>Gnome</MonsterSubtype>
+	<MonsterSubtype>Goblinoid</MonsterSubtype>
+	<MonsterSubtype>Good</MonsterSubtype>
+	<MonsterSubtype>Hafling</MonsterSubtype>
+	<MonsterSubtype>Human</MonsterSubtype>
+	<MonsterSubtype>Incorporeal</MonsterSubtype>
+	<MonsterSubtype>Lawful</MonsterSubtype>
+	<MonsterSubtype>Native</MonsterSubtype>
+	<MonsterSubtype>Orc</MonsterSubtype>
+	<MonsterSubtype>Reptilian</MonsterSubtype>
+	<MonsterSubtype>Shapechanger</MonsterSubtype>
+	<MonsterSubtype>Swarm</MonsterSubtype>
+	<MonsterSubtype>Water</MonsterSubtype>
+</RPGXplorerConfig>
+
+

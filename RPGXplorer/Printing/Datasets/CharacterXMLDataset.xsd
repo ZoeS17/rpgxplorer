@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<xs:schema id="CharacterXMLDataset" elementFormDefault="qualified" attributeFormDefault="qualified"
+	xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+	<xs:element name="CharacterXMLDataset" msdata:IsDataSet="true">
+		<xs:complexType>
+			<xs:choice maxOccurs="unbounded">
+				<xs:element name="Character">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="CharacterName" type="xs:string" minOccurs="0" />
+							<xs:element name="PlayerName" type="xs:string" minOccurs="0" />
+							<xs:element name="Portrait" type="xs:string" minOccurs="0" />
+							<xs:element name="Race" type="xs:string" minOccurs="0" />
+							<xs:element name="Type" type="xs:string" minOccurs="0" />
+							<xs:element name="Subtypes">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Subtype">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SubtypeName" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="FullType" type="xs:string" minOccurs="0" />
+							<xs:element name="Alignment" type="xs:string" minOccurs="0" />
+							<xs:element name="Level" type="xs:string" minOccurs="0" />
+							<xs:element name="XP" type="xs:string" minOccurs="0" />
+							<xs:element name="NextLevel" type="xs:string" minOccurs="0" />
+							<xs:element name="Gender" type="xs:string" minOccurs="0" />
+							<xs:element name="Age" type="xs:string" minOccurs="0" />
+							<xs:element name="Height" type="xs:string" minOccurs="0" />
+							<xs:element name="Weight" type="xs:string" minOccurs="0" />
+							<xs:element name="Size" type="xs:string" minOccurs="0" />
+							<xs:element name="Space" type="xs:string" minOccurs="0" />
+							<xs:element name="Reach" type="xs:string" minOccurs="0" />
+							<xs:element name="Deity" type="xs:string" minOccurs="0" />
+							<xs:element name="STR" type="xs:string" minOccurs="0" />
+							<xs:element name="STRMod" type="xs:string" minOccurs="0" />
+							<xs:element name="DEX" type="xs:string" minOccurs="0" />
+							<xs:element name="DEXMod" type="xs:string" minOccurs="0" />
+							<xs:element name="CON" type="xs:string" minOccurs="0" />
+							<xs:element name="CONMod" type="xs:string" minOccurs="0" />
+							<xs:element name="INT" type="xs:string" minOccurs="0" />
+							<xs:element name="INTMod" type="xs:string" minOccurs="0" />
+							<xs:element name="WIS" type="xs:string" minOccurs="0" />
+							<xs:element name="WISMod" type="xs:string" minOccurs="0" />
+							<xs:element name="CHA" type="xs:string" minOccurs="0" />
+							<xs:element name="CHAMod" type="xs:string" minOccurs="0" />
+							<xs:element name="Fortitude" type="xs:string" minOccurs="0" />
+							<xs:element name="Reflex" type="xs:string" minOccurs="0" />
+							<xs:element name="Will" type="xs:string" minOccurs="0" />
+							<xs:element name="Speed" type="xs:string" minOccurs="0" />
+							<xs:element name="RunMultiplier" type="xs:string" minOccurs="0" />
+							<xs:element name="BaseSpeed" type="xs:string" minOccurs="0" />
+							<xs:element name="BaseRunMultiplier" type="xs:string" minOccurs="0" />
+							<xs:element name="Fly" type="xs:string" minOccurs="0" />
+							<xs:element name="Climb" type="xs:string" minOccurs="0" />
+							<xs:element name="Swim" type="xs:string" minOccurs="0" />
+							<xs:element name="Burrow" type="xs:string" minOccurs="0" />
+							<xs:element name="AC" type="xs:string" minOccurs="0" />
+							<xs:element name="ACTouch" type="xs:string" minOccurs="0" />
+							<xs:element name="ACFlatfooted" type="xs:string" minOccurs="0" />
+							<xs:element name="ACHelpless" type="xs:string" minOccurs="0" />
+							<xs:element name="Armor" type="xs:string" minOccurs="0" />
+							<xs:element name="Shield" type="xs:string" minOccurs="0" />
+							<xs:element name="ArmorMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="ShieldMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="ArmorCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="ShieldCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="EncumbranceCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="SpellFailureArmor" type="xs:string" minOccurs="0" />
+							<xs:element name="SpellFailureShield" type="xs:string" minOccurs="0" />
+							<xs:element name="SR" type="xs:string" minOccurs="0" />
+							<xs:element name="PR" type="xs:string" minOccurs="0" />
+							<xs:element name="DR" type="xs:string" minOccurs="0" />
+							<xs:element name="HP" type="xs:string" minOccurs="0" />
+							<xs:element name="CurrentHP" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB1" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB2" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB3" type="xs:string" minOccurs="0" />
+							<xs:element name="BAB4" type="xs:string" minOccurs="0" />
+							<xs:element name="Melee" type="xs:string" minOccurs="0" />
+							<xs:element name="Ranged" type="xs:string" minOccurs="0" />
+							<xs:element name="Grapple" type="xs:string" minOccurs="0" />
+							<xs:element name="Initiative" type="xs:string" minOccurs="0" />
+							<xs:element name="Money" type="xs:string" minOccurs="0" />
+							<xs:element name="AssetsValue" type="xs:string" minOccurs="0" />
+							<xs:element name="InventoryWeight" type="xs:string" minOccurs="0" />
+							<xs:element name="CurrentLoad" type="xs:string" minOccurs="0" />
+							<xs:element name="LoadInfo" type="xs:string" minOccurs="0" />
+							<xs:element name="LightLoadInfo" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadInfo" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadInfo" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadSpeed" type="xs:string" minOccurs="0" />
+							<xs:element name="MediumLoadRun" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadMaxDex" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadCheckPenalty" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadSpeed" type="xs:string" minOccurs="0" />
+							<xs:element name="HeavyLoadRun" type="xs:string" minOccurs="0" />
+							<xs:element name="Notes" type="xs:string" minOccurs="0" />
+							<xs:element name="Background" type="xs:string" minOccurs="0" />
+							<xs:element name="CoinWeight" type="xs:string" minOccurs="0" />
+							<xs:element name="Classes">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Class">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassAbrv" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="HitDice" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Resistances">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Resistance">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Attacks">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Attack">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Primary">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="BaseName" type="xs:string" minOccurs="0" />
+																<xs:element name="FullName" type="xs:string" minOccurs="0" />
+																<xs:element name="Attacks" type="xs:string" minOccurs="0" />
+																<xs:element name="Wield" type="xs:string" minOccurs="0" />
+																<xs:element name="WeaponType" type="xs:string" minOccurs="0" />
+																<xs:element name="CriticalRange" type="xs:string" minOccurs="0" />
+																<xs:element name="CriticalMultiplier" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamageType" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamageLethality" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamage" type="xs:string" minOccurs="0" />
+																<xs:element name="Enhancement" type="xs:string" minOccurs="0" />
+																<xs:element name="Range" type="xs:string" minOccurs="0" />
+																<xs:element name="ReachRange" type="xs:string" minOccurs="0" />
+																<xs:element name="Alignment" type="xs:string" minOccurs="0" />
+																<xs:element name="PrimaryExtraDamage">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="DamageName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="PrimaryAbility">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="AbilityName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="PrimaryModifier">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="PrimaryDamageResistance">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="PrimaryCondition">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="PrimaryConditionalModifier">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="PrimaryConditionalExtraDamage">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="DamageName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="PrimaryConditionalAbility">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="AbilityName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="ConditionName" type="xs:string" minOccurs="0" />
+																			<xs:element name="BaseDamage" type="xs:string" minOccurs="0" />
+																			<xs:element name="CriticalRange" type="xs:string" minOccurs="0" />
+																			<xs:element name="CriticalMultiplier" type="xs:string" minOccurs="0" />
+																			<xs:element name="Enhancement" type="xs:string" minOccurs="0" />
+																			<xs:element name="PrimaryConditionalDamageResistance">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="AttackNumber" type="xs:string" minOccurs="0" />
+																<xs:element name="IsNatural" type="xs:string" minOccurs="0" />
+																<xs:element name="Increments" type="xs:string" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Secondary">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="BaseName" type="xs:string" minOccurs="0" />
+																<xs:element name="FullName" type="xs:string" minOccurs="0" />
+																<xs:element name="Attacks" type="xs:string" minOccurs="0" />
+																<xs:element name="Wield" type="xs:string" minOccurs="0" />
+																<xs:element name="WeaponType" type="xs:string" minOccurs="0" />
+																<xs:element name="CriticalRange" type="xs:string" minOccurs="0" />
+																<xs:element name="CriticalMultiplier" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamageType" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamageLethality" type="xs:string" minOccurs="0" />
+																<xs:element name="BaseDamage" type="xs:string" minOccurs="0" />
+																<xs:element name="Enhancement" type="xs:string" minOccurs="0" />
+																<xs:element name="Range" type="xs:string" minOccurs="0" />
+																<xs:element name="ReachRange" type="xs:string" minOccurs="0" />
+																<xs:element name="Alignment" type="xs:string" minOccurs="0" />
+																<xs:element name="SecondaryExtraDamage">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="DamageName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="SecondaryAbility">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="AbilityName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="SecondaryModifier">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="SecondaryDamageResistance">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="SecondaryCondition">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="SecondaryConditionalModifier">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="SecondaryConditionalExtraDamage">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="DamageName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="SecondaryConditionalAbility">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="AbilityName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="ConditionName" type="xs:string" minOccurs="0" />
+																			<xs:element name="BaseDamage" type="xs:string" minOccurs="0" />
+																			<xs:element name="CriticalRange" type="xs:string" minOccurs="0" />
+																			<xs:element name="CriticalMultiplier" type="xs:string" minOccurs="0" />
+																			<xs:element name="Enhancement" type="xs:string" minOccurs="0" />
+																			<xs:element name="SecondaryConditionalDamageResistance">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+																					</xs:sequence>
+																				</xs:complexType>
+																			</xs:element>
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="AttackNumber" type="xs:string" minOccurs="0" />
+																<xs:element name="IsNatural" type="xs:string" minOccurs="0" />
+																<xs:element name="Increments" type="xs:string" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Buckler">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="BaseName" type="xs:string" minOccurs="0" />
+																<xs:element name="FullName" type="xs:string" minOccurs="0" />
+																<xs:element name="Enhancement" type="xs:string" minOccurs="0" />
+																<xs:element name="BucklerDamageResistance">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ResistanceName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="BucklerModifier">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="BucklerAbility">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="AbilityName" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Skills">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Skill">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SkillName" type="xs:string" minOccurs="0" />
+													<xs:element name="SkillRanks" type="xs:string" minOccurs="0" />
+													<xs:element name="Ability" type="xs:string" minOccurs="0" />
+													<xs:element name="Modifier" type="xs:string" minOccurs="0" />
+													<xs:element name="TrainedOnly" type="xs:string" minOccurs="0" />
+													<xs:element name="CheckMultiplier" type="xs:string" minOccurs="0" />
+													<xs:element name="Final" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassSkill" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Languages">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Language">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="LanguageName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="CoreModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="CoreModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="AttackModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="AttackModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="DefenseModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="DefenseModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="SkillModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="SkillModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="MagicModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="MagicModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Feats">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Feat">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="FeatName" type="xs:string" minOccurs="0" />
+													<xs:element name="FeatType" type="xs:string" minOccurs="0" />
+													<xs:element name="FocusName" type="xs:string" minOccurs="0" />
+													<xs:element name="Disabled" type="xs:string" minOccurs="0" />
+													<xs:element name="Valid" type="xs:string" />
+													<xs:element name="IgnoringPrereq" type="xs:string" minOccurs="0" />
+													<xs:element name="Description" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Features">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Feature">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="FeatureName" type="xs:string" minOccurs="0" />
+													<xs:element name="FeatureType" type="xs:string" minOccurs="0" />
+													<xs:element name="Disabled" type="xs:string" minOccurs="0" />
+													<xs:element name="Description" type="xs:string" minOccurs="0" />
+													<xs:element name="SourceFlag" type="xs:string" minOccurs="0" />
+													<xs:element name="SourceName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Inventory">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="InventoryItem" type="InventoryItem"></xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Assets">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="AssetItem" type="InventoryItem" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="SpellCasterInfo">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="CasterClass">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellsPerDay">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="ClassSPD" type="SPD_Data" minOccurs="0" />
+																<xs:element name="SpecialistSPD" type="SPD_Data" minOccurs="0" />
+																<xs:element name="DomainSPD" type="SPD_Data" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="CasterLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellPoints" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellSaves">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="SS0" type="xs:string" minOccurs="0" />
+																<xs:element name="SS1" minOccurs="0" type="xs:string" />
+																<xs:element name="SS2" type="xs:string" minOccurs="0" />
+																<xs:element name="SS3" type="xs:string" minOccurs="0" />
+																<xs:element name="SS4" type="xs:string" minOccurs="0" />
+																<xs:element name="SS5" type="xs:string" minOccurs="0" />
+																<xs:element name="SS6" type="xs:string" minOccurs="0" />
+																<xs:element name="SS7" type="xs:string" minOccurs="0" />
+																<xs:element name="SS8" type="xs:string" minOccurs="0" />
+																<xs:element name="SS9" type="xs:string" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="SpellCasterNotes" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellsKnown">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="SK0" type="xs:string" minOccurs="0" />
+																<xs:element name="SK1" type="xs:string" minOccurs="0" />
+																<xs:element name="SK2" type="xs:string" minOccurs="0" />
+																<xs:element name="SK3" type="xs:string" minOccurs="0" />
+																<xs:element name="SK4" type="xs:string" minOccurs="0" />
+																<xs:element name="SK5" type="xs:string" minOccurs="0" />
+																<xs:element name="SK6" type="xs:string" minOccurs="0" />
+																<xs:element name="SK7" type="xs:string" minOccurs="0" />
+																<xs:element name="SK8" type="xs:string" minOccurs="0" />
+																<xs:element name="SK9" type="xs:string" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="CasterType" type="xs:string" minOccurs="0" />
+													<xs:element name="MemorizedSpells">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="SlotLevel" type="xs:string" minOccurs="0" />
+																<xs:element name="MemorizedSpell">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element name="SpellName" type="xs:string" minOccurs="0" />
+																			<xs:element name="SpellLevel" type="xs:string" minOccurs="0" />
+																			<xs:element name="SlotType" type="xs:string" minOccurs="0" />
+																			<xs:element name="MetaTags" type="xs:string" minOccurs="0" />
+																		</xs:sequence>
+																	</xs:complexType>
+																</xs:element>
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Domains">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Domain">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="DomainName" type="xs:string" minOccurs="0" />
+													<xs:element name="Description" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="SpecialistSchools">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="SpecialistSchool">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SchoolName" type="xs:string" minOccurs="0" />
+													<xs:element name="Description" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="ProhibitedSchools">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ProhibitedSchool">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SchoolName" type="xs:string" minOccurs="0" />
+													<xs:element name="Description" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Spells">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ClassSpells">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="Spell" type="Spell"></xs:element>
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="ManifesterInfo">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ManifesterClass">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="ManifesterLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="MaxPowerLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="PowerSaves">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element name="PS1" type="xs:string" minOccurs="0" />
+																<xs:element name="PS2" type="xs:string" minOccurs="0" />
+																<xs:element name="PS3" type="xs:string" minOccurs="0" />
+																<xs:element name="PS4" type="xs:string" minOccurs="0" />
+																<xs:element name="PS5" type="xs:string" minOccurs="0" />
+																<xs:element name="PS6" type="xs:string" minOccurs="0" />
+																<xs:element name="PS7" type="xs:string" minOccurs="0" />
+																<xs:element name="PS8" type="xs:string" minOccurs="0" />
+																<xs:element name="PS9" type="xs:string" minOccurs="0" />
+															</xs:sequence>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="ManifesterNotes" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="PowerPoints" type="xs:string" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Powers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ClassPowers">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="PowerLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="Power" type="Power"></xs:element>
+													<xs:element name="Points" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="PsionicSpecializations">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="PsionicSpecialization">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="PsionicSpecializationName" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="License" type="xs:string" minOccurs="0" />
+													<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+													<xs:element name="Tags" type="xs:string" minOccurs="0" />
+													<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+													<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="PsionicModifiers">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="PsionicModifier" type="Modifier" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="ArmorClass">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="ArmorBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="ShieldBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="DexBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="SizeBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="NaturalArmorBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="DeflectionBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="AlchemicalBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="CircumstanceBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="CompetenceBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="DodgeBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="EnhancementBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="InherentBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="InsightBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="LuckBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="MoraleBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="ProfaneBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="RacialBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="ResistanceBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="SacredBonus" type="xs:string" minOccurs="0" />
+										<xs:element name="UndefinedBonus" type="xs:string" minOccurs="0" />
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="SavingThrows">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="SavingThrow">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Name" type="xs:string" minOccurs="0" />
+													<xs:element name="BaseSave" type="xs:string" minOccurs="0" />
+													<xs:element name="AbilityModifier" type="xs:string" minOccurs="0" />
+													<xs:element name="MagicSave" type="xs:string" minOccurs="0" />
+													<xs:element name="MiscSave" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="AbilityScores">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="AbilityScore">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="Name" type="xs:string" minOccurs="0" />
+													<xs:element name="BaseScore" type="xs:string" minOccurs="0" />
+													<xs:element name="RacialMod" type="xs:string" minOccurs="0" />
+													<xs:element name="MagicMod" type="xs:string" minOccurs="0" />
+													<xs:element name="MiscMod" type="xs:string" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="PsiLikeAbilities">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="PsiLikeAbility">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="PowerName" type="xs:string" minOccurs="0" />
+													<xs:element name="Usage" type="xs:string" minOccurs="0" />
+													<xs:element name="ManifesterLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="PowerLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="DCAbility" type="xs:string" minOccurs="0" />
+													<xs:element name="DC" type="xs:string" minOccurs="0" />
+													<xs:element name="Notes" type="xs:string" minOccurs="0" />
+													<xs:element name="AbilityPower" type="Power" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="SpellLikeAbilities">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="SpellLikeAbility">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element name="SpellName" type="xs:string" minOccurs="0" />
+													<xs:element name="Usage" type="xs:string" minOccurs="0" />
+													<xs:element name="CasterLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="ClassName" type="xs:string" minOccurs="0" />
+													<xs:element name="SpellLevel" type="xs:string" minOccurs="0" />
+													<xs:element name="DCAbility" type="xs:string" minOccurs="0" />
+													<xs:element name="DC" type="xs:string" minOccurs="0" />
+													<xs:element name="Notes" type="xs:string" minOccurs="0" />
+													<xs:element name="AbilitySpell" type="Spell" minOccurs="0" />
+												</xs:sequence>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:choice>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="SPD_Data">
+		<xs:sequence>
+			<xs:element name="SPD0" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD1" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD2" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD3" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD4" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD5" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD6" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD7" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD8" type="xs:string" minOccurs="0" />
+			<xs:element name="SPD9" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="InventoryItem">
+		<xs:sequence>
+			<xs:element name="ItemName" type="xs:string" minOccurs="0" />
+			<xs:element name="ItemKey" type="xs:string" minOccurs="0" />
+			<xs:element name="BaseType" type="xs:string" minOccurs="0" />
+			<xs:element name="ItemWeight" type="xs:string" minOccurs="0" />
+			<xs:element name="ContentsWeight" type="xs:string" minOccurs="0" />
+			<xs:element name="ItemCost" type="xs:string" minOccurs="0" />
+			<xs:element name="ItemCategory" type="xs:string" minOccurs="0" />
+			<xs:element name="Quantity" type="xs:string" minOccurs="0" />
+			<xs:element name="Charges" type="xs:string" minOccurs="0" />
+			<xs:element name="Active" type="xs:string" minOccurs="0" />
+			<xs:element name="Notes" type="xs:string" minOccurs="0" />
+			<xs:element name="ContainerName" type="xs:string" minOccurs="0" />
+			<xs:element name="ContainerKey" type="xs:string" minOccurs="0" />
+			<xs:element name="License" type="xs:string" minOccurs="0" />
+			<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+			<xs:element name="Tags" type="xs:string" minOccurs="0" />
+			<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+			<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Modifier">
+		<xs:sequence>
+			<xs:element name="ModifierName" type="xs:string" minOccurs="0" />
+			<xs:element name="ModifierType" type="xs:string" minOccurs="0" />
+			<xs:element name="Source" type="xs:string" minOccurs="0" />
+			<xs:element name="Condition" type="xs:string" minOccurs="0" />
+			<xs:element name="Valid" type="xs:string" minOccurs="0" />
+			<xs:element name="Enabled" type="xs:string" minOccurs="0" />
+			<xs:element name="SystemElement" type="xs:string" minOccurs="0" />
+			<xs:element name="FocusName" type="xs:string" minOccurs="0" />
+			<xs:element name="ModifierValue" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Spell">
+		<xs:sequence>
+			<xs:element name="SpellName" type="xs:string" minOccurs="0" />
+			<xs:element name="School" type="xs:string" minOccurs="0" />
+			<xs:element name="Subschool" type="xs:string" minOccurs="0" />
+			<xs:element name="Source" type="xs:string" minOccurs="0" />
+			<xs:element name="SourceType" type="xs:string" minOccurs="0" />
+			<xs:element name="Descriptors" type="xs:string" minOccurs="0" />
+			<xs:element name="Components" type="xs:string" minOccurs="0" />
+			<xs:element name="Time" type="xs:string" minOccurs="0" />
+			<xs:element name="Range" type="xs:string" minOccurs="0" />
+			<xs:element name="Target" type="xs:string" minOccurs="0" />
+			<xs:element name="Duration" type="xs:string" minOccurs="0" />
+			<xs:element name="Description" type="xs:string" minOccurs="0" />
+			<xs:element name="SavingThrow" type="xs:string" minOccurs="0" />
+			<xs:element name="SpellResistance" type="xs:string" minOccurs="0" />
+			<xs:element name="MaterialCost" type="xs:string" minOccurs="0" />
+			<xs:element name="XPCost" type="xs:string" minOccurs="0" />
+			<xs:element name="License" type="xs:string" minOccurs="0" />
+			<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+			<xs:element name="Tags" type="xs:string" minOccurs="0" />
+			<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+			<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+	<xs:complexType name="Power">
+		<xs:sequence>
+			<xs:element name="PowerName" type="xs:string" minOccurs="0" />
+			<xs:element name="Discipline" type="xs:string" minOccurs="0" />
+			<xs:element name="Subdiscipline" type="xs:string" minOccurs="0" />
+			<xs:element name="Source" type="xs:string" minOccurs="0" />
+			<xs:element name="SourceType" type="xs:string" minOccurs="0" />
+			<xs:element name="Descriptors" type="xs:string" minOccurs="0" />
+			<xs:element name="Display" type="xs:string" minOccurs="0" />
+			<xs:element name="Time" type="xs:string" minOccurs="0" />
+			<xs:element name="Range" type="xs:string" minOccurs="0" />
+			<xs:element name="Target" type="xs:string" minOccurs="0" />
+			<xs:element name="Duration" type="xs:string" minOccurs="0" />
+			<xs:element name="Description" type="xs:string" minOccurs="0" />
+			<xs:element name="SavingThrow" type="xs:string" minOccurs="0" />
+			<xs:element name="PowerResistance" type="xs:string" minOccurs="0" />
+			<xs:element name="XPCost" type="xs:string" minOccurs="0" />
+			<xs:element name="Augmentable" type="xs:string" minOccurs="0" />
+			<xs:element name="License" type="xs:string" minOccurs="0" />
+			<xs:element name="Sourcebook" type="xs:string" minOccurs="0" />
+			<xs:element name="Tags" type="xs:string" minOccurs="0" />
+			<xs:element name="PageNo" type="xs:string" minOccurs="0" />
+			<xs:element name="HelpPage" type="xs:string" minOccurs="0" />
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

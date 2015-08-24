@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<RPGXplorerConfig>
+	<ModifierType>Alchemical</ModifierType>
+	<ModifierType>Armor</ModifierType>
+	<ModifierType>Circumstance</ModifierType>
+	<ModifierType>Competence</ModifierType>
+	<ModifierType>Deflection</ModifierType>
+	<ModifierType>Dodge</ModifierType>
+	<ModifierType>Enhancement</ModifierType>
+	<ModifierType>Inherent</ModifierType>
+	<ModifierType>Insight</ModifierType>
+	<ModifierType>Luck</ModifierType>
+	<ModifierType>Morale</ModifierType>
+	<ModifierType>Natural Armor</ModifierType>
+	<ModifierType>Natural Armor (Base)</ModifierType>
+	<ModifierType>Profane</ModifierType>
+	<ModifierType>Racial</ModifierType>
+	<ModifierType>Resistance</ModifierType>
+	<ModifierType>Sacred</ModifierType>
+	<ModifierType>Shield</ModifierType>
+	<ModifierType>Size</ModifierType>
+	<ModifierType>Undefined</ModifierType>
+</RPGXplorerConfig>

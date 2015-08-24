@@ -1,0 +1,1745 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Acid Resistance</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-b1ea42db-af3a-4d60-b718-4c133a06fda1</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Acid Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+18000 gp</Price>
+    <Description>10 resistance to Acid.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-71d63b4a-3f69-4b06-8d1a-9936b1752ea7</ObjectGUID>
+    <ParentGUID>012-b1ea42db-af3a-4d60-b718-4c133a06fda1</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Acid Resistance, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-625b823a-ccce-472d-a60f-0ddeab7b8126</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Acid Resistance, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+42000 gp</Price>
+    <Description>20 resistance to Acid.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-cb67aaa9-20b0-4324-b1b3-c6feb00ef3d7</ObjectGUID>
+    <ParentGUID>012-625b823a-ccce-472d-a60f-0ddeab7b8126</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Acid Resistance, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-5270a659-e700-4c0f-8a84-5671d35cf63d</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Acid Resistance, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+66000 gp</Price>
+    <Description>30 resistance to Acid.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-8c881954-a9ed-4e01-b36a-8c813a8488c6</ObjectGUID>
+    <ParentGUID>012-5270a659-e700-4c0f-8a84-5671d35cf63d</ParentGUID>
+    <HTML>Rules\DamageResistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Animated</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-bd88e6da-cadc-4af7-bcec-1d39abecf2ed</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Animated.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+2</Price>
+    <Description>Upon command, an animated shield floats within 2 feet of the wielder.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Arrow Catching</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-9b5c30c1-29e3-4409-b5ca-d3d2ed38a940</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Arrow Catching.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>A shield with this ability attracts ranged weapons to it.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bashing</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-cb63ad9f-6d94-4c97-86df-96b045a81723</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Bashing.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>A bashing shield deals damage as if it were a weapon of two size categories larger.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Arrow Deflection</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-db19d94f-4956-42b7-ae2b-1ea8fd500521</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Arrow Deflection.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+2</Price>
+    <Description>Protects the wearer as if he had Deflect Arrows feat. </Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Blinding</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-a9578915-fb8a-48b9-b4f2-0542af257b6d</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Blinding.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>Can flash with a brilliant blinding light up to twice per day.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold Resistance</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-09e67060-aeb0-4952-823d-020c45644c92</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Cold Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+18000 gp</Price>
+    <Description>10 resistance to Cold.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-6142db7e-62a3-4169-aad7-10280ad4a7fc</ObjectGUID>
+    <ParentGUID>012-09e67060-aeb0-4952-823d-020c45644c92</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold Resistance, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-0d7243fa-daca-4bc9-b482-535a07a8673f</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Cold Resistance, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>7</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+42000 gp</Price>
+    <Description>20 resistance to Cold.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-89c1dc09-8fe4-4074-99bf-9df07f280584</ObjectGUID>
+    <ParentGUID>012-0d7243fa-daca-4bc9-b482-535a07a8673f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cold Resistance, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-4627cd08-012d-4e9e-8ed9-1b8ab0c6c844</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Cold Resistance, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>11</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+66000 gp</Price>
+    <Description>30 resistance to Cold.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-ccdd5c15-5873-417d-b8a2-f63d3eb701aa</ObjectGUID>
+    <ParentGUID>012-4627cd08-012d-4e9e-8ed9-1b8ab0c6c844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Electricity Resistance</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-53b89b7c-b7ec-49ea-9c55-cf7681eddb23</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Electricity Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>3</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+18000 gp</Price>
+    <Description>10 resistance to Electricity.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-04d08081-9e16-430e-87e3-ac83689923c6</ObjectGUID>
+    <ParentGUID>012-53b89b7c-b7ec-49ea-9c55-cf7681eddb23</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Electricity Resistance, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-b181abd9-86a6-41b2-894e-0800e04e1b0c</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Electricity Resistance, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+42000 gp</Price>
+    <Description>20 resistance to Electricity.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-1c98eeaf-d7e0-4ddf-9867-b7c47561a0a2</ObjectGUID>
+    <ParentGUID>012-b181abd9-86a6-41b2-894e-0800e04e1b0c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Electricity Resistance, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-38797f0b-2675-4073-a127-f6f3fc8fb8fa</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Electricity Resistance, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>11</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+66000 gp</Price>
+    <Description>30 resistance to Electricity.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-a2c5071a-258a-4628-af7f-d1b341f992c2</ObjectGUID>
+    <ParentGUID>012-38797f0b-2675-4073-a127-f6f3fc8fb8fa</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Etherealness</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-14ad4176-ebea-40fe-8d87-32dfb2dd0dfa</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Etherealness.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+49000 gp</Price>
+    <Description>Wearer can become etheral once per day.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire Resistance</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-54c1a148-5b92-4f2c-a95f-e042f7ee4fee</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fire Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>3</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+18000 gp</Price>
+    <Description>10 resistance to Fire.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-8dba9550-6ce5-42c2-8f6e-dbfdf718121c</ObjectGUID>
+    <ParentGUID>012-54c1a148-5b92-4f2c-a95f-e042f7ee4fee</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire Resistance, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-dd3d2d03-e4da-4b23-a9ca-3d1e86362486</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fire Resistance, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>7</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+42000 gp</Price>
+    <Description>20 resistance to Fire.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-ba9e3d20-5518-4163-8368-c2f725a05f7b</ObjectGUID>
+    <ParentGUID>012-dd3d2d03-e4da-4b23-a9ca-3d1e86362486</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fire Resistance, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-7a931755-2f30-4b2e-8e66-c94d7a6b6a07</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fire Resistance, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>11</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+66000 gp</Price>
+    <Description>30 resistance to Fire.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-b27c0e4a-6909-4d86-95c6-6da205705215</ObjectGUID>
+    <ParentGUID>012-7a931755-2f30-4b2e-8e66-c94d7a6b6a07</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fortification, Light</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-aa11fd19-1c09-4b4b-b524-7b283e084eaa</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fortification.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>25% chance that critical or sneak attack hit only does normal damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fortification, Moderate</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-cfd725e5-6b1b-4f8d-930d-a97081c1ef0f</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fortification.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>75% chance that critical or sneak attack hit only does normal damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fortification, Heavy</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-c651e75b-8e4b-4b03-98a5-f3137920c6c2</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Fortification.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+5</Price>
+    <Description>Critical or sneak attack hits only do normal damage.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ghost Touch</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-8f9837ab-030d-4e6e-9ee8-8667180db1c7</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Ghost Touch.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Armor and enhancment bonus apply to attacks from incorporeal creatures.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Glamered</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-4b8f2940-e60c-4c0b-898d-e2e8054f92a9</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Glamered.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+2700 gp</Price>
+    <Description>Upon command, armor can change shape to appear as normal clothing retaining AC.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Invulnerability</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-87f53c68-11b2-4836-b983-b988367d6dfb</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Invulnerability.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>18</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Grants wearer damage reduction of 5/Magic.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>DR 5/Magic</Name>
+    <Type>Damage Reduction</Type>
+    <ObjectGUID>012-5ce41ab3-84ff-4167-80c2-44d5ffc88bff</ObjectGUID>
+    <ParentGUID>012-87f53c68-11b2-4836-b983-b988367d6dfb</ParentGUID>
+    <HTML>Rules\DamageReduction.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Reduction>5</Reduction>
+    <DROvercomeByType>Magic</DROvercomeByType>
+    <DamageType />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <Junction />
+    <DROvercomeByType2 />
+    <DamageType2 />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reflecting</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-f118e7cf-43dd-4c1b-8475-db8561663a09</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Reflecting.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>14</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+5</Price>
+    <Description>Once per day can reflect a spell as per Spell Turning.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shadow</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-51cb3c80-8359-40a2-91b1-650724a7915a</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Shadow.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>5</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+3750 gp</Price>
+    <Description>+5 competence bonus on Hide checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-c6af11a2-fb55-410d-a955-c450b915e10f</ObjectGUID>
+    <ParentGUID>012-51cb3c80-8359-40a2-91b1-650724a7915a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shadow, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-5e61bef9-4448-46a6-b4b4-dca7958f3c5a</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Shadow, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+15000 gp</Price>
+    <Description>+10 competence bonus on Hide checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-d1aa62c3-d6cc-4100-b21a-d85e218d79f1</ObjectGUID>
+    <ParentGUID>012-5e61bef9-4448-46a6-b4b4-dca7958f3c5a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shadow, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-866b2be1-c69b-409a-8bc0-c65e00e6d51c</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Shadow, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+33750 gp</Price>
+    <Description>+15 competence bonus on Hide checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+15 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-8d10bece-0440-4be6-8bf9-25d23c452634</ObjectGUID>
+    <ParentGUID>012-866b2be1-c69b-409a-8bc0-c65e00e6d51c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+15</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Silent Moves</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-6dcb4b86-8024-4f0a-a4f6-af904a2fdc65</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Silent Moves.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>5</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+3750 gp</Price>
+    <Description>+5 competence bonus on Move Silently checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-85bd6000-2393-4f38-8acd-5bbed84285f5</ObjectGUID>
+    <ParentGUID>012-6dcb4b86-8024-4f0a-a4f6-af904a2fdc65</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Silent Moves, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-010f113e-57c3-4fe6-ae4e-98d72ef1906f</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Silent Moves, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+15000 gp</Price>
+    <Description>+10 competence bonus on Move Silently checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-9c818882-70df-46c8-8b08-ae130ef05ef2</ObjectGUID>
+    <ParentGUID>012-010f113e-57c3-4fe6-ae4e-98d72ef1906f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Silent Moves, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-2946b49a-ab17-4734-b077-a78e5111628c</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Silent Moves, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+33750 gp</Price>
+    <Description>+15 competence bonus on Move Silently checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+15 Skill (Hide) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-ab1b75ad-9dec-4ac7-ac40-fe46c2fb95cb</ObjectGUID>
+    <ParentGUID>012-2946b49a-ab17-4734-b077-a78e5111628c</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-697a1c59-e93f-4dde-b3ed-03a11891f37b" reference="Name">Hide</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+15</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slick</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-5c0d132a-1921-42cc-8b0a-07042d8eeac8</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Slick.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <CasterLevel>4</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+3750 gp</Price>
+    <Description>+5 competence bonus on Escape Artist checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Skill (Escape Artist) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-58c69bc5-6ab3-4a2f-aa0d-3c345936cc79</ObjectGUID>
+    <ParentGUID>012-5c0d132a-1921-42cc-8b0a-07042d8eeac8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-7f79a248-fcf8-4473-89ed-40e35a161909" reference="Name">Escape Artist</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slick, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-615da3e6-8ec0-4f64-9ebb-8b9e26f69a11</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Slick, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <CasterLevel>10</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+15000 gp</Price>
+    <Description>+10 competence bonus on Escape Artist checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Skill (Escape Artist) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-9cba880a-c7d3-4e85-bd0f-b99a485903e3</ObjectGUID>
+    <ParentGUID>012-615da3e6-8ec0-4f64-9ebb-8b9e26f69a11</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-7f79a248-fcf8-4473-89ed-40e35a161909" reference="Name">Escape Artist</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slick, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-7fc7da43-5e1d-4ac6-a487-733c737d450d</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Slick, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+33750 gp</Price>
+    <Description>+15 competence bonus on Escape Artist checks.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+15 Skill (Escape Artist) [Competence]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-7094cc1e-747c-4d99-ab2e-143697f7fb16</ObjectGUID>
+    <ParentGUID>012-7fc7da43-5e1d-4ac6-a487-733c737d450d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-7f79a248-fcf8-4473-89ed-40e35a161909" reference="Name">Escape Artist</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+15</Modifier>
+    <ModifierType>Competence</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sonic Resistance</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-4e3c1a60-86dd-4825-90cb-322d93b29557</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Sonic Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>3</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+18000 gp</Price>
+    <Description>10 resistance to Sonic.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-cd58434f-0967-46a5-94c0-6c5ba46e2995</ObjectGUID>
+    <ParentGUID>012-4e3c1a60-86dd-4825-90cb-322d93b29557</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sonic Resistance, Improved</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-6d3550cf-d6ad-427d-9d2d-6e2701ef2e03</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Sonic Resistance, Improved.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>7</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+42000 gp</Price>
+    <Description>20 resistance to Sonic.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 20 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-d98e8e7c-556d-4b1a-bb99-37e467e62278</ObjectGUID>
+    <ParentGUID>012-6d3550cf-d6ad-427d-9d2d-6e2701ef2e03</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>20</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sonic Resistance, Greater</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-0566d590-5fc7-4f33-9425-39b56dc1afc8</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Sonic Resistance, Greater.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>11</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+66000 gp</Price>
+    <Description>30 resistance to Sonic.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 30 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-822af29f-ff13-4108-9be9-579f75993dd2</ObjectGUID>
+    <ParentGUID>012-0566d590-5fc7-4f33-9425-39b56dc1afc8</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <PercentRadio />
+    <ReductionRadio>Yes</ReductionRadio>
+    <ResistanceReduction>30</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance 13</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-0da98f93-13c3-49f6-beec-dd76462d964e</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Spell Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+2</Price>
+    <Description>Spell resistance of 13.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance 15</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-46aed203-b522-4430-bd33-e69f55c2175d</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Spell Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Spell resistance of 15.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance 19</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-465bbee3-6307-42da-8522-ffead784c5f4</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Spell Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+5</Price>
+    <Description>Spell resistance of 19.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance 17</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-9fbf6345-e79a-44f5-b0db-567a179647c6</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Spell Resistance.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <CasterLevel>15</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Spell resistance of 17.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Undead Controlling</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-288bc862-77f4-4a78-9ed7-430ca88cb548</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Undead Controlling.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</AuraType>
+    <CasterLevel>13</CasterLevel>
+    <PriceType>Specific</PriceType>
+    <Price>+49000 gp</Price>
+    <Description>Wearer may control up to 26HD of undead as per Control Undead spell until dawn.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wild</Name>
+    <Type>Armor Magic Ability Definition</Type>
+    <ObjectGUID>012-3dce1ff4-3e70-4b8e-bb41-eee3f2d420fe</ObjectGUID>
+    <ParentGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ParentGUID>
+    <HTML>Armor Magic Abilities\Wild.htm</HTML>
+    <HTMLGUID>012-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <CasterLevel>9</CasterLevel>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Armor bonus inc. enhancement retained while in Wild Shape.</Description>
+    <ImageFilename>MagicItemsAbility.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 13</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-3dc1d295-e07d-44a8-9af3-92fcb0e371b2</ObjectGUID>
+    <ParentGUID>012-0da98f93-13c3-49f6-beec-dd76462d964e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>13</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 15</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-15bfa85c-a116-4e08-a7e5-30f293c57eda</ObjectGUID>
+    <ParentGUID>012-46aed203-b522-4430-bd33-e69f55c2175d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>15</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 17</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-998a1a50-3c98-444a-8cc5-db308ff8d34c</ObjectGUID>
+    <ParentGUID>012-9fbf6345-e79a-44f5-b0db-567a179647c6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>17</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Resistance equal to 19</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-ef230655-9728-4e68-bddb-5872581d701b</ObjectGUID>
+    <ParentGUID>012-465bbee3-6307-42da-8522-ffead784c5f4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-1cfc211b-e580-40c9-8f99-296d9e14cb7e" reference="Name">Spell Resistance</SystemElement>
+    <BaseNumber>19</BaseNumber>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Aporter</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-de34cec9-97ea-485b-8130-b2c7c96231f1</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Aporter.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+40320 gp</Price>
+    <Description>Transports the wearer and her equipment to any spot within 800ft.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Averter</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-f9c3f0f2-23f2-4e6f-bb90-1ef52685fdeb</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Averter.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+12960 gp</Price>
+    <Description>Inflict aversion on target that prevents them approaching within 30ft.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ectoplasmic</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-d355f1dc-38dc-454a-af92-f2443433119d</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Ectoplasmic.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+10800 gp</Price>
+    <Description>Converts itself and wearer into an ectoplasmic form for upto 5 minutes once per day.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Floating</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-ab341411-b0e9-4bc8-962a-e0e965f5b905</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Floating.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+4000 gp</Price>
+    <Description>Armor is psionically buoyant in water or a similar liquid.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Skill (Swim) [Circumstance]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-69f580bb-2249-4ed6-aec5-726178e3f50e</ObjectGUID>
+    <ParentGUID>012-ab341411-b0e9-4bc8-962a-e0e965f5b905</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-c8d48dcf-532e-46d3-b187-257e0bdc3117" reference="Name">Swim</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Circumstance</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gleaming</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-9bac7b15-3884-46fe-867a-a1284cdaf2a0</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Gleaming.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Armor gleams and flashes granting the wearer concealment.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Heartening</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-102aec65-d137-4eda-8def-975dc51655bd</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Heartening.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+720 gp</Price>
+    <Description>Grants the wearer up to 5 temporary hit points per day on command.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Landing</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-c3fff2fa-0f96-42cb-b423-3b0ca1707597</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Landing.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+4000 gp</Price>
+    <Description>Ignore any damage dealt by the first 60ft of any fall.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Linked</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-e865b626-483e-4780-bcf6-5f0a1c731f6a</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Linked.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+6000 gp</Price>
+    <Description>Allows wearer to form telepathic bond with other wearers.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Manifester</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-4ccdb80f-d661-43cc-bd16-c0f89d5190bd</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Manifester.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+10800 gp</Price>
+    <Description>Generates 3 power points per day for the wearer.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mindarmor</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-773e847b-19ca-425f-8dd9-804a8d6a1f2b</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Mindarmor.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+24000 gp</Price>
+    <Description>Grants wearer +3 insight bonus on will saving throws vs. mind-affecting/compulsion powers.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+3 Will Saving Throw [Insight] [vs. mind-affecting and/or compulsion powers]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-8f22af91-177c-4a1b-9f84-90a11e55e78b</ObjectGUID>
+    <ParentGUID>012-773e847b-19ca-425f-8dd9-804a8d6a1f2b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-bcf92ac7-2d64-495a-9363-28d423239bfa" reference="Name">Will Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+3</Modifier>
+    <ModifierType>Insight</ModifierType>
+    <Limiter FK="024-54a83e3a-3468-4f1b-9821-179c8f1b3c59" reference="Name">vs. mind-affecting and/or compulsion powers</Limiter>
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Phasing</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-89a00902-30e0-489f-a09b-dc9b3e773673</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Phasing.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+65520 gp</Price>
+    <Description>Wearer can move through wooder, plaster or stone walls up to 60ft per day.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance 13</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-91bffc89-9427-43cb-8ade-49238406ccd9</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Power Resistance 1.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+2</Price>
+    <Description>Grants wearer power resistance 13.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance 15</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-2efad889-6b9b-4e27-a996-3683c57776cf</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Power Resistance 1.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Grants wearer power resistance 15.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance 17</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-ec9f1735-f3c3-42fd-bfe9-33e1930f87d6</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Power Resistance 1.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants wearer power resistance 17.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance 19</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-8f0df623-d8f7-46b3-8adb-0c10286bfd5f</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Power Resistance 1.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants wearer power resistance 19.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Quickness</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-f1ca75c7-fac7-4814-825a-60a10fce22f0</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Quickness.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>Increases the wearer's speed by 5ft.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+5 Speed</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-3756f32b-c217-463a-82b3-1ee3bcc24038</ObjectGUID>
+    <ParentGUID>012-f1ca75c7-fac7-4814-825a-60a10fce22f0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-647013c9-f47e-4c65-96bf-a00763cb046e" reference="Name">Speed</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+5</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Radiant (Acid)</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-7d08d4dc-9b97-49d1-ae6a-af1dd6d3ea56</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Radiant.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants acid resistance 10. Radiates light per point absorbed.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Acid]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-15f10771-f4c6-418e-8021-d3d29e44ce4e</ObjectGUID>
+    <ParentGUID>012-7d08d4dc-9b97-49d1-ae6a-af1dd6d3ea56</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Acid</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Radiant (Cold)</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-cfc7fdcf-4aad-43f2-b50c-1b7868030d6e</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Radiant.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants cold resistance 10. Radiates light per point absorbed.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Cold]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-fa9aa2ce-bd5f-452f-a7f2-14f4352d6ba7</ObjectGUID>
+    <ParentGUID>012-cfc7fdcf-4aad-43f2-b50c-1b7868030d6e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Cold</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Radiant (Electricity)</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-c799819c-00c7-46ce-81bf-879077bf7c0f</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Radiant.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants electricity resistance 10. Radiates light per point absorbed.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Electricity]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-1f8f21e2-d674-4898-8011-1ed1436dafb7</ObjectGUID>
+    <ParentGUID>012-c799819c-00c7-46ce-81bf-879077bf7c0f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Electricity</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Radiant (Fire)</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-55053317-1548-456b-9b6c-192ee548c4be</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Radiant.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants fire resistance 10. Radiates light per point absorbed.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Fire]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-dc0a46a1-4838-49b9-93b2-f8f2b14dd660</ObjectGUID>
+    <ParentGUID>012-55053317-1548-456b-9b6c-192ee548c4be</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Fire</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Radiant (Sonic)</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-11ebc7ad-0b79-4b52-acb2-b8e78e620327</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Radiant.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+4</Price>
+    <Description>Grants sonic resistance 10. Radiates light per point absorbed.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Damage Resistance 10 [Sonic]</Name>
+    <Type>Damage Resistance</Type>
+    <ObjectGUID>012-dde54802-b193-4f94-8d3c-d50922b339e7</ObjectGUID>
+    <ParentGUID>012-11ebc7ad-0b79-4b52-acb2-b8e78e620327</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <DamageType>Sonic</DamageType>
+    <ResistanceReduction>10</ResistanceReduction>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ranged</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-b77aa87d-5080-4974-891b-58ee6e1266fc</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Ranged.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+1</Price>
+    <Description>Shield can be thrown as a ranged weapon that returns to the wielder.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Seeing</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-8b464511-6d3a-49e0-98bf-56d8398c2e45</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Seeing.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+6000 gp</Price>
+    <Description>Grants a wider than normal field of vision.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+1 Skill (Spot) [Enhancement]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>012-f8b41f76-7fe9-419b-8dfc-ff2bd8ccaf0e</ObjectGUID>
+    <ParentGUID>012-8b464511-6d3a-49e0-98bf-56d8398c2e45</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-3776f4fc-0ec7-4f44-ac3d-d765e9c0e549" reference="Name">Spot</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+1</Modifier>
+    <ModifierType>Enhancement</ModifierType>
+    <Limiter />
+    <Notes />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Time Buttress</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-5a73e1a3-67da-4864-ad8d-d1eb760605d4</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Time Buttress.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+5</Price>
+    <Description>Wearer can use Timeless Body once per day as per power.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Vanishing</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-3ba40855-e65e-423e-8f03-225160923a8c</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Vanishing.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Armor &amp; Shield</ArmorType>
+    <PriceType>Bonus</PriceType>
+    <Price>+3</Price>
+    <Description>Renders wearer and equipment invisible as per Cloud Mind power (2/day).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall</Name>
+    <Type>Psionic Armor Ability Definition</Type>
+    <ObjectGUID>012-3edd643c-3310-49fd-88af-10197467c081</ObjectGUID>
+    <ParentGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ParentGUID>
+    <HTML>Psionic Armor Abilities\Wall.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ArmorType>Shield</ArmorType>
+    <PriceType>Specific</PriceType>
+    <Price>+20160 gp</Price>
+    <Description>Can drop shield and command Wall of Ectoplasm as per power (1/day).</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsionicAbility.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance equal to 13</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-4a554eca-c5d3-443b-99e0-672340ac39b4</ObjectGUID>
+    <ParentGUID>012-91bffc89-9427-43cb-8ade-49238406ccd9</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-b286be44-5ac4-4caf-b8f6-48bbfc6fcd0d" reference="Name">Power Resistance</SystemElement>
+    <BaseNumber>13</BaseNumber>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance equal to 15</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-dd4c1d82-6945-4d5e-a7f2-bd7002ef6296</ObjectGUID>
+    <ParentGUID>012-2efad889-6b9b-4e27-a996-3683c57776cf</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-b286be44-5ac4-4caf-b8f6-48bbfc6fcd0d" reference="Name">Power Resistance</SystemElement>
+    <BaseNumber>15</BaseNumber>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance equal to 17</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-73fd6a51-5318-4155-97f8-089dbe7d2465</ObjectGUID>
+    <ParentGUID>012-ec9f1735-f3c3-42fd-bfe9-33e1930f87d6</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-b286be44-5ac4-4caf-b8f6-48bbfc6fcd0d" reference="Name">Power Resistance</SystemElement>
+    <BaseNumber>17</BaseNumber>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Resistance equal to 19</Name>
+    <Type>Set Value</Type>
+    <ObjectGUID>012-c1166fba-0b7e-4f45-8271-d09f31b6a867</ObjectGUID>
+    <ParentGUID>012-8f0df623-d8f7-46b3-8adb-0c10286bfd5f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-b286be44-5ac4-4caf-b8f6-48bbfc6fcd0d" reference="Name">Power Resistance</SystemElement>
+    <BaseNumber>19</BaseNumber>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

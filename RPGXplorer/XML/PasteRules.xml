@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RPGXplorerConfig>
+  <PasteRules type="Ammunition Definition" rules="1">
+    <Target name="Weapon Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Armor Definition" rules="1">
+    <Target name="Armor Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Armor Magic Ability Definition" rules="1">
+    <Target name="Armor Magic Ability Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Artifact Definition" rules="1">
+    <Target name="Artifact Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Bonus Class Skill" rules="1">
+    <Target name="Class Level" rule="" />
+    <Target name="Race" rule="" />
+  </PasteRules>
+  <PasteRules type="Bonus Class Skill Choice or Specific" rules="1">
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Bonus Domain" rules="1">
+    <Target name="Class Level" rule="" />
+  </PasteRules>
+  <PasteRules type="Bonus Domain Choice or Specific" rules="1">
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Bonus Feat" rules="4">
+    <Target name="Class Level" rule="" />
+    <Target name="Race" rule="" />
+    <Target name="Monster Class Level" rule="" />
+    <Target name="Monster Race Definition" rule="" />
+  </PasteRules>
+  <PasteRules type="Bonus Spell Slots" rules="5">
+    <Target name="Feat Definition" rule="BonusSpells" />
+    <Target name="Race" rule="BonusSpells" />
+    <Target name="Ring Definition" rule="BonusSpells" />
+    <Target name="Wondrous Definition" rule="BonusSpells" />
+    <Target name="Artifact Definition" rule="BonusSpells" />
+  </PasteRules>
+  <PasteRules type="Character" rules="1">
+    <Target name="Character Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Choose Bonus Feat" rules="2">
+    <Target name="Monster Class Level" rule="Unique" />
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Choose Feature" rules="4">
+    <Target name="Class Level" rule="" />
+    <Target name="Monster Class Level" rule="" />
+    <Target name="Race" rule="" />   
+    <Target name="Monster Race Definition" rule="" />
+  </PasteRules>
+  <PasteRules type="Class" rules="1">
+    <Target name="Class Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Condition" rules="6">
+    <Target name="Magic Ammo Definition" rule="Condition" />
+    <Target name="Psionic Ammo Definition" rule="Condition" />
+    <Target name="Psionic Weapon Ability Definition" rule="Condition" />
+    <Target name="Psionic Weapon Definition" rule="Condition" />
+    <Target name="Specific Weapon Definition" rule="Condition" />
+    <Target name="Weapon Magic Ability Definition" rule="Condition" />
+  </PasteRules>
+  <PasteRules type="Damage Addition" rules="7">
+    <Target name="Magic Ammo Definition" rule="DamageAddition" />
+    <Target name="Psionic Ammo Definition" rule="DamageAddition" />
+    <Target name="Psionic Weapon Ability Definition" rule="DamageAddition" />
+    <Target name="Psionic Weapon Definition" rule="DamageAddition" />
+    <Target name="Specific Weapon Definition" rule="DamageAddition" />
+    <Target name="Weapon Magic Ability Definition" rule="DamageAddition" />
+    <Target name="Condition" rule="DamageAddition" />
+  </PasteRules>
+  <PasteRules type="Damage Reduction" rules="17">
+    <Target name="Armor Definition" rule="Unique" />
+    <Target name="Armor Magic Ability Definition" rule="DamageReduction" />
+    <Target name="Specific Armor Definition" rule="DamageReduction" />
+    <Target name="Condition" rule="DamageReduction" />
+    <Target name="Feature Definition" rule="Unique" />
+    <Target name="Feat Definition" rule="Unique" />
+    <Target name="Class Level" rule="Unique" />
+    <Target name="Ring Definition" rule="Unique" />
+    <Target name="Race" rule="Unique" />
+    <Target name="Wondrous Definition" rule="Unique" />
+    <Target name="Artifact Definition" rule="Unique" />
+    <Target name="Psionic Armo Ability Definition" rule="DamageReduction" />
+    <Target name="Psionic Armor Definition" rule="DamageReduction" />
+    <Target name="Psionic Artifact Definition" rule="Unique" />
+    <Target name="Universal Item Definition" rule="Unique" />
+    <Target name="Monster Class Level" rule="Unique" />
+    <Target name="Monster Race Definition" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Damage Resistance" rules="23">
+    <Target name="Specific Weapon Definition" rule="DamageResistance" />
+    <Target name="Weapon Magic Ability Definition" rule="DamageResistance" />
+    <Target name="Specific Armor Definition" rule="DamageResistance" />
+    <Target name="Armor Magic Ability Definition" rule="DamageResistance" />
+    <Target name="Class Level" rule="DamageResistance" />
+    <Target name="Condition" rule="DamageResistance" />
+    <Target name="Feature Definition" rule="DamageResistance" />
+    <Target name="Feat Definition" rule="DamageResistance" />
+    <Target name="Ring Definition" rule="DamageResistance" />
+    <Target name="Rod Definition" rule="DamageResistance" />
+    <Target name="Staff Definition" rule="DamageResistance" />
+    <Target name="Race" rule="DamageResistance" />
+    <Target name="Wondrous Definition" rule="DamageResistance" />
+    <Target name="Artifact Definition" rule="DamageResistance" />
+    <Target name="Psionic Weapon Ability Definition" rule="DamageResistance" />
+    <Target name="Psionic Weapon Definition" rule="DamageResistance" />
+    <Target name="Psionic Armor Definition" rule="DamageResistance" />
+    <Target name="Psionic Armor Ability Definition" rule="DamageResistance" />
+    <Target name="Psionic Psicrown Definition" rule="DamageResistance" />
+    <Target name="Psionic Artifact Definition" rule="DamageResistance" />
+    <Target name="Universal Item Definition" rule="DamageResistance" />
+    <Target name="Monster Class Level" rule="DamageResistance" />
+    <Target name="Monster Race Definition" rule="DamageResistance" />
+  </PasteRules>
+  <PasteRules type="Deity Definition" rules="1">
+    <Target name="Deity Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Domain Definition" rules="1">
+    <Target name="Domain Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Enhancement Bonus" rules="1">
+    <Target name="Condition" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Existing Spellcaster Level" rules="1">
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Feature" rules="5">
+    <Target name="Class Level" rule="Feature" />
+    <Target name="Monster Class Level" rule="Feature" />
+    <Target name="Feat Definition" rule="Feature" />
+    <Target name="Race" rule="Feature" />
+    <Target name="Monster Race Definition" rule="Feature" />
+  </PasteRules>
+  <PasteRules type="Feat Definition" rules="1">
+    <Target name="Feat Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Feature Definition" rules="1">
+    <Target name="Feature Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Fighter Bonus Feat" rules="1">
+    <Target name="Class Level" rule="" />
+  </PasteRules>
+  <PasteRules type="Flurry of Blows" rules="1">
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Improved Unarmed Damage" rules="1">
+    <Target name="Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Item" rules="3">
+    <Target name="Assets Folder" rule="" />
+    <Target name="Inventory Folder" rule="" />
+    <Target name="Item" rule="Item" />
+  </PasteRules>
+  <PasteRules type="Item Definition" rules="1">
+    <Target name="Item Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Language Definition" rules="1">
+    <Target name="Language Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Magic Ammo Definition" rules="1">
+    <Target name="Specific Weapon Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Modifier" rules="30">
+    <Target name="Ammunition Definition" rule="ModifierDefinition" />
+    <Target name="Feat Definition" rule="ModifierDefinition" />
+    <Target name="Feature Definition" rule="ModifierDefinition" />
+    <Target name="Armor Definition" rule="ModifierDefinition" />
+    <Target name="Shield Definition" rule="ModifierDefinition" />
+    <Target name="Armor Magic Ability Definition" rule="ModifierDefinition" />
+    <Target name="Weapon Magic Ability Definition" rule="ModifierDefinition" />
+    <Target name="Specific Weapon Definition" rule="ModifierDefinition" />
+    <Target name="Specific Armor Definition" rule="ModifierDefinition" />
+    <Target name="Magic Ammo Definition" rule="ModifierDefinition" />
+    <Target name="Condition" rule="ModifierDefinition" />
+    <Target name="Weapon Definition" rule="ModifierDefinition" />
+    <Target name="Class Level" rule="ModifierDefinition" />
+    <Target name="Monster Class Level" rule="ModifierDefinition" />
+    <Target name="Monster Race Definition" rule="ModifierDefinition" />
+    <Target name="Ring Definition" rule="ModifierDefinition" />
+    <Target name="Rod Definition" rule="ModifierDefinition" />
+    <Target name="Staff Definition" rule="ModifierDefinition" />
+    <Target name="Race" rule="ModifierDefinition" />
+    <Target name="Wondrous Definition" rule="ModifierDefinition" />
+    <Target name="Artifact Definition" rule="ModifierDefinition" />
+    <Target name="Item Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Ammo Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Weapon Ability Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Weapon Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Armor Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Armor Ability Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Psicrown Definition" rule="ModifierDefinition" />
+    <Target name="Psionic Artifact Definition" rule="ModifierDefinition" />
+    <Target name="Universal Item Definition" rule="ModifierDefinition" />
+  </PasteRules>
+  <PasteRules type="Modifier Limiter" rules="1">
+    <Target name="Modifier Limiter Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Money" rules="3">
+    <Target name="Assets Folder" rule="" />
+    <Target name="Inventory Folder" rule="" />
+    <Target name="Item" rule="Money" />
+  </PasteRules>
+  <PasteRules type="Monster" rules="1">
+    <Target name="Monster Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Monster Class" rules="1">
+    <Target name="Monster Class Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Monster Race Definition" rules="1">
+    <Target name="Monster Race Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Potion Definition" rules="1">
+    <Target name="Potion Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Power Definition" rules="1">
+    <Target name="Power Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Prerequisite" rules="2">
+    <Target name="Feat Definition" rule="" />
+    <Target name="Feature Definition" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Discipline" rules="1">
+    <Target name="Psionic Disciplines Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Specialization Definition" rules="1">
+    <Target name="Psionic Specialization Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Race" rules="1">
+    <Target name="Races Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Replace Known Spell" rules="1">
+    <Target name="Class Level" rule="" />
+  </PasteRules>
+  <PasteRules type="Ring Definition" rules="1">
+    <Target name="Ring Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Rod Definition" rules="1">
+    <Target name="Rod Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Rule Folder" rules="3">
+    <Target name="Rule Folder" rule="" />
+    <Target name="Rule Folder Page" rule="" />
+    <Target name="Rules Root Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Rule Folder Page" rules="3">
+    <Target name="Rule Folder" rule="" />
+    <Target name="Rule Folder Page" rule="" />
+    <Target name="Rules Root Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Rule Page" rules="3">
+    <Target name="Rule Folder" rule="" />
+    <Target name="Rule Folder Page" rule="" />
+    <Target name="Rules Root Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Rule Table" rules="3">
+    <Target name="Rule Folder" rule="" />
+    <Target name="Rule Folder Page" rule="" />
+    <Target name="Rules Root Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Set Ability" rules="1">
+    <Target name="Monster Class Level" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Scroll Definition" rules="1">
+    <Target name="Scroll Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Shield Definition" rules="1">
+    <Target name="Armor Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Skill Definition" rules="1">
+    <Target name="Skill Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Specific Armor Definition" rules="1">
+    <Target name="Specific Armor Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Specific Weapon Definition" rules="1">
+    <Target name="Specific Weapon Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Specific Bonus Feat" rules="7">
+    <Target name="Class Level" rule="SpecificBonusFeat" />
+    <Target name="Monster Class Level" rule="SpecificBonusFeat" />
+    <Target name="Ring Definition" rule="SpecificBonusFeat" />
+    <Target name="Race" rule="SpecificBonusFeat" />
+    <Target name="Wondrous Definition" rule="SpecificBonusFeat" />
+    <Target name="Artifact Definition" rule="SpecificBonusFeat" />
+    <Target name="Monster Race Definition" rule="SpecificBonusFeat" />
+  </PasteRules>
+  <PasteRules type="Spell Definition" rules="1">
+    <Target name="Spell Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Spell Resistance" rules="16">
+    <Target name="Armor Magic Ability Definition" rule="Unique" />
+    <Target name="Feat Definition" rule="Unique" />
+    <Target name="Feature Definition" rule="Unique" />
+    <Target name="Race" rule="Unique" />
+    <Target name="Specific Armor Definition" rule="Unique" />
+    <Target name="Specific Weapon Definition" rule="Unique" />
+    <Target name="Weapon Magic Ability Definition" rule="SpellResistance" />
+    <Target name="Condition" rule="SpellResistance" />
+    <Target name="Ring Definition" rule="Unique" />
+    <Target name="Rod Definition" rule="Unique" />
+    <Target name="Staff Definition" rule="Unique" />
+    <Target name="Class Level" rule="Unique" />
+    <Target name="Wondrous Definition" rule="Unique" />
+    <Target name="Artifact Definition" rule="Unique" />
+    <Target name="Monster Class Level" rule="Unique" />
+    <Target name="Monster Race Definition" rule="Unique" />
+  </PasteRules>
+  <PasteRules type="Skill Ability Exchange" rules="1">
+    <Target name="Monster Race Definition" rule="" />
+  </PasteRules>
+  <PasteRules type="Skill Synergy" rules="1">
+    <Target name="Skill Definition" rule="Synergy" />
+  </PasteRules>
+  <PasteRules type="Staff Definition" rules="1">
+    <Target name="Staff Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="System Precondition" rules="2">
+    <Target name="Feat Definition" rule="Precondition" />
+    <Target name="Feature Definition" rule="Precondition" />
+  </PasteRules>
+  <PasteRules type="System Ability" rules="2">
+    <Target name="Feat Definition" rule="SystemAbility" />
+    <Target name="Feature Definition" rule="SystemAbility" />
+  </PasteRules>
+  <PasteRules type="System Ability Definition" rules="1">
+    <Target name="System Ability Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="System Weapon Ability" rules="2">
+    <Target name="Specific Weapon Definition" rule="SystemWeaponAbility" />
+    <Target name="Psionic Weapon Definition" rule="SystemWeaponAbility" />
+    <Target name="Condition" rule="SystemWeaponAbility" />
+  </PasteRules>
+  <PasteRules type="Wand Definition" rules="1">
+    <Target name="Wand Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Weapon Emulation" rules="1">
+    <Target name="Specific Weapon Definition" rule="WeaponEmulation" />
+  </PasteRules>
+  <PasteRules type="Weapon Definition" rules="1">
+    <Target name="Weapon Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Weapon Magic Ability Definition" rules="1">
+    <Target name="Weapon Magic Ability Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Wondrous Definition" rules="1">
+    <Target name="Wondrous Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Artifact Definition" rules="1">
+    <Target name="Psionic Artifact Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Ammo Definition" rules="1">
+    <Target name="Psionic Weapons Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Armor Ability Definition" rules="1">
+    <Target name="Psionic Armor Ability Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Armor Definition" rules="1">
+    <Target name="Psionic Armor Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Dorje Definition" rules="1">
+    <Target name="Psionic Dorje Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Power Stone Definition" rules="1">
+    <Target name="Psionic Power Stone Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Psicrown Definition" rules="1">
+    <Target name="Psionic Psicrown Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Tattoo Definition" rules="1">
+    <Target name="Psionic Tattoo Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Weapon Ability Definition" rules="1">
+    <Target name="Psionic Weapon Ability Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Psionic Weapon Definition" rules="1">
+    <Target name="Psionic Weapons Definitions Folder" rule="" />
+  </PasteRules>
+  <PasteRules type="Universal Item Definition" rules="1">
+    <Target name="Universal Item Definitions Folder" rule="" />
+  </PasteRules>
+</RPGXplorerConfig>

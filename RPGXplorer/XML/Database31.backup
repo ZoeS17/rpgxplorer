@@ -1,0 +1,6192 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Longsword</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-7811ae81-8b18-43db-bb17-29848f4dcbbe</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longsword.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Battleaxe</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b291bc3f-50f3-4a1c-a8a4-957756397344</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Battleaxe.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sap</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-afbe75bb-9396-41c3-907d-ce67a2413e42</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sap.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Non-Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSap.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword, Short</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-a6e7e265-7a61-4e8b-aa8c-e94803396a7d</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sword, Short.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSwordShort.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Whip</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-911f4558-6ecd-4556-81ca-116aeff3bbd5</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Whip.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>15 ft.</ReachRange>
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Non-Lethal</Damage>
+    <FDamage />
+    <DDamage />
+    <TDamage>1</TDamage>
+    <MDamage>1d3</MDamage>
+    <SDamage>1d2</SDamage>
+    <LDamage>1d4</LDamage>
+    <HDamage>1d6</HDamage>
+    <GDamage>1d8</GDamage>
+    <CDamage>2d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse>Yes</Finesse>
+    <FinesseTwoHanded>Yes</FinesseTwoHanded>
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsWhip.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-8ea04cc4-5868-433a-a5e4-2d92bb5fcae0</ObjectGUID>
+    <ParentGUID>031-911f4558-6ecd-4556-81ca-116aeff3bbd5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Club</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b1ea66c1-b316-4eff-8695-74ad2fee64b5</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Club.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>-</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsClub.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dagger</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-2653fdc2-cc72-4bb9-8417-d6c6206f29a0</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Dagger.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>Or</Junction>
+    <DamageType2>Slashing</DamageType2>
+    <DamageType>Piercing Or Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsDagger.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Skill (Sleight of Hand) [to conceal a dagger on your body]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-16091293-b223-4be2-9452-56a2f14c5560</ObjectGUID>
+    <ParentGUID>031-2653fdc2-cc72-4bb9-8417-d6c6206f29a0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e1da9a22-a032-4814-b6cf-6964148694a1" reference="Name">Skill</SystemElement>
+    <FocusObject FK="027-b290828e-bc6e-4a01-9a07-ec0286dc0b5c" reference="Name">Sleight of Hand</FocusObject>
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-f7d4712f-ee2b-477f-ad16-71c3ddfff9ea" reference="Name">to conceal a dagger on your body</Limiter>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dart</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-e9a77aa7-fca0-4e77-a87b-11eb3e400c26</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Dart.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.5 lb.</Weight>
+    <Cost>5 sp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>20</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsDart.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Quarterstaff</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-440250e4-ca27-44f9-86de-764e8f0ec3eb</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Quarterstaff.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>-</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning/Bludgeoning</DamageType>
+    <DFDamage>1</DFDamage>
+    <DDDamage>1d2</DDDamage>
+    <DTDamage>1d3</DTDamage>
+    <DMDamage>1d6</DMDamage>
+    <DSDamage>1d4</DSDamage>
+    <DLDamage>1d8</DLDamage>
+    <DHDamage>2d6</DHDamage>
+    <DGDamage>3d6</DGDamage>
+    <DCDamage>4d6</DCDamage>
+    <DDamageType1>Bludgeoning</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2/x2</Critical>
+    <DMultiplier>2</DMultiplier>
+    <DamageFine>1/1</DamageFine>
+    <DamageDiminutive>1d2/1d2</DamageDiminutive>
+    <DamageTiny>1d3/1d3</DamageTiny>
+    <DamageSmall>1d4/1d4</DamageSmall>
+    <DamageMedium>1d6/1d6</DamageMedium>
+    <DamageLarge>1d8/1d8</DamageLarge>
+    <DamageHuge>2d6/2d6</DamageHuge>
+    <DamageGargantuan>3d6/3d6</DamageGargantuan>
+    <DamageColossal>4d6/4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsQuarterstaff.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sickle</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-3564e4b4-c5cc-4352-9500-ecf1beab042b</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sickle.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>6 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSickle.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortspear</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-f7d29aa0-1825-4b12-9bbc-76399e6e4216</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortspear.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>20</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSpear.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sling</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-91dc651d-6ab9-401c-8480-861f8540d662</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sling.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>50</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Light for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSling.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spear</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-f4208a62-7186-482d-b51d-bbcaabef4a2a</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Spear.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>20</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge>Yes</Charge>
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSpear.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scimitar</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-ce0e2c3c-bbef-4326-93da-2feeadf047d2</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Scimitar.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>18</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>18-20/x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsScimitar.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crossbow, Light</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-78d8843d-ce08-41dd-a7e1-6f645bbd3888</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Crossbow, Light.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>35 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>80</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Light for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>-2</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsCrossbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crossbow, Heavy</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-6cef1500-2c80-4815-9d71-0a08bb7d67fe</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Crossbow, Heavy.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>120</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Heavy for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>-4</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsCrossbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Handaxe</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-ccec65c9-6123-4826-8543-ebfaf07ed4ed</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Handaxe.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>6 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageSmall>1d4</DamageSmall>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <RacialWeapon />
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponsAxe.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Javelin</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-e5226ae6-0b9f-4fd0-9883-9cb3395e3b1c</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Javelin.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>30</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee>Yes</ImprovisedMelee>
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageSmall>1d4</DamageSmall>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponsJavelin.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Kama</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-6a47e1a4-80dc-4be7-96ed-915092cccb8e</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Kama.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsKama.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Nunchaku</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-65c6f93e-558f-4ffa-8bee-c60381756e58</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Nunchaku.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsNunchaku.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-83ddcc62-0875-47f4-8f03-68ebccec8df0</ObjectGUID>
+    <ParentGUID>031-65c6f93e-558f-4ffa-8bee-c60381756e58</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sai</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-39245475-abad-4918-9ec3-b12b9426fe08</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sai.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponSai.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+4 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-33dac422-db84-4127-b4a9-d307270d3b29</ObjectGUID>
+    <ParentGUID>031-39245475-abad-4918-9ec3-b12b9426fe08</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+4</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Siangham</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-02a48470-41d7-4f00-9dd3-3fc618d5115d</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Siangham.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>3 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSiangham.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gauntlet</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-46517877-3dd5-4edb-8932-cdcde515a687</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Gauntlet.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage />
+    <TDamage>1</TDamage>
+    <MDamage>1d3</MDamage>
+    <SDamage>1d2</SDamage>
+    <LDamage>1d4</LDamage>
+    <HDamage>1d6</HDamage>
+    <GDamage>1d8</GDamage>
+    <CDamage>2d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsGauntlet.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unarmed Strike</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-5838bb54-5867-4869-aac7-2406899dde34</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Unarmed Strike.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Non-Lethal</Damage>
+    <FDamage />
+    <DDamage />
+    <TDamage>1</TDamage>
+    <MDamage>1d3</MDamage>
+    <SDamage>1d2</SDamage>
+    <LDamage>1d4</LDamage>
+    <HDamage>1d6</HDamage>
+    <GDamage>1d8</GDamage>
+    <CDamage>2d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponUnarmedStrike.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dagger, Punching</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-4a40f740-549d-46ab-9702-fb2dbcb6cf67</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Dagger, Punching.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>2 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsDaggerPunching.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gauntlet, Spiked</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-41e5586a-7e0a-43b5-9328-7213a4c39e9e</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Gauntlet, Spiked.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>1 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsGauntletSpiked.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mace, Light</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-d77888a9-f126-4607-801c-b5ece20a6394</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Mace, Light.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMace.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mace, Heavy</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-ae3e888f-9859-4d8d-ba97-0e2f24b4f538</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Mace, Heavy.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>12 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMace.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Morningstar</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-6a43d409-c12a-4200-8636-e79ea8621fc6</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Morningstar.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>And</Junction>
+    <DamageType2>Piercing</DamageType2>
+    <DamageType>Bludgeoning And Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMorningStar.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longspear</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-bb7fc2db-af37-4b20-a031-eed26b423a69</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longspear.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>9 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted>Yes</ReachRestricted>
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge>Yes</Charge>
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSpear.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Axe, Throwing</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-a659ebc5-c230-4e78-b80b-30df49a72e17</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Axe, Throwing.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxe.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hammer, Light</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-7e22b849-2481-44b1-8aed-08ea8cb764a4</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Hammer, Light.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>1 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>20</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageSmall>1d3</DamageSmall>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <RacialWeapon />
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponsHammer.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Kukri</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-43e829fc-1396-46f2-8297-a6f3974b5377</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Kukri.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>18</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>18-20/x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsKukri.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pick, Light</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b1c72f4f-990c-493e-9168-08c70f208681</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Pick, Light.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>4 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>4</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x4</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsPick.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flail</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-432532bc-bd8d-470b-ab34-365397c6fccf</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Flail.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMorningStar.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-99ab574b-faf7-4784-bee9-362f9cef3aa7</ObjectGUID>
+    <ParentGUID>031-432532bc-bd8d-470b-ab34-365397c6fccf</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pick, Heavy</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-91b091fa-ae7a-485a-b00e-2c683515cd63</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Pick, Heavy.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>4</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x4</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsPick.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rapier</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-1ff03985-bc68-47c7-962d-660e908afbc8</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Rapier.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>18</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>18-20/x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse>Yes</Finesse>
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsRapier.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Trident</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-3261111d-48f1-45cf-8b04-d244d779eb2d</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Trident.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>4 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge>Yes</Charge>
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponTrident.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Warhammer</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-d4b15be9-9b39-4a68-b5f9-780289d84feb</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Warhammer.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>12 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsHammer.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Falchion</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b527258e-e535-41ee-921a-f1165f8ffe39</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Falchion.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>75 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>2d4</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>18</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>18-20/x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>2d4</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsFalchion.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Glaive</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-c2bec4ee-007d-4144-8bf3-4863921d7b4d</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Glaive.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted>Yes</ReachRestricted>
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponGlaive.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Greataxe</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-fe9ffd69-6be4-41c6-9302-ce2d034491fc</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Greataxe.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d4</FDamage>
+    <DDamage>1d6</DDamage>
+    <TDamage>1d8</TDamage>
+    <MDamage>1d12</MDamage>
+    <SDamage>1d10</SDamage>
+    <LDamage>3d6</LDamage>
+    <HDamage>4d6</HDamage>
+    <GDamage>6d6</GDamage>
+    <CDamage>8d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d4</DamageFine>
+    <DamageDiminutive>1d6</DamageDiminutive>
+    <DamageTiny>1d8</DamageTiny>
+    <DamageSmall>1d10</DamageSmall>
+    <DamageMedium>1d12</DamageMedium>
+    <DamageLarge>3d6</DamageLarge>
+    <DamageHuge>4d6</DamageHuge>
+    <DamageGargantuan>6d6</DamageGargantuan>
+    <DamageColossal>8d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Greatclub</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-679ae283-de12-40a2-8490-26b526c9f4f2</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Greatclub.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsClub.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crossbow, Hand</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-a04362af-4291-44fd-8e1e-7cee897123a9</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Crossbow, Hand.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>30</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Light for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsCrossbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flail, Heavy</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-4faad68c-b068-4736-bf83-94a7f371ea29</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Flail, Heavy.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>15 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMorningStar.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-bb7de3a1-88ed-4969-8a18-aa13f1d7189b</ObjectGUID>
+    <ParentGUID>031-4faad68c-b068-4736-bf83-94a7f371ea29</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Greatsword</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-0654b184-7ffc-41dc-88c7-009b10d56772</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Greatsword.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d4</FDamage>
+    <DDamage>1d6</DDamage>
+    <TDamage>1d8</TDamage>
+    <MDamage>2d6</MDamage>
+    <SDamage>1d10</SDamage>
+    <LDamage>3d6</LDamage>
+    <HDamage>4d6</HDamage>
+    <GDamage>6d6</GDamage>
+    <CDamage>8d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d4</DamageFine>
+    <DamageDiminutive>1d6</DamageDiminutive>
+    <DamageTiny>1d8</DamageTiny>
+    <DamageSmall>1d10</DamageSmall>
+    <DamageMedium>2d6</DamageMedium>
+    <DamageLarge>3d6</DamageLarge>
+    <DamageHuge>4d6</DamageHuge>
+    <DamageGargantuan>6d6</DamageGargantuan>
+    <DamageColossal>8d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponGreatSword.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Guisarme</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-313d9268-2bee-4f96-aed6-d6575a44e69e</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Guisarme.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>9 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted>Yes</ReachRestricted>
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>2d4</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>2d4</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponGuisarme.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Halberd</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-62a96bf5-7575-44f2-99c7-93fa1d171e23</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Halberd.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>Or</Junction>
+    <DamageType2>Slashing</DamageType2>
+    <DamageType>Piercing Or Slashing</DamageType>
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageSmall>1d8</DamageSmall>
+    <Trip>Yes</Trip>
+    <Charge>Yes</Charge>
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <RacialWeapon />
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponHalberd.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lance</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-188b9e9a-42fd-4d92-9d2a-e2f276302162</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Lance.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted>Yes</ReachRestricted>
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsLance.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ranseur</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-9c97e9da-9aab-49d9-80db-a995f27642dd</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Ranseur.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>10 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted>Yes</ReachRestricted>
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>2d4</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>2d4</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponRanseur.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-7b6bdb01-698c-42e7-a9e5-adc6bc2d6176</ObjectGUID>
+    <ParentGUID>031-9c97e9da-9aab-49d9-80db-a995f27642dd</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scythe</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-7fbe0684-243c-4720-903d-aacca6021897</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Scythe.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>18 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>2d4</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>4</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>Or</Junction>
+    <DamageType2>Slashing</DamageType2>
+    <DamageType>Piercing Or Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x4</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>2d4</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsScythe.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>75 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>100</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow, Composite</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b9b0ad7f-569d-48a8-9a85-bae1fa96e4a0</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>110</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26" reference="Name">Longbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow, Composite (+1)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-2e3f79dd-efb9-42bd-b54f-e31f6667537d</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>200 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>110</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+1</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26" reference="Name">Longbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow, Composite (+2)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-c0935238-9c82-40a0-9613-afb7fd6559c1</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>300 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>110</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+2</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26" reference="Name">Longbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow, Composite (+3)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-63ce6f68-83d9-4265-b83c-70410ea67a61</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>400 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>110</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+3</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26" reference="Name">Longbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Longbow, Composite (+4)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-b292a4ba-5627-44bf-aa8c-5754c3a27b1c</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Longbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>3 lb.</Weight>
+    <Cost>500 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>110</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+4</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-6cb24bee-053e-4a7f-8cd0-a07e9350ab26" reference="Name">Longbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>60</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsBow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow, Composite</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-d221b474-2873-48c6-bfcb-543587018a8f</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>75 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>70</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55" reference="Name">Shortbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow, Composite (+1)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-780e77dc-bf64-4b68-8634-79706add0ab7</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>150 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>70</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+1</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55" reference="Name">Shortbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow, Composite (+2)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-59379339-216f-43e1-94bf-017dbddd27fb</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>225 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>70</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+2</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55" reference="Name">Shortbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow, Composite (+3)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-f187d228-1b80-48a7-807a-50127f9e0625</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>300 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>70</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+3</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55" reference="Name">Shortbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shortbow, Composite (+4)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-c8c33b6a-bc44-4377-b7de-29d9e94640c9</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shortbow, Composite.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>375 gp</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>70</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed Only</Encumbrance>
+    <MaxStrengthBonus>+4</MaxStrengthBonus>
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-4c6bc0c2-8350-42e9-bf7f-43bd3038fa55" reference="Name">Shortbow</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCompositeLongbow.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword, Bastard</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-bfbc51f2-0cd6-4bd7-ae15-9591db298b6c</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sword, Bastard.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>35 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded>Yes</MartialOneHanded>
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponBastardSword.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Waraxe, Dwarven</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-f6763957-70a0-45db-b5d9-677b21e1668f</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Waraxe, Dwarven.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>8 lb.</Weight>
+    <Cost>30 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded>Yes</MartialOneHanded>
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Axe, Orc Double</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-3da09ecf-3c75-429a-9030-1d45b15efb4a</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Axe, Orc Double.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>15 lb.</Weight>
+    <Cost>60 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing/Slashing</DamageType>
+    <DFDamage>1d2</DFDamage>
+    <DDDamage>1d3</DDDamage>
+    <DTDamage>1d4</DTDamage>
+    <DMDamage>1d8</DMDamage>
+    <DSDamage>1d6</DSDamage>
+    <DLDamage>2d6</DLDamage>
+    <DHDamage>3d6</DHDamage>
+    <DGDamage>4d6</DGDamage>
+    <DCDamage>6d6</DCDamage>
+    <DDamageType1>Slashing</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3/x3</Critical>
+    <DMultiplier>3</DMultiplier>
+    <DamageFine>1d2/1d2</DamageFine>
+    <DamageDiminutive>1d3/1d3</DamageDiminutive>
+    <DamageTiny>1d4/1d4</DamageTiny>
+    <DamageSmall>1d6/1d6</DamageSmall>
+    <DamageMedium>1d8/1d8</DamageMedium>
+    <DamageLarge>2d6/2d6</DamageLarge>
+    <DamageHuge>3d6/3d6</DamageHuge>
+    <DamageGargantuan>4d6/4d6</DamageGargantuan>
+    <DamageColossal>6d6/6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxeLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chain, Spiked</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-98470822-c437-4edd-ba43-332ff46c3830</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Chain, Spiked.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>25 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach>Yes</Reach>
+    <ReachRange>10 ft.</ReachRange>
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>2d4</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>2d4</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse>Yes</Finesse>
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSpikedChain.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-3e854f64-9c35-49ff-82b9-360448ca882a</ObjectGUID>
+    <ParentGUID>031-98470822-c437-4edd-ba43-332ff46c3830</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flail, Dire</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-e0f63e86-1b4d-431d-8bac-f620f26f61fe</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Flail, Dire.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>90 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning/Bludgeoning</DamageType>
+    <DFDamage>1d2</DFDamage>
+    <DDDamage>1d3</DDDamage>
+    <DTDamage>1d4</DTDamage>
+    <DMDamage>1d8</DMDamage>
+    <DSDamage>1d6</DSDamage>
+    <DLDamage>2d6</DLDamage>
+    <DHDamage>3d6</DHDamage>
+    <DGDamage>4d6</DGDamage>
+    <DCDamage>6d6</DCDamage>
+    <DDamageType1>Bludgeoning</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2/x2</Critical>
+    <DMultiplier>2</DMultiplier>
+    <DamageFine>1d2/1d2</DamageFine>
+    <DamageDiminutive>1d3/1d3</DamageDiminutive>
+    <DamageTiny>1d4/1d4</DamageTiny>
+    <DamageSmall>1d6/1d6</DamageSmall>
+    <DamageMedium>1d8/1d8</DamageMedium>
+    <DamageLarge>2d6/2d6</DamageLarge>
+    <DamageHuge>3d6/3d6</DamageHuge>
+    <DamageGargantuan>4d6/4d6</DamageGargantuan>
+    <DamageColossal>6d6/6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsMorningStar.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Disarm Opposed Roll</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-87313461-ad27-48dd-afd9-054ec3904be1</ObjectGUID>
+    <ParentGUID>031-e0f63e86-1b4d-431d-8bac-f620f26f61fe</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hammer, Gnome Hooked</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-82e2cec7-db9f-4d53-ae74-c7e6ccdb7e90</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Hammer, Gnome Hooked.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning/Piercing</DamageType>
+    <DMDamage>1d6</DMDamage>
+    <DSDamage>1d4</DSDamage>
+    <DLDamage>1d8</DLDamage>
+    <DDamageType1>Piercing</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3/x4</Critical>
+    <DMultiplier>4</DMultiplier>
+    <DamageLarge>2d6/1d8</DamageLarge>
+    <DamageMedium>1d8/1d6</DamageMedium>
+    <DamageSmall>1d6/1d4</DamageSmall>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <RacialWeapon FK="026-a2fb4669-097b-444d-86fe-2d504b004d7f" reference="Name">Gnome</RacialWeapon>
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponsHammer.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sword, Two-Bladed</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-85154cfd-91d6-4470-8bc4-625224a900a2</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sword, Two-Bladed.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>10 lb.</Weight>
+    <Cost>100 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing/Slashing</DamageType>
+    <DFDamage>1d2</DFDamage>
+    <DDDamage>1d3</DDDamage>
+    <DTDamage>1d4</DTDamage>
+    <DMDamage>1d8</DMDamage>
+    <DSDamage>1d6</DSDamage>
+    <DLDamage>2d6</DLDamage>
+    <DHDamage>3d6</DHDamage>
+    <DGDamage>4d6</DGDamage>
+    <DCDamage>6d6</DCDamage>
+    <DDamageType1>Slashing</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2/x2</Critical>
+    <DMultiplier>2</DMultiplier>
+    <DamageFine>1d2/1d2</DamageFine>
+    <DamageDiminutive>1d3/1d3</DamageDiminutive>
+    <DamageTiny>1d4/1d4</DamageTiny>
+    <DamageSmall>1d6/1d6</DamageSmall>
+    <DamageMedium>1d8/1d8</DamageMedium>
+    <DamageLarge>2d6/2d6</DamageLarge>
+    <DamageHuge>3d6/3d6</DamageHuge>
+    <DamageGargantuan>4d6/4d6</DamageGargantuan>
+    <DamageColossal>6d6/6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponTwo-BladedSword.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Urgrosh, Dwarven</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-75383571-32e2-4f72-8f7a-3edb2a284362</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Urgrosh, Dwarven.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>50 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Two-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double>Yes</Double>
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing/Piercing</DamageType>
+    <DFDamage>1</DFDamage>
+    <DDDamage>1d2</DDDamage>
+    <DTDamage>1d3</DTDamage>
+    <DMDamage>1d6</DMDamage>
+    <DSDamage>1d4</DSDamage>
+    <DLDamage>1d8</DLDamage>
+    <DHDamage>2d6</DHDamage>
+    <DGDamage>3d6</DGDamage>
+    <DCDamage>4d6</DCDamage>
+    <DDamageType1>Piercing</DDamageType1>
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3/x3</Critical>
+    <DMultiplier>3</DMultiplier>
+    <DamageFine>1d2/1</DamageFine>
+    <DamageDiminutive>1d3/1d2</DamageDiminutive>
+    <DamageTiny>1d4/1d3</DamageTiny>
+    <DamageSmall>1d6/1d4</DamageSmall>
+    <DamageMedium>1d8/1d6</DamageMedium>
+    <DamageLarge>2d6/1d8</DamageLarge>
+    <DamageHuge>3d6/2d6</DamageHuge>
+    <DamageGargantuan>4d6/3d6</DamageGargantuan>
+    <DamageColossal>6d6/4d6</DamageColossal>
+    <Trip />
+    <Charge>Yes</Charge>
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsAxe.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bolas</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-5ff23a02-04d6-465f-88c8-2e386fff8341</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Bolas.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>5 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage>1</DDamage>
+    <TDamage>1d2</TDamage>
+    <MDamage>1d4</MDamage>
+    <SDamage>1d3</SDamage>
+    <LDamage>1d6</LDamage>
+    <HDamage>1d8</HDamage>
+    <GDamage>2d6</GDamage>
+    <CDamage>3d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive>1</DamageDiminutive>
+    <DamageTiny>1d2</DamageTiny>
+    <DamageSmall>1d3</DamageSmall>
+    <DamageMedium>1d4</DamageMedium>
+    <DamageLarge>1d6</DamageLarge>
+    <DamageHuge>1d8</DamageHuge>
+    <DamageGargantuan>2d6</DamageGargantuan>
+    <DamageColossal>3d6</DamageColossal>
+    <Trip>Yes</Trip>
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsBolas.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crossbow, Repeating Heavy</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-e86d46f7-2efa-49d3-a22b-fb98fe7e3141</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Crossbow, Repeating Heavy.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>12 lb.</Weight>
+    <Cost>400 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>12</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Heavy for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>-4</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCrossbowRepeating.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crossbow, Repeating Light</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-cad26a2e-e397-4478-8b43-c37b91edfffa</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Crossbow, Repeating Light.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>250 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>80</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>Two-Handed (Light for 1 Hand Fire)</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded>Yes</FireOneHanded>
+    <FireOneHandedPenalty>-2</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponCrossbowRepeating.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shuriken</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-1ef1836f-6f21-41d2-839d-1304000c1e74</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Shuriken.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.1 lb.</Weight>
+    <Cost>2 sp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus>Yes</ApplyBonus>
+    <ApplyPenalty>Yes</ApplyPenalty>
+    <Ammo>Yes</Ammo>
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage />
+    <TDamage />
+    <MDamage>1d2</MDamage>
+    <SDamage>1</SDamage>
+    <LDamage>1d3</LDamage>
+    <HDamage>1d4</HDamage>
+    <GDamage>1d6</GDamage>
+    <CDamage>1d8</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny />
+    <DamageSmall>1</DamageSmall>
+    <DamageMedium>1d2</DamageMedium>
+    <DamageLarge>1d3</DamageLarge>
+    <DamageHuge>1d4</DamageHuge>
+    <DamageGargantuan>1d6</DamageGargantuan>
+    <DamageColossal>1d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk>Yes</Monk>
+    <Shadows />
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsShuriken.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarven Thrower (Base)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-65bb84b1-c64a-45be-84a9-4db3327da436</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Dwarven Thrower (Base).htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>-</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>30</RangeIncrement>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem>Yes</BaseItem>
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>3</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x3</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-d4b15be9-9b39-4a68-b5f9-780289d84feb" reference="Name">Warhammer</Shadows>
+    <Description>Base item for Dwarven Thrower.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsHammer.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sunblade (Base)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-d61cf666-2a80-43c3-9ab7-c2af20f070c6</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Sunblade (Base).htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>2 lb.</Weight>
+    <Cost>35 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork>Yes</Masterwork>
+    <BaseItem>Yes</BaseItem>
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-bfbc51f2-0cd6-4bd7-ae15-9591db298b6c" reference="Name">Sword, Bastard</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponBastardSword.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gauntlet, Locked</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-8d3780fc-6bf8-44be-b5f7-ebb8579e030e</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Gauntlet, Locked.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>5 lb.</Weight>
+    <Cost>8 gp</Cost>
+    <Training>Simple</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage />
+    <DDamage />
+    <TDamage>1</TDamage>
+    <MDamage>1d3</MDamage>
+    <SDamage>1d2</SDamage>
+    <LDamage>1d4</LDamage>
+    <HDamage>1d6</HDamage>
+    <GDamage>1d8</GDamage>
+    <CDamage>2d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine />
+    <DamageDiminutive />
+    <DamageTiny>1</DamageTiny>
+    <DamageSmall>1d2</DamageSmall>
+    <DamageMedium>1d3</DamageMedium>
+    <DamageLarge>1d4</DamageLarge>
+    <DamageHuge>1d6</DamageHuge>
+    <DamageGargantuan>1d8</DamageGargantuan>
+    <DamageColossal>2d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-46517877-3dd5-4edb-8932-cdcde515a687" reference="Name">Gauntlet</Shadows>
+    <Description />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsGauntlet.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+10 Disarm Opposed Roll [to avoid being disarmed]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>031-c37dbcc6-54c8-4f38-b04d-6d51eafa4251</ObjectGUID>
+    <ParentGUID>031-8d3780fc-6bf8-44be-b5f7-ebb8579e030e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-54affb89-56a2-4467-aec1-6a6f3e55cce7" reference="Name">Disarm Opposed Roll</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+10</Modifier>
+    <ModifierType>Undefined</ModifierType>
+    <Limiter FK="024-cfbe7838-c825-4012-9514-1bd693d546d8" reference="Name">to avoid being disarmed</Limiter>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Net</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-83a38f35-47f1-44b3-8fb4-89d2d0132b46</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Net.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>6 lb.</Weight>
+    <Cost>20 gp</Cost>
+    <Training>Exotic</Training>
+    <RangeIncrement>10</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Ranged</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <MaxStrengthBonus />
+    <ApplyBonus />
+    <ApplyPenalty />
+    <Ammo />
+    <FireOneHanded />
+    <FireOneHandedPenalty>0</FireOneHandedPenalty>
+    <ImprovisedMelee />
+    <Thrown>Yes</Thrown>
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>No Damage</Damage>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description />
+    <ImageFilename>WeaponsNet.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Arrow</Name>
+    <Type>Ammunition Definition</Type>
+    <ObjectGUID>031-f010f9ae-5664-4630-86ab-0b5f640751a6</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Arrow.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.15 lb.</Weight>
+    <Cost>5 cp</Cost>
+    <Description />
+    <ImageFilename>WeaponsArrow.png</ImageFilename>
+    <WeaponType>Ammo</WeaponType>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bolt, Crossbow</Name>
+    <Type>Ammunition Definition</Type>
+    <ObjectGUID>031-dda91d3d-7d8c-45f6-8edd-e4658a8ab134</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Bolt, Crossbow.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.1 lb.</Weight>
+    <Cost>1 sp</Cost>
+    <WeaponType>Ammo</WeaponType>
+    <Description />
+    <ImageFilename>WeaponsBolt.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bullet, Sling</Name>
+    <Type>Ammunition Definition</Type>
+    <ObjectGUID>031-6008448b-b7ae-484d-9103-50d6f0507d87</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Bullet, Sling.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.5 lb.</Weight>
+    <Cost>1 cp</Cost>
+    <WeaponType>Ammo</WeaponType>
+    <Description />
+    <ImageFilename>WeaponsSlingBullet.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bolt, Crossbow, Repeating</Name>
+    <Type>Ammunition Definition</Type>
+    <ObjectGUID>031-6f620b54-7246-4a50-870a-27da7a8fbecc</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Bolt, Crossbow.htm</HTML>
+    <HTMLGUID>031-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>0.2 lb.</Weight>
+    <Cost>2 sp</Cost>
+    <WeaponType>Ammo</WeaponType>
+    <Description />
+    <ImageFilename>WeaponsBolt.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor Spikes</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-c12c235c-94e7-4837-947f-b41ccfa767b2</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Armor Spikes.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty />
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description>This weapon can be used to represent the spikes on your armor.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>ArmorFullPlate.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mind Blade</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-d00dbd0d-7b59-4433-9125-e7a24d586881</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Mind Blade.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>Light</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1</FDamage>
+    <DDamage>1d2</DDamage>
+    <TDamage>1d3</TDamage>
+    <MDamage>1d6</MDamage>
+    <SDamage>1d4</SDamage>
+    <LDamage>1d8</LDamage>
+    <HDamage>2d6</HDamage>
+    <GDamage>3d6</GDamage>
+    <CDamage>4d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1</DamageFine>
+    <DamageDiminutive>1d2</DamageDiminutive>
+    <DamageTiny>1d3</DamageTiny>
+    <DamageSmall>1d4</DamageSmall>
+    <DamageMedium>1d6</DamageMedium>
+    <DamageLarge>1d8</DamageLarge>
+    <DamageHuge>2d6</DamageHuge>
+    <DamageGargantuan>3d6</DamageGargantuan>
+    <DamageColossal>4d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows />
+    <Description>A semisolid blade composed of psychic energy.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsDagger.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mind Blade (Longsword)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-f7d368a5-5ec7-47d1-bdb1-7480b7b2cf91</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Mind Blade.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d2</FDamage>
+    <DDamage>1d3</DDamage>
+    <TDamage>1d4</TDamage>
+    <MDamage>1d8</MDamage>
+    <SDamage>1d6</SDamage>
+    <LDamage>2d6</LDamage>
+    <HDamage>3d6</HDamage>
+    <GDamage>4d6</GDamage>
+    <CDamage>6d6</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d2</DamageFine>
+    <DamageDiminutive>1d3</DamageDiminutive>
+    <DamageTiny>1d4</DamageTiny>
+    <DamageSmall>1d6</DamageSmall>
+    <DamageMedium>1d8</DamageMedium>
+    <DamageLarge>2d6</DamageLarge>
+    <DamageHuge>3d6</DamageHuge>
+    <DamageGargantuan>4d6</DamageGargantuan>
+    <DamageColossal>6d6</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-d00dbd0d-7b59-4433-9125-e7a24d586881" reference="Name">Mind Blade</Shadows>
+    <Description>A semisolid blade composed of psychic energy.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponsSwordLarge.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mind Blade (Bastard Sword)</Name>
+    <Type>Weapon Definition</Type>
+    <ObjectGUID>031-3bf306dc-e74b-4044-aa25-207189f0540a</ObjectGUID>
+    <ParentGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ParentGUID>
+    <HTML>Weapons\Mind Blade.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Weight>-</Weight>
+    <Cost>-</Cost>
+    <Training>Martial</Training>
+    <RangeIncrement>-</RangeIncrement>
+    <Masterwork />
+    <BaseItem />
+    <WeaponType>Melee</WeaponType>
+    <Encumbrance>One-Handed</Encumbrance>
+    <Reach />
+    <ReachRange />
+    <ReachRestricted />
+    <Double />
+    <MartialOneHanded />
+    <Thrown />
+    <BucklerPenalty>Yes</BucklerPenalty>
+    <Damage>Lethal</Damage>
+    <FDamage>1d3</FDamage>
+    <DDamage>1d4</DDamage>
+    <TDamage>1d6</TDamage>
+    <MDamage>1d10</MDamage>
+    <SDamage>1d8</SDamage>
+    <LDamage>2d8</LDamage>
+    <HDamage>3d8</HDamage>
+    <GDamage>4d8</GDamage>
+    <CDamage>6d8</CDamage>
+    <ThreatRange>19</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <DFDamage />
+    <DDDamage />
+    <DTDamage />
+    <DMDamage />
+    <DSDamage />
+    <DLDamage />
+    <DHDamage />
+    <DGDamage />
+    <DCDamage />
+    <DDamageType1 />
+    <DJunction />
+    <DDamageType2 />
+    <Critical>19-20/x2</Critical>
+    <DamageFine>1d3</DamageFine>
+    <DamageDiminutive>1d4</DamageDiminutive>
+    <DamageTiny>1d6</DamageTiny>
+    <DamageSmall>1d8</DamageSmall>
+    <DamageMedium>1d10</DamageMedium>
+    <DamageLarge>2d8</DamageLarge>
+    <DamageHuge>3d8</DamageHuge>
+    <DamageGargantuan>4d8</DamageGargantuan>
+    <DamageColossal>6d8</DamageColossal>
+    <Trip />
+    <Charge />
+    <Finesse />
+    <FinesseTwoHanded />
+    <Monk />
+    <Shadows FK="031-d00dbd0d-7b59-4433-9125-e7a24d586881" reference="Name">Mind Blade</Shadows>
+    <Description>A semisolid blade composed of psychic energy.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>WeaponBastardSword.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

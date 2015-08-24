@@ -1,0 +1,1377 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Claw (1d3)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-80ee95df-080f-41cb-8d18-ca0ec8014da5</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>1d3</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Claw.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tentacle (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-d19149d9-e630-4ae9-86be-c0a1d0773065</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tentacle</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Tentacle.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talon (1d3)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-1d8dfa90-5c7c-40bb-bdd1-96c95d5936f1</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Talon</AttackType>
+    <Damage>1d3</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Talon.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-a2011413-4b38-4b8f-b767-f489cc2f4147</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>TailSlap.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-23d3332b-fad1-4670-b8d1-08750b11c0cb</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-6d08257f-4d12-4d6a-9cc9-d1386e4c2a7f</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Claw.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-1fbd1a0a-adac-40ee-984f-83246d181500</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-06207bb2-7c59-46ae-93a6-79b878ff19e2</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hoof (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-5f2b56a3-bb23-48df-a12f-deac4ba2b072</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Hoof</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Stamp.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-d2c1ff48-a35a-449d-9abf-418921acc8e5</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Claw.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gore (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-b7c683e0-7d4d-473f-a7a5-8b3a29d8ae13</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Gore</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Gore.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (1d2)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-770fd97c-d7d2-4e28-84be-f145b1b0b503</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>1d2</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Claw.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1d3)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-74afa02b-9113-4c6a-be5f-6cef0bc85eab</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d3</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-426124ba-a4f9-4169-b98e-ddd0ad3f22be</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Claw.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-7b92fe45-c301-48c2-9493-d9671e117928</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gore (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-1dbde2b5-57bd-40da-b8ff-dd9c33d5dcac</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Gore</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Gore.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-92a0465d-c9b2-42bb-b57e-a36097e05612</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (1d12)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-1f1c3457-830a-437d-bbc0-308575907ec1</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>1d12</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>TailSlap.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-cf6e0166-78f4-49d7-af85-7d01bf263be5</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ImageFilename>Bite.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1d2)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-a659063f-79b5-4339-b48a-245d6f955864</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d2</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talon (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-ce0c3281-b2b4-42a7-831f-199b23c6aa89</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Talon</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gore (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-61c86625-00fa-49d4-8364-750506f68c66</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Gore</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Gore.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-171457b5-8865-43b5-a97a-f86be424bb9e</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Stamp (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-908f036b-9771-4138-b379-de8f3814a6cf</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Stamp</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Stamp.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hoof (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-03cf0d32-26c3-4360-a818-4034ae07a20d</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Hoof</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Stamp.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ram (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-304184a5-eb47-4b43-88c6-9229efec7771</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Ram</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Arms (1)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-ac176821-e2fb-4ca5-9b06-8ec0f01a00e9</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Arm</AttackType>
+    <Damage>1</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Tentacle.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hoof (1d3)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-17ae36eb-de21-4c23-b7ad-9a69e1d681ff</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Hoof</AttackType>
+    <Damage>1d3</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Stamp.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (2d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-47f0cd69-0482-4996-9b55-a05c05d58147</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>2d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gore (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-7150a87c-fc9c-4db1-8ce6-881d195e77fd</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Gore</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Gore.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (1)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-538c30cf-a6c9-4d10-b297-7c6f0c5c358f</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tentacle (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-6f7b645f-a87e-4f6e-b972-e146f9bbc96f</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tentacle</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Tentacle.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-c696626e-03f0-4494-8ef1-ebc2efe5cb4b</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>TailSlap.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (4d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-0c2dff5a-3631-40e5-839e-e350c6ff64b4</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>4d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <Critical>x2</Critical>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Piercing</DamageType>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (2d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-91c13978-e1ba-41f9-883c-71a25690d948</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>2d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Claw.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (2d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-af953a33-43c6-4bb0-9011-cd6a0aa156a6</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>2d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talon (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-cbfdd986-32d2-4de8-b8c1-ff9c0fd3d784</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Talon</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Talon (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-20b97fd0-9d07-4a8c-a48a-ef6b56f83eed</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Talon</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hoof (1d2)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-ba602cba-7d98-4946-876a-f56f7769fca4</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Hoof</AttackType>
+    <Damage>1d2</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Stamp.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Headbutt (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-6988b6c4-985e-4d7b-be8a-0af460fa6061</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Headbutt</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (3d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-9b13885a-3bb2-4e32-b638-03052e79a42d</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>3d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction />
+    <DamageType2 />
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-1c3519ed-97a6-4c98-b30b-3ef8a95fe2aa</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Claw.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wing (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-24533adb-4574-4a36-9ae0-2077d8b859b8</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Wing</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-818aebd5-0941-46b9-a225-e25442105e8d</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>TailSlap.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Bite (4d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-6b7b8fe9-9e46-484c-9ce9-a953a7d454c6</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>4d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-fb9602f9-d301-4fa3-9685-73f236f12165</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Claw.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw (4d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-41ca1a05-48b0-4d6a-9376-e02f8982d4ce</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Claw</AttackType>
+    <Damage>4d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Slashing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Slashing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Claw.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-ac4ab628-a095-4eea-8b2a-30ee58eec82b</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>TailSlap.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tail (4d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-b20b2c8a-73d2-40ce-9a5d-7526ba305bdd</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Tail</AttackType>
+    <Damage>4d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>TailSlap.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wing (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-e8c3b8b1-f7ad-4cd3-9205-7f2d0adbea4c</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Wing</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wing (1d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-ddfac48c-f828-4c73-bab2-a0164ea2d363</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Wing</AttackType>
+    <Damage>1d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wing (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-4ff5b046-b0e8-4bd2-9cf0-7792d743c8b0</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Wing</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wing (2d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-f0c38739-f26b-47cd-af6b-3e15b6989816</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Wing</AttackType>
+    <Damage>2d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Talon.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Swarm (2d6)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-a635d386-34ae-4beb-b55b-a7c190f3bfb4</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (2d6) + 2d6 Acid</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-38355b55-f0a0-4fac-9c70-e501d56489f0</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>2d6</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <ExtraDamage>2d6 Acid</ExtraDamage>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Snakes (1d4)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-8a957726-a44c-47e5-96f0-eac8a6cc174d</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Bite</AttackType>
+    <Damage>1d4</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Piercing</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Piercing</DamageType>
+    <Critical>x2</Critical>
+    <ExtraDamage>Poison</ExtraDamage>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Bite.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (2d10)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-9c58fe51-121a-4475-a302-a62315b8fc2a</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>2d10</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Slam (1d8)</Name>
+    <Type>Natural Weapon Definition</Type>
+    <ObjectGUID>038-4c44bd65-8781-4127-a9ff-a351363ff408</ObjectGUID>
+    <ParentGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <AttackType>Slam</AttackType>
+    <Damage>1d8</Damage>
+    <WeaponType>Melee</WeaponType>
+    <ThreatRange>20</ThreatRange>
+    <Multiplier>2</Multiplier>
+    <DamageType1>Bludgeoning</DamageType1>
+    <Junction>
+    </Junction>
+    <DamageType2>
+    </DamageType2>
+    <DamageType>Bludgeoning</DamageType>
+    <Critical>x2</Critical>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>
+    </Tags>
+    <PageNoRef>
+    </PageNoRef>
+    <ImageFilename>Slam.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

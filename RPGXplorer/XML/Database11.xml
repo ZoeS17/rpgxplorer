@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Common</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-d14113dd-ac9f-41bc-a3cc-bd0e80b0f240</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Common.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Elven</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-676706b4-4038-45ce-b7dc-9318d21b04e9</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Elven.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gnome</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-1ca8bb42-31ee-4e0b-8daa-927bf8f1de15</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Gnome.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dwarven</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-32a803d7-d247-4a88-94fc-91f132cfcd86</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Dwarven.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Giant</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-c2596683-b3af-4d67-969f-e3b8b5c0f2ff</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Giant.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Orc</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-ea3f5a45-2499-4861-8a5d-483a023fc95b</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Orc.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Draconic</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-93d51696-b49b-4a79-a637-c11c7e9a98b4</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Draconic.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Terran</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-3f1cd163-3cb2-4416-83dc-57c69428821d</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Terran.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Undercommon</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-e25515e3-aae1-424b-8446-b1ce426f3dd4</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Undercommon.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Goblin</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-6a823fcb-2f79-4ae4-a9f5-66eba26fa0c2</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Goblin.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sylvan</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-116d74b6-e115-40fe-8aca-0a5e4fae64bc</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Sylvan.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abyssal</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-ae3e7059-74a5-4c75-a174-05274a160ee1</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Abyssal.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Halfling</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-bc379c10-36d7-4064-9584-44f32bd9941f</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Halfling.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Gnoll</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-2406334c-ef91-421a-8c22-62852ad34e94</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Gnoll.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Celestial</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-a6ff4f2f-62ea-4366-a1ed-d02dbcc9db4c</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Celestial.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Druidic</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-5db92267-e1aa-477c-9dc3-a071227ce006</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Druidic.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Infernal</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-29654fdd-6433-48f1-a225-5d656c5edde7</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Infernal.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Aquan</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-75df47aa-42a4-4b73-a019-608353270e0a</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Aquan.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Auran</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-327449f1-ad02-43e1-864c-4bd654b96a5a</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Auran.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ignan</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-7a301d8f-0ef6-4a35-9f9a-ff6876b1bd0c</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Ignan.htm</HTML>
+    <HTMLGUID>011-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Read and Write</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-c9108486-f4d7-4e6c-8e03-d895164501ee</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Literacy.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Drow Sign Language</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-fe908378-9218-42de-93a9-175fe01c7f87</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Drow Sign Language.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Forest Animal</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-f2bc699d-4ecf-40a9-aee2-508153fa9cd9</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Forest Animal.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Maenad</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-6eabf86e-01d9-4640-9a41-7ed26d5bbef6</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Maenad.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Xeph</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-93cfa87d-a58c-40ce-88f4-224309f22f76</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Xepth.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Grimlock</Name>
+    <Type>Language Definition</Type>
+    <ObjectGUID>011-fdcd8af5-8492-4055-a222-2ff1e9f7a7ac</ObjectGUID>
+    <ParentGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ParentGUID>
+    <HTML>Languages\Grimlock.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

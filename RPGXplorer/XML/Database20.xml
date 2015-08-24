@@ -1,0 +1,2070 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Staff of Abjuration</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Abjuration.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <Description>Carved from the heartwood of an ancient oak or other large tree.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-4ebf15f3-dcb8-451c-99e1-9baab2d0c2dc</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b9a33cf3-c4f0-423a-ae36-c9e99066a3c0</HTMLGUID>
+    <Spell FK="030-b9a33cf3-c4f0-423a-ae36-c9e99066a3c0" reference="Name">Shield</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Resist Energy</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-7bc34bbd-2219-4092-9336-c1f76ed2a39a</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-971d3f39-7c8b-48a8-9850-d39f88743839</HTMLGUID>
+    <Spell FK="030-971d3f39-7c8b-48a8-9850-d39f88743839" reference="Name">Resist Energy</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dispel Magic</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-157e5b2c-0e76-4d9c-a097-5f3599dfc2f3</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-415954c1-b0f2-4194-a20c-c86af4c28077</HTMLGUID>
+    <Spell FK="030-415954c1-b0f2-4194-a20c-c86af4c28077" reference="Name">Dispel Magic</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Globe of Invulnerability, Lesser</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-bd107d3f-3072-4552-9b39-b9c9d0f7f94a</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-c31b03c5-1a4d-4cf5-bf01-4745f1749ef7</HTMLGUID>
+    <Spell FK="030-c31b03c5-1a4d-4cf5-bf01-4745f1749ef7" reference="Name">Globe of Invulnerability, Lesser</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dismissal</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-fa79d311-292d-4207-91b7-27ff021e3e0e</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-20ef3a0f-b6ca-49f7-bc94-68fa185e9fec</HTMLGUID>
+    <Spell FK="030-20ef3a0f-b6ca-49f7-bc94-68fa185e9fec" reference="Name">Dismissal</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Repulsion</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-63b074c4-1010-47e0-8c0d-22122e0810bf</ObjectGUID>
+    <ParentGUID>020-e6ec946d-78da-47fd-9279-94abb1788a4b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ebf4ac33-fdd5-4d68-b0ab-d7efafb135a6</HTMLGUID>
+    <Spell FK="030-ebf4ac33-fdd5-4d68-b0ab-d7efafb135a6" reference="Name">Repulsion</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Charming</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-a51f6f99-ce31-48d6-ae2b-d4947870e079</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Charming.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>16500 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <Description>Made of twisting wood ornately shaped and carved.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm Person</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-b4e10496-9e61-41c9-be0e-f5b2ed64b7ed</ObjectGUID>
+    <ParentGUID>020-a51f6f99-ce31-48d6-ae2b-d4947870e079</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62</HTMLGUID>
+    <Spell FK="030-ceb61eb4-90a2-44ea-88a7-5f00685ebd62" reference="Name">Charm Person</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm Monster</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-6189fe2c-6070-42a7-ae54-3795dc85496a</ObjectGUID>
+    <ParentGUID>020-a51f6f99-ce31-48d6-ae2b-d4947870e079</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-f84bc9de-be38-45c6-bf31-d85a1e2ffd2b</HTMLGUID>
+    <Spell FK="030-f84bc9de-be38-45c6-bf31-d85a1e2ffd2b" reference="Name">Charm Monster</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Conjuration</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Conjuration.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <Description>Made of ash or walnut and bearing ornate carvings of many different creatures.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Unseen Servant</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-0f7cdc14-fd64-4a08-985f-9129d8485f84</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-17eae266-8a19-4de9-aa29-1fcefe7dcf69</HTMLGUID>
+    <Spell FK="030-17eae266-8a19-4de9-aa29-1fcefe7dcf69" reference="Name">Unseen Servant</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summon Swarm</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-d8dc6484-5f33-4226-8c70-f5f01434a65a</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-e4bc0064-d692-4967-a009-dfe7cb85a270</HTMLGUID>
+    <Spell FK="030-e4bc0064-d692-4967-a009-dfe7cb85a270" reference="Name">Summon Swarm</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Stinking Cloud</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-617cb03b-ed9b-47c5-9847-24ac4a856a1c</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ede0e38e-2055-4df6-ab55-86a9942944e4</HTMLGUID>
+    <Spell FK="030-ede0e38e-2055-4df6-ab55-86a9942944e4" reference="Name">Stinking Cloud</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Minor Creation</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-3fda1160-a192-41bb-a03a-4718fe484f35</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-dc4dcd2d-a039-449a-8bf3-9ad355523bdd</HTMLGUID>
+    <Spell FK="030-dc4dcd2d-a039-449a-8bf3-9ad355523bdd" reference="Name">Minor Creation</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cloudkill</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c1b29fb2-d702-4ed6-a234-6aa31da77dfd</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b465a1f1-8210-43a3-99db-42d781d67a75</HTMLGUID>
+    <Spell FK="030-b465a1f1-8210-43a3-99db-42d781d67a75" reference="Name">Cloudkill</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summon Monster VI</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-8536a107-af4c-4e87-853e-214c6f36498d</ObjectGUID>
+    <ParentGUID>020-700754d5-69da-4a10-b389-498d2048f5ab</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2e9a627e-99cb-4009-9e4a-b464e1148d8e</HTMLGUID>
+    <Spell FK="030-2e9a627e-99cb-4009-9e4a-b464e1148d8e" reference="Name">Summon Monster VI</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Defense</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-f0e04d30-c15b-4500-81d2-30c13664c975</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Defense.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>58250 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</AuraType>
+    <Description>A simple looking staff that throbs with power when held defensively.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-d3bba6a6-250e-43e7-b1ba-7febceb6a929</ObjectGUID>
+    <ParentGUID>020-f0e04d30-c15b-4500-81d2-30c13664c975</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b9a33cf3-c4f0-423a-ae36-c9e99066a3c0</HTMLGUID>
+    <Spell FK="030-b9a33cf3-c4f0-423a-ae36-c9e99066a3c0" reference="Name">Shield</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield of Faith</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-e767e9b5-5e70-4f67-8479-8d9a2a634536</ObjectGUID>
+    <ParentGUID>020-f0e04d30-c15b-4500-81d2-30c13664c975</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff</HTMLGUID>
+    <Spell FK="030-2d5d3682-9480-4e78-a5fb-857bfe5cf1ff" reference="Name">Shield of Faith</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield Other</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-07a363e8-e486-4030-9d6a-fad78b7af1d0</ObjectGUID>
+    <ParentGUID>020-f0e04d30-c15b-4500-81d2-30c13664c975</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-320731bd-fddd-46e5-8a8c-69822033db63</HTMLGUID>
+    <Spell FK="030-320731bd-fddd-46e5-8a8c-69822033db63" reference="Name">Shield Other</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shield of Law</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-f9b7fd10-dfbc-4c86-a093-5a981eda7549</ObjectGUID>
+    <ParentGUID>020-f0e04d30-c15b-4500-81d2-30c13664c975</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-79adb647-5727-42a6-a054-8731fafb845b</HTMLGUID>
+    <Spell FK="030-79adb647-5727-42a6-a054-8731fafb845b" reference="Name">Shield of Law</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Divination</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Divination.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>73500 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a" reference="Name">Divination</AuraType>
+    <Description>Made from a supple length of willow with a forked tip.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Detect Secret Doors</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-9d455f52-39ea-4104-985e-8bcefaa6b953</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-7d4bdbbd-4847-49fb-8cb6-7949e37bb097</HTMLGUID>
+    <Spell FK="030-7d4bdbbd-4847-49fb-8cb6-7949e37bb097" reference="Name">Detect Secret Doors</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Locate Object</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-93a16f85-b8a4-4b4e-8b34-7cdae7d3429d</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-d875b604-db92-4b16-87ca-77069a00cc93</HTMLGUID>
+    <Spell FK="030-d875b604-db92-4b16-87ca-77069a00cc93" reference="Name">Locate Object</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tongues</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-23d28c75-d528-48eb-ab28-ebbdbc59f676</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-f0d66ab6-7c3d-4f1a-859b-7aebbd2ed405</HTMLGUID>
+    <Spell FK="030-f0d66ab6-7c3d-4f1a-859b-7aebbd2ed405" reference="Name">Tongues</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Locate Creature</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-a7297b31-4f4b-4956-8dcc-0c1ace522a76</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3cff5f80-2097-4821-9fc6-5814697891fd</HTMLGUID>
+    <Spell FK="030-3cff5f80-2097-4821-9fc6-5814697891fd" reference="Name">Locate Creature</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Prying Eyes</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-e9f35fe0-72f7-498a-b2a9-f40577e65f42</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a6ecc93b-70be-47be-b3a7-57ac72b36aa6</HTMLGUID>
+    <Spell FK="030-a6ecc93b-70be-47be-b3a7-57ac72b36aa6" reference="Name">Prying Eyes</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>True Seeing</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-086bf76b-afe3-4488-8f6b-f82ab13fc4a2</ObjectGUID>
+    <ParentGUID>020-7e62e1ee-e575-4595-b6ac-ac5a2c89d048</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-9044e466-6be5-4e93-981a-2f3aa95f0648</HTMLGUID>
+    <Spell FK="030-9044e466-6be5-4e93-981a-2f3aa95f0648" reference="Name">True Seeing</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Earth and Stone</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-33678613-8b9a-4bd0-a9c9-fa623c4a260d</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Earth and Stone.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>80500 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <Description>This staff is topped with a fist-sized emerald that gleams with smoldering power.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Passwall</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-f24a75a5-c293-44b1-b34d-08aec3695ea5</ObjectGUID>
+    <ParentGUID>020-33678613-8b9a-4bd0-a9c9-fa623c4a260d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-babd2e18-bfe3-4859-b92c-69d62bb1e387</HTMLGUID>
+    <Spell FK="030-babd2e18-bfe3-4859-b92c-69d62bb1e387" reference="Name">Passwall</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Move Earth</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-9eb76104-77ba-4df9-8af8-d3af97940f1e</ObjectGUID>
+    <ParentGUID>020-33678613-8b9a-4bd0-a9c9-fa623c4a260d</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2c337fbd-43b4-4580-aea5-ddc8783c4325</HTMLGUID>
+    <Spell FK="030-2c337fbd-43b4-4580-aea5-ddc8783c4325" reference="Name">Move Earth</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Enchantment</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Enchantment.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</AuraType>
+    <Description>Made from applewood and topped with a clear crystal.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sleep</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-373f8a2b-709b-4ae5-a3f6-88e332883f55</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a5992ad3-7ac9-4711-890c-3ceacde80ca3</HTMLGUID>
+    <Spell FK="030-a5992ad3-7ac9-4711-890c-3ceacde80ca3" reference="Name">Sleep</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hideous Laughter</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-ae0bc0c9-7680-4ec0-8c2e-45cd5e5b4773</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-336e886b-8348-4b6b-8a34-85d65bac5e34</HTMLGUID>
+    <Spell FK="030-336e886b-8348-4b6b-8a34-85d65bac5e34" reference="Name">Hideous Laughter</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Suggestion</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-122694da-0d43-4731-8d5b-2e06d63ea1cb</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-33bfbfa7-c1e0-4524-b952-776a8c2effd9</HTMLGUID>
+    <Spell FK="030-33bfbfa7-c1e0-4524-b952-776a8c2effd9" reference="Name">Suggestion</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Crushing Despair</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-97217361-f75c-4cab-b399-575dd668a05d</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3756a149-3758-4b71-acec-431b62c92b1f</HTMLGUID>
+    <Spell FK="030-3756a149-3758-4b71-acec-431b62c92b1f" reference="Name">Crushing Despair</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mind Fog</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-34b8fc3c-0c15-4c1c-943a-ce3e0335d55a</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-434690ef-e261-4ac0-8cf0-241e133838e5</HTMLGUID>
+    <Spell FK="030-434690ef-e261-4ac0-8cf0-241e133838e5" reference="Name">Mind Fog</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Suggestion, Mass</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-a635a278-7a9d-4462-925d-29ede178243b</ObjectGUID>
+    <ParentGUID>020-0d6aecd5-6217-4922-b344-1704789fa23f</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-07c57dfe-99ee-4f65-85e8-82854697bbee</HTMLGUID>
+    <Spell FK="030-07c57dfe-99ee-4f65-85e8-82854697bbee" reference="Name">Suggestion, Mass</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Evocation</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Evocation.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</AuraType>
+    <Description>Very smooth and carved from hickory, willow or yew.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Missile</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-aa333fef-cbc6-4263-a2f4-7772d68e072c</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shatter</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-f5c73afa-5b5f-4934-94b3-a6d8542c1445</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3c2ff241-6f82-491d-80d9-16a21004becc</HTMLGUID>
+    <Spell FK="030-3c2ff241-6f82-491d-80d9-16a21004becc" reference="Name">Shatter</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fireball</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-1a14ed8e-588a-4f2e-bc20-fddb609befb2</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ice Storm</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-871975e3-3227-4b27-9878-e621d64aeddd</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-0aa909c8-5529-4029-bb4f-b660cf76273d</HTMLGUID>
+    <Spell FK="030-0aa909c8-5529-4029-bb4f-b660cf76273d" reference="Name">Ice Storm</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall of Force</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c31d781c-971f-4c31-bc20-577fa48a4f69</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-d5b87f8d-fc98-4168-ae0f-7d08b77544a6</HTMLGUID>
+    <Spell FK="030-d5b87f8d-fc98-4168-ae0f-7d08b77544a6" reference="Name">Wall of Force</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Chain Lightning</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-3779455e-f710-4237-a684-463490df4200</ObjectGUID>
+    <ParentGUID>020-cd73b5cf-5b67-4555-9968-8b02101428a2</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-88a25f56-4088-48f8-929d-8f1c67b07d09</HTMLGUID>
+    <Spell FK="030-88a25f56-4088-48f8-929d-8f1c67b07d09" reference="Name">Chain Lightning</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Fire</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-c99b4dc7-6b4e-40b8-9f2f-e485117d2aae</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Fire.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>17750 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</AuraType>
+    <Description>Craft from bronzewood with brass bindings.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fireball</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-3cbe190a-e114-42e4-a072-6d1d717197c7</ObjectGUID>
+    <ParentGUID>020-c99b4dc7-6b4e-40b8-9f2f-e485117d2aae</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall of Fire</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-df701ccd-c73e-452e-9854-1f668eb41288</ObjectGUID>
+    <ParentGUID>020-c99b4dc7-6b4e-40b8-9f2f-e485117d2aae</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-0f5dc2ea-92e2-4acb-a810-97c20ea076aa</HTMLGUID>
+    <Spell FK="030-0f5dc2ea-92e2-4acb-a810-97c20ea076aa" reference="Name">Wall of Fire</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Burning Hands</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-e4352711-cf0f-4d63-8fa7-aa1d60c049f2</ObjectGUID>
+    <ParentGUID>020-c99b4dc7-6b4e-40b8-9f2f-e485117d2aae</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3996a2f1-3cc1-4b9e-a960-56f082801fec</HTMLGUID>
+    <Spell FK="030-3996a2f1-3cc1-4b9e-a960-56f082801fec" reference="Name">Burning Hands</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Frost</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-dd8e2df6-1839-4217-a463-0136e37d7cfa</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Frost.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>10</CasterLevel>
+    <MarketPrice>56250 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</AuraType>
+    <Description>Rune-covered staff tipped on either end with a glistening diamond.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ice Storm</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-36a1e5c1-8c0d-4b7e-ade7-5f6b84ab47d2</ObjectGUID>
+    <ParentGUID>020-dd8e2df6-1839-4217-a463-0136e37d7cfa</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-0aa909c8-5529-4029-bb4f-b660cf76273d</HTMLGUID>
+    <Spell FK="030-0aa909c8-5529-4029-bb4f-b660cf76273d" reference="Name">Ice Storm</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall of Ice</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-dae7e708-0fd5-4501-a06e-08a3d6b0d722</ObjectGUID>
+    <ParentGUID>020-dd8e2df6-1839-4217-a463-0136e37d7cfa</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3cdd733b-de36-4915-b61a-85d6e3dc94b0</HTMLGUID>
+    <Spell FK="030-3cdd733b-de36-4915-b61a-85d6e3dc94b0" reference="Name">Wall of Ice</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cone of Cold</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-5766ef5d-a422-45d2-bbdd-54b91913c247</ObjectGUID>
+    <ParentGUID>020-dd8e2df6-1839-4217-a463-0136e37d7cfa</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3ef104b9-d2e3-4b25-aff8-00b9f21bc1db</HTMLGUID>
+    <Spell FK="030-3ef104b9-d2e3-4b25-aff8-00b9f21bc1db" reference="Name">Cone of Cold</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Healing</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-32f40100-650b-421a-949f-67e408645bd3</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Healing.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>27750 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <Description>Made form white ash, inlaid with silver runes.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Restoration, Lesser</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-7a835a50-16c1-45a0-882d-a3b3d41db9a3</ObjectGUID>
+    <ParentGUID>020-32f40100-650b-421a-949f-67e408645bd3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-86440c0f-ee20-4992-9d97-fa5c5500f4cf</HTMLGUID>
+    <Spell FK="030-86440c0f-ee20-4992-9d97-fa5c5500f4cf" reference="Name">Restoration, Lesser</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cure Serious Wounds</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-b19cd294-e297-4f03-a922-b9b316c362c6</ObjectGUID>
+    <ParentGUID>020-32f40100-650b-421a-949f-67e408645bd3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df</HTMLGUID>
+    <Spell FK="030-ebcbada9-243e-4ed1-8fc7-d19eaa5ea4df" reference="Name">Cure Serious Wounds</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Remove Blindness/Deafness</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c7d28032-ef89-4212-81b0-1f879e5fb4ff</ObjectGUID>
+    <ParentGUID>020-32f40100-650b-421a-949f-67e408645bd3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-102986b8-dc08-4f9e-9a30-1110efb3777b</HTMLGUID>
+    <Spell FK="030-102986b8-dc08-4f9e-9a30-1110efb3777b" reference="Name">Remove Blindness/Deafness</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Remove Disease</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-56bc2b31-8825-43e9-92df-d7acad1d0ef2</ObjectGUID>
+    <ParentGUID>020-32f40100-650b-421a-949f-67e408645bd3</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ae177897-c236-416c-9284-09b53fd98c49</HTMLGUID>
+    <Spell FK="030-ae177897-c236-416c-9284-09b53fd98c49" reference="Name">Remove Disease</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Illusion</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Illusion.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</AuraType>
+    <Description>Made from ebony or other dark wood and carved into an intricately twisted, flute or spiral shape.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disguise Self</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-3a9dc9a3-ec85-43f3-b51c-71f6d2924ea5</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-1881d393-05a0-4a52-96c1-5ed12d072af7</HTMLGUID>
+    <Spell FK="030-1881d393-05a0-4a52-96c1-5ed12d072af7" reference="Name">Disguise Self</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mirror Image</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-9a17ba79-8be6-405a-91c7-0ba4b1947467</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-ec5d34ed-7de2-457f-8996-76b941168325</HTMLGUID>
+    <Spell FK="030-ec5d34ed-7de2-457f-8996-76b941168325" reference="Name">Mirror Image</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Major Image</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-2c6f1a0c-4e51-4205-a5f5-2206e8f93944</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-99e304fe-6817-45da-a11b-689e6b48faa2</HTMLGUID>
+    <Spell FK="030-99e304fe-6817-45da-a11b-689e6b48faa2" reference="Name">Major Image</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rainbow Pattern</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-a24a7bcd-2b48-4652-8ea7-f9a6355c53fa</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-482f92a2-c56d-4ad4-be46-a404ba412890</HTMLGUID>
+    <Spell FK="030-482f92a2-c56d-4ad4-be46-a404ba412890" reference="Name">Rainbow Pattern</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Persistent Image</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c9981783-d497-4bfd-a0bd-d5af93c79914</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a123f6cd-726f-42ad-a23c-ca0816077d5c</HTMLGUID>
+    <Spell FK="030-a123f6cd-726f-42ad-a23c-ca0816077d5c" reference="Name">Persistent Image</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Mislead</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-dda31c32-5a8a-4a61-9d07-89782a093c7b</ObjectGUID>
+    <ParentGUID>020-ac78b0c5-a71a-4b4b-9981-ac7e51804306</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-689f60f5-dcdf-492e-8131-accaca5e395b</HTMLGUID>
+    <Spell FK="030-689f60f5-dcdf-492e-8131-accaca5e395b" reference="Name">Mislead</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Illumination</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-e7c9d9d4-7695-4136-9def-2261fd7b6b56</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Illumination.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>48250 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</AuraType>
+    <Description>Sheathed in silver and decorated with sunbursts.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dancing Lights</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-e6f9ca7e-e1d4-4d4e-8c3e-d448fbb7dfd3</ObjectGUID>
+    <ParentGUID>020-e7c9d9d4-7695-4136-9def-2261fd7b6b56</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-cdfc9ba6-9c93-4204-abca-dacffcc7759a</HTMLGUID>
+    <Spell FK="030-cdfc9ba6-9c93-4204-abca-dacffcc7759a" reference="Name">Dancing Lights</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Flare</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-49f61eeb-8093-4a6a-9104-1ce83445a892</ObjectGUID>
+    <ParentGUID>020-e7c9d9d4-7695-4136-9def-2261fd7b6b56</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-4c01e7ab-0e47-47e5-8f48-73a91023ed37</HTMLGUID>
+    <Spell FK="030-4c01e7ab-0e47-47e5-8f48-73a91023ed37" reference="Name">Flare</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Daylight</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-a694d36e-f393-48ba-9527-9453942633ea</ObjectGUID>
+    <ParentGUID>020-e7c9d9d4-7695-4136-9def-2261fd7b6b56</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a7f4fe90-a4d4-4479-8dc8-84ad41941342</HTMLGUID>
+    <Spell FK="030-a7f4fe90-a4d4-4479-8dc8-84ad41941342" reference="Name">Daylight</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Sunburst</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c4ceecdf-1990-4da8-b5c8-777b8b821ac0</ObjectGUID>
+    <ParentGUID>020-e7c9d9d4-7695-4136-9def-2261fd7b6b56</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a9ccfc02-b1bf-4a68-8f56-e8fc2fe19e14</HTMLGUID>
+    <Spell FK="030-a9ccfc02-b1bf-4a68-8f56-e8fc2fe19e14" reference="Name">Sunburst</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Life</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-0a0b845d-005b-4f95-8807-992bfe9f57d4</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Life.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>11</CasterLevel>
+    <MarketPrice>155750 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <Description>Made of thick oak shod in gold.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Heal</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-0b464d27-2de4-4202-b6a1-68c981876197</ObjectGUID>
+    <ParentGUID>020-0a0b845d-005b-4f95-8807-992bfe9f57d4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-cd5d1c61-f064-469f-9b2b-e76382e58431</HTMLGUID>
+    <Spell FK="030-cd5d1c61-f064-469f-9b2b-e76382e58431" reference="Name">Heal</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Raise Dead</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-34f69123-7dc8-4696-86f5-7e5d90ce0f9a</ObjectGUID>
+    <ParentGUID>020-0a0b845d-005b-4f95-8807-992bfe9f57d4</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-7fedb484-7eb5-4416-9fdc-df4f15dd852b</HTMLGUID>
+    <Spell FK="030-7fedb484-7eb5-4416-9fdc-df4f15dd852b" reference="Name">Raise Dead</Spell>
+    <Charges>5</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Necromancy</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Necromancy.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</AuraType>
+    <Description>Made from ebony or other dark wood and carved with images of bones and skulls.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cause Fear</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-80cd2409-8250-4418-bfe9-c3a3d2268c64</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b105bcf2-25ab-490b-9102-0343402d7825</HTMLGUID>
+    <Spell FK="030-b105bcf2-25ab-490b-9102-0343402d7825" reference="Name">Cause Fear</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ghoul Touch</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-71cc4f0a-d069-45e6-8637-387cc0246643</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-c04ebb3d-ed61-444e-858a-98723c7b0b4c</HTMLGUID>
+    <Spell FK="030-c04ebb3d-ed61-444e-858a-98723c7b0b4c" reference="Name">Ghoul Touch</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Halt Undead</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-382bb1c9-48a2-4908-943a-ddca9d939005</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-9a245b04-26ad-48f0-8cc5-c52d2182d79f</HTMLGUID>
+    <Spell FK="030-9a245b04-26ad-48f0-8cc5-c52d2182d79f" reference="Name">Halt Undead</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enervation</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-e01336bd-41f1-42b8-84ac-6dfad304bf78</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-5fcec15a-9c92-4700-9f72-e55c1c37a7f7</HTMLGUID>
+    <Spell FK="030-5fcec15a-9c92-4700-9f72-e55c1c37a7f7" reference="Name">Enervation</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Waves of Fatigue</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-904c43bf-7882-48ad-8cc4-b79333c68f71</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-886fd7ef-dd81-4fa8-94c6-8c1af9484cdc</HTMLGUID>
+    <Spell FK="030-886fd7ef-dd81-4fa8-94c6-8c1af9484cdc" reference="Name">Waves of Fatigue</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Circle of Death</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-f4198d71-d31d-477f-a583-d9aecdffd5ef</ObjectGUID>
+    <ParentGUID>020-93bb8cc4-f8f7-4dd6-9cbe-b7766681b344</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-f220ecf4-51a9-4abd-b6f1-35ec39065679</HTMLGUID>
+    <Spell FK="030-f220ecf4-51a9-4abd-b6f1-35ec39065679" reference="Name">Circle of Death</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Passage</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Passage.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>17</CasterLevel>
+    <MarketPrice>170500 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>Varied</AuraType>
+    <Description>Potent staff.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dimension Door</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-bd024bd0-56c8-40e3-844f-c8f33f653947</ObjectGUID>
+    <ParentGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2f3965bb-ee3c-4b06-b859-7724e2936b3a</HTMLGUID>
+    <Spell FK="030-2f3965bb-ee3c-4b06-b859-7724e2936b3a" reference="Name">Dimension Door</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Passwall</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-fa4bc9ee-c02b-448b-871d-0e2f75bb1936</ObjectGUID>
+    <ParentGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-babd2e18-bfe3-4859-b92c-69d62bb1e387</HTMLGUID>
+    <Spell FK="030-babd2e18-bfe3-4859-b92c-69d62bb1e387" reference="Name">Passwall</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Phase Door</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-5af173a7-b9bb-4ac2-ba7e-4458f526994b</ObjectGUID>
+    <ParentGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-1204b129-1561-4cad-81fa-a2fe7a5c25c0</HTMLGUID>
+    <Spell FK="030-1204b129-1561-4cad-81fa-a2fe7a5c25c0" reference="Name">Phase Door</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleport, Greater</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c4696554-04d3-41a5-9322-7d874867a88d</ObjectGUID>
+    <ParentGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-afff9026-daff-47dc-947c-ace62780d50a</HTMLGUID>
+    <Spell FK="030-afff9026-daff-47dc-947c-ace62780d50a" reference="Name">Teleport, Greater</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Astral Projection</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-38011a0f-9c12-4a85-b6ac-395ff10da479</ObjectGUID>
+    <ParentGUID>020-fa1f350d-be05-4bee-8c53-55273b09fcd0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-72cc6315-61ab-4fe4-a892-d3584d2c9106</HTMLGUID>
+    <Spell FK="030-72cc6315-61ab-4fe4-a892-d3584d2c9106" reference="Name">Astral Projection</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Power</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Power.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>15</CasterLevel>
+    <MarketPrice>211000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType>Varied</AuraType>
+    <Description>Very potent magic item. Straight and smooth shaft, topped with a glistening gem.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Missile</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-fa85bf7c-567b-47c8-82ad-e59cbd2bac6f</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8</HTMLGUID>
+    <Spell FK="030-fbeb5f2a-30c1-442d-ad2d-21330a998cb8" reference="Name">Magic Missile</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Ray of Enfeeblement</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-ad2f2d23-fc4f-4a94-a351-cd3e4720e4c1</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-16de206e-69c1-4ad0-9d18-baf2d143b289</HTMLGUID>
+    <Spell FK="030-16de206e-69c1-4ad0-9d18-baf2d143b289" reference="Name">Ray of Enfeeblement</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Continual Flame</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-d42d0efa-d8c8-4866-86b5-287f60cdb851</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-4e954f36-b0ac-4910-a38a-c8c277b48d38</HTMLGUID>
+    <Spell FK="030-4e954f36-b0ac-4910-a38a-c8c277b48d38" reference="Name">Continual Flame</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Levitate</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-de22361f-c4ad-45ca-92c9-9716bc4fb8b8</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3</HTMLGUID>
+    <Spell FK="030-dad52215-f6ec-426d-9d33-0b84ee3ec7c3" reference="Name">Levitate</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Lightning Bolt</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-745a9ef5-ff97-4d9d-b7ab-718ecf04e2b1</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-644a5260-f3cd-4e8c-9287-3133fe35acd0</HTMLGUID>
+    <Spell FK="030-644a5260-f3cd-4e8c-9287-3133fe35acd0" reference="Name">Lightning Bolt</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fireball</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-29273da1-83f2-45af-882c-719e30735aa3</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-b26a5780-dda6-40f5-b6b7-ab66e556b026</HTMLGUID>
+    <Spell FK="030-b26a5780-dda6-40f5-b6b7-ab66e556b026" reference="Name">Fireball</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cone of Cold</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-3b29e141-9b36-47a6-a857-da2700920252</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-3ef104b9-d2e3-4b25-aff8-00b9f21bc1db</HTMLGUID>
+    <Spell FK="030-3ef104b9-d2e3-4b25-aff8-00b9f21bc1db" reference="Name">Cone of Cold</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hold Monster</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-6486272d-9ab0-4d81-9cf2-f281eb0f0f9d</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-f1ca99b1-7eb2-4db3-b22c-33484e445ffe</HTMLGUID>
+    <Spell FK="030-f1ca99b1-7eb2-4db3-b22c-33484e445ffe" reference="Name">Hold Monster</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall of Force</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-b3c27f14-618b-4fd3-a589-f06f36bc0f64</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-d5b87f8d-fc98-4168-ae0f-7d08b77544a6</HTMLGUID>
+    <Spell FK="030-d5b87f8d-fc98-4168-ae0f-7d08b77544a6" reference="Name">Wall of Force</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Globe of Invulnerability</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-caf1c698-8ae1-4bae-bb60-ed452649fa72</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-a8c7a02d-74b7-4aa1-86e7-70fd25e3ad92</HTMLGUID>
+    <Spell FK="030-a8c7a02d-74b7-4aa1-86e7-70fd25e3ad92" reference="Name">Globe of Invulnerability</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Armor Class [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>020-826633ae-c012-48d3-b9a7-13798c0d2811</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-5724c899-e723-48e1-bb0e-80ef9fa33f47" reference="Name">Armor Class</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Fortitude Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>020-8dbf3b50-79d4-4c7a-9e82-f6c2434408cb</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-e7da11c6-b470-47b9-985c-b29c28f3b587" reference="Name">Fortitude Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Reflex Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>020-5191d47d-fdbf-4005-aab5-b665fb667c1f</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-2e0574c1-78d9-4eeb-8a41-43791399b44b" reference="Name">Reflex Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>+2 Will Saving Throw [Luck]</Name>
+    <Type>Modifier</Type>
+    <ObjectGUID>020-358b4f0a-f707-4ec7-abfa-d0f62e523b16</ObjectGUID>
+    <ParentGUID>020-67e6e061-69e0-406b-bbaa-bfdd2c31cb30</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <SystemElement FK="032-bcf92ac7-2d64-495a-9363-28d423239bfa" reference="Name">Will Saving Throw</SystemElement>
+    <FocusObject />
+    <ModifierCategory>Normal Modifier</ModifierCategory>
+    <Modifier>+2</Modifier>
+    <ModifierType>Luck</ModifierType>
+    <Limiter />
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Size Alteration</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Size Alteration.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>8</CasterLevel>
+    <MarketPrice>29000 gp</MarketPrice>
+    <AuraStrength>Faint</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <Description>Stout and sturdy staff of dark wood.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enlarge Person</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-9d5fcf0d-62ff-4c20-a73e-16c3a91bfb25</ObjectGUID>
+    <ParentGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-6b911c45-164b-4454-99ef-aa43e963821d</HTMLGUID>
+    <Spell FK="030-6b911c45-164b-4454-99ef-aa43e963821d" reference="Name">Enlarge Person</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reduce Person</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-2ee9ac6d-c29a-4edc-b516-205bcaf96b67</ObjectGUID>
+    <ParentGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-33dd023c-8dca-400a-9452-8aa8da799be8</HTMLGUID>
+    <Spell FK="030-33dd023c-8dca-400a-9452-8aa8da799be8" reference="Name">Reduce Person</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shrink Item</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-c100701d-5c6a-487b-9314-b682451fa021</ObjectGUID>
+    <ParentGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2a093f01-d681-43ff-907c-0a3e00a9b2ea</HTMLGUID>
+    <Spell FK="030-2a093f01-d681-43ff-907c-0a3e00a9b2ea" reference="Name">Shrink Item</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enlarge Person, Mass</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-70bf8193-d0c2-4b21-ba67-106d4619fdab</ObjectGUID>
+    <ParentGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-2656dc16-c890-4205-b3f3-54ee59d1f494</HTMLGUID>
+    <Spell FK="030-2656dc16-c890-4205-b3f3-54ee59d1f494" reference="Name">Enlarge Person, Mass</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Reduce Person, Mass</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-55ae3a47-f338-4acc-ae11-86ed4693f8fa</ObjectGUID>
+    <ParentGUID>020-3d5ce8c6-f2f2-451d-a8c3-8a96e3747f8b</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-d5319df1-c428-4c11-8303-8e64e21e9315</HTMLGUID>
+    <Spell FK="030-d5319df1-c428-4c11-8303-8e64e21e9315" reference="Name">Reduce Person, Mass</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Swarming Insects</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-f65f283a-8bc3-41b8-8f14-a9378dba8b92</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Swarming Insects.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>9</CasterLevel>
+    <MarketPrice>24750 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</AuraType>
+    <Description>Made of twisted dark wood with dark spots resembling crawling insects.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summon Swarm</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-cddb5afe-4f88-4a44-ab69-2034af116b53</ObjectGUID>
+    <ParentGUID>020-f65f283a-8bc3-41b8-8f14-a9378dba8b92</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-e4bc0064-d692-4967-a009-dfe7cb85a270</HTMLGUID>
+    <Spell FK="030-e4bc0064-d692-4967-a009-dfe7cb85a270" reference="Name">Summon Swarm</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Insect Plague</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-6873f76b-5666-4f63-9d2c-bb6ac851aa18</ObjectGUID>
+    <ParentGUID>020-f65f283a-8bc3-41b8-8f14-a9378dba8b92</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-04043222-b0c0-4a0c-aaef-02191123f46d</HTMLGUID>
+    <Spell FK="030-04043222-b0c0-4a0c-aaef-02191123f46d" reference="Name">Insect Plague</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Transmutation</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Transmutation.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>65000 gp</MarketPrice>
+    <AuraStrength>Strong</AuraStrength>
+    <AuraType FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</AuraType>
+    <Description>Carved from or decorated with petrified wood.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Expeditious Retreat</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-39e7996f-29d6-48f2-b6ad-26a8e4a401e5</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-4418a686-8dc2-41db-a450-961b0c2c722b</HTMLGUID>
+    <Spell FK="030-4418a686-8dc2-41db-a450-961b0c2c722b" reference="Name">Expeditious Retreat</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Alter Self</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-901fae9c-9473-4a37-897a-2220b2d29ab8</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-75f35fed-169d-4432-8c53-c831da4afa77</HTMLGUID>
+    <Spell FK="030-75f35fed-169d-4432-8c53-c831da4afa77" reference="Name">Alter Self</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Blink</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-694052c8-5a52-44d1-a986-97f278b6d04e</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-9b7efe02-9e17-4168-ac5e-7e78d916bf2b</HTMLGUID>
+    <Spell FK="030-9b7efe02-9e17-4168-ac5e-7e78d916bf2b" reference="Name">Blink</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Polymorph</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-adf349b0-7195-43d7-8913-38cb1cd80efc</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-34f4de82-c675-4ebd-a71a-ee94926b541e</HTMLGUID>
+    <Spell FK="030-34f4de82-c675-4ebd-a71a-ee94926b541e" reference="Name">Polymorph</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Baleful Polymorph</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-b82339bc-2302-4d69-9424-17a83a0708ef</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-82d10571-21f6-4764-85fc-00f95515f1e9</HTMLGUID>
+    <Spell FK="030-82d10571-21f6-4764-85fc-00f95515f1e9" reference="Name">Baleful Polymorph</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Disintegrate</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-fbcc586f-206d-4a65-b362-d6e50887e43e</ObjectGUID>
+    <ParentGUID>020-8492d6d1-e181-4168-9e3f-f540a802b609</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-9b6cf97a-844f-4eaa-bac6-a92a09e5d26e</HTMLGUID>
+    <Spell FK="030-9b6cf97a-844f-4eaa-bac6-a92a09e5d26e" reference="Name">Disintegrate</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staff of Woodlands</Name>
+    <Type>Staff Definition</Type>
+    <ObjectGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ObjectGUID>
+    <ParentGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ParentGUID>
+    <HTML>Staffs\Woodlands.htm</HTML>
+    <HTMLGUID>020-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <CasterLevel>13</CasterLevel>
+    <MarketPrice>101250 gp</MarketPrice>
+    <AuraStrength>Moderate</AuraStrength>
+    <AuraType>Varied</AuraType>
+    <Description>Appears to have grown naturally into its shape, made from oak, ash or yew.</Description>
+    <ImageFilename>MagicItemsStaffs.png</ImageFilename>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags>Combat Gear</Tags>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm Animal</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-6edd683e-61d0-4f59-8e58-fc5b2484f718</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-dec6fdcb-aa54-43f0-8253-39ac696f6654</HTMLGUID>
+    <Spell FK="030-dec6fdcb-aa54-43f0-8253-39ac696f6654" reference="Name">Charm Animal</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Speak with Animals</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-5cf0eafa-f844-48b3-bfb9-5a5ddbd8e71a</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-206781c7-dd79-48b7-af12-edf396ccd529</HTMLGUID>
+    <Spell FK="030-206781c7-dd79-48b7-af12-edf396ccd529" reference="Name">Speak with Animals</Spell>
+    <Charges>1</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Barkskin</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-64eadde0-68c4-456e-a962-02c105abf3be</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-250c8d67-7642-4042-aec1-e63d60605b36</HTMLGUID>
+    <Spell FK="030-250c8d67-7642-4042-aec1-e63d60605b36" reference="Name">Barkskin</Spell>
+    <Charges>2</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall of Thorns</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-ba917102-7cf8-4027-ba63-abca1561acab</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-194769e0-2a5f-491f-bbc6-148053b486bd</HTMLGUID>
+    <Spell FK="030-194769e0-2a5f-491f-bbc6-148053b486bd" reference="Name">Wall of Thorns</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summon Nature's Ally VI</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-6ac74b1e-9602-4c55-ba62-a9efed856f55</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-8543b564-8c6b-432f-acf1-5acf9c250899</HTMLGUID>
+    <Spell FK="030-8543b564-8c6b-432f-acf1-5acf9c250899" reference="Name">Summon Nature's Ally VI</Spell>
+    <Charges>3</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Animate Plants</Name>
+    <Type>Staff Spell</Type>
+    <ObjectGUID>020-5d4cdc54-133e-40f9-88d9-320800c4ec44</ObjectGUID>
+    <ParentGUID>020-8443a2c2-694f-4f04-adb8-c5dc67dd448e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>030-13cf846d-3562-44ea-8d51-94010ab43bd4</HTMLGUID>
+    <Spell FK="030-13cf846d-3562-44ea-8d51-94010ab43bd4" reference="Name">Animate Plants</Spell>
+    <Charges>4</Charges>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Astral Construct</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-13496822-7aaf-4aa3-9005-0cc3df8f7543</ObjectGUID>
+    <ParentGUID>020-1186cc57-a3de-471f-a1ca-a7a093450bf4</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-d6fb46c2-8085-407b-a107-ed6befe7d232</HTMLGUID>
+    <Power FK="034-d6fb46c2-8085-407b-a107-ed6befe7d232" reference="Name">Astral Construct</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Astral Legion</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-1186cc57-a3de-471f-a1ca-a7a093450bf4</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Astral Legion.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>47250 gp</MarketPrice>
+    <PowerPoints>900</PowerPoints>
+    <Description>This psicrown has 900 power points. It is made from white silk interwoven with crystalline strands of thread.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Claw of Energy</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-7ba2fd54-40cc-4b41-8a42-aa0ad537a0ef</ObjectGUID>
+    <ParentGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-95596c7e-083c-4a6a-9ebf-2fb2e1c36e16</HTMLGUID>
+    <Power FK="034-95596c7e-083c-4a6a-9ebf-2fb2e1c36e16" reference="Name">Claw of Energy</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Duodimensional Claw</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-ffcc8fac-7f0b-4e43-9696-c40e7b338500</ObjectGUID>
+    <ParentGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-7a234058-bf45-405c-80d3-4a0c527f7dae</HTMLGUID>
+    <Power FK="034-7a234058-bf45-405c-80d3-4a0c527f7dae" reference="Name">Duodimensional Claw</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Prevenom</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-a71e974e-f3a0-40c0-bbc8-564e90aa23d8</ObjectGUID>
+    <ParentGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-a8d0114d-8a5a-4e1d-97e3-6e0adb9212e7</HTMLGUID>
+    <Power FK="034-a8d0114d-8a5a-4e1d-97e3-6e0adb9212e7" reference="Name">Prevenom</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Lion's Charge</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-b17d3e57-46ba-4563-b660-ef1a8897682c</ObjectGUID>
+    <ParentGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-e0bca212-cb21-4a01-8e11-146c17284ad8</HTMLGUID>
+    <Power FK="034-e0bca212-cb21-4a01-8e11-146c17284ad8" reference="Name">Psionic Lion's Charge</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Truevenom</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-1ea4154f-23e5-4aca-95dd-d109c16f3200</ObjectGUID>
+    <ParentGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-123a53e2-8a73-433f-b4bc-a452dc1b1fa0</HTMLGUID>
+    <Power FK="034-123a53e2-8a73-433f-b4bc-a452dc1b1fa0" reference="Name">Truevenom</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Beast</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-7f41fa41-cad3-4994-a78b-f958a45ca916</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Beast.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>33750 gp</MarketPrice>
+    <PowerPoints>450</PowerPoints>
+    <Description>This psicrown has 450 power points. It is made from a prickly collection of bear claws and snake fangs.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Adapt Body</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-1dbbdf16-83d7-4d88-b34c-bd111b772a44</ObjectGUID>
+    <ParentGUID>020-7ebaef84-f124-480b-adb8-0e1a0c9f56a7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125</HTMLGUID>
+    <Power FK="034-ad421236-8eb1-48bd-9a2a-9c4a4c16b125" reference="Name">Adapt Body</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Body Adjustment</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-ec92ab37-aeb3-4f25-8548-9d945ac24e56</ObjectGUID>
+    <ParentGUID>020-7ebaef84-f124-480b-adb8-0e1a0c9f56a7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-2172b3b5-ef3e-4cee-9b9f-a0a280d6a1d3</HTMLGUID>
+    <Power FK="034-2172b3b5-ef3e-4cee-9b9f-a0a280d6a1d3" reference="Name">Body Adjustment</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Precognition, Defensive</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-8fefa2f3-fb32-4f54-bd00-6ecb8e652190</ObjectGUID>
+    <ParentGUID>020-7ebaef84-f124-480b-adb8-0e1a0c9f56a7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-cbc70c4f-fc43-4ba3-9d9c-5a5d37cb84c2</HTMLGUID>
+    <Power FK="034-cbc70c4f-fc43-4ba3-9d9c-5a5d37cb84c2" reference="Name">Precognition, Defensive</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Inertial Barrier</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-772b1020-358b-4553-9fd3-ea9284831faa</ObjectGUID>
+    <ParentGUID>020-7ebaef84-f124-480b-adb8-0e1a0c9f56a7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-96588646-3e84-49c3-ad60-8c9afe91b563</HTMLGUID>
+    <Power FK="034-96588646-3e84-49c3-ad60-8c9afe91b563" reference="Name">Inertial Barrier</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Cautious Warrior</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-7ebaef84-f124-480b-adb8-0e1a0c9f56a7</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Cautious Warrior.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>32063 gp</MarketPrice>
+    <PowerPoints>450</PowerPoints>
+    <Description>This psicrown has 450 power points. It is made from a shining iron alloy, similar to the material of a metallic shield.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Aura Sight</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-daf22171-0e32-415a-9b3d-65e32822c4e0</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-1fe4149d-d705-4499-9b46-e49976e1d1c7</HTMLGUID>
+    <Power FK="034-1fe4149d-d705-4499-9b46-e49976e1d1c7" reference="Name">Aura Sight</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Clairtangent Hand</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-e3fde005-1b7e-47cb-be8f-00dc1eeee2ab</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-a1f4647b-8edb-4d5d-a9d3-63af9994b0e1</HTMLGUID>
+    <Power FK="034-a1f4647b-8edb-4d5d-a9d3-63af9994b0e1" reference="Name">Clairtangent Hand</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Clairvoyant Sense</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-ad2d159e-d58c-4097-85fe-0747f2e89c72</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-2ae62461-5c2a-4f34-920e-1bcefcf7378b</HTMLGUID>
+    <Power FK="034-2ae62461-5c2a-4f34-920e-1bcefcf7378b" reference="Name">Clairvoyant Sense</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Darkvision, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-16860b57-aea8-4921-9a1a-ff1b1938751a</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-3db13528-dbcc-4272-9c1d-d774bd8f1da0</HTMLGUID>
+    <Power FK="034-3db13528-dbcc-4272-9c1d-d774bd8f1da0" reference="Name">Darkvision, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Remote Viewing</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-f1fdec5e-726b-46e8-9330-563755a1f612</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-936673c4-0409-45ab-b242-b76a405cd8f9</HTMLGUID>
+    <Power FK="034-936673c4-0409-45ab-b242-b76a405cd8f9" reference="Name">Remote Viewing</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>True Seeing, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-12427f00-4b74-4362-9cf0-3fbe5205fbf4</ObjectGUID>
+    <ParentGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-065a2b90-08c3-4a1e-b4c2-11cc0c7fc232</HTMLGUID>
+    <Power FK="034-065a2b90-08c3-4a1e-b4c2-11cc0c7fc232" reference="Name">True Seeing, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Discerning Watcher</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-c5bb10b0-c1f5-4378-be7e-bd7359df874d</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Discerning Watcher.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>51469 gp</MarketPrice>
+    <PowerPoints>450</PowerPoints>
+    <Description>This psicrown has 450 power points. It is made from pure transparent crystal.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-53e94548-d6ce-41aa-8ac6-1d880eac0bbb</ObjectGUID>
+    <ParentGUID>020-effb5e61-cf0d-4f23-9b6c-e03ffc008f96</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-89e8982c-4e7c-4341-ba73-21fade0b0407</HTMLGUID>
+    <Power FK="034-89e8982c-4e7c-4341-ba73-21fade0b0407" reference="Name">Charm, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dominate, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-97e07f40-66d2-4ddf-b767-bd32738af3ef</ObjectGUID>
+    <ParentGUID>020-effb5e61-cf0d-4f23-9b6c-e03ffc008f96</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-a4d77ec5-ae4e-4f8b-8775-b742ca1b0e1a</HTMLGUID>
+    <Power FK="034-a4d77ec5-ae4e-4f8b-8775-b742ca1b0e1a" reference="Name">Dominate, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Suggestion, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-d4d5d8b8-c4ed-41a6-8779-2609cf9a429c</ObjectGUID>
+    <ParentGUID>020-effb5e61-cf0d-4f23-9b6c-e03ffc008f96</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-87c3d4af-4655-4a39-981d-a7567c28f351</HTMLGUID>
+    <Power FK="034-87c3d4af-4655-4a39-981d-a7567c28f351" reference="Name">Suggestion, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dominator</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-effb5e61-cf0d-4f23-9b6c-e03ffc008f96</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Dominator.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>20250 gp</MarketPrice>
+    <PowerPoints>450</PowerPoints>
+    <Description>This psicrown has 450 power points. It is made from gray iron and is shaped into an intricately fluted crown.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Catfall</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-c19407e5-eede-4638-a7e7-8d4d275ed893</ObjectGUID>
+    <ParentGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-e868a3fc-2539-49ca-9a3a-a84e286f18ef</HTMLGUID>
+    <Power FK="034-e868a3fc-2539-49ca-9a3a-a84e286f18ef" reference="Name">Catfall</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Hustle</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-c46a6f3e-4431-42fd-8b1a-9923cc9415cc</ObjectGUID>
+    <ParentGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-444d63b5-428b-43e0-9f45-213fc96da3fa</HTMLGUID>
+    <Power FK="034-444d63b5-428b-43e0-9f45-213fc96da3fa" reference="Name">Hustle</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fly, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-702fe0eb-5ede-4ee6-8339-4463062d0dc5</ObjectGUID>
+    <ParentGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-9198e101-3e76-47f3-86cd-b9ae8a49768d</HTMLGUID>
+    <Power FK="034-9198e101-3e76-47f3-86cd-b9ae8a49768d" reference="Name">Fly, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Freedom of Movement, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-ddb2a81b-d1e0-4f33-8981-8de56b124cce</ObjectGUID>
+    <ParentGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-a30d11fa-21e3-48a6-96bb-bdede05bdb55</HTMLGUID>
+    <Power FK="034-a30d11fa-21e3-48a6-96bb-bdede05bdb55" reference="Name">Freedom of Movement, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wall Walker</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-6a2d93bd-2495-4746-a68e-0ec8eb666e26</ObjectGUID>
+    <ParentGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-26cce20f-9cdf-451c-ad1f-735f35d1067f</HTMLGUID>
+    <Power FK="034-26cce20f-9cdf-451c-ad1f-735f35d1067f" reference="Name">Wall Walker</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evader</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-5cf34e58-3495-4a72-abaf-2181e9bb5770</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Evader.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>28500 gp</MarketPrice>
+    <PowerPoints>400</PowerPoints>
+    <Description>This psicrown has 400 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Energy Ball</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-83f773ef-e9f6-485c-83e1-689908cc8f21</ObjectGUID>
+    <ParentGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-9fb25cc4-590a-4c26-9d30-0020d26839b4</HTMLGUID>
+    <Power FK="034-9fb25cc4-590a-4c26-9d30-0020d26839b4" reference="Name">Energy Ball</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Energy Cone</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-e17cabd1-6a50-4f28-94f0-2f2d5876bd14</ObjectGUID>
+    <ParentGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-9366cfe5-63f2-452b-9bcc-2a2fc0e911c0</HTMLGUID>
+    <Power FK="034-9366cfe5-63f2-452b-9bcc-2a2fc0e911c0" reference="Name">Energy Cone</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Energy Missile</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-52b398bb-6495-4c3a-b9e0-54d2aa83e060</ObjectGUID>
+    <ParentGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-9270ee4e-dcf5-48e7-98da-b68ef40730df</HTMLGUID>
+    <Power FK="034-9270ee4e-dcf5-48e7-98da-b68ef40730df" reference="Name">Energy Missile</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Energy Stun</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-efd95dee-3dec-4b7b-9b03-150a8dd68376</ObjectGUID>
+    <ParentGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-7dafa102-8b95-4225-97dc-9c39fbf26545</HTMLGUID>
+    <Power FK="034-7dafa102-8b95-4225-97dc-9c39fbf26545" reference="Name">Energy Stun</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fiery Discorporation</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-d3dd45e5-ba9d-4d11-ace7-0bcc21eb0d1f</ObjectGUID>
+    <ParentGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-eb87d892-53a4-49f8-a5a0-022954a7c6ea</HTMLGUID>
+    <Power FK="034-eb87d892-53a4-49f8-a5a0-022954a7c6ea" reference="Name">Fiery Discorporation</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Fiery Ruin</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-26ecd315-9002-4b4c-8796-b23368271c06</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Fiery Ruin.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>67500 gp</MarketPrice>
+    <PowerPoints>750</PowerPoints>
+    <Description>This psicrown has 750 power points. It is made from reddish iron and is shaped into a twisted circlet studded with reddish crystals.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-f7ea0550-7abf-43a7-8452-ecbe8a0e609b</ObjectGUID>
+    <ParentGUID>020-969ed1fc-ff75-49f2-8b52-bf04b5366332</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-89e8982c-4e7c-4341-ba73-21fade0b0407</HTMLGUID>
+    <Power FK="034-89e8982c-4e7c-4341-ba73-21fade0b0407" reference="Name">Charm, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Suggestion, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-fcaf4f14-95b4-458f-b429-eddaa8e55439</ObjectGUID>
+    <ParentGUID>020-969ed1fc-ff75-49f2-8b52-bf04b5366332</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-87c3d4af-4655-4a39-981d-a7567c28f351</HTMLGUID>
+    <Power FK="034-87c3d4af-4655-4a39-981d-a7567c28f351" reference="Name">Suggestion, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dominate, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-578e2efc-a283-4b55-a261-4eb28856945a</ObjectGUID>
+    <ParentGUID>020-969ed1fc-ff75-49f2-8b52-bf04b5366332</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-a4d77ec5-ae4e-4f8b-8775-b742ca1b0e1a</HTMLGUID>
+    <Power FK="034-a4d77ec5-ae4e-4f8b-8775-b742ca1b0e1a" reference="Name">Dominate, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Great Dominator</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-969ed1fc-ff75-49f2-8b52-bf04b5366332</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Great Dominator.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>45000 gp</MarketPrice>
+    <PowerPoints>750</PowerPoints>
+    <Description>This psicrown has 750 power points. It is made from black iron without further ornamentation.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Temporal Acceleration</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-fd1eba98-e8ca-4d32-a6c2-09bd8beca8c4</ObjectGUID>
+    <ParentGUID>020-268f8664-2d54-4f4f-8018-2e2be9440d20</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-16c21f5c-ffa7-4957-85ff-1a398916a066</HTMLGUID>
+    <Power FK="034-16c21f5c-ffa7-4957-85ff-1a398916a066" reference="Name">Temporal Acceleration</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Time Hop</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-17bf82eb-f110-4a91-9563-85b653adeab5</ObjectGUID>
+    <ParentGUID>020-268f8664-2d54-4f4f-8018-2e2be9440d20</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-6697c1e4-e901-4b98-bfe2-93831d069b71</HTMLGUID>
+    <Power FK="034-6697c1e4-e901-4b98-bfe2-93831d069b71" reference="Name">Time Hop</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Timeless Body</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-1bbc8a01-10a3-46d2-aa32-ce99290549e3</ObjectGUID>
+    <ParentGUID>020-268f8664-2d54-4f4f-8018-2e2be9440d20</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-2cd88b2b-9e72-4bba-a7de-17488b5fb162</HTMLGUID>
+    <Power FK="034-2cd88b2b-9e72-4bba-a7de-17488b5fb162" reference="Name">Timeless Body</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Temporal Juggler</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-268f8664-2d54-4f4f-8018-2e2be9440d20</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Temporal Juggler.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>95625 gp</MarketPrice>
+    <PowerPoints>850</PowerPoints>
+    <Description>This psicrown has 850 power points. It is made from silk, usually dyed in several colors, with a clear crystal affixed to the material.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Astral Traveler</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-15d03230-e989-43cd-8bf2-1e474416ddba</ObjectGUID>
+    <ParentGUID>020-076e8109-c6c1-4f0c-b899-9311bbddeef7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-84a175d6-efc2-4378-943f-67860777e3f8</HTMLGUID>
+    <Power FK="034-84a175d6-efc2-4378-943f-67860777e3f8" reference="Name">Astral Traveler</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleport, Psionic Greater</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-88920b7c-0214-479f-a85f-301c924fd0de</ObjectGUID>
+    <ParentGUID>020-076e8109-c6c1-4f0c-b899-9311bbddeef7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-18cdb180-a3f2-4d46-a8af-2045fd9bd6e5</HTMLGUID>
+    <Power FK="034-18cdb180-a3f2-4d46-a8af-2045fd9bd6e5" reference="Name">Teleport, Psionic Greater</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleport, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-9c34d35c-b3ae-42cb-85db-e8886a836f41</ObjectGUID>
+    <ParentGUID>020-076e8109-c6c1-4f0c-b899-9311bbddeef7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-2909a9ea-e4b6-41f6-abc0-c885138691f6</HTMLGUID>
+    <Power FK="034-2909a9ea-e4b6-41f6-abc0-c885138691f6" reference="Name">Teleport, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dimension Door, Psionic</Name>
+    <Type>Psicrown Spell</Type>
+    <ObjectGUID>020-1da36044-cf8f-4a85-bbe3-4ad937d8d329</ObjectGUID>
+    <ParentGUID>020-076e8109-c6c1-4f0c-b899-9311bbddeef7</ParentGUID>
+    <HTML />
+    <HTMLGUID>034-6b06b385-15d0-4e3c-aa64-5ace01a73f86</HTMLGUID>
+    <Power FK="034-6b06b385-15d0-4e3c-aa64-5ace01a73f86" reference="Name">Dimension Door, Psionic</Power>
+    <ImageFilename>RuleObject2.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Traveler</Name>
+    <Type>Psionic Psicrown Definition</Type>
+    <ObjectGUID>020-076e8109-c6c1-4f0c-b899-9311bbddeef7</ObjectGUID>
+    <ParentGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ParentGUID>
+    <HTML>Psicrowns\Traveler.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <MarketPrice>80156 gp</MarketPrice>
+    <PowerPoints>750</PowerPoints>
+    <Description>This psicrown has 750 power points. It is made from silk, usually dyed emerald green, with an emerald crystal affixed to the material.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>PsiCrown.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

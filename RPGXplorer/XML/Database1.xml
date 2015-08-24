@@ -1,0 +1,643 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Configuration</Name>
+    <Type>RPGXplorer Configuration</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000003</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <HTMLEditorCommandLine>
+    </HTMLEditorCommandLine>
+    <DataInput>False</DataInput>
+    <DoubleClickEdits>False</DoubleClickEdits>
+    <CoinWeight>2</CoinWeight>
+    <MarketPrices>0</MarketPrices>
+    <LookAndFeel>Blue</LookAndFeel>
+    <ImageFilename>RuleObject.png</ImageFilename>
+    <ShowSourcebook>Yes</ShowSourcebook>
+    <ShowPageNo>
+    </ShowPageNo>
+    <ShowLicense>
+    </ShowLicense>
+    <ShowTags>Yes</ShowTags>
+    <InventoryBlanks>20</InventoryBlanks>
+    <AssetsBlanks>10</AssetsBlanks>
+    <CurrentCart>003-471803ba-9387-4fa3-a20a-2931e2a25ba2</CurrentCart>
+    <NewsOnStartup>False</NewsOnStartup>
+    <SpellFix>True</SpellFix>
+    <DuplicateSystemComponentsFix>True</DuplicateSystemComponentsFix>
+    <DuplicateSkillGroupsFix>True</DuplicateSkillGroupsFix>
+    <ACBaseFix>True</ACBaseFix>
+    <PsionicPatch>True</PsionicPatch>
+    <MaterialPatch>True</MaterialPatch>
+    <IgnoreFeatPrereqCheck>True</IgnoreFeatPrereqCheck>
+    <WizardIgnoreClassPrereqCheck />
+    <WizardIgnoreFeatPrereqCheck />
+    <IgnoreFeaturePrereqCheck>True</IgnoreFeaturePrereqCheck>
+    <WizardIgnoreFeaturePrereqCheck />
+    <UndoSteps>1</UndoSteps>
+    <AutosaveInterval>5</AutosaveInterval>
+    <AnimalPatch>True</AnimalPatch>
+    <DefaultWeapons>Yes</DefaultWeapons>
+    <CharacterFolderPatch>True</CharacterFolderPatch>
+    <FKLookupCount>1990</FKLookupCount>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>MDITabs</Name>
+    <Type>RPGXplorer Configuration</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000009</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <TabPage1 CharKey="000-00000000-0000-0000-0000-000000000000" Filter="">001-00000000-0000-0000-0000-000000000001</TabPage1>
+    <TabPage2 CharKey="000-00000000-0000-0000-0000-000000000000" Filter="">001-dcdbb16b-684b-4f23-b7a5-ef82f39b20da</TabPage2>
+    <TabPage3 CharKey="000-00000000-0000-0000-0000-000000000000" Filter="">001-79227ee3-0db2-4324-ba40-c4f237dc4554</TabPage3>
+    <TabPage4 CharKey="000-00000000-0000-0000-0000-000000000000" Filter="">001-b3081f17-7773-430d-988b-782b4fa7346c</TabPage4>
+    <TabPage5 CharKey="000-00000000-0000-0000-0000-000000000000" Filter="">001-41b049bd-2e66-4d1c-84dd-0e0e8d6cc408</TabPage5>
+    <NumberOfPages>5</NumberOfPages>
+    <ImageFilename>RuleObject.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>3.5 Edition SRD</Name>
+    <Type>Rules Root Folder</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000006</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>UserDocs\GM Screen.htm</HTML>
+    <Fixed>True</Fixed>
+    <HTMLGUID>001-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Favorites</Name>
+    <Type>Rules Root Folder</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000007</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <Fixed>True</Fixed>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>star_green.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spells</Name>
+    <Type>Spell Definitions Folder</Type>
+    <ObjectGUID>001-ddb52cd6-1f28-4c7b-8355-96952461b585</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter>Cleric 7</Filter>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Features</Name>
+    <Type>Feature Definitions Folder</Type>
+    <ObjectGUID>001-b07273b4-9f6c-43b0-9f0c-9cef43a5ad87</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>System Preconditions</Name>
+    <Type>System Precondition Definitions Folder</Type>
+    <ObjectGUID>001-0a0216d4-0ac3-4e87-b520-7d54b97c0dc6</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Armor</Name>
+    <Type>Specific Armor Definitions Folder</Type>
+    <ObjectGUID>001-0661f996-7deb-4754-b9e8-131c808b85b3</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Weapon Abilities</Name>
+    <Type>Weapon Magic Ability Definitions Folder</Type>
+    <ObjectGUID>001-79ab9d0d-34a8-4dd4-9b96-8c24ef688064</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rings</Name>
+    <Type>Ring Definitions Folder</Type>
+    <ObjectGUID>001-b0812c02-84dc-478f-a019-406c2a294243</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Classes</Name>
+    <Type>Class Folder</Type>
+    <ObjectGUID>001-5428f871-04a2-467d-abc3-de34305b6965</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>3.5 Edition Fantasy</Name>
+    <Type>System Folder</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000001</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Items</Name>
+    <Type>System Folder</Type>
+    <ObjectGUID>001-00000000-0000-0000-0000-000000000004</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Feats</Name>
+    <Type>Feat Definitions Folder</Type>
+    <ObjectGUID>001-5cdddefb-6a3a-4ce3-bcd2-e96aded5a2a0</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter>Item Creation</Filter>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Rods</Name>
+    <Type>Rod Definitions Folder</Type>
+    <ObjectGUID>001-7c72db74-9c8f-4ebb-97da-5ad736ddf347</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Skills</Name>
+    <Type>Skill Definitions Folder</Type>
+    <ObjectGUID>001-df497c59-6f1f-45c6-9df9-83a5357e86d4</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter>No Skill Groups</Filter>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Races</Name>
+    <Type>Races Folder</Type>
+    <ObjectGUID>001-3c55dd52-cf73-4b61-bf21-bbc3fee29bf5</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Armor and Shields</Name>
+    <Type>Armor Definitions Folder</Type>
+    <ObjectGUID>001-aeb49f43-2c49-46dc-8306-a6847c959c76</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Modifier Limiters</Name>
+    <Type>Modifier Limiter Folder</Type>
+    <ObjectGUID>001-67f3f87f-93de-4445-9d05-2bbacf5bb3d6</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Weapons</Name>
+    <Type>Specific Weapon Definitions Folder</Type>
+    <ObjectGUID>001-ef1f7824-1853-46ad-9da7-5a9409f1793b</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Descriptors</Name>
+    <Type>Spell Descriptor Definition Folder</Type>
+    <ObjectGUID>001-ee249f83-47c3-4af9-9a7a-ed9ad0b49283</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Categories</Name>
+    <Type>Spell Category Definitions Folder</Type>
+    <ObjectGUID>001-5e3ee9dd-9e56-4abf-8218-5ec61f87678f</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Languages</Name>
+    <Type>Language Definitions Folder</Type>
+    <ObjectGUID>001-ccdb4bea-28a1-4890-bfc2-1b6b442b85cd</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>System References</Name>
+    <Type>System References Folder</Type>
+    <ObjectGUID>001-834b2b46-7081-40a8-8b6e-3760a92a6ba8</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>System Elements</Name>
+    <Type>System Elements Folder</Type>
+    <ObjectGUID>001-c56cb1d3-29f8-4499-82c6-244c24339766</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monster Types</Name>
+    <Type>Monster Type Folder</Type>
+    <ObjectGUID>001-e686f620-ac19-4949-b888-5b1138a5cec9</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>System Abilities</Name>
+    <Type>System Ability Definitions Folder</Type>
+    <ObjectGUID>001-6608bedd-71b2-4124-9f27-2e4f650bebf6</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scrolls</Name>
+    <Type>Scroll Definitions Folder</Type>
+    <ObjectGUID>001-058a0ab5-55d2-4f07-9a34-018587288488</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Magic Armor Abilities</Name>
+    <Type>Armor Magic Ability Definitions Folder</Type>
+    <ObjectGUID>001-5c4de4db-5d5a-492e-acc4-1f0463ba4e0d</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Deities</Name>
+    <Type>Deity Definitions Folder</Type>
+    <ObjectGUID>001-51d1cfaf-78ea-471a-a849-e580f1abb4b7</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Characters</Name>
+    <Type>Character Folder</Type>
+    <ObjectGUID>001-dcdbb16b-684b-4f23-b7a5-ef82f39b20da</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wondrous Items</Name>
+    <Type>Wondrous Definitions Folder</Type>
+    <ObjectGUID>001-0424143a-07ed-4b13-af9a-f3da8f1af72b</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Spell Schools</Name>
+    <Type>Spell School Folder</Type>
+    <ObjectGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Potions and Oils</Name>
+    <Type>Potion Definitions Folder</Type>
+    <ObjectGUID>001-fd419000-350f-49bb-ac43-3233bce9fa8d</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Staffs</Name>
+    <Type>Staff Definitions Folder</Type>
+    <ObjectGUID>001-7da09999-f20a-454a-8b40-3209273010d8</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Artifacts</Name>
+    <Type>Artifact Definitions Folder</Type>
+    <ObjectGUID>001-55560167-993b-427f-b101-145473e49031</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Items</Name>
+    <Type>Item Definitions Folder</Type>
+    <ObjectGUID>001-915e5f3b-14cc-4dda-a711-8546ef3a5c08</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>System Weapon Abilities</Name>
+    <Type>System Weapon Ability Definitions Folder</Type>
+    <ObjectGUID>001-697a473e-924e-46d0-b2aa-ab81e9824939</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename />
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Domains</Name>
+    <Type>Domain Definitions Folder</Type>
+    <ObjectGUID>001-a96731dd-47b8-4512-9b34-a84ee31df49c</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Wands</Name>
+    <Type>Wand Definitions Folder</Type>
+    <ObjectGUID>001-4d211857-d70d-459d-8c58-93aaf1d2742c</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000004</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Weapons</Name>
+    <Type>Weapon Definitions Folder</Type>
+    <ObjectGUID>001-aeb49f42-2c49-46dc-8306-a6847c959c76</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>001-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter>Exotic Ranged</Filter>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Powers</Name>
+    <Type>Power Definitions Folder</Type>
+    <ObjectGUID>001-93682f91-b766-464f-bc74-ac27816e5d86</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Disciplines</Name>
+    <Type>Psionic Disciplines Folder</Type>
+    <ObjectGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Specializations</Name>
+    <Type>Psionic Specialization Definitions Folder</Type>
+    <ObjectGUID>001-d3df0d31-7973-4773-a80d-3503b4031a33</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Items</Name>
+    <Type>System Folder</Type>
+    <ObjectGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Artifacts</Name>
+    <Type>Psionic Artifact Definitions Folder</Type>
+    <ObjectGUID>001-c5858d18-e693-4bfc-8b1a-08574fdb47f9</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Weapons</Name>
+    <Type>Psionic Weapons Definitions Folder</Type>
+    <ObjectGUID>001-03d31502-b10b-4933-a562-d6811cdb3de1</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Armor</Name>
+    <Type>Psionic Armor Definitions Folder</Type>
+    <ObjectGUID>001-41b049bd-2e66-4d1c-84dd-0e0e8d6cc408</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psicrowns</Name>
+    <Type>Psionic Psicrown Definitions Folder</Type>
+    <ObjectGUID>001-b3081f17-7773-430d-988b-782b4fa7346c</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Dorjes</Name>
+    <Type>Psionic Dorje Definitions Folder</Type>
+    <ObjectGUID>001-79227ee3-0db2-4324-ba40-c4f237dc4554</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Power Stones</Name>
+    <Type>Psionic Power Stone Definitions Folder</Type>
+    <ObjectGUID>001-8ddd9e42-49c9-4591-8c95-4649bbe31527</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Tattoos</Name>
+    <Type>Psionic Tattoo Definitions Folder</Type>
+    <ObjectGUID>001-beadf847-3684-472e-b49d-df64101b9ea3</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Universal Items</Name>
+    <Type>Universal Item Definitions Folder</Type>
+    <ObjectGUID>001-867460ea-04fd-4937-9fe2-0ca345128337</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Weapon Abilities</Name>
+    <Type>Psionic Weapon Ability Definitions Folder</Type>
+    <ObjectGUID>001-0c3ed211-0e88-44f8-ab38-4b58962608f5</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psionic Armor Abilities</Name>
+    <Type>Psionic Armor Ability Definitions Folder</Type>
+    <ObjectGUID>001-b685a3bd-6d86-4c85-8f3a-906b63d28397</ObjectGUID>
+    <ParentGUID>001-0db9eea4-5708-4a29-a42f-dad065f4aae5</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Special Materials</Name>
+    <Type>Special Material Definitions Folder</Type>
+    <ObjectGUID>001-cb61d093-b892-4f36-a060-d10abf25df1a</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monsters</Name>
+    <Type>System Folder</Type>
+    <ObjectGUID>001-312f40fd-7b9d-4b29-b331-d26c1eea2868</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000001</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monsters</Name>
+    <Type>Monster Race Definitions Folder</Type>
+    <ObjectGUID>001-a12d51fa-95cd-40a9-adb8-55b5d07cc3cf</ObjectGUID>
+    <ParentGUID>001-312f40fd-7b9d-4b29-b331-d26c1eea2868</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monster Classes</Name>
+    <Type>Monster Class Folder</Type>
+    <ObjectGUID>001-5b894801-5355-4464-8f16-aea00505b41c</ObjectGUID>
+    <ParentGUID>001-312f40fd-7b9d-4b29-b331-d26c1eea2868</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Natural Weapons</Name>
+    <Type>Natural Weapon Definitions Folder</Type>
+    <ObjectGUID>001-19a7dd30-0978-451f-b7a4-bdaf40cd41a2</ObjectGUID>
+    <ParentGUID>001-312f40fd-7b9d-4b29-b331-d26c1eea2868</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monster Subtypes</Name>
+    <Type>Subtype Definitions Folder</Type>
+    <ObjectGUID>001-6675f055-6be7-4554-80d0-d37fc64b80eb</ObjectGUID>
+    <ParentGUID>001-312f40fd-7b9d-4b29-b331-d26c1eea2868</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Monsters</Name>
+    <Type>Monster Folder</Type>
+    <ObjectGUID>001-4ff86e74-acc2-46ed-9bee-8543f00719e2</ObjectGUID>
+    <ParentGUID>001-00000000-0000-0000-0000-000000000000</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <ImageFilename>Folder.png</ImageFilename>
+    <Filter />
+  </RPGXplorerObject>
+</RPGXplorerDatabase>

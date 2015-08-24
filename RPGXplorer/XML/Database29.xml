@@ -1,0 +1,934 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<RPGXplorerDatabase>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Conjuration.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that bring creatures or material to the caster. A conjuration specialist is called a conjurer.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-7b5cdcf9-22a3-4ddb-9864-137f416793e4</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-f081c392-b14d-452c-94f2-170946288fb2</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-4a1a7e14-af91-4a6b-a3ac-c1908ad33032</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-01d9bbc3-e55b-4d95-b830-fc207e6cf866</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-1a69bec9-c577-4e90-9145-23d869b7067c</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-34dfb947-3cc9-4b65-8b79-505d8a3f0a90</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Calling</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-743ad6b2-962f-4fb8-8691-d2bafdfe5a22</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Creation</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-68fe63b6-d2cc-4804-aa7a-7076139953a1</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Healing</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-eee0e16a-78b3-4fbd-afee-4d538781fd25</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Summoning</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-5476feff-8b63-40ab-8904-cc07989826b8</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleportation</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-16d3e928-0020-47e1-9dd5-bc7aa265bf2c</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Creation OR Calling</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-06050ae7-ed6d-4e46-93b9-3c2062f17f7f</ObjectGUID>
+    <ParentGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-b9f2e510-1d91-45b9-8a52-e3a88870217e</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Evocation.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that manipulate energy or create something from nothing. An evocation specialist is called an evoker.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-8f856aff-6e33-45ad-8d8c-115eab2887ca</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-c4770a86-5b6f-473b-8811-a114ba6fa33f</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-683cdf72-20ba-43e1-ba85-0ef16240fc6e</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-665735b5-0893-4591-ad29-17819fbe527c</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-747ebc34-fa90-4663-8558-b629af54a88e</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-ff6d3fa5-998e-4069-9880-08c6f1d6a27b</ObjectGUID>
+    <ParentGUID>029-ad95d035-be65-4cb8-9a77-f8d43b025006</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Necromancy.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spell that manipulate, create or destroy life or life force. A necromancy specialist is called a necromancer.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-b1931257-29b6-43b2-8508-2021e4eb1769</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-a02711ba-b154-4c33-9ec9-6db39c01c23a</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-47a459ed-4f6f-4749-bcf3-680c0c7e7817</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-111f2c1d-5b81-46ff-87fa-800bc1ca3920</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-34fe23b3-9185-4702-b1cf-d5fa9af38e42</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-855ead7d-de9f-465f-aac4-dd9514b6b22d</ObjectGUID>
+    <ParentGUID>029-3bfe0747-c057-4978-8f33-28204d4919c0</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Illusion.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that alter perception or create false images. An illusion specialist is called an illusionist.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Figment</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-d1cdd936-6687-464b-9f30-d4df3ab9fc7f</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Glamer</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-fa31d542-33fd-4e9c-ade3-fc5e539d8c97</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Pattern</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-ddee6d2c-526c-4d19-bf89-d9347283c207</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Phantasm</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-bb592b55-566f-4b9b-8b59-4cb93e6b2192</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Shadow</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-ebda6c22-6cf8-4d0e-88f3-c04f52c3c8f7</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Figment and Glamer</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-720398c2-5647-4ae3-b0a8-9284fffa66d9</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-75e2c238-f3b1-4395-8750-851237780340</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-b002c638-1520-45ee-9ed9-831c37fb99f3</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-681e144e-f402-4c05-aa43-321674c8032f</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-1a5b45f2-223f-46e7-bfc4-c353a8b8db10</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-dd8a3d3d-9b4b-4b8a-a1fa-41e1addac81d</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-fe291522-ec72-46aa-b401-85a43c495729</ObjectGUID>
+    <ParentGUID>029-5723d913-46eb-4c0b-98ec-7a637133ae68</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Transmutation.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that transform the recipient physically or change its properties in a more subtle way. A transmutation specialist is called a transmuter.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-dc0d9727-1c2f-49ee-adfb-80cc161d1f95</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-fc76fc60-1aac-4726-b1e1-38d5393cddcb</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-569e8189-aa1b-425a-b01e-7a14be6c44fb</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-659ca4ab-ab28-4b13-a7fa-175f47f1f7c6</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-7bc32364-d9c9-469d-8343-955cb53976b1</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-68415056-6073-44cf-af92-bd5ca573a725</ObjectGUID>
+    <ParentGUID>029-42670089-a9cf-4305-8281-61c1dc9f1844</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Enchantment.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that imbue the recipient with some property or grant the caster power over another being. An enchantment specialist is called an enchanter.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-efbbe622-3baa-4525-87b0-40545e241047</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</HTMLGUID>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Compulsion</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-a2df3935-3698-4d71-8f02-f01d8d840625</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Selection contains fixed HTML references.</HTML>
+    <HTMLGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-3d32e4ac-99b5-4238-8cda-c8870c7dadb7</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-60eadb40-6ad5-4ef5-b0c6-19e3b3a136e2</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-8fd4f010-f4f0-44d3-b085-d102a2b0bd12</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-2976c831-19e3-4caf-9cb9-a2f9ae2e57a0</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-77221e6e-3725-4cbf-ac84-80b5984cdf52</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-21ba604f-a100-4ba2-a208-926b108a1ec0</ObjectGUID>
+    <ParentGUID>029-a107b99a-c995-4da0-bff5-b07b01678c64</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Divination</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Divination.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that reveal information. A divination specialist is called a diviner.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>1</ProhibitedSchools>
+    <CanBeSacrificed>No</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-f8047ec9-c2e0-4fe8-abe9-03c5ca3ca36e</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-7a7bd925-d9da-4ce0-8478-06f54c8ff808" reference="Name">Abjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-3b9e4579-8115-4f28-96bb-d758a5f49897</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-271c0708-ac7b-4265-8f2f-41a55d582aa0</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-d4c5a8b6-c3e3-4703-bab0-b49e90a47fa5</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-90ceafd2-eb8c-4b5c-8273-a77cc91ad883</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-3cea04a5-2af2-4744-8caa-e3f688f50302</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-8959087c-d097-4ce9-b654-67d9a2f2f8a4</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scrying</Name>
+    <Type>Spell Subschool</Type>
+    <ObjectGUID>029-42533edf-2c10-4d83-aefc-2615afa5ac8e</ObjectGUID>
+    <ParentGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>029-3c35d5c9-2861-4acc-a818-cb4d1de36b9a</HTMLGUID>
+    <ImageFilename />
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Universal</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-35cda231-e579-404b-be5f-bae76e14334b</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Universal.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Not a school but a category of spells that all wizards can learn. A wizard cannot select universal as a specialty school or a prohibited school.</Description>
+    <CanBeSpecialist>No</CanBeSpecialist>
+    <ProhibitedSchools>0</ProhibitedSchools>
+    <CanBeSacrificed>No</CanBeSacrificed>
+    <ImageFilename>Spell.png</ImageFilename>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Clairsentience</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-af54d99d-43b1-4035-b08e-90656c92d0d4</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Clairsentience.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Clairsentience powers enable you to learn secrets long forgotten, to glimpse the immediate future and predict the far future, to find hidden objects, and to know what is normally unknowable.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Metacreativity</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-9f1129e6-94d2-48ff-99f9-593a6f99a458</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Metacreativity.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Metacreativity powers create objects, creatures, or some form of matter. Creatures you create usually, but not always, obey your commands.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychokinesis</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-0b7aadeb-b4b2-417c-8a79-21d11a5bdb48</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Psychokinesis.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Psychokinesis powers manipulate energy or tap the power of the mind to produce a desired end.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychometabolism</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-a1b65aa0-08bb-4682-b811-88c34b444330</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Psychometabolism.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Psychometabolism powers change the physical properties of some creature, thing, or condition.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Psychoportation</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-d7427554-6e62-4e0d-a8ab-1518fbb1fec5</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Psychoportation.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Psychoportation powers move the manifester, an object, or another creature through space and time.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Telepathy</Name>
+    <Type>Psionic Discipline</Type>
+    <ObjectGUID>029-1e8a9aee-00c7-46e5-807b-74a8d462bb9c</ObjectGUID>
+    <ParentGUID>001-6d8daf2b-9888-4ffa-8d79-5b4adaa998d3</ParentGUID>
+    <HTML>Psionic Disciplines\Telepathy.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Telepathy powers can spy on and affect the minds of others, influencing or controlling their behavior.</Description>
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Scrying</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-c9343ac9-abab-4612-abca-3307d4705f43</ObjectGUID>
+    <ParentGUID>029-af54d99d-43b1-4035-b08e-90656c92d0d4</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-af54d99d-43b1-4035-b08e-90656c92d0d4</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Creation</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-28180ff4-c5b6-4d69-838d-0cbf4683207b</ObjectGUID>
+    <ParentGUID>029-9f1129e6-94d2-48ff-99f9-593a6f99a458</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-9f1129e6-94d2-48ff-99f9-593a6f99a458</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Healing</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-3d0beb9f-5481-470d-99ba-ff518a49a36b</ObjectGUID>
+    <ParentGUID>029-a1b65aa0-08bb-4682-b811-88c34b444330</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-a1b65aa0-08bb-4682-b811-88c34b444330</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Teleportation</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-468aed34-e950-4e14-9bac-6f8ed3a394dd</ObjectGUID>
+    <ParentGUID>029-d7427554-6e62-4e0d-a8ab-1518fbb1fec5</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-d7427554-6e62-4e0d-a8ab-1518fbb1fec5</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Charm</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-886101ea-a1d8-402c-9f81-5e8f030b15a9</ObjectGUID>
+    <ParentGUID>029-1e8a9aee-00c7-46e5-807b-74a8d462bb9c</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-1e8a9aee-00c7-46e5-807b-74a8d462bb9c</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Compulsion</Name>
+    <Type>Psionic Subdiscipline</Type>
+    <ObjectGUID>029-884b723a-1c3a-4578-91d0-cbb9e3e84a31</ObjectGUID>
+    <ParentGUID>029-1e8a9aee-00c7-46e5-807b-74a8d462bb9c</ParentGUID>
+    <HTML />
+    <HTMLGUID>029-1e8a9aee-00c7-46e5-807b-74a8d462bb9c</HTMLGUID>
+    <License />
+    <Sourcebook />
+    <Tags />
+    <PageNoRef />
+    <ImageFilename>Power.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Abjuration</Name>
+    <Type>Spell School</Type>
+    <ObjectGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ObjectGUID>
+    <ParentGUID>001-76a303f8-3b95-4293-8232-ca59388b0ca5</ParentGUID>
+    <HTML>Spell Schools\Abjuration.htm</HTML>
+    <HTMLGUID>029-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <Description>Spells that protect, block or banish. An abjuration specialist is called an abjurer.</Description>
+    <CanBeSpecialist>Yes</CanBeSpecialist>
+    <ProhibitedSchools>2</ProhibitedSchools>
+    <CanBeSacrificed>Yes</CanBeSacrificed>
+    <Filter />
+    <License>OGL</License>
+    <Sourcebook>System Reference Document 3.5</Sourcebook>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Conjuration</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-b45980a9-4f0f-4973-a5d7-b4b7129c02a3</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-b9f2e510-1d91-45b9-8a52-e3a88870217e" reference="Name">Conjuration</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Evocation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-cdbddb83-5f4f-4891-94b8-976a947dc89c</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-ad95d035-be65-4cb8-9a77-f8d43b025006" reference="Name">Evocation</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Illusion</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-0e94bffd-56ec-45c5-8cd1-530493708675</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-5723d913-46eb-4c0b-98ec-7a637133ae68" reference="Name">Illusion</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Necromancy</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-b051a7e2-e575-41ce-a9be-b783e1862136</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-3bfe0747-c057-4978-8f33-28204d4919c0" reference="Name">Necromancy</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Transmutation</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-980f2a3c-dc4e-4714-b269-0b106bec0c2b</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-42670089-a9cf-4305-8281-61c1dc9f1844" reference="Name">Transmutation</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+  <RPGXplorerObject>
+    <Name>Enchantment</Name>
+    <Type>Spell School Sacrificed</Type>
+    <ObjectGUID>029-d18b6461-c818-42c7-92f0-6060ad96b3f8</ObjectGUID>
+    <ParentGUID>029-7a7bd925-d9da-4ce0-8478-06f54c8ff808</ParentGUID>
+    <HTML>Index.htm</HTML>
+    <HTMLGUID>000-00000000-0000-0000-0000-000000000000</HTMLGUID>
+    <School FK="029-a107b99a-c995-4da0-bff5-b07b01678c64" reference="Name">Enchantment</School>
+    <ImageFilename>Spell.png</ImageFilename>
+  </RPGXplorerObject>
+</RPGXplorerDatabase>
